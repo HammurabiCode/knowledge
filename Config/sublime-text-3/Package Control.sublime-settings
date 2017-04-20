@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"IMESupport",
+		"Markdown Preview",
 		"Package Control",
 		"WakaTime"
 	]
