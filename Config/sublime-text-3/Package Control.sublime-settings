@@ -6,7 +6,10 @@
 	"installed_packages":
 	[
 		"IMESupport",
+		"LaTeXTools",
 		"Markdown Preview",
+		"MarkdownEditing",
+		"OmniMarkupPreviewer",
 		"Package Control",
 		"WakaTime"
 	]

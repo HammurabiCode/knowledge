@@ -1,0 +1,31 @@
+Wed, 10 May 2017 13:48:23 DoubanBook.py[line:150] INFO Count of total proxy: 180
+ection (1): www.kuaidaili.comWed, 10 May 2017 13:47:52 connectionpool.py[line:395] DEBUG http://www.proxy360.cn:80 "GET /Proxy HTTP/1.1" 200 92512
+200 3530
+Wed, 10 May 2017 13:47:53 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/1/
+Wed, 10 May 2017 13:47:53 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:47:53 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/2/ HTTP/1.1" 200 3646
+Wed, 10 May 2017 13:47:56 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/2/
+Wed, 10 May 2017 13:47:56 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:47:57 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/3/ HTTP/1.1" 200 3690
+Wed, 10 May 2017 13:48:00 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/3/
+Wed, 10 May 2017 13:48:00 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:48:00 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/4/ HTTP/1.1" 200 3716
+Wed, 10 May 2017 13:48:03 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/4/
+Wed, 10 May 2017 13:48:03 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:48:03 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/5/ HTTP/1.1" 200 3689
+Wed, 10 May 2017 13:48:06 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/5/
+Wed, 10 May 2017 13:48:06 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:48:06 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/6/ HTTP/1.1" 200 3697
+Wed, 10 May 2017 13:48:09 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/6/
+Wed, 10 May 2017 13:48:09 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:48:09 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/7/ HTTP/1.1" 200 3578
+Wed, 10 May 2017 13:48:12 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/7/
+Wed, 10 May 2017 13:48:12 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:48:12 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/8/ HTTP/1.1" 200 3655
+Wed, 10 May 2017 13:48:15 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/8/
+Wed, 10 May 2017 13:48:15 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:48:16 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/9/ HTTP/1.1" 200 3613
+Wed, 10 May 2017 13:48:20 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/9/
+Wed, 10 May 2017 13:48:20 connectionpool.py[line:207] DEBUG Starting new HTTP connection (1): www.kuaidaili.com
+Wed, 10 May 2017 13:48:20 connectionpool.py[line:395] DEBUG http://www.kuaidaili.com:80 "GET /free/inha/10/ HTTP/1.1" 200 3645
+Wed, 10 May 2017 13:48:23 DoubanBook.py[line:128] INFO 15 proxies on page http://www.kuaidaili.com/free/inha/10/

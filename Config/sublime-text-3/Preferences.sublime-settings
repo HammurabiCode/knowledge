@@ -1,6 +1,9 @@
 {
-	"font_size": 10,
+	"expand_tabs_on_save": true,
+	"font_size": 12,
 	"ignored_packages":
 	[
-	]
+	],
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true
 }
