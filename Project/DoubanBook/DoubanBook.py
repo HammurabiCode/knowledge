@@ -8,6 +8,10 @@ import multiprocessing
 import logging
 import time
 
+import sys
+sys.path.append('../')
+
+
 handler = logging.FileHandler('proxy.log')
 handler.setLevel(logging.INFO)
 handler.setFormatter(logging.Formatter('%(asctime)s %(filename)s[line:%(lineno)d] %(levelname)s %(message)s'))
@@ -84,69 +88,6 @@ def get_valid_proxy(proxy_list):
 			yield r['proxy']
 
 
-def get_360_proxy():
-	proxy_list = []
-	url = '''http://www.proxy360.cn/Proxy'''
-	for div in get_page(url).find_all('div', 'proxylistitem'):
-		span_list = div.find_all('span', 'tbBottomLine')
-		if len(span_list) > 2:
-				proxy = {
-					'addr': 'http://%s:%s' % (span_list[0].string.strip(' \r\n'), span_list[1].string.strip(' \r\n'))
-					, 'src': 'proxy360'
-				}
-				proxy_list.append(proxy)
-	return proxy_list
-
-
-def get_xici_proxy():
-	# 西刺 高匿
-	proxy_list = []
-	for iPage in range(1, 11):
-		proxy_on_page = []
-		url = '''http://www.xicidaili.com/nn/%d''' % iPage
-		tr_list = []
-		try:
-			tr_list = get_page(url).find_all('tr') 
-			time.sleep(3)
-		except Exception as e:
-			logger.error(e)
-
-		for tr in tr_list:
-			td_list = tr.find_all('td')
-			if len(td_list) > 2:
-				proxy = {
-					'addr': 'http://%s:%s' % (td_list[1].string, td_list[2].string)
-					, 'src': '西刺'
-				}
-				proxy_on_page.append(proxy)
-		logger.info('%d proxies on page %s' % (len(proxy_on_page), url))
-		proxy_list.extend(proxy_on_page)
-	return proxy_list
-
-
-def get_kuai_proxy():
-	proxy_list = []
-	for iPage in range(1, 11):
-		proxy_on_page = []
-		url = '''http://www.kuaidaili.com/free/inha/%d/''' % iPage
-		tr_list = []
-		try:
-			tr_list = get_page(url).find_all('tr') 
-			time.sleep(3)
-		except Exception as e:
-			logger.error(e)
-
-		for tr in tr_list:
-			td_list = tr.find_all('td')
-			if len(td_list) > 1:
-				proxy = {
-					'addr': 'http://%s:%s' % (td_list[0].string, td_list[1].string)
-					, 'src': '快代理'
-				}
-				proxy_on_page.append(proxy)
-		logger.info('%d proxies on page %s' % (len(proxy_on_page), url))
-		proxy_list.extend(proxy_on_page)
-	return proxy_list
 
 def save_to_excel(filename, proxy_list):
 	book = xlwt.Workbook()
@@ -232,10 +173,21 @@ def getTags(no):
 			print(b.string)
 
 
+
+def get_proxy():
+    return requests.get("http://127.0.0.1:5000/get/").content
+
+def delete_proxy(proxy):
+    requests.get("http://127.0.0.1:5000/delete/?proxy={}".format(proxy))
+
 if __name__ == '__main__':
-	proxy_list = get_proxy_from_file(ip_filename)
-	valid_proxy_list = get_valid_proxy(proxy_list)
-	save_to_excel('valid_proxy1.xls', valid_proxy_list)
-	logger.info('Count of valid proxy: %d' % len(valid_proxy_list))
-	# init_proxy()
-	# print(http_proxies)
+	p = str(get_proxy(), 'utf-8')
+	print(p)
+	cnt = 0
+	while not valid_proxy({'addr': p}):
+		delete_proxy(p)
+		print(p)
+		p = str(get_proxy(), 'utf-8')
+	else:
+		print('suc:%s' %(p,))
+

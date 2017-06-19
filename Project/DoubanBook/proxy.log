@@ -3693,3 +3693,10 @@
 2017-05-13 10:47:50,700 DoubanBook.py[line:64] INFO check proxy(http://203.171.230.230:80): Timeout
 2017-05-13 10:47:56,976 DoubanBook.py[line:64] INFO check proxy(http://221.226.3.141:3128): Timeout
 2017-05-13 10:47:57,825 DoubanBook.py[line:64] INFO check proxy(http://210.74.130.34:8080): Timeout
+2017-06-16 16:00:06,943 DoubanBook.py[line:68] INFO check proxy(58.253.155.9:808): Timeout
+2017-06-16 16:03:50,234 DoubanBook.py[line:68] INFO check proxy(115.213.202.115:808): Timeout
+2017-06-16 16:07:27,577 DoubanBook.py[line:73] INFO check proxy(113.105.146.77:8086): valid
+2017-06-16 16:07:46,092 DoubanBook.py[line:65] INFO check proxy(14.29.92.8:80): ProxyError
+2017-06-16 16:09:44,030 DoubanBook.py[line:65] INFO check proxy(61.136.163.247:3128): ProxyError
+2017-06-16 16:09:57,303 DoubanBook.py[line:68] INFO check proxy(121.232.145.83:9000): Timeout
+2017-06-16 16:11:01,901 DoubanBook.py[line:73] INFO check proxy(218.77.83.89:3128): valid

@@ -13,11 +13,12 @@ class Person(object):
 
 class Book(object):
 	"""docstring for Book"""
-	def __init__(self, name):
+	def __init__(self, title):
 		super(Book, self).__init__()
-		self.name = name
+		self.id = 0 # 豆瓣上的编号
+		self.title = title # 标题
 		self.ISBN = 0
-		self.sub_title = ''
+		self.sub_title = '' # 副标题
 		self.author = []
 		self.translator = []
 		self.publisher = ''
@@ -25,4 +26,7 @@ class Book(object):
 		self.page_count = 0
 		self.price = 0.0
 		self.collection = 0.0
+		self.tags = []
+		self.score = 0.0
+		self.score_cnt = 0
 		
