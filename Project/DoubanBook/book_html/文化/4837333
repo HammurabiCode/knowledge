@@ -1,0 +1,3248 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>写给大家看的设计书 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/4837333/">
+<meta name="keywords" content="写给大家看的设计书,Robin Williams,John Tollett,人民邮电出版社,2010-5,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书写给大家看的设计书 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/4837333/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">写给大家看的设计书</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s6164561.jpg" title="写给大家看的设计书">
+    <img src="https://img3.doubanio.com/lpic/s6164561.jpg" title="点击看大图" alt="写给大家看的设计书"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/Robin%20Williams">Robin Williams</a>
+        
+           /
+        
+        <a class="" href="/search/John%20Tollett">John Tollett</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 人民邮电出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 实例与创意<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> Robin Williams Design Workshop<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E6%9D%A8%E5%BA%86%E5%BA%B7">杨庆康</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2010-5<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 264<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 59.00元<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787115222923<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.2 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">495</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:53px"></div>
+
+            <span class="rating_per">36.0%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">42.8%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:26px"></div>
+
+            <span class="rating_per">18.0%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:3px"></div>
+
+            <span class="rating_per">2.6%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.6%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-4837333-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-4837333-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-4837333-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4837333-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4837333-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4837333-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4837333-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4837333-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-4837333">
+        <a href="#" data-url="https://book.douban.com/subject/4837333/" data-desc="" data-title="书籍《写给大家看的设计书》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s6164561.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_4837333"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>《写给大家看的设计书:实例与创意》是两位世界级设计师的合作经典。他们用简练有趣的语言让复杂的设计问题变得通透易懂。从标志到名片，再从广告牌到宣传册，这里汇集了你经常遇到的设计项目，以及6位明星大师的精彩设计实例。不仅能够使你在设计中有章可循，还会激发你的设计创意。</p>    <p>《写给大家看的设计书:实例与创意》实例丰富，简明易读，适合设计专业学生以及从事设计相关行业的读者阅读。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/4837333/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_4837333_short">
+        灵感闪光<br/>
+        1. 你已经知道多少了？　3<br/>
+        2. 用好剪贴画　15<br/>
+        3. 使用照片　27<br/>
+        4. 理解设计的挑战和方法　45<br/>
+        5. 创造视觉冲击　65<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_4837333_short').hide();$('#dir_4837333_full').show();$.get('/j/subject/j_dir_count',{id:4837333});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_4837333_full" style="display:none">
+        灵感闪光<br/>
+        1. 你已经知道多少了？　3<br/>
+        2. 用好剪贴画　15<br/>
+        3. 使用照片　27<br/>
+        4. 理解设计的挑战和方法　45<br/>
+        5. 创造视觉冲击　65<br/>
+        项目<br/>
+        6. 标志　87<br/>
+        7. 名片、信头和信封　103<br/>
+        8. 发票和表格　121<br/>
+        9. 广告　133<br/>
+        10. 广告牌　151<br/>
+        11. 网站　161<br/>
+        12. 目录和索引　179<br/>
+        13. 简报和宣传册　195<br/>
+        14. 宣传页　219<br/>
+        设计师和设计过程<br/>
+        约翰·托列特，平面设计师　234<br/>
+        哈拉斯·洛德，书籍设计师　240<br/>
+        布赖恩·福斯泰特，网页设计&amp;开发　248<br/>
+        卡门·谢尔登，平面设计教师　253<br/>
+        约翰·伯恩斯，字体艺术家　259<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_4837333_full').hide();$('#dir_4837333_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共229个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/设计">设计</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/创意">创意</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/艺术">艺术</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/交互设计">交互设计</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/平面设计">平面设计</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/Design">Design</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/创意设计">创意设计</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/UI">UI</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;写给大家看的设计书&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/402418/?dcs=subject-rec&amp;dcm=douban&amp;dct=4837333" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/402418.jpg?v=1435832566.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/402418/" target="_blank">写给大家看的设计书（第3版）</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/387935/?dcs=subject-rec&amp;dcm=douban&amp;dct=4837333" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/387935.jpg?v=1395395846.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/387935/" target="_blank">瞬间之美</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/610370/?dcs=subject-rec&amp;dcm=douban&amp;dct=4837333" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/610370.jpg?v=1395395635.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/610370/" target="_blank">亲爱的界面</a>
+          </div>
+          <div class="price">
+              25.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/11047335/?dcs=subject-rec&amp;dcm=douban&amp;dct=4837333" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/11047335.jpg?v=1436413905.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/11047335/" target="_blank">超越平凡的平面设计</a>
+          </div>
+          <div class="price">
+              29.40元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/198648/?dcs=subject-rec&amp;dcm=douban&amp;dct=4837333" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/198648.jpg?v=1395393782.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/198648/" target="_blank">CoffeeScript小书</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;写给大家看的设计书&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2841860/" onclick="moreurl(this, {'total': 10, 'clicked': '2841860', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4212374.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2841860/" onclick="moreurl(this, {'total': 10, 'clicked': '2841860', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            What Type Am I?
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10811940/" onclick="moreurl(this, {'total': 10, 'clicked': '10811940', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s11335648.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10811940/" onclick="moreurl(this, {'total': 10, 'clicked': '10811940', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            写给大家看的设计书
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5394309/" onclick="moreurl(this, {'total': 10, 'clicked': '5394309', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4592217.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5394309/" onclick="moreurl(this, {'total': 10, 'clicked': '5394309', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            简约至上
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2555801/" onclick="moreurl(this, {'total': 10, 'clicked': '2555801', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s6952637.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2555801/" onclick="moreurl(this, {'total': 10, 'clicked': '2555801', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            Book of Tea
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2044391/" onclick="moreurl(this, {'total': 10, 'clicked': '2044391', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s2362147.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2044391/" onclick="moreurl(this, {'total': 10, 'clicked': '2044391', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            Lucid Dreaming
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4293004/" onclick="moreurl(this, {'total': 10, 'clicked': '4293004', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6130115.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4293004/" onclick="moreurl(this, {'total': 10, 'clicked': '4293004', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            超越平凡的平面设计
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1827702/" onclick="moreurl(this, {'total': 10, 'clicked': '1827702', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1723386.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1827702/" onclick="moreurl(this, {'total': 10, 'clicked': '1827702', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            点石成金
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6000869/" onclick="moreurl(this, {'total': 10, 'clicked': '6000869', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s10488931.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6000869/" onclick="moreurl(this, {'total': 10, 'clicked': '6000869', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            Idea+Ology
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2238320/" onclick="moreurl(this, {'total': 10, 'clicked': '2238320', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2703492.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2238320/" onclick="moreurl(this, {'total': 10, 'clicked': '2238320', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            版式设计原理
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1288844/" onclick="moreurl(this, {'total': 10, 'clicked': '1288844', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1915036.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1288844/" onclick="moreurl(this, {'total': 10, 'clicked': '1288844', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            设计心理学
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/4837333/comments/">全部 161 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="474116195">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-474116195" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-474116195" class="j a_show_login" data-cid="474116195">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/qinaqian/">二十九斋</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2011-12-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">每个人都应该懂点设计。看完这本发觉，以前收到的传单都弱爆了噢！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="526965184">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-526965184" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-526965184" class="j a_show_login" data-cid="526965184">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/vankov/">Hu</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2012-05-02</span>
+                </span>
+            </h3>
+            <p class="comment-content">一本实用的设计入门读本 但最终重要的不是这本书而是读这本书的人</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="688463756">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-688463756" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-688463756" class="j a_show_login" data-cid="688463756">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/NA7NA/">烤雞</a>
+                        <span class="user-stars allstar20 rating" title="较差"></span>
+                    <span>2013-06-03</span>
+                </span>
+            </h3>
+            <p class="comment-content">實例也未免太難看了伐。。。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="993448284">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-993448284" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-993448284" class="j a_show_login" data-cid="993448284">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/55951555/">史太</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-12-30</span>
+                </span>
+            </h3>
+            <p class="comment-content">密集型作品依旧可以清晰有序，关于创意，一个相当重要的部分容易忽略，那就是所收到的局限。简单未必精彩，因为“没有一个声音可以表达所有想法；空想依然是必要的，装饰是必要的；简单不比复杂好。”视觉隐喻，视觉双关。建立了许多规则，并且给予了一条信念：“多留意四周”，而规则实在是某种功能或中介性的：“许多设计师在遵守规则与打破规则上同样无能，而好的设计师两者都能兼顾。”关键是呈现了很多具有范例性质的案例。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="868118300">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-868118300" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-868118300" class="j a_show_login" data-cid="868118300">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/cissy/">cc</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2014-12-02</span>
+                </span>
+            </h3>
+            <p class="comment-content">很基础，适合业余选手，也适合专业选手重温基础。不过基础的话还是第一本比较耐读。这本的例子说实话，有点不忍看。设计是多动手就有感觉的技能，门槛很低，甚至低于炒股票。再往高处走就是艺术了。可哪门学问不是呢？</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1197334188">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1197334188" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1197334188" class="j a_show_login" data-cid="1197334188">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/150905945/">[已注销]</a>
+                        <span class="user-stars allstar20 rating" title="较差"></span>
+                    <span>2017-06-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">对作者有偏见，觉得作者非常蠢</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1172240772">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1172240772" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1172240772" class="j a_show_login" data-cid="1172240772">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/luoxiaomumu/">落小木</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-04-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">最棒的启蒙类设计书，没有之一。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1165707588">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1165707588" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1165707588" class="j a_show_login" data-cid="1165707588">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/141471006/">五角</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-03-17</span>
+                </span>
+            </h3>
+            <p class="comment-content">对设计一无所知，看看发现很不错，起码以后做PPT，微信不会那么丑了。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1150203314">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1150203314" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1150203314" class="j a_show_login" data-cid="1150203314">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/jxy9488/">懿夕</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-02-10</span>
+                </span>
+            </h3>
+            <p class="comment-content">可能……大家可以去搜索下作者……真厉害啊……</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1149534509">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1149534509" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1149534509" class="j a_show_login" data-cid="1149534509">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/91227017/">昵</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-02-09</span>
+                </span>
+            </h3>
+            <p class="comment-content">扎实的干货。
+把复杂的问题用简单有趣的语言和强烈的对比图片慢慢阐述，由浅入深，不管对于非专业还是专业设计都很有帮助</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/4837333/comments/">更多短评 161 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/4837333/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            写给大家看的设计书的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 8 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5225711">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5225711/" class="title-link">书中的介绍的素材网站搜集</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5225711"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/eko2echo/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2833964-15.jpg"></a>
+    <a href="https://www.douban.com/people/eko2echo/" class="author">
+      <span property="v:reviewer">童格</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2011-12-22"
+      class="main-meta">2011-12-22 21:28:25</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5225711_short" class="review-short">
+            <div class="short-content">
+                  剪贴画来源 1.剪贴画字体： Art Tree（涂鸦小动物） Bill‘s Modern Dinner（餐馆相关） Birds 边框字体： Type Embellishments 1/2 Olde World Aridi  2.购买 Veer.com ArtBitz.com Aridi.com AutoFX.com  网页设计门户 CoolstDesigns.com CWD.dk E-Creative.net LickdUp.com ...
+
+                    <a class="pl" href="https://book.douban.com/review/5225711/#comments">(2回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">12有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5225711_full" class="hidden">
+            <div id="review_5225711_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="4045275">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/4045275/" class="title-link">Robin的新作</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-4045275"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/3876504/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u3876504-8.jpg"></a>
+    <a href="https://www.douban.com/people/3876504/" class="author">
+      <span property="v:reviewer">cloudye</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2010-10-19"
+      class="main-meta">2010-10-19 13:41:51</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_4045275_short" class="review-short">
+            <div class="short-content">
+                  熟悉设计和Mac图书的人应该对Robin很熟悉， 她能让人很快就理解复杂的设计原理， 语言平实，案例有趣。 看完这本书后，可能对你的工作有很大的帮助， 即使你不是设计师，你也能对设计有一定的鉴别能力。   http://book.douban.com/subject/3323633/ 这是对其第一本书的讨论。
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_4045275_full" class="hidden">
+            <div id="review_4045275_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3289770">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3289770/" class="title-link">不管你是否从事设计行业，它都会告诉你怎么去玩</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3289770"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/snswap/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u4710898-6.jpg"></a>
+    <a href="https://www.douban.com/people/snswap/" class="author">
+      <span property="v:reviewer">几米阳光</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2010-05-23"
+      class="main-meta">2010-05-23 12:58:33</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3289770_short" class="review-short">
+            <div class="short-content">
+                  这本书涉及面很多，从平面设计、书籍设计、网页设计、字体设计都有经验大师的讲解说明，它中间许多对比的实例有让你眼前一亮的感觉。 深入地诠释了设计与视觉的理论知识，而且提出了针对各类项目的设计策略，告诉你怎么将设计玩下去。 但深入读下去后，发现中间有些实例可能是...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">3有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3289770_full" class="hidden">
+            <div id="review_3289770_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5346356">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5346356/" class="title-link">设计很简单……</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5346356"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/4339575/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u4339575-4.jpg"></a>
+    <a href="https://www.douban.com/people/4339575/" class="author">
+      <span property="v:reviewer">su9ar</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2012-03-15"
+      class="main-meta">2012-03-15 16:33:41</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5346356_short" class="review-short">
+            <div class="short-content">
+                    要注重字体和边框！！图的边缘要和背景有良好的融合，例如模糊，例如边框，例如阴影，背景用渐变也能给人融合的感觉！！要不就完全不透明做出对比！！而字体要精美，背后可以添加暗色以强调，重点词汇最好可以使用不同的颜色，也可以运用下划线突出。字体也可以把其中的字母...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5346356_full" class="hidden">
+            <div id="review_5346356_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7034530">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7034530/" class="title-link">写给大家看的设计书</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7034530"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/chairmannirvana/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u46878056-2.jpg"></a>
+    <a href="https://www.douban.com/people/chairmannirvana/" class="author">
+      <span property="v:reviewer">涅瓦纳</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2014-09-12"
+      class="main-meta">2014-09-12 11:08:03</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7034530_short" class="review-short">
+            <div class="short-content">
+                  《写给大家看的设计书:实例与创意》是两位世界级设计师的合作经典。他们用简练有趣的语言让复杂的设计问题变得通透易懂。从标志到名片，再从广告牌到宣传册，这里汇集了你经常遇到的设计项目，以及6位明星大师的精彩设计实例。不仅能够使你在设计中有章可循，还会激发你的设计...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7034530_full" class="hidden">
+            <div id="review_7034530_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评8篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/4837333/annotation">共<span property="v:count">14</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="17828491">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/3157802/"><img src="https://img3.doubanio.com/icon/u3157802-20.jpg" alt="hisheng" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/17828491/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/17828491/" class="">第41页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/3157802/" class=" " title="hisheng">hisheng</a>
+                (Concentrate  Your  Forces)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="17828491">
+              <div class="short">
+                
+                  <span class="">规则都是用来打破的，但在打破之前必须弄清楚规则是什么
+
+
+--------------------
+
+
+神句。
+
+
+可以引申到，任何事情，敌人是用来击败的，但在击败之前，必须弄清楚敌人(知己知彼)。</span>
+                <p class="pl">
+                  <span class="">2012-04-16 13:38</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                规则都是用来打破的，但在打破之前必须弄清楚规则是什么<div style="padding-bottom:1em;"></div>--------------------<div style="padding-bottom:1em;"></div>神句。<div style="padding-bottom:1em;"></div>可以引申到，任何事情，敌人是用来击败的，但在击败之前，必须弄清楚敌人(知己知彼)。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/17828491/#comments">回应</a>&nbsp;&nbsp;
+                  2012-04-16 13:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30840888">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/fei13/"><img src="https://img3.doubanio.com/icon/u4442858-10.jpg" alt="霏" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30840888/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30840888/" class="">目录的排版设计</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/fei13/" class=" " title="霏">霏</a>
+                (一只努力变胖的瘦子)
+              
+            </p>
+            <div class="reading-note" data-cid="30840888">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/30840888/"><img src="https://img3.doubanio.com/view/page_note/small/public/p30840888-1.jpg"></a>
+                  </div>
+                  <span class=""> </span>
+                <p class="pl">
+                  <span class="">2014-03-11 21:54</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30840888-1.jpg" alt=""><br><span class="pic-title"></span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30840888/#comments">回应</a>&nbsp;&nbsp;
+                  2014-03-11 21:54
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="35216502">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/77450989/"><img src="https://img3.doubanio.com/icon/u77450989-12.jpg" alt="nanicats" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/35216502/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/35216502/" class="">第999页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/77450989/" class=" " title="nanicats">nanicats</a>
+                (人蠢多读书，努力加餐饭)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="35216502">
+              <div class="short">
+                
+                  <span class="">亲密性、对齐、重复和对比
+
+亲密性——组织性
+
+在打破规则之前必须清楚规则是什么
+
+Robin对比原则指出：“如果两个项不完全相同，就应当使之不同，而且应当是截然不同。”
+
+三原色（primary color）黄红蓝
+三间色（secondary color）
+第三色（tertiary/third color）
+分裂互补三色组（split complement）
+
+冷色总是趋于后退，而暖色是趋进型的。
+
+CMYK——Cyan（蓝）、Magenta（红）、Yellow、Key（黑）
+
+字体对..</span>
+                <p class="pl">
+                  <span class="">2015-05-26 15:43</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                亲密性、对齐、重复和对比<div style="padding-bottom:1em;"></div>亲密性——组织性<div style="padding-bottom:1em;"></div>在打破规则之前必须清楚规则是什么<div style="padding-bottom:1em;"></div>Robin对比原则指出：“如果两个项不完全相同，就应当使之不同，而且应当是截然不同。”<div style="padding-bottom:1em;"></div>三原色（primary color）黄红蓝<div style="padding-bottom:1em;"></div>三间色（secondary color）<div style="padding-bottom:1em;"></div>第三色（tertiary/third color）<div style="padding-bottom:1em;"></div>分裂互补三色组（split complement）<div style="padding-bottom:1em;"></div>冷色总是趋于后退，而暖色是趋进型的。<div style="padding-bottom:1em;"></div>CMYK——Cyan（蓝）、Magenta（红）、Yellow、Key（黑）<div style="padding-bottom:1em;"></div>字体对比：大小、粗细、结构、形状、方向和颜色。<div style="padding-bottom:1em;"></div>向右向上倾斜的字体产生一种前进的力量。向下倾斜的字体会产生一种反向的力量。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/35216502/#comments">回应</a>&nbsp;&nbsp;
+                  2015-05-26 15:43
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33479916">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ainizz/"><img src="https://img3.doubanio.com/icon/u2155267-2.jpg" alt="S" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33479916/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33479916/" class="">第110页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ainizz/" class=" " title="S">S</a>
+                (啊咧？)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="33479916">
+              <div class="short">
+                
+                  <span class="">名片、信封、信纸设计：
+
+不要害怕使用小字体或者图形元素
+
+不要害怕使用大字体或者图形元素
+
+不要害怕将元素摆在“不合常理”的地方
+
+不要害怕在书写空间中添加图像
+
+</span>
+                <p class="pl">
+                  <span class="">2014-11-21 12:09</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                名片、信封、信纸设计：<div style="padding-bottom:1em;"></div>不要害怕使用小字体或者图形元素<div style="padding-bottom:1em;"></div>不要害怕使用大字体或者图形元素<div style="padding-bottom:1em;"></div>不要害怕将元素摆在“不合常理”的地方<div style="padding-bottom:1em;"></div>不要害怕在书写空间中添加图像<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33479916/#comments">回应</a>&nbsp;&nbsp;
+                  2014-11-21 12:09
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="33355884">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xvid73/"><img src="https://img3.doubanio.com/icon/u69437734-3.jpg" alt="xvid73" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33355884/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33355884/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xvid73/" class=" " title="xvid73">xvid73</a>
+              
+            </p>
+            <div class="reading-note" data-cid="33355884">
+              <div class="short">
+                
+                  <span class="">4大基本原则
+    * 对比（contrast）
+    * 重复（repetition）
+    * 对齐（alignment）
+    * 亲密性（proximity）
+
+如果多个项之间存在很近的亲密性，它们将成为一个视觉单元。要有意识地注意你是怎样阅读的，你的视线怎样移动：从哪里开始，沿着怎样的路径，到那里结束，读完之后接下来要看哪里，整个过程应当是一个合理的过程，有确定的开始，而且要有确定的结束。
+
+亲密性的根本目的是实现组织性，将相关的元素分在..</span>
+                <p class="pl">
+                  <span class="">2014-11-07 16:38</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                4大基本原则<div style="padding-bottom:1em;"></div>    * 对比（contrast）<div style="padding-bottom:1em;"></div>    * 重复（repetition）<div style="padding-bottom:1em;"></div>    * 对齐（alignment）<div style="padding-bottom:1em;"></div>    * 亲密性（proximity）<div style="padding-bottom:1em;"></div>如果多个项之间存在很近的亲密性，它们将成为一个视觉单元。要有意识地注意你是怎样阅读的，你的视线怎样移动：从哪里开始，沿着怎样的路径，到那里结束，读完之后接下来要看哪里，整个过程应当是一个合理的过程，有确定的开始，而且要有确定的结束。<div style="padding-bottom:1em;"></div>亲密性的根本目的是实现组织性，将相关的元素分在一组建立更近的联系，自动地实现条理性和组织性，更容易阅读，更容易记住，还可以使空白更美观<div style="padding-bottom:1em;"></div>居中对齐可能是初学者最常用的对齐方式，这种对齐方式看起来很安全，感觉上也很舒服，居中对齐会创建izhong更正式，更稳重的外观，但可能显得中规中矩。试着避开它，利用亲密性，结合明确的右对齐或左对齐。<div style="padding-bottom:1em;"></div>按惯例，第一段都不缩进。将一个段落缩进的目的是为了告诉你这里有一个新的段落，不过，你肯定知道第一段当然是一个新段落。<div style="padding-bottom:1em;"></div>不要在左对齐的正文或者缩进的文本上方将标题居中。如果文本没有明确的左边界和右边界，就无法区分标题是否确实居中，看起来它只是悬挂着而已。<div style="padding-bottom:1em;"></div>## 颜色运用<div style="padding-bottom:1em;"></div>色轮上相对的颜色为互补色。由于它们彼此对立，所以最佳搭配是一种作为主色，另一种用于强调。<div style="padding-bottom:1em;"></div>彼此等距的三种颜色通常会形成一个让人愉悦的三色组。红色，黄色和蓝色就是一种极其流行的颜色组合，儿童产品通常采用这种组合。由于这是三基色，所以这种组合也叫做基色三色组。也可以尝试使用绿色，橙色和紫色构成的间色三色组。<div style="padding-bottom:1em;"></div>从色轮的一边选择一种颜色，再在色轮上找出它对面的互补色，不过并不直接使用这个互补色，而是使用该互补色两侧的颜色，这个组合叫做分裂互补三色组。<div style="padding-bottom:1em;"></div>类似色组合由色轮上彼此相邻的颜色组成。它们有相同的基础色，用不同的亮色和暗色组合一组类似色效果将相当醒目。<div style="padding-bottom:1em;"></div>纯色就是色调，向色调增加黑色就构成一个暗色，向色调增加一个白色就构成一个亮色。<div style="padding-bottom:1em;"></div>CMYK：表示cyan（一种蓝色），magenta（一种红/粉红色），yellow（黄色），key色（通常是黑色）。利用这四种墨色，可以打印出成千上万种颜色。<div style="padding-bottom:1em;"></div>RGB：表示red，green，blue。我们在计算机显示器，电视，手机上等看到的就是RGB。<div style="padding-bottom:1em;"></div>关于CMYK和RGB需要记住的是：需要印刷的项目应当使用CMYK，需要在屏幕上看的应当使用RGB<div style="padding-bottom:1em;"></div>## 更多提示与技巧<div style="padding-bottom:1em;"></div>不要把信息全用大写，因为这样读起来太困难了。<div style="padding-bottom:1em;"></div>要像组织信息那样，有意识地组织空白。<div style="padding-bottom:1em;"></div>## 字体设计<div style="padding-bottom:1em;"></div>* oldstyle<div style="padding-bottom:1em;"></div>* modern<div style="padding-bottom:1em;"></div>* slab serif<div style="padding-bottom:1em;"></div>* sans serif<div style="padding-bottom:1em;"></div>* script<div style="padding-bottom:1em;"></div>* decorative<div style="padding-bottom:1em;"></div>    if 没有截线：<div style="padding-bottom:1em;"></div>        sans serif<div style="padding-bottom:1em;"></div>    else：<div style="padding-bottom:1em;"></div>        if 截线是斜的：<div style="padding-bottom:1em;"></div>            oldstyle<div style="padding-bottom:1em;"></div>        else：<div style="padding-bottom:1em;"></div>            if 粗细过渡一般 or 截线粗:<div style="padding-bottom:1em;"></div>                slab serif<div style="padding-bottom:1em;"></div>            else:<div style="padding-bottom:1em;"></div>                 modern<div style="padding-bottom:1em;"></div>oldstyle:<div style="padding-bottom:1em;"></div>特征：对角强调线，有截线，小写字母上的截线是倾斜的，笔划中的粗细过渡缓和。<div style="padding-bottom:1em;"></div>oldstyle字体由于看不出差异，成为显示大量文字的最佳选择，几乎没有什么显著的特征会影响阅读，它们本身不会分散人的注意力。如果你希望人们具体去读某些文字，可以选择设置为oldstyle字体。<div style="padding-bottom:1em;"></div>modern：<div style="padding-bottom:1em;"></div>特征：垂直强调线，小写字母上的截线很细，而且是水平的，笔划中剧烈的粗细过渡。<div style="padding-bottom:1em;"></div>modern字体外观很醒目，设置得非常大时有一种让人震撼的感觉。由于有剧烈的粗细过渡，在显示大量正文时，大多数modern字体都不是很好的选择。细线会完全消失，而粗线太过突出，在页面上这种效果称为炫目。<div style="padding-bottom:1em;"></div>slab serif<div style="padding-bottom:1em;"></div>特征：小写字母上的截线粗，且是水平的，垂直强调线，笔划中粗细过渡很小或没有。<div style="padding-bottom:1em;"></div>可以提供很好的可读性，可以用好地用于显示大量文本。与oldstyle字体相比，设置为这种字体的页面更暗。由于其简洁直接的外观，常用于儿童图书中使用。<div style="padding-bottom:1em;"></div>sans serif<div style="padding-bottom:1em;"></div>特征： 没有截线，笔划中没有粗细过渡<div style="padding-bottom:1em;"></div>script<div style="padding-bottom:1em;"></div>特征：看上去利用一个书法笔或书法刷手写的所有字体都属于script字体。<div style="padding-bottom:1em;"></div>script字体就像是奶酪蛋糕，不能用得太多。设置得特别大的时候可能会让人印象深刻，大胆去做。<div style="padding-bottom:1em;"></div>decotative<div style="padding-bottom:1em;"></div>特征：感觉<div style="padding-bottom:1em;"></div>## 字体对比<div style="padding-bottom:1em;"></div>* size 不要保守<div style="padding-bottom:1em;"></div>* weight（粗细）要粗细对比，不要中粗对比<div style="padding-bottom:1em;"></div>* structure（结构）字体是如何建立的--有一致的粗细还是存在粗细变化<div style="padding-bottom:1em;"></div>* form（形状）<div style="padding-bottom:1em;"></div>* direction（方向）有一定倾斜，更多的认为是水平文本和瘦高文本列的对比<div style="padding-bottom:1em;"></div>* color 暖色是前进型的，冷色是远离型的
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33355884/#comments">回应</a>&nbsp;&nbsp;
+                  2014-11-07 16:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="15977854">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/prafulliu/"><img src="https://img3.doubanio.com/icon/u2011454-35.jpg" alt="Xzerd" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/15977854/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/15977854/" class="">第28页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/prafulliu/" class=" " title="Xzerd">Xzerd</a>
+                (改个名儿....)
+              
+            </p>
+            <div class="reading-note" data-cid="15977854">
+              <div class="short">
+                
+                  <span class="">一幅照片的构图（或布局设计）是指图像的元素是通过怎样安排和处理来引导你的注意力深入到图形或设计中的。它是通过视觉暗示完成的，而这暗示是通过线条、形状的方向，以及强化光线、色彩、对比、尺寸的方式实现的。
+
+
+一张不错的照片包含了某种构图意识和深思熟虑的尝试，以控制观察者的关注点和注意力，引导眼睛按照特定的顺序从一个点转移到另一个点。
+
+一个行之有效的构图可以是精巧的、稳重的，或者也可以像霓虹灯一样眼...</span>
+                <p class="pl">
+                  <span class="">2011-12-26 22:13</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>一幅照片的构图（或布局设计）是指图像的元素是通过怎样安排和处理来引导你的注意力深入到图形或设计中的。它是通过视觉暗示完成的，而这暗示是通过线条、形状的方向，以及强化光线、色彩、对比、尺寸的方式实现的。</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>一张不错的照片包含了某种构图意识和深思熟虑的尝试，以控制观察者的关注点和注意力，引导眼睛按照特定的顺序从一个点转移到另一个点。</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>一个行之有效的构图可以是精巧的、稳重的，或者也可以像霓虹灯一样眼花缭乱的，这取决于你想传达的风格和基调</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>最常见的问题也是最好解决的------通过取景器最好观察以下。看看有没有从一个人头顶露出的火炉烟囱、吃了一半的食物、衣服的褶皱、奇怪的影子、不必要的杂乱无章的细节，以及其他任何在视觉上与图像不相干的东西。如果不能移动物体，那就请摄影师移动一下位置。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/15977854/#comments">回应</a>&nbsp;&nbsp;
+                  2011-12-26 22:13
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="17828491">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/3157802/"><img src="https://img3.doubanio.com/icon/u3157802-20.jpg" alt="hisheng" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/17828491/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/17828491/" class="">第41页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/3157802/" class=" " title="hisheng">hisheng</a>
+                (Concentrate  Your  Forces)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="17828491">
+              <div class="short">
+                
+                  <span class="">规则都是用来打破的，但在打破之前必须弄清楚规则是什么
+
+
+--------------------
+
+
+神句。
+
+
+可以引申到，任何事情，敌人是用来击败的，但在击败之前，必须弄清楚敌人(知己知彼)。</span>
+                <p class="pl">
+                  <span class="">2012-04-16 13:38</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                规则都是用来打破的，但在打破之前必须弄清楚规则是什么<div style="padding-bottom:1em;"></div>--------------------<div style="padding-bottom:1em;"></div>神句。<div style="padding-bottom:1em;"></div>可以引申到，任何事情，敌人是用来击败的，但在击败之前，必须弄清楚敌人(知己知彼)。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/17828491/#comments">回应</a>&nbsp;&nbsp;
+                  2012-04-16 13:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="15978689">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/prafulliu/"><img src="https://img3.doubanio.com/icon/u2011454-35.jpg" alt="Xzerd" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/15978689/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/15978689/" class="">第48页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/prafulliu/" class=" " title="Xzerd">Xzerd</a>
+                (改个名儿....)
+              
+            </p>
+            <div class="reading-note" data-cid="15978689">
+              <div class="short">
+                
+                  <span class="">开始进行项目时的一个通用技巧是，把所有需要的元素放到设计之中，而不去过多考虑最终的设计会是什么样
+
+接下来的挑战是将所有这些复杂的碎片用一种舒服的方式进行组合，从而使读者在一眼扫过的瞬间能消化掉所有信息
+
+一旦你集齐了所有的片段，可以开始开心的玩了。再讲这些东西移来移去，和字体做游戏，用色彩做实验是，灵感会悄悄靠近你，你会看到一些可行的方案，而这些方案在你盯着一片空白时是不会出现的。</span>
+                <p class="pl">
+                  <span class="">2011-12-26 22:51</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                开始进行项目时的一个通用技巧是，把所有需要的元素放到设计之中，而不去过多考虑最终的设计会是什么样<div style="padding-bottom:1em;"></div>接下来的挑战是将所有这些复杂的碎片用一种舒服的方式进行组合，从而使读者在一眼扫过的瞬间能消化掉所有信息<div style="padding-bottom:1em;"></div>一旦你集齐了所有的片段，可以开始开心的玩了。再讲这些东西移来移去，和字体做游戏，用色彩做实验是，灵感会悄悄靠近你，你会看到一些可行的方案，而这些方案在你盯着一片空白时是不会出现的。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/15978689/#comments">回应</a>&nbsp;&nbsp;
+                  2011-12-26 22:51
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="35216502">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/77450989/"><img src="https://img3.doubanio.com/icon/u77450989-12.jpg" alt="nanicats" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/35216502/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/35216502/" class="">第999页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/77450989/" class=" " title="nanicats">nanicats</a>
+                (人蠢多读书，努力加餐饭)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="35216502">
+              <div class="short">
+                
+                  <span class="">亲密性、对齐、重复和对比
+
+亲密性——组织性
+
+在打破规则之前必须清楚规则是什么
+
+Robin对比原则指出：“如果两个项不完全相同，就应当使之不同，而且应当是截然不同。”
+
+三原色（primary color）黄红蓝
+三间色（secondary color）
+第三色（tertiary/third color）
+分裂互补三色组（split complement）
+
+冷色总是趋于后退，而暖色是趋进型的。
+
+CMYK——Cyan（蓝）、Magenta（红）、Yellow、Key（黑）
+
+字体对..</span>
+                <p class="pl">
+                  <span class="">2015-05-26 15:43</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                亲密性、对齐、重复和对比<div style="padding-bottom:1em;"></div>亲密性——组织性<div style="padding-bottom:1em;"></div>在打破规则之前必须清楚规则是什么<div style="padding-bottom:1em;"></div>Robin对比原则指出：“如果两个项不完全相同，就应当使之不同，而且应当是截然不同。”<div style="padding-bottom:1em;"></div>三原色（primary color）黄红蓝<div style="padding-bottom:1em;"></div>三间色（secondary color）<div style="padding-bottom:1em;"></div>第三色（tertiary/third color）<div style="padding-bottom:1em;"></div>分裂互补三色组（split complement）<div style="padding-bottom:1em;"></div>冷色总是趋于后退，而暖色是趋进型的。<div style="padding-bottom:1em;"></div>CMYK——Cyan（蓝）、Magenta（红）、Yellow、Key（黑）<div style="padding-bottom:1em;"></div>字体对比：大小、粗细、结构、形状、方向和颜色。<div style="padding-bottom:1em;"></div>向右向上倾斜的字体产生一种前进的力量。向下倾斜的字体会产生一种反向的力量。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/35216502/#comments">回应</a>&nbsp;&nbsp;
+                  2015-05-26 15:43
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33479916">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ainizz/"><img src="https://img3.doubanio.com/icon/u2155267-2.jpg" alt="S" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33479916/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33479916/" class="">第110页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ainizz/" class=" " title="S">S</a>
+                (啊咧？)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="33479916">
+              <div class="short">
+                
+                  <span class="">名片、信封、信纸设计：
+
+不要害怕使用小字体或者图形元素
+
+不要害怕使用大字体或者图形元素
+
+不要害怕将元素摆在“不合常理”的地方
+
+不要害怕在书写空间中添加图像
+
+</span>
+                <p class="pl">
+                  <span class="">2014-11-21 12:09</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                名片、信封、信纸设计：<div style="padding-bottom:1em;"></div>不要害怕使用小字体或者图形元素<div style="padding-bottom:1em;"></div>不要害怕使用大字体或者图形元素<div style="padding-bottom:1em;"></div>不要害怕将元素摆在“不合常理”的地方<div style="padding-bottom:1em;"></div>不要害怕在书写空间中添加图像<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33479916/#comments">回应</a>&nbsp;&nbsp;
+                  2014-11-21 12:09
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33479777">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ainizz/"><img src="https://img3.doubanio.com/icon/u2155267-2.jpg" alt="S" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33479777/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33479777/" class="">第52页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ainizz/" class=" " title="S">S</a>
+                (啊咧？)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="33479777">
+              <div class="short">
+                
+                  <span class="">选择一个外观
+---------------------------------
+普通型外观：
+没有想象力的居中对齐布局
+落伍的字体（不时尚的字体）
+没有对比
+没有空白
+细节不精致
+文本不突出
+---------------------------------
+企业型外观：
+有力清晰的线条
+没有多余的元素
+字体不奇特怪异
+简介、有序、易读
+---------------------------------
+视觉轰动型外观：
+超大尺寸、粗体字、简单的图形
+强烈的对比
+有趣的标题字体
+
+信息密集型..</span>
+                <p class="pl">
+                  <span class="">2014-11-21 11:52</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                选择一个外观<div style="padding-bottom:1em;"></div>---------------------------------<div style="padding-bottom:1em;"></div>普通型外观：<div style="padding-bottom:1em;"></div>没有想象力的居中对齐布局<div style="padding-bottom:1em;"></div>落伍的字体（不时尚的字体）<div style="padding-bottom:1em;"></div>没有对比<div style="padding-bottom:1em;"></div>没有空白<div style="padding-bottom:1em;"></div>细节不精致<div style="padding-bottom:1em;"></div>文本不突出<div style="padding-bottom:1em;"></div>---------------------------------<div style="padding-bottom:1em;"></div>企业型外观：<div style="padding-bottom:1em;"></div>有力清晰的线条<div style="padding-bottom:1em;"></div>没有多余的元素<div style="padding-bottom:1em;"></div>字体不奇特怪异<div style="padding-bottom:1em;"></div>简介、有序、易读<div style="padding-bottom:1em;"></div>---------------------------------<div style="padding-bottom:1em;"></div>视觉轰动型外观：<div style="padding-bottom:1em;"></div>超大尺寸、粗体字、简单的图形<div style="padding-bottom:1em;"></div>强烈的对比<div style="padding-bottom:1em;"></div>有趣的标题字体<div style="padding-bottom:1em;"></div>信息密集型外观：<div style="padding-bottom:1em;"></div>文本严格对齐<div style="padding-bottom:1em;"></div>空白有序<div style="padding-bottom:1em;"></div>顶部成为简洁的一体<div style="padding-bottom:1em;"></div>保守的字体组合<div style="padding-bottom:1em;"></div>较小的信息单元<div style="padding-bottom:1em;"></div>---------------------------------<div style="padding-bottom:1em;"></div>百科全书式外观：<div style="padding-bottom:1em;"></div>多图多字<div style="padding-bottom:1em;"></div>---------------------------------<div style="padding-bottom:1em;"></div>文字型外观：<div style="padding-bottom:1em;"></div>排版设计<div style="padding-bottom:1em;"></div>无图<div style="padding-bottom:1em;"></div>字体设计<div style="padding-bottom:1em;"></div>字体变形加元素<div style="padding-bottom:1em;"></div>---------------------------------<div style="padding-bottom:1em;"></div>时尚型外观：<div style="padding-bottom:1em;"></div>时尚总在变<div style="padding-bottom:1em;"></div>纤细的线条有趣的方式游走<div style="padding-bottom:1em;"></div>活跃简单的图形配以非现实的色彩<div style="padding-bottom:1em;"></div>标题中不寻常的字体处理<div style="padding-bottom:1em;"></div>不对称或者说弯曲的文本
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33479777/#comments">回应</a>&nbsp;&nbsp;
+                  2014-11-21 11:52
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33355884">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xvid73/"><img src="https://img3.doubanio.com/icon/u69437734-3.jpg" alt="xvid73" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33355884/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33355884/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xvid73/" class=" " title="xvid73">xvid73</a>
+              
+            </p>
+            <div class="reading-note" data-cid="33355884">
+              <div class="short">
+                
+                  <span class="">4大基本原则
+    * 对比（contrast）
+    * 重复（repetition）
+    * 对齐（alignment）
+    * 亲密性（proximity）
+
+如果多个项之间存在很近的亲密性，它们将成为一个视觉单元。要有意识地注意你是怎样阅读的，你的视线怎样移动：从哪里开始，沿着怎样的路径，到那里结束，读完之后接下来要看哪里，整个过程应当是一个合理的过程，有确定的开始，而且要有确定的结束。
+
+亲密性的根本目的是实现组织性，将相关的元素分在..</span>
+                <p class="pl">
+                  <span class="">2014-11-07 16:38</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                4大基本原则<div style="padding-bottom:1em;"></div>    * 对比（contrast）<div style="padding-bottom:1em;"></div>    * 重复（repetition）<div style="padding-bottom:1em;"></div>    * 对齐（alignment）<div style="padding-bottom:1em;"></div>    * 亲密性（proximity）<div style="padding-bottom:1em;"></div>如果多个项之间存在很近的亲密性，它们将成为一个视觉单元。要有意识地注意你是怎样阅读的，你的视线怎样移动：从哪里开始，沿着怎样的路径，到那里结束，读完之后接下来要看哪里，整个过程应当是一个合理的过程，有确定的开始，而且要有确定的结束。<div style="padding-bottom:1em;"></div>亲密性的根本目的是实现组织性，将相关的元素分在一组建立更近的联系，自动地实现条理性和组织性，更容易阅读，更容易记住，还可以使空白更美观<div style="padding-bottom:1em;"></div>居中对齐可能是初学者最常用的对齐方式，这种对齐方式看起来很安全，感觉上也很舒服，居中对齐会创建izhong更正式，更稳重的外观，但可能显得中规中矩。试着避开它，利用亲密性，结合明确的右对齐或左对齐。<div style="padding-bottom:1em;"></div>按惯例，第一段都不缩进。将一个段落缩进的目的是为了告诉你这里有一个新的段落，不过，你肯定知道第一段当然是一个新段落。<div style="padding-bottom:1em;"></div>不要在左对齐的正文或者缩进的文本上方将标题居中。如果文本没有明确的左边界和右边界，就无法区分标题是否确实居中，看起来它只是悬挂着而已。<div style="padding-bottom:1em;"></div>## 颜色运用<div style="padding-bottom:1em;"></div>色轮上相对的颜色为互补色。由于它们彼此对立，所以最佳搭配是一种作为主色，另一种用于强调。<div style="padding-bottom:1em;"></div>彼此等距的三种颜色通常会形成一个让人愉悦的三色组。红色，黄色和蓝色就是一种极其流行的颜色组合，儿童产品通常采用这种组合。由于这是三基色，所以这种组合也叫做基色三色组。也可以尝试使用绿色，橙色和紫色构成的间色三色组。<div style="padding-bottom:1em;"></div>从色轮的一边选择一种颜色，再在色轮上找出它对面的互补色，不过并不直接使用这个互补色，而是使用该互补色两侧的颜色，这个组合叫做分裂互补三色组。<div style="padding-bottom:1em;"></div>类似色组合由色轮上彼此相邻的颜色组成。它们有相同的基础色，用不同的亮色和暗色组合一组类似色效果将相当醒目。<div style="padding-bottom:1em;"></div>纯色就是色调，向色调增加黑色就构成一个暗色，向色调增加一个白色就构成一个亮色。<div style="padding-bottom:1em;"></div>CMYK：表示cyan（一种蓝色），magenta（一种红/粉红色），yellow（黄色），key色（通常是黑色）。利用这四种墨色，可以打印出成千上万种颜色。<div style="padding-bottom:1em;"></div>RGB：表示red，green，blue。我们在计算机显示器，电视，手机上等看到的就是RGB。<div style="padding-bottom:1em;"></div>关于CMYK和RGB需要记住的是：需要印刷的项目应当使用CMYK，需要在屏幕上看的应当使用RGB<div style="padding-bottom:1em;"></div>## 更多提示与技巧<div style="padding-bottom:1em;"></div>不要把信息全用大写，因为这样读起来太困难了。<div style="padding-bottom:1em;"></div>要像组织信息那样，有意识地组织空白。<div style="padding-bottom:1em;"></div>## 字体设计<div style="padding-bottom:1em;"></div>* oldstyle<div style="padding-bottom:1em;"></div>* modern<div style="padding-bottom:1em;"></div>* slab serif<div style="padding-bottom:1em;"></div>* sans serif<div style="padding-bottom:1em;"></div>* script<div style="padding-bottom:1em;"></div>* decorative<div style="padding-bottom:1em;"></div>    if 没有截线：<div style="padding-bottom:1em;"></div>        sans serif<div style="padding-bottom:1em;"></div>    else：<div style="padding-bottom:1em;"></div>        if 截线是斜的：<div style="padding-bottom:1em;"></div>            oldstyle<div style="padding-bottom:1em;"></div>        else：<div style="padding-bottom:1em;"></div>            if 粗细过渡一般 or 截线粗:<div style="padding-bottom:1em;"></div>                slab serif<div style="padding-bottom:1em;"></div>            else:<div style="padding-bottom:1em;"></div>                 modern<div style="padding-bottom:1em;"></div>oldstyle:<div style="padding-bottom:1em;"></div>特征：对角强调线，有截线，小写字母上的截线是倾斜的，笔划中的粗细过渡缓和。<div style="padding-bottom:1em;"></div>oldstyle字体由于看不出差异，成为显示大量文字的最佳选择，几乎没有什么显著的特征会影响阅读，它们本身不会分散人的注意力。如果你希望人们具体去读某些文字，可以选择设置为oldstyle字体。<div style="padding-bottom:1em;"></div>modern：<div style="padding-bottom:1em;"></div>特征：垂直强调线，小写字母上的截线很细，而且是水平的，笔划中剧烈的粗细过渡。<div style="padding-bottom:1em;"></div>modern字体外观很醒目，设置得非常大时有一种让人震撼的感觉。由于有剧烈的粗细过渡，在显示大量正文时，大多数modern字体都不是很好的选择。细线会完全消失，而粗线太过突出，在页面上这种效果称为炫目。<div style="padding-bottom:1em;"></div>slab serif<div style="padding-bottom:1em;"></div>特征：小写字母上的截线粗，且是水平的，垂直强调线，笔划中粗细过渡很小或没有。<div style="padding-bottom:1em;"></div>可以提供很好的可读性，可以用好地用于显示大量文本。与oldstyle字体相比，设置为这种字体的页面更暗。由于其简洁直接的外观，常用于儿童图书中使用。<div style="padding-bottom:1em;"></div>sans serif<div style="padding-bottom:1em;"></div>特征： 没有截线，笔划中没有粗细过渡<div style="padding-bottom:1em;"></div>script<div style="padding-bottom:1em;"></div>特征：看上去利用一个书法笔或书法刷手写的所有字体都属于script字体。<div style="padding-bottom:1em;"></div>script字体就像是奶酪蛋糕，不能用得太多。设置得特别大的时候可能会让人印象深刻，大胆去做。<div style="padding-bottom:1em;"></div>decotative<div style="padding-bottom:1em;"></div>特征：感觉<div style="padding-bottom:1em;"></div>## 字体对比<div style="padding-bottom:1em;"></div>* size 不要保守<div style="padding-bottom:1em;"></div>* weight（粗细）要粗细对比，不要中粗对比<div style="padding-bottom:1em;"></div>* structure（结构）字体是如何建立的--有一致的粗细还是存在粗细变化<div style="padding-bottom:1em;"></div>* form（形状）<div style="padding-bottom:1em;"></div>* direction（方向）有一定倾斜，更多的认为是水平文本和瘦高文本列的对比<div style="padding-bottom:1em;"></div>* color 暖色是前进型的，冷色是远离型的
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33355884/#comments">回应</a>&nbsp;&nbsp;
+                  2014-11-07 16:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/4837333/annotation">更多读书笔记（共14篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        <span>
+            <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=discuss">
+              <span>在这本书的论坛里发言</span>
+            </a>
+        </span>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">其他版本在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+        <a class="publish" href="https://book.douban.com/subject/26749070/" target="_blank">人民邮电出版社版</a><br/>
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 55.20元</span>
+        <span class="price"> <del>69.00元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=124039&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-printed" class="no-border">
+        
+  
+
+  <h2>
+    <span class="">其他版本有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline">
+            
+              <li class="">
+                  
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=5310&amp;pos=1&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6832596.htm&amp;link2key=15507eb2c0&amp;srcsubj=4837333&amp;type=bkbuy&amp;subject=26749070">
+                    中国图书网
+                  </a>
+                  <a class="buylink-price" target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=5310&amp;pos=1&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6832596.htm&amp;link2key=15507eb2c0&amp;srcsubj=4837333&amp;type=bkbuy&amp;subject=26749070">
+                    <span class=""> 53.10 元</span>
+                  </a>
+                  <p class="publish">
+                    <a href="https://book.douban.com/subject/26749070/" onclick="moreurl(this,{buylink:'other'})"
+                    class=" ">人民邮电出版社版</a>
+                  </p>
+                </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787115222923&amp;subject=7115222924&amp;type=borrow&amp;library=10012&amp;link2key=15507eb2c0" target="_blank">上海市中心图书馆(7)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D9787115222923%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7115222924&amp;type=borrow&amp;library=10022&amp;link2key=15507eb2c0" target="_blank">广州图书馆(2)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D9787115222923%26strSearchType%3Disbn&amp;subject=7115222924&amp;type=borrow&amp;library=10002&amp;link2key=15507eb2c0" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fourex.lib.sjtu.edu.cn%2Fprimo_library%2Flibweb%2Faction%2Fsearch.do%3Ffn%3Dsearch%26vl%28freeText0%29%3D978-7-115-22292-3&amp;subject=7115222924&amp;type=borrow&amp;library=10006&amp;link2key=15507eb2c0" target="_blank">上海交通大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F58.154.49.3%3A8080%2Fopac%2Fopenlink.php%3FhistoryCount%3D1%26strText%3D978-7-115-22292-3%26doctype%3DALL%26strSearchType%3Disbn%26match_flag%3Dforward%26displaypg%3D20%26sort%3DCATA_DATE%26orderby%3Ddesc%26showmode%3Dlist%26location%3DALL&amp;subject=7115222924&amp;type=borrow&amp;library=10010&amp;link2key=15507eb2c0" target="_blank">沈阳师范大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D978-7-115-22292-3%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7115222924&amp;type=borrow&amp;library=10021&amp;link2key=15507eb2c0" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1021799">全部5</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/26749070/">人民邮电出版社版</a>
+          2015-2 / 8人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/2160818/">Peachpit Press版</a>
+          2006-8-20 / 13人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/11613711/">人民邮电出版社版</a>
+          2012-9-1 / 11人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/7069675/">未知出版社版</a>
+          2000-10 / 2人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/4837333/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/327908/" target="_blank">广告，生活，创意-1</a>
+                <span class="pl">(IVAN)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/327359/" target="_blank">摄影photography</a>
+                <span class="pl">(IVAN)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1262364/" target="_blank">文案或策划或媒体或营销或商业或理财</a>
+                <span class="pl">(蓝蓝的紫)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/41108931/" target="_blank">37°暖书单（二）</a>
+                <span class="pl">(37°暖)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1354958/" target="_blank">新书抢鲜读</a>
+                <span class="pl">(亚马逊)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/66521787/"><img src="https://img3.doubanio.com/icon/u66521787-1.jpg" class="pil" alt="熊爸爸爱你" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/66521787/">熊爸爸爱你</a><br/>
+      <div class="pl ll">          昨天          读过      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/143088430/"><img src="https://img3.doubanio.com/icon/u143088430-3.jpg" class="pil" alt="一只小刷子" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/143088430/">一只小刷子</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:设计理论 Design</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/ztztzzt/"><img src="https://img3.doubanio.com/icon/u50792713-5.jpg" class="pil" alt="just do it" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/ztztzzt/">just do it</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/1124621/"><img src="https://img3.doubanio.com/icon/u1124621-5.jpg" class="pil" alt="tammy" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/1124621/">tammy</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/4837333/doings">160人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/4837333/collections">610人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/4837333/wishes">2924人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有2924人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于写给大家看的设计书的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/4837333/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'JbgTcgbp1O4',
+            criteria = '7:设计|7:创意|7:艺术|7:交互设计|7:平面设计|7:Design|7:创意设计|7:UI|7:Robin_Williams|7:文化|3:/subject/4837333/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar16a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

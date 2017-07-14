@@ -1,0 +1,3215 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>物理学 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1157313/">
+<meta name="keywords" content="物理学,[古希腊] 亚里士多德,商务印书馆,2006-6,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书物理学 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1157313/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">物理学</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s9086181.jpg" title="物理学">
+    <img src="https://img3.doubanio.com/lpic/s9086181.jpg" title="点击看大图" alt="物理学"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7">[古希腊] 亚里士多德</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 商务印书馆<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">原作名:</span> Φυσικῆς ἀκροάσεως<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E5%BC%A0%E7%AB%B9%E6%98%8E">张竹明</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2006-6<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 305<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 14.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 简裝本<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/24">汉译世界学术名著丛书·哲学</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787100011648<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.4 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">154</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">42.9%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:58px"></div>
+
+            <span class="rating_per">39.0%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:19px"></div>
+
+            <span class="rating_per">13.0%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:2px"></div>
+
+            <span class="rating_per">1.9%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:4px"></div>
+
+            <span class="rating_per">3.2%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1157313-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1157313-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1157313-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1157313-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1157313-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1157313-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1157313-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1157313-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1157313">
+        <a href="#" data-url="https://book.douban.com/subject/1157313/" data-desc="" data-title="书籍《物理学》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s9086181.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1157313"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>物理学，ISBN：9787100011648，作者：（古希腊）亚里士多德著；张竹明译</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1157313/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1157313_short">
+        译者前言<br/>
+        第一章<br/>
+        第一节 本书的对象和方法<br/>
+        第二节 问题：自然本原的数目和特征<br/>
+        第三节 驳他们的论证<br/>
+        第四节 对自然哲学家主张的叙述和考察<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1157313_short').hide();$('#dir_1157313_full').show();$.get('/j/subject/j_dir_count',{id:1157313});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1157313_full" style="display:none">
+        译者前言<br/>
+        第一章<br/>
+        第一节 本书的对象和方法<br/>
+        第二节 问题：自然本原的数目和特征<br/>
+        第三节 驳他们的论证<br/>
+        第四节 对自然哲学家主张的叙述和考察<br/>
+        第五节 本原为对立<br/>
+        第六节 本原的数目为二或三<br/>
+        第七节 本原的数目和本性<br/>
+        第八节 解决早期哲学家疑难问题的正确意见<br/>
+        第九节 关于自然本原问题的进一步的想法<br/>
+        第二章<br/>
+        A<br/>
+        第一节 自然和自然物<br/>
+        B<br/>
+        第二节 自然哲学家和数学家、理念论哲学家的区别<br/>
+        C 变化的原因<br/>
+        第三节 本因<br/>
+        第四节 别的学者关于偶然性和自发性的主张<br/>
+        第五节 偶然性和自发性是否存在？什么是偶然性，它有哪些特点？<br/>
+        第六节 偶然性和自发性的区别，以及它们两者和变化的本因间的区别。<br/>
+        D 自然哲学中的证明<br/>
+        第七节 自然哲学家用变化的四因解释<br/>
+        第八节 自然活动有目的吗？<br/>
+        第九节 自然物里的必然性的涵义<br/>
+        第三章<br/>
+        A运动<br/>
+        第一节 运动的本性<br/>
+        第二节 运动的本性<br/>
+        第三节 推动者和被动者<br/>
+        B无限<br/>
+        第四节 早期哲学家的主张<br/>
+        第五节 对毕达哥拉斯派和柏拉图派相信有分离存在的无限的主张的批判<br/>
+        第六节 无限是存在的，以及，无限在什么意义上存在<br/>
+        第七节 各种无限<br/>
+        第八节 驳主张有现实的无限的论证<br/>
+        第四章<br/>
+        A空间<br/>
+        B虚空<br/>
+        C时间<br/>
+        第五章<br/>
+        第一节 运动和变化的分类<br/>
+        第二节 因本性的运动的分类<br/>
+        第三节 “在一起”、“分离”、“接触”、“间介”、“顺联”、“顺接”、“连续”的涵义<br/>
+        第四节 运动的同种和不同种<br/>
+        第五节 运动的对立<br/>
+        第六节 运动和静止间的对立<br/>
+        ……<br/>
+        第六章<br/>
+        第七章<br/>
+        第八章<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1157313_full').hide();$('#dir_1157313_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共82个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/哲学">哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/亚里士多德">亚里士多德</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/古希腊">古希腊</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/物理学">物理学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/商务印书馆">商务印书馆</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/汉译世界学术名著丛书">汉译世界学术名著丛书</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/西方哲学">西方哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/自然哲学">自然哲学</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/24">汉译世界学术名著丛书·哲学 (共231册)</a>,
+这套丛书还有
+《人有人的用处》,《西方哲学史（下卷）》,《历史与阶级意识》,《宇宙体系论》,《普通认识论》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;物理学&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1205321/?dcs=subject-rec&amp;dcm=douban&amp;dct=1157313" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1205321.jpg?v=1395394467.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1205321/" target="_blank">全部知识学的基础</a>
+          </div>
+          <div class="price">
+              15.36元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/199426/?dcs=subject-rec&amp;dcm=douban&amp;dct=1157313" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/199426.jpg?v=1395395983.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/199426/" target="_blank">修昔底德的生平与《历史》</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/152509/?dcs=subject-rec&amp;dcm=douban&amp;dct=1157313" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/152509.jpg?v=1395396025.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/152509/" target="_blank">希腊思想中的海权</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/443460/?dcs=subject-rec&amp;dcm=douban&amp;dct=1157313" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/443460.jpg?v=1395395793.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/443460/" target="_blank">基督教与罗马帝国的衰亡</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/141755/?dcs=subject-rec&amp;dcm=douban&amp;dct=1157313" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/141755.jpg?v=1395396037.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/141755/" target="_blank">柏拉图《书简》中的政治与哲学问题</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;物理学&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1252117/" onclick="moreurl(this, {'total': 10, 'clicked': '1252117', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1428488.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1252117/" onclick="moreurl(this, {'total': 10, 'clicked': '1252117', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            范畴篇 解释篇
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1512250/" onclick="moreurl(this, {'total': 10, 'clicked': '1512250', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2312555.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1512250/" onclick="moreurl(this, {'total': 10, 'clicked': '1512250', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            灵魂论及其他
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1077833/" onclick="moreurl(this, {'total': 10, 'clicked': '1077833', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6503751.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1077833/" onclick="moreurl(this, {'total': 10, 'clicked': '1077833', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            形而上学
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1251842/" onclick="moreurl(this, {'total': 10, 'clicked': '1251842', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1405656.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1251842/" onclick="moreurl(this, {'total': 10, 'clicked': '1251842', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            巴曼尼得斯篇
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3317002/" onclick="moreurl(this, {'total': 10, 'clicked': '3317002', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s3382275.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3317002/" onclick="moreurl(this, {'total': 10, 'clicked': '3317002', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            判断力批判（下卷）
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1216206/" onclick="moreurl(this, {'total': 10, 'clicked': '1216206', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2062781.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1216206/" onclick="moreurl(this, {'total': 10, 'clicked': '1216206', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            工具论（上下册）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1419407/" onclick="moreurl(this, {'total': 10, 'clicked': '1419407', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1432257.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1419407/" onclick="moreurl(this, {'total': 10, 'clicked': '1419407', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            Liberalism Ancient and Modern
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1263204/" onclick="moreurl(this, {'total': 10, 'clicked': '1263204', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1225699.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1263204/" onclick="moreurl(this, {'total': 10, 'clicked': '1263204', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            形而上学
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3065332/" onclick="moreurl(this, {'total': 10, 'clicked': '3065332', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s5897587.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3065332/" onclick="moreurl(this, {'total': 10, 'clicked': '3065332', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            逻辑与形而上学
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1659855/" onclick="moreurl(this, {'total': 10, 'clicked': '1659855', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s3491610.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1659855/" onclick="moreurl(this, {'total': 10, 'clicked': '1659855', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            天象论 宇宙论
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1157313/comments/">全部 41 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="537953842">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-537953842" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-537953842" class="j a_show_login" data-cid="537953842">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/46326003/">劈头士》睁木</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-05-29</span>
+                </span>
+            </h3>
+            <p class="comment-content">高中物理书上大加批判的亚里士多德，我一度以为就是出自这本《物理学》的。今天才发现大错特错，物理学讲的不是高中的物理，而是自然哲学，并且是作为亚氏形而上学的先声。这本是利用零散时间断断续续读完的，读的很浮躁，如果不是利用今天下午开会的时间，还不知道要读到什么时候去。
+有很多关键理论都在这本书中，提出了质料因、形式因、动力因、目的因“四因说”，探讨了空间、时间、运动的本质。空间不是质料，不是形式，而是物体的限。时间和运动分不开，时间是运动的度量，运动是时间的度量。这几个问题在今后千年还会一直被讨论。。。从这点而言，真是永恒。。。最后一章，讨论著名的“不动的第一推动者”，以前了解的只是从被推动者必有一推动者，而后无限上溯到第一推动者，亚氏的具体推论好生复杂，我没看懂。只看到了结论。。。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1104621535">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1104621535" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1104621535" class="j a_show_login" data-cid="1104621535">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/weizuoqingnian/">佐为</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-04-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">本书可分三部分前两章，三四章和后四章读。也可以把运动当做一个小核心。1章对爱利亚派的万物是一和存在是一的误解式反驳很关键得出的结论（存在有多重含义）可以和形而上学联系起来读。2认为自然事物动静的根源在自然而自然哲学家则只注意了自然之质料的一面忽略形式一面3说明无限的用意部分在此。除此外自然还有目的义。事物有四因其运动变化有终结在原因和目的理论里解释了。亚氏认为变化的希腊文一词内含了两事物。所以三本原的形式基础缺失也为解释变化。运动又将空间时间联系起来，对空间的讨论是与物体及物体的运动处所的相对关系展开的。时间是给运动计数的数，时间可分但现在不可分。5给出接触间介顺联顺接连续的说明。6因为古今思维不同而显得难以理解，8讨论运动是否有开始但始终没有谈及创世论，本书中没有第一推动者是神的结论。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="970981450">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-970981450" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-970981450" class="j a_show_login" data-cid="970981450">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/3044053/">田隅人</a>
+                    <span>2015-10-24</span>
+                </span>
+            </h3>
+            <p class="comment-content">一切自然事物都明显地在自身内有一个运动和静止的根源。由于质料和形式合成的事物，如人，就不是“自然”，而是“由于自然”而存在的事物。人由人产生，但床却不由床产生，床的自然不是它的图形而是木头。如果说技术物的图形是技术，那么对应地，自然物（如人）的形状也是自然。自然哲学家应该研究和质料不分离存在的形式。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="534746696">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-534746696" class="vote-count">2</span>
+                        <a href="javascript:;" id="btn-534746696" class="j a_show_login" data-cid="534746696">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/jinkai719/">阅微草堂</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2012-05-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">读这本书之前必须读亚里士多德的工具论，要不一点点也读不明白。。
+在这本书看到了康德的发展。。。
+没有亚，哪里有康德啊！！！！！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="992658844">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-992658844" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-992658844" class="j a_show_login" data-cid="992658844">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/3523140/">西大人</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2015-12-28</span>
+                </span>
+            </h3>
+            <p class="comment-content">所以说嘛，亚里士多德比康德还要思辨····真是可怕的头脑</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1199894301">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1199894301" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1199894301" class="j a_show_login" data-cid="1199894301">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/4506434/">dede100</a>
+                    <span>2017-06-08</span>
+                </span>
+            </h3>
+            <p class="comment-content">还是没读完。我也喜欢提问，可是老亚在这里也喜欢提问，不知道今后何时念得完的书</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1184333282">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1184333282" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1184333282" class="j a_show_login" data-cid="1184333282">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/148101291/">逍遥君</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-04-30</span>
+                </span>
+            </h3>
+            <p class="comment-content">思辨性可以。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1117725838">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1117725838" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1117725838" class="j a_show_login" data-cid="1117725838">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/131823411/">Hnysquare</a>
+                    <span>2016-12-06</span>
+                </span>
+            </h3>
+            <p class="comment-content">高中图书馆选地理的在看地理杂志。选历史的在看历史书。我挑了一本和我加试科目最相关的结果在说哲学...我会读完的。以后的某个时间。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1115340570">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1115340570" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-1115340570" class="j a_show_login" data-cid="1115340570">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/47631056/">陸釣雪</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-12-05</span>
+                </span>
+            </h3>
+            <p class="comment-content"> 《物理学》是亚里士多德现存的34部学园内部哲学讲座材料之一，至于学园外部讲的百家讲坛、工人夜校的材料则只有1部《雅典政制》留存下来。内部材料总是艰深而小众的，当年的阿卡德米学园也不过只有亚里士多德一人听完柏拉图关于《斐德若篇》的整部诵读而已（并模仿而写了少作《修辞学》）。Φυσικῆς ἀκροάσεως的意思是“关于自然的讲座”，而《形而上学》（τα μετα τα φυσιχα）的意思则是“物理学以后诸篇”或者说“关于自然之后的讲座”了。亚里士多德成功地在误解自然哲人和柏拉图《蒂迈欧篇》的基础上开始铺展自己关于四因、质/量、时/空、自然/技艺、运动/推动、形式/质料、潜能/实现、实体、偶性/必然等概念或者范畴的生化万物之理，在此意义上来讲，“物理学”和“形而上学”的翻译都是极为传神的。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1104621535">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1104621535" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1104621535" class="j a_show_login" data-cid="1104621535">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/weizuoqingnian/">佐为</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-04-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">本书可分三部分前两章，三四章和后四章读。也可以把运动当做一个小核心。1章对爱利亚派的万物是一和存在是一的误解式反驳很关键得出的结论（存在有多重含义）可以和形而上学联系起来读。2认为自然事物动静的根源在自然而自然哲学家则只注意了自然之质料的一面忽略形式一面3说明无限的用意部分在此。除此外自然还有目的义。事物有四因其运动变化有终结在原因和目的理论里解释了。亚氏认为变化的希腊文一词内含了两事物。所以三本原的形式基础缺失也为解释变化。运动又将空间时间联系起来，对空间的讨论是与物体及物体的运动处所的相对关系展开的。时间是给运动计数的数，时间可分但现在不可分。5给出接触间介顺联顺接连续的说明。6因为古今思维不同而显得难以理解，8讨论运动是否有开始但始终没有谈及创世论，本书中没有第一推动者是神的结论。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1157313/comments/">更多短评 41 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1157313/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            物理学的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 4 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5445613">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5445613/" class="title-link">亚里士多德 《物理学（phusikes akroaseos）》小...</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5445613"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/jiangxulin/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u47643947-54.jpg"></a>
+    <a href="https://www.douban.com/people/jiangxulin/" class="author">
+      <span property="v:reviewer">江绪林</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2012-05-28"
+      class="main-meta">2012-05-28 23:31:37</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5445613_short" class="review-short">
+            <div class="short-content">
+                   【按语：Φυσικῆς ἀκροάσεως（或&#34;phusikes akroaseos&#34;；拉丁语&#34;Physica&#34;或&#34;Physicae Auscultationes,&#34;） 原意是“自然论”（ &#34;lectures on nature&#34; ），不过中文从惯例翻译成《物理学》。 阅读中中文用的是商务印书馆张竹明版，英文对参的是普林斯顿...
+
+                    <a class="pl" href="https://book.douban.com/review/5445613/#comments">(5回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">15有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5445613_full" class="hidden">
+            <div id="review_5445613_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6766287">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6766287/" class="title-link">2014.Jul 《Aristotle&#39;s Physics》</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6766287"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/xuanqi1122/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u49540200-22.jpg"></a>
+    <a href="https://www.douban.com/people/xuanqi1122/" class="author">
+      <span property="v:reviewer">小魚</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-07-28"
+      class="main-meta">2014-07-28 03:27:08</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6766287_short" class="review-short">
+            <div class="short-content">
+                  据说Aristotle在教习亚历山大大帝的时候，亚历山大大帝曾经建议Aristotle将他授课的内容记录成书，让更多的人得以享用智慧。Aristotle说，我写下来也没人能看得懂。读Physics想起这个段子，真是觉得再贴切不过。  Joe Sachs的版本，最开始上课，同学手里什么版本都有，从第二节...
+
+                    <a class="pl" href="https://book.douban.com/review/6766287/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                        <span class="publisher left">
+                            Rutgers University Press1995版</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6766287_full" class="hidden">
+            <div id="review_6766287_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7735396">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7735396/" class="title-link">第八章 第四节——第五节</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7735396"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/1355665/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1355665-61.jpg"></a>
+    <a href="https://www.douban.com/people/1355665/" class="author">
+      <span property="v:reviewer">magnus</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2016-01-14"
+      class="main-meta">2016-01-14 20:37:36</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7735396_short" class="review-short">
+            <div class="short-content">
+                  第四节  推动者和运动者都有两类：一类是因偶性推动的，因偶性运动的；一类是因本性推动的，因本性运动的——凡因属于直接推动者或属于直接运动者的，以及作为部分包括在直接推动者或直接运动者中的，是因偶性的推动者和因偶性的运动者；凡不是因属于直接推动者或直接运动者，...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">0有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7735396_full" class="hidden">
+            <div id="review_7735396_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3382568">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3382568/" class="title-link">准备在暑假期间读这本书，求同好</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3382568"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/ian/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1001366-4.jpg"></a>
+    <a href="https://www.douban.com/people/ian/" class="author">
+      <span property="v:reviewer">Ian</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2010-07-01"
+      class="main-meta">2010-07-01 20:30:16</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3382568_short" class="review-short">
+            <div class="short-content">
+                  这本书很有味道，同时也很有难度，很有挑战性，一字一句读，做笔记。有兴趣一起读的，给我豆油。  英文参考  http://ebooks.adelaide.edu.au/a/aristotle/physics/  惊讶地发现这本书的活跃读者来自艺术圈，确实搞物理的现在不用读这本书。
+
+                    <a class="pl" href="https://book.douban.com/review/3382568/#comments">(5回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">0有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3382568_full" class="hidden">
+            <div id="review_3382568_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评4篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1157313/annotation">共<span property="v:count">11</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="40499645">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/47631056/"><img src="https://img1.doubanio.com/icon/u47631056-9.jpg" alt="陸釣雪" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/40499645/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/40499645/" class="">Φυσικῆς ἀκροάσεως</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/47631056/" class=" " title="陸釣雪">陸釣雪</a>
+                (热爱命运，实现自由，一码事)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="40499645">
+              <div class="short">
+                
+                  <span class="">译者前言
+总之，涉及整个自然科学。但它又不是近代以实验为基础的分门别类的自然科学，它只研究自然界的总原理，论述物质世界的运动变化的总规律。所以说它是一门哲学，是自然哲学。
+他根据各种运动形式有质的不同，第一次将运动分为：（一）实体的变化：产生和灭亡，和（二）非实体的变化：①性质上的变化，②数量上的变化——增加和减少，③空间方面的变化。他还明确指出：空间方面的变化即位置的变动是运动的基本形式。
+时间...</span>
+                <p class="pl">
+                  <span class="">2016-11-30 18:17</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                译者前言<div style="padding-bottom:1em;"></div>总之，涉及整个自然科学。但它又不是近代以实验为基础的分门别类的自然科学，它只研究自然界的总原理，论述物质世界的运动变化的总规律。所以说它是一门哲学，是自然哲学。<div style="padding-bottom:1em;"></div>他根据各种运动形式有质的不同，第一次将运动分为：（一）实体的变化：产生和灭亡，和（二）非实体的变化：①性质上的变化，②数量上的变化——增加和减少，③空间方面的变化。他还明确指出：空间方面的变化即位置的变动是运动的基本形式。<div style="padding-bottom:1em;"></div>时间、空间和运动的不可分割性，运动是时间、空间的本质，运动在时间、空间中进行；运动是永恒的，时间是无始无终的；时间和空间都是无限可分的，虽然他不承认空间在延伸上的无限。<div style="padding-bottom:1em;"></div>四因说或曰四个本原的学说，即用物质（质料）、形式、目的和动力（推动者）这四个原因来解释自然万物的运动和变化。<div style="padding-bottom:1em;"></div>从托马斯·阿奎那起基督教神学就一直利用这个第一推动力的学说论证上帝的存在。<div style="padding-bottom:1em;"></div>目的论。<div style="padding-bottom:1em;"></div>张竹明 1980年1月<div style="padding-bottom:1em;"></div>第一章<div style="padding-bottom:1em;"></div>第一节 本书的对象和方法。<div style="padding-bottom:1em;"></div>第二节 问题：自然本原的数目和特性。185a20 “实在”不是象巴门尼德和麦里梭所主张的那样的是一。<div style="padding-bottom:1em;"></div>那末，让我们肯定下来吧：自然物全部或其中一些是在运动变化着的，这一点用归纳法是可以看得很清楚的。<div style="padding-bottom:1em;"></div>安提丰化圆为方穷竭法。<div style="padding-bottom:1em;"></div>除了实体而外没有一个别的范畴能独立存在，所有别的范畴都被认为只是实体的宾辞。<div style="padding-bottom:1em;"></div>“由于偶性”（拉丁文per accidens）常用来对立于“由于自身”（由于本质）。<div style="padding-bottom:1em;"></div>第三节 驳他们的论证。<div style="padding-bottom:1em;"></div>巴门尼德的前提是错误的，因为他把“是”理解为只有一种涵义，事实上它有多种涵义。<div style="padding-bottom:1em;"></div>“正是”是指实体，其他的“是”是指属性。<div style="padding-bottom:1em;"></div>宇宙万物都是由多个不可分的“实体”合成的。<div style="padding-bottom:1em;"></div>“存在”是多。<div style="padding-bottom:1em;"></div>第四节 对自然哲学家主张的叙述和考察。<div style="padding-bottom:1em;"></div>钓雪按：惊现柏拉图！<div style="padding-bottom:1em;"></div>还是象恩培多克勒的做法，假定有限的少数几个元素比较好些。<div style="padding-bottom:1em;"></div>第五节 本原为对立。<div style="padding-bottom:1em;"></div>“原初对立”<div style="padding-bottom:1em;"></div>在苏格拉底之前还没有用过“元素”这个术语，而是用的“本原”。<div style="padding-bottom:1em;"></div>它们的不同是大家公认的；而它们的一致是指彼此类似，因为它们都是由同一个表里取来的（毕达哥拉斯的十对立表），但有的对立概括别的对立，范围较宽；有的却被别的对立所概括，范围较狭。<div style="padding-bottom:1em;"></div>于是本原应为对立，这是很明白的了。<div style="padding-bottom:1em;"></div>第六节 本原的数目为二或三。<div style="padding-bottom:1em;"></div>关于巴门尼德和《论生灭》：次一级的性质对立，如甘和苦，是由原初的（可触知的）对立冷热、干湿派生出来的，因为冷热、干湿的配合构成实体土、气、水、火的本性。次一级的对立是一些不固定的本原。<div style="padding-bottom:1em;"></div>因此，如果认为对立是本原，又，对立需要一个基础，这两个结论是正确的，那末，如果要坚持这两条，就必须提出一个第三者作为基础。<div style="padding-bottom:1em;"></div>其实“'一'以及'过量和不足'是存在的本原”这个说法是古已有之的。<div style="padding-bottom:1em;"></div>第七节 本原的数目和本性。<div style="padding-bottom:1em;"></div>“产生”<div style="padding-bottom:1em;"></div>关于“基础”的概念，参见《形而上学》1028b33以下。<div style="padding-bottom:1em;"></div>只有实体才用绝对产生这个含义。很明显，实体以外的别种变化，无论是量、质、关系、时间还是地点方面的变化，都必然有一个变化的基础即变化者。<div style="padding-bottom:1em;"></div>任何变化者都是合成的。包括（1）新产生的东西和（2）发生变化的东西。后者有两种涵义——或为基础，或为相反者。<div style="padding-bottom:1em;"></div>变化者或指基础+缺失（变化前），或指基础+形式（变化后）。在全部产生里，包括“变成”和绝对产生，都必定有基础+缺失。<div style="padding-bottom:1em;"></div>（1）质料<div style="padding-bottom:1em;"></div>（2）形式<div style="padding-bottom:1em;"></div>钓雪按：注意，二因说第一次出现！！！P36<div style="padding-bottom:1em;"></div>用类比的方法可以认识到自然的基础，因为基础对实体，也就是说对“这个”或“是”的关系，就像铜对铜像，木料对床，或者质料和取得形式以前的未定形式对已获得形式的事物的关系一样。<div style="padding-bottom:1em;"></div>钓雪按：亚的“实体”说当然跟近代唯理论的“实体”说大不同了；注意黑格尔《精神现象学》中的“这一个和意谓”章节！！！<div style="padding-bottom:1em;"></div>根据这些我们现在清楚了：对立两面的区别是什么，各本原相互间有什么关系，以及什么是基础。但是形式呢还是基础是事物的本质，这个问题还未说明（这问题在第二卷第一节中讨论）。但是本原有三个，以及如何是三个的，以及不同的看法都清楚了。<div style="padding-bottom:1em;"></div>那末，本原有多少个，它们是什么的问题就讲这些。<div style="padding-bottom:1em;"></div>第八节 解决早期哲学家疑难问题的正确意见。<div style="padding-bottom:1em;"></div>钓雪按：存在与产生（生成）+偶性。<div style="padding-bottom:1em;"></div>潜能与现实！！！<div style="padding-bottom:1em;"></div>第九节 关于自然本原问题的进一步的想法。<div style="padding-bottom:1em;"></div>钓雪按：最后终于向柏拉图派的学者们进攻了。<div style="padding-bottom:1em;"></div>他们的三元：大、小和理念，和我们的三元：质料、缺失和形式是非常不同的。（柏拉图的“大”和“小”相当于亚里士多德的质料，《蒂迈欧篇》50D，51A）<div style="padding-bottom:1em;"></div>正确的说法应是：要求形式的是质料，就象阴性要求阳性，丑的要求美的。不过丑的和阴性的是因偶性而要求美的和阳性的，这一点和质料因本性要求形式不同。<div style="padding-bottom:1em;"></div>钓雪按：缺失说奠定了基督教神学关于善恶论的一些论证，同时为亚自己的潜能/实现铺好了路，甚至打开了目的论的道路。<div style="padding-bottom:1em;"></div>至于详细地确定形式本原，它是一还是多的问题，以及它的（它们的）本性问题，这是第一哲学（亚自己把《形而上学》叫做第一哲学，把自然哲学叫做第二哲学）的任务。因此把这些问题留到适当的时候（脱离质料的永恒不变的形式的存在问题）再谈吧。而关于自然物的形式（也就是非永恒的形式）的问题，我们将在下面各章里接着讨论。<div style="padding-bottom:1em;"></div>我们到此确定了如下的问题：有本原，本原是哪些个，以及有几个本原。下面我们将开始论述另外的问题。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/40499645/#comments">回应</a>&nbsp;&nbsp;
+                  2016-11-30 18:17
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="39535373">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/cylinyu/"><img src="https://img3.doubanio.com/icon/u2439867-2.jpg" alt="Cyberpunk" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39535373/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39535373/" class="">第15页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/cylinyu/" class=" " title="Cyberpunk">Cyberpunk</a>
+                (豆瓣需要一个搜索我的广播的功能)
+              
+            </p>
+            <div class="reading-note" data-cid="39535373">
+              <div class="short">
+                
+                  <span class="">如果一种研究的对象具有本原，原因，或元素。只有认识了这些本原，原因，和元素，才是知道了或说了解了
+
+古希腊形而上学就是这样开始的：研究一个对象，就从研究它的本源开始。一个客观的一切事物的开端，是某一个确定的内容。原子，单体，理念，心灵等等。与其说是客观规定，不如说是准则，仍然是内容之规定。</span>
+                <p class="pl">
+                  <span class="">2016-10-09 13:30</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>如果一种研究的对象具有本原，原因，或元素。只有认识了这些本原，原因，和元素，才是知道了或说了解了</q></blockquote><div style="padding-bottom:1em;"></div>古希腊形而上学就是这样开始的：研究一个对象，就从研究它的本源开始。一个客观的一切事物的开端，是某一个确定的内容。原子，单体，理念，心灵等等。与其说是客观规定，不如说是准则，仍然是内容之规定。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39535373/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-09 13:30
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28602347">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/chesslover/"><img src="https://img3.doubanio.com/icon/u40553893-12.jpg" alt="塔湾子" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28602347/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28602347/" class="">第135页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/chesslover/" class=" " title="塔湾子">塔湾子</a>
+              
+            </p>
+            <div class="reading-note" data-cid="28602347">
+              <div class="short">
+                
+                  <span class="">我们这样地研究了这些问题之后，可以看得很明白：一切变化和一切运动事物皆在时间里。因为，快和慢是包括一切变化的，在所有的变化里都可以看到有快慢。我们说的一个运动比另一个运动快，意思就是说，以匀速运动通过同一距离时，一个变化比另一个变化先达到预定的状态，例如在位移方面，两事物皆沿着圆周线运动或皆沿着直线运动时有这种情况，在别种变化里也有这种情况。但是“先”是在时间里的。因为我们说“先” 和“后”，就是..</span>
+                <p class="pl">
+                  <span class="">2013-09-16 21:33</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>我们这样地研究了这些问题之后，可以看得很明白：一切变化和一切运动事物皆在时间里。因为，快和慢是包括一切变化的，在所有的变化里都可以看到有快慢。我们说的一个运动比另一个运动快，意思就是说，以匀速运动通过同一距离时，一个变化比另一个变化先达到预定的状态，例如在位移方面，两事物皆沿着圆周线运动或皆沿着直线运动时有这种情况，在别种变化里也有这种情况。但是“先”是在时间里的。因为我们说“先” 和“后”，就是说该事物达到预定状态的时间和“现在”之间有一段距离，而“现在”是过去和将来之间的限，因此，既然“现在”是在时间里的，那么“先”和“后”也是在时间里的，因为“现在”在什么里，和“现在”之间的距离也就应在什么里。（但是“先”在过去的时间里和在将来的时间里用法相反：在过去的时间里，我们把离“现在”较远的叫做“先”，把离“现在”较近的叫做“后”；而在将来的时间里，我们则把离“现在”较近的叫做“先”，把离“现在”较远的叫做“后”。）因此，既然“先”在时间里，而一切运动都有“先”，那么显然，一切变化和一切运动都是发生在时间里的。 </q></blockquote>
+按：时间的一个重要功能是用来测量快慢。而快、慢、先、后已经是时间上的标准了，也就是已经使用数来比较大小了。“我们说的一个运动比另一个运动快，意思就是说，以匀速运动通过同一距离时，一个变化比另一个变化先达到预定的状态，”以数量作比，也就是说，一个数量比另一个数量多，意思是说，以同一个单位去数两个数量，一个得到的个数比另一个得到的个数大。以此可以看出，那个匀速运动其实就是单位，也就是我们前面反复论说的“现在”。我们印象中的时间就是平稳地流淌的，就是匀速流淌的。也就是说，我们致一能力也有着一种类似均匀的性质。它是超越个体的。<div style="padding-bottom:1em;"></div><blockquote><q>时间是如何和意识发生关系的呢？以及，时间为什么被认为存在于陆地上、海洋里和天空里的一切事物呢？这些都是值得研究的问题。至于说到后一问题，那是因为时间作为运动的数，它是运动的性质或状况，而所有这些地方的事物都能运动（因为它们都在空间里），时间和运动无论在潜能上还是现实上都是同在的。 
+可能有人要问：如果意识不存在，时间是否存在呢？所以会产生这个问题是因为，如果没有计数者，也就不能有任何事物的被数，因此显然不能有任何数，因为数是已经被数者或能被数者。如果除了意识或意识的理性而外没有别的事物能实行计数的行动，那么，如果没有意识的话，也就不可能有时间，而只有作为时间存在基础的运动存在了（我们想象运动是能脱离意识而存在的）。但运动是有前和后的，而前和后作为可数的事物就是时间。 </q></blockquote>
+按：又一次点明了时间依赖主观能力。<div style="padding-bottom:1em;"></div><blockquote><q>也可能有人要问：时间是哪一种运动的数？是任何种运动的数吗？——因为产生、灭亡和生长都是在时间里的，性质变化和位置移动也是在时间里的。既然这些变化都作为运动，时间就必然是一切这类运动的数。因此，时间就一般地为连续性运动的数，而不只是某一特殊运动的数。 
+但是在一种运动进行中的“现在”，可能还有别的运动存在（其中每一个运动都有数）。它们的时间是不同的呢，还是同时有两个同样的时间呢？不是的。同样并同时的时间就是同一个，甚至不同时的时间也是同一种的：比如有一些狗，还有一些马，各为七只，其数是同一的。被同时定限的诸运动的时间也是同一的，运动尽可以有的快有的慢，一个是位移另一个是性质变化；只要两个运动的数是相同的和同时的，它们的时间就是同一的。也因此，尽管运动是不同的和分离的，在任何地方，它们的时间是同一的，因为相等的和同时的数在任何地方都是同一的。 
+既然有位移和包括在位移中的循环运动，又，既然一切事物皆用与之同类的某一个事物计量，单子用一个单子计量，马用一匹马计量，同样，时间也用某一定的时间来计量；又，如我们己说过的，时间以运动计量，运动也以时间计量——其所以如此，那是因为运动的量和时间的量都是以靠时间确定的运动来计量的——那么，如果一个基本事物是与之同类的所有事物的计量单位的话，整齐划一的循环运动最适于作为单位，因为它的数最容易为人所认识。
+性质变化、增长和产生都不整齐划一，只有位移能够划一。也正因此，才有人认为时间是天球的运动，因为别的运动皆由这个运动计量，时间也由这个运动计量之故。也因为此，产生了一个惯常的说法，即人们常说的：人类的事情以及一切其他具有自然运动和生灭过程的事物的现象都是一个循环。这是因为所有这一切都是在时间里被识别的，并且都有它们的终结和开始，仿佛在周期地进行着，因为时间本身也被认为是一种循环。而这又是因为时间计量这种位移，时间本身又被这种位移计量之故。因此把事物的产生说成是一个循环，就等于说时间有循环，而所以说时间有循环则是因为它是被循环运动计量的，因为除了计量单位而外，没有别的东西能看出被计量的事物，而整体事物就是许多个计量单位。 </q></blockquote>
+按：这里讨论的正是第十四节第一段所讨论的问题的进一步想法。而第十四节又是整个时间论文中的进一步想法。这几段的中心问题就是，时间的普遍性和个体性问题。时间是只有普遍的一个呢？还是各个运动有各个运动的时间？时间为什么只有一个？狗和马的例子好像表明亚氏只能从数字的相同来说明时间的同一。其实不然。相同的数字所表示的时间，最终必然要推至相同的动变单位。亚氏找到了循环运动。但如果是我们，我们的方向该是“现在”所具有的至私即是至公的性质。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28602347/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-16 21:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28602314">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/chesslover/"><img src="https://img3.doubanio.com/icon/u40553893-12.jpg" alt="塔湾子" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28602314/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28602314/" class="">第128页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/chesslover/" class=" " title="塔湾子">塔湾子</a>
+              
+            </p>
+            <div class="reading-note" data-cid="28602314">
+              <div class="short">
+                
+                  <span class="">最小的无名数是二。但是名数一方面有最小，一方面又没有最小，例如线，它在数方面的最小是二或一，但在量方面没有最小，因为每一条线都是永远可以分得更小的。时间的情况也相同：在数的方面最小是一或二，而在量方面没有最小。也显然，时间本身不能说“快慢”，而是“多少”或“长短”。因为作为连续体说它是“长短”，作为数说它是“多少”；但它不是“快慢”，因为，即使我们用以计数的数，也不是说快慢的。 
+在任何地方，同时..</span>
+                <p class="pl">
+                  <span class="">2013-09-16 21:31</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>最小的无名数是二。但是名数一方面有最小，一方面又没有最小，例如线，它在数方面的最小是二或一，但在量方面没有最小，因为每一条线都是永远可以分得更小的。时间的情况也相同：在数的方面最小是一或二，而在量方面没有最小。也显然，时间本身不能说“快慢”，而是“多少”或“长短”。因为作为连续体说它是“长短”，作为数说它是“多少”；但它不是“快慢”，因为，即使我们用以计数的数，也不是说快慢的。 
+在任何地方，同时的时间都是同一的，前后的时间就不是同一的，因为“正在发生的”变化是一个，而“已发生的”变化和“将发生的”变化不是同一个。时间不是我们用以计数的数，而是被计数的数，所以这个数因先后不同而永不相同，因为“现在”是各不相同的。一百匹马和一百个人的数目是同一的，但被数者是不同的，马不同于人。共次，象运动过程能一再反复地同一那样，时间也能如此，例如年、春、秋即是。 
+我们不仅用时间计量运动，也用运动计量时间，因为它们是相互确定的。时间既然是运动的数，所以它确定运动。运动也确定时间。我们说出用运动计量的时间是多是少，就象用被计量的事物来说出数一样，例如用一匹马作为单位来说出马的数目。我们是靠了数来认识马的多少的，反过来，又靠了一匹马作为单位来认识马的数目。在时间和运动的关系上也一样，因为我们一方面用时间来计量运动，另一方面也用运动来计量时间。这是一个很合逻辑的结果，因为运动相应于量，时间相应于运动，它们都是有量的、连续的和可分的。因为，运动所以是这样，由于量（大小）是这样的，而时间所以是这样，由于运动是这样的。又，我们用运动来计量量，也用量来计量运动，例如作了长途的跋涉，我们就说路途是长的；如果路途是长的，我们就说作了长途的跋涉。时间和运动之间的关系也如此，运动是怎样时间也是怎样，时间是怎样运动也是怎样。 
+既然时间是运动和运动存在的尺度，而时间计量运动是通过确定一个用以计量整个运动的运动来实现的，正如时尺之计量长度是通过将一时长规定为一个计量全长用的单位实现的那样。……</q></blockquote>
+按：这一段文字后出，而所讨论的内容却应当移到最前。在这两三段里，亚氏反复说明我们一般以为时间计量运动，其实本质上是运动计量时间。时间是数，例如五匹马中的五。而更本质的问题在于，五是如何数出的。五匹马是五个一匹马，五是数，而一匹马是单位。五要被数出，先决条件是先确定一匹马为单位。这一匹马是用以计量“五”这个数的单位，与用运动（一匹马）来作为计量时间（五）的单位是一样的意思。时间计量运动，运动也计量时间。也就是说五计量了有多少个一匹马，一匹马的存在也使得马被计数为五（以两匹马为单位，则马被计数为2.5）。这就是亚氏说时间的运动的数的意思（这2.5和5可以被类比到年月日之类）。但在阅读前几节时我们所关注的问题在于，一匹马、二匹马这样的单位是如何被选取和确定的，所以我们并没有过多地纠缠于间断的马匹单位与连续的数量之间的转换。通过十一节最后三段的细致分析，我们得到了一个选取一段运动（一段也是一种方便的说法）来计量时间的最基本单位——“现在”。以一匹马为单位，数量五意味着马被计量为有多少个（五个）一匹马；以现在为单位，时间也就意味着运动被计量为有多少个现在。所谓一日、一月、一年，也就是一日个现在，一月个现在，一年个现在。时间不表示长度，而是表示数量。数量是连续的，而它的单位是间断的。这是亚氏时间论述要说明的论点。亚氏是要说明时间，而我们更关注“现在”的意义。“现在”的基本内涵只是一，而我们拥有念念不断地进行致一的能力。这个“现在”与佛家所说的“刹那”相通，具体需另文论之。<div style="padding-bottom:1em;"></div><blockquote><q>……并且，运动之所谓“存在于时间里”就意味着，时间既计量运动本身，也计量运动的存在，——因为它计量运动和计量运动的存在是同时的，并且，运动之“存在于时间里”这正是意味着，它的存在是以时间计量的——显然，其他事物的“存在于时间里” 也是如此，即由时间计量它们的存在。 
+所谓“存莅于时间里”有两种涵义：（1）在时间存在着的时候存在着，或者（2）象我们说一些事物“存在于数里”那样。而后者又（a）意味着这些事物是数的部分或数的方式，一般地说，是“数的某某”；（b）或意味着这些事物有数。 
+既然（2）时间是数，那么（a）“现在”和“前”等等之在时间里，就象“单位”、“奇数”、“偶数”之在数里一样（因为后者是“数的某某”，前者是“时间的某某”），但是（b）事物存在于时间里是象存在于数里那样的，如果是这样的话，那么，事物被数所包括就象在空间里的事物被空间所包括那样。 
+也很显然，（1）“在时间存在着的时候存在着”并不等于“存在于时间里”，就象当运动或空间存在着的时候存在，并不等于存在在运动里或空间里一样。因为，如果在某事物里就是这个意思的话，那么一切事物就可以在随厦什么事物里了，宇宙也可以存在在一粒谷里了，因为当谷粒存在时宇宙也存在着。但是这个说法偶然是合适的；反过来说是必然合适的：事物存在在时间里必然意味着，事物存在时相应的时间也存在；事物存在在运 动里必然意味着，事物存在时相应的运动也存在。 
+既然“在时间里”象“在数里”一样，那么可以认为时间比一切在时间里的事物都长久。因此必然，在时间里的所有事物应被时间所包括，就象其他“在某事物里的事物”也被某事物所包括，例如，在空间里的事物被空间所包括一样。因此，事物也受到时间一定的影响，正如我们惯常说“时间消磨着事物”以及“一切事物俱因时间的迁移而变老了，由于时间的消逝而被淡忘了”等等。然而我们不说，随着时间的过去学会了什么，或变年轻了，或变美好了。因为时间本身主要是一个破坏性的因素。它是运动的数，而运动危害着事物的现状。因此显然，永恒的事物不存在于时间里，因为它不被时间所包括，它们的存在也不是由时间计量的。可以证明这一点的是：这种事物没有一个会受到时间的影响。这表明它们不存在于时间里。 </q></blockquote>
+按：区分“存在于时间里”的两种类型是否真的必要呢？因为“存在于时间里”这种说法本身就似乎是顺从世俗一般理解的表述，应该列入下一节对“几个时间术语的定义”的讨论中。事物存在于数中，还使用上一段的例子，马如何存在于“五”中？确实与事物存在于空间中有些不同，但更进一步思考却仍然可以找到相同之处。马存在于五中，与马存在于一个空间中一样，都依赖综合统一性。统一空间的方式是形象重合，统一数量的方式是概念的叠加。“在时间存在的时候存在着”，是否是一个疑难？如果仅仅是像此段里所担心的那样，宇宙也可以存在在一颗谷粒里，那似乎并不能以此为理由将这种模式排除。这种表述很符合即体即用的说法，而因为我们在讨论概念的叠加，也并不应该把形象的重合混杂进来。存在于时间里的事物的概念在时间概念存在的时候存在着，这十分符合概念的叠加的表达方式。唯一的困难在于已经消失了的事物的概念只与过去的时间同时存在，而不与现在的时间同时存在，而时间的概念却无所谓现在和过去。问题大概出现在这里的“时间”指代得并不明确。<div style="padding-bottom:1em;"></div>“永恒的事物不存在于时间里”，字面的意思是永恒的东西不随着时间而发生动变。而我们已经知道，时间是数，如果类比数，也就是说永恒的事物不能被数，没有数量。换句话说，永恒的事物没有动变，不能被以动变的单位计量。五匹马用数量五来计量，就可以得到一匹马，而不用数量来计量也就得不到所谓的一匹马的单位。而没有这动变的单位，也就没有由单位乘以数量得到的总体了。也就是说永恒的东西没有动变。但是另一方面我们知道这个动变的单位与现在有关，在这个现在中，我们综合了前后两个现在在一个现在里，在一中看出了动变。在这个意义上说永恒者没有动变意味着什么呢？意味着这个一中看不出动变。要么是这个一无法得到，前个和后个不被认为是同一的东西，因而无法比较；要么是前后两个完全一样，比较不出不同。后一种情况实际表现为分不出前后，而只有一个印象，一个现在。进一步意味着我们的致一能力只能对它形成一种印象。这个永恒者要么是我们的致一能力本身，而我们的致一能力不变；要么我们的能力可以变化，而它彻底地超越我们的能力。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28602314/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-16 21:31
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="20689794">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2284641/"><img src="https://img3.doubanio.com/icon/u2284641-65.jpg" alt="MUSIKINNERUNG" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/20689794/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/20689794/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2284641/" class=" " title="MUSIKINNERUNG">MUSIKINNERUNG</a>
+              
+            </p>
+            <div class="reading-note" data-cid="20689794">
+              <div class="short">
+                
+                  <span class="">海德格尔对《物理学》第一章的高度评价（“进入哲学的经典导论”）以及对首页第二段的独特翻译。GA10. 93-94.</span>
+                <p class="pl">
+                  <span class="">2012-08-28 14:15</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                海德格尔对《物理学》第一章的高度评价（“进入哲学的经典导论”）以及对首页第二段的独特翻译。GA10. 93-94.
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/20689794/#comments">回应</a>&nbsp;&nbsp;
+                  2012-08-28 14:15
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="39535373">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/cylinyu/"><img src="https://img3.doubanio.com/icon/u2439867-2.jpg" alt="Cyberpunk" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39535373/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39535373/" class="">第15页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/cylinyu/" class=" " title="Cyberpunk">Cyberpunk</a>
+                (豆瓣需要一个搜索我的广播的功能)
+              
+            </p>
+            <div class="reading-note" data-cid="39535373">
+              <div class="short">
+                
+                  <span class="">如果一种研究的对象具有本原，原因，或元素。只有认识了这些本原，原因，和元素，才是知道了或说了解了
+
+古希腊形而上学就是这样开始的：研究一个对象，就从研究它的本源开始。一个客观的一切事物的开端，是某一个确定的内容。原子，单体，理念，心灵等等。与其说是客观规定，不如说是准则，仍然是内容之规定。</span>
+                <p class="pl">
+                  <span class="">2016-10-09 13:30</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>如果一种研究的对象具有本原，原因，或元素。只有认识了这些本原，原因，和元素，才是知道了或说了解了</q></blockquote><div style="padding-bottom:1em;"></div>古希腊形而上学就是这样开始的：研究一个对象，就从研究它的本源开始。一个客观的一切事物的开端，是某一个确定的内容。原子，单体，理念，心灵等等。与其说是客观规定，不如说是准则，仍然是内容之规定。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39535373/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-09 13:30
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="18020381">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/1792647/"><img src="https://img3.doubanio.com/icon/u1792647-5.jpg" alt="屏幕快照" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18020381/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18020381/" class="">第31页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/1792647/" class=" " title="屏幕快照">屏幕快照</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="18020381">
+              <div class="short">
+                
+                  <span class="">于是本原应为对立，这是很明白的了。
+
+看亚理士多德娓娓道来。古希腊时期的哲学并不像发展到后世的哲学物理学数学那样复杂到因为其中一层层含义必须使用特定指称，以至于其学科中所用的语言已经完全不同于日常语言的概念，导致如果没有经过数年的专业训练就不能理解其含义。虽然是文明的童年时期，但是对真理的思考的深刻性却不亚于后世。对于“真”的接近，和复杂与精巧没有关系。</span>
+                <p class="pl">
+                  <span class="">2012-04-28 01:42</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>于是本原应为对立，这是很明白的了。</q></blockquote><div style="padding-bottom:1em;"></div>看亚理士多德娓娓道来。古希腊时期的哲学并不像发展到后世的哲学物理学数学那样复杂到因为其中一层层含义必须使用特定指称，以至于其学科中所用的语言已经完全不同于日常语言的概念，导致如果没有经过数年的专业训练就不能理解其含义。虽然是文明的童年时期，但是对真理的思考的深刻性却不亚于后世。对于“真”的接近，和复杂与精巧没有关系。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18020381/#comments">回应</a>&nbsp;&nbsp;
+                  2012-04-28 01:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="11388351">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/huateng/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="[已注销]" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/11388351/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/11388351/" class="">第98页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/huateng/" class=" " title="[已注销]">[已注销]</a>
+              
+            </p>
+            <div class="reading-note" data-cid="11388351">
+              <div class="short">
+                
+                  <span class="">亚里斯多德他老人家，把世界撕开来给我们看。
+不是物质聚拢组合成可见的世界，而是世界渐渐分解成一片片冥想的心灵。
+</span>
+                <p class="pl">
+                  <span class="">2011-02-17 11:36</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                亚里斯多德他老人家，把世界撕开来给我们看。<div style="padding-bottom:1em;"></div>不是物质聚拢组合成可见的世界，而是世界渐渐分解成一片片冥想的心灵。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/11388351/#comments">回应</a>&nbsp;&nbsp;
+                  2011-02-17 11:36
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="40499645">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/47631056/"><img src="https://img1.doubanio.com/icon/u47631056-9.jpg" alt="陸釣雪" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/40499645/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/40499645/" class="">Φυσικῆς ἀκροάσεως</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/47631056/" class=" " title="陸釣雪">陸釣雪</a>
+                (热爱命运，实现自由，一码事)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="40499645">
+              <div class="short">
+                
+                  <span class="">译者前言
+总之，涉及整个自然科学。但它又不是近代以实验为基础的分门别类的自然科学，它只研究自然界的总原理，论述物质世界的运动变化的总规律。所以说它是一门哲学，是自然哲学。
+他根据各种运动形式有质的不同，第一次将运动分为：（一）实体的变化：产生和灭亡，和（二）非实体的变化：①性质上的变化，②数量上的变化——增加和减少，③空间方面的变化。他还明确指出：空间方面的变化即位置的变动是运动的基本形式。
+时间...</span>
+                <p class="pl">
+                  <span class="">2016-11-30 18:17</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                译者前言<div style="padding-bottom:1em;"></div>总之，涉及整个自然科学。但它又不是近代以实验为基础的分门别类的自然科学，它只研究自然界的总原理，论述物质世界的运动变化的总规律。所以说它是一门哲学，是自然哲学。<div style="padding-bottom:1em;"></div>他根据各种运动形式有质的不同，第一次将运动分为：（一）实体的变化：产生和灭亡，和（二）非实体的变化：①性质上的变化，②数量上的变化——增加和减少，③空间方面的变化。他还明确指出：空间方面的变化即位置的变动是运动的基本形式。<div style="padding-bottom:1em;"></div>时间、空间和运动的不可分割性，运动是时间、空间的本质，运动在时间、空间中进行；运动是永恒的，时间是无始无终的；时间和空间都是无限可分的，虽然他不承认空间在延伸上的无限。<div style="padding-bottom:1em;"></div>四因说或曰四个本原的学说，即用物质（质料）、形式、目的和动力（推动者）这四个原因来解释自然万物的运动和变化。<div style="padding-bottom:1em;"></div>从托马斯·阿奎那起基督教神学就一直利用这个第一推动力的学说论证上帝的存在。<div style="padding-bottom:1em;"></div>目的论。<div style="padding-bottom:1em;"></div>张竹明 1980年1月<div style="padding-bottom:1em;"></div>第一章<div style="padding-bottom:1em;"></div>第一节 本书的对象和方法。<div style="padding-bottom:1em;"></div>第二节 问题：自然本原的数目和特性。185a20 “实在”不是象巴门尼德和麦里梭所主张的那样的是一。<div style="padding-bottom:1em;"></div>那末，让我们肯定下来吧：自然物全部或其中一些是在运动变化着的，这一点用归纳法是可以看得很清楚的。<div style="padding-bottom:1em;"></div>安提丰化圆为方穷竭法。<div style="padding-bottom:1em;"></div>除了实体而外没有一个别的范畴能独立存在，所有别的范畴都被认为只是实体的宾辞。<div style="padding-bottom:1em;"></div>“由于偶性”（拉丁文per accidens）常用来对立于“由于自身”（由于本质）。<div style="padding-bottom:1em;"></div>第三节 驳他们的论证。<div style="padding-bottom:1em;"></div>巴门尼德的前提是错误的，因为他把“是”理解为只有一种涵义，事实上它有多种涵义。<div style="padding-bottom:1em;"></div>“正是”是指实体，其他的“是”是指属性。<div style="padding-bottom:1em;"></div>宇宙万物都是由多个不可分的“实体”合成的。<div style="padding-bottom:1em;"></div>“存在”是多。<div style="padding-bottom:1em;"></div>第四节 对自然哲学家主张的叙述和考察。<div style="padding-bottom:1em;"></div>钓雪按：惊现柏拉图！<div style="padding-bottom:1em;"></div>还是象恩培多克勒的做法，假定有限的少数几个元素比较好些。<div style="padding-bottom:1em;"></div>第五节 本原为对立。<div style="padding-bottom:1em;"></div>“原初对立”<div style="padding-bottom:1em;"></div>在苏格拉底之前还没有用过“元素”这个术语，而是用的“本原”。<div style="padding-bottom:1em;"></div>它们的不同是大家公认的；而它们的一致是指彼此类似，因为它们都是由同一个表里取来的（毕达哥拉斯的十对立表），但有的对立概括别的对立，范围较宽；有的却被别的对立所概括，范围较狭。<div style="padding-bottom:1em;"></div>于是本原应为对立，这是很明白的了。<div style="padding-bottom:1em;"></div>第六节 本原的数目为二或三。<div style="padding-bottom:1em;"></div>关于巴门尼德和《论生灭》：次一级的性质对立，如甘和苦，是由原初的（可触知的）对立冷热、干湿派生出来的，因为冷热、干湿的配合构成实体土、气、水、火的本性。次一级的对立是一些不固定的本原。<div style="padding-bottom:1em;"></div>因此，如果认为对立是本原，又，对立需要一个基础，这两个结论是正确的，那末，如果要坚持这两条，就必须提出一个第三者作为基础。<div style="padding-bottom:1em;"></div>其实“'一'以及'过量和不足'是存在的本原”这个说法是古已有之的。<div style="padding-bottom:1em;"></div>第七节 本原的数目和本性。<div style="padding-bottom:1em;"></div>“产生”<div style="padding-bottom:1em;"></div>关于“基础”的概念，参见《形而上学》1028b33以下。<div style="padding-bottom:1em;"></div>只有实体才用绝对产生这个含义。很明显，实体以外的别种变化，无论是量、质、关系、时间还是地点方面的变化，都必然有一个变化的基础即变化者。<div style="padding-bottom:1em;"></div>任何变化者都是合成的。包括（1）新产生的东西和（2）发生变化的东西。后者有两种涵义——或为基础，或为相反者。<div style="padding-bottom:1em;"></div>变化者或指基础+缺失（变化前），或指基础+形式（变化后）。在全部产生里，包括“变成”和绝对产生，都必定有基础+缺失。<div style="padding-bottom:1em;"></div>（1）质料<div style="padding-bottom:1em;"></div>（2）形式<div style="padding-bottom:1em;"></div>钓雪按：注意，二因说第一次出现！！！P36<div style="padding-bottom:1em;"></div>用类比的方法可以认识到自然的基础，因为基础对实体，也就是说对“这个”或“是”的关系，就像铜对铜像，木料对床，或者质料和取得形式以前的未定形式对已获得形式的事物的关系一样。<div style="padding-bottom:1em;"></div>钓雪按：亚的“实体”说当然跟近代唯理论的“实体”说大不同了；注意黑格尔《精神现象学》中的“这一个和意谓”章节！！！<div style="padding-bottom:1em;"></div>根据这些我们现在清楚了：对立两面的区别是什么，各本原相互间有什么关系，以及什么是基础。但是形式呢还是基础是事物的本质，这个问题还未说明（这问题在第二卷第一节中讨论）。但是本原有三个，以及如何是三个的，以及不同的看法都清楚了。<div style="padding-bottom:1em;"></div>那末，本原有多少个，它们是什么的问题就讲这些。<div style="padding-bottom:1em;"></div>第八节 解决早期哲学家疑难问题的正确意见。<div style="padding-bottom:1em;"></div>钓雪按：存在与产生（生成）+偶性。<div style="padding-bottom:1em;"></div>潜能与现实！！！<div style="padding-bottom:1em;"></div>第九节 关于自然本原问题的进一步的想法。<div style="padding-bottom:1em;"></div>钓雪按：最后终于向柏拉图派的学者们进攻了。<div style="padding-bottom:1em;"></div>他们的三元：大、小和理念，和我们的三元：质料、缺失和形式是非常不同的。（柏拉图的“大”和“小”相当于亚里士多德的质料，《蒂迈欧篇》50D，51A）<div style="padding-bottom:1em;"></div>正确的说法应是：要求形式的是质料，就象阴性要求阳性，丑的要求美的。不过丑的和阴性的是因偶性而要求美的和阳性的，这一点和质料因本性要求形式不同。<div style="padding-bottom:1em;"></div>钓雪按：缺失说奠定了基督教神学关于善恶论的一些论证，同时为亚自己的潜能/实现铺好了路，甚至打开了目的论的道路。<div style="padding-bottom:1em;"></div>至于详细地确定形式本原，它是一还是多的问题，以及它的（它们的）本性问题，这是第一哲学（亚自己把《形而上学》叫做第一哲学，把自然哲学叫做第二哲学）的任务。因此把这些问题留到适当的时候（脱离质料的永恒不变的形式的存在问题）再谈吧。而关于自然物的形式（也就是非永恒的形式）的问题，我们将在下面各章里接着讨论。<div style="padding-bottom:1em;"></div>我们到此确定了如下的问题：有本原，本原是哪些个，以及有几个本原。下面我们将开始论述另外的问题。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/40499645/#comments">回应</a>&nbsp;&nbsp;
+                  2016-11-30 18:17
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="39535373">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/cylinyu/"><img src="https://img3.doubanio.com/icon/u2439867-2.jpg" alt="Cyberpunk" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39535373/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39535373/" class="">第15页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/cylinyu/" class=" " title="Cyberpunk">Cyberpunk</a>
+                (豆瓣需要一个搜索我的广播的功能)
+              
+            </p>
+            <div class="reading-note" data-cid="39535373">
+              <div class="short">
+                
+                  <span class="">如果一种研究的对象具有本原，原因，或元素。只有认识了这些本原，原因，和元素，才是知道了或说了解了
+
+古希腊形而上学就是这样开始的：研究一个对象，就从研究它的本源开始。一个客观的一切事物的开端，是某一个确定的内容。原子，单体，理念，心灵等等。与其说是客观规定，不如说是准则，仍然是内容之规定。</span>
+                <p class="pl">
+                  <span class="">2016-10-09 13:30</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>如果一种研究的对象具有本原，原因，或元素。只有认识了这些本原，原因，和元素，才是知道了或说了解了</q></blockquote><div style="padding-bottom:1em;"></div>古希腊形而上学就是这样开始的：研究一个对象，就从研究它的本源开始。一个客观的一切事物的开端，是某一个确定的内容。原子，单体，理念，心灵等等。与其说是客观规定，不如说是准则，仍然是内容之规定。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39535373/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-09 13:30
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28602347">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/chesslover/"><img src="https://img3.doubanio.com/icon/u40553893-12.jpg" alt="塔湾子" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28602347/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28602347/" class="">第135页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/chesslover/" class=" " title="塔湾子">塔湾子</a>
+              
+            </p>
+            <div class="reading-note" data-cid="28602347">
+              <div class="short">
+                
+                  <span class="">我们这样地研究了这些问题之后，可以看得很明白：一切变化和一切运动事物皆在时间里。因为，快和慢是包括一切变化的，在所有的变化里都可以看到有快慢。我们说的一个运动比另一个运动快，意思就是说，以匀速运动通过同一距离时，一个变化比另一个变化先达到预定的状态，例如在位移方面，两事物皆沿着圆周线运动或皆沿着直线运动时有这种情况，在别种变化里也有这种情况。但是“先”是在时间里的。因为我们说“先” 和“后”，就是..</span>
+                <p class="pl">
+                  <span class="">2013-09-16 21:33</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>我们这样地研究了这些问题之后，可以看得很明白：一切变化和一切运动事物皆在时间里。因为，快和慢是包括一切变化的，在所有的变化里都可以看到有快慢。我们说的一个运动比另一个运动快，意思就是说，以匀速运动通过同一距离时，一个变化比另一个变化先达到预定的状态，例如在位移方面，两事物皆沿着圆周线运动或皆沿着直线运动时有这种情况，在别种变化里也有这种情况。但是“先”是在时间里的。因为我们说“先” 和“后”，就是说该事物达到预定状态的时间和“现在”之间有一段距离，而“现在”是过去和将来之间的限，因此，既然“现在”是在时间里的，那么“先”和“后”也是在时间里的，因为“现在”在什么里，和“现在”之间的距离也就应在什么里。（但是“先”在过去的时间里和在将来的时间里用法相反：在过去的时间里，我们把离“现在”较远的叫做“先”，把离“现在”较近的叫做“后”；而在将来的时间里，我们则把离“现在”较近的叫做“先”，把离“现在”较远的叫做“后”。）因此，既然“先”在时间里，而一切运动都有“先”，那么显然，一切变化和一切运动都是发生在时间里的。 </q></blockquote>
+按：时间的一个重要功能是用来测量快慢。而快、慢、先、后已经是时间上的标准了，也就是已经使用数来比较大小了。“我们说的一个运动比另一个运动快，意思就是说，以匀速运动通过同一距离时，一个变化比另一个变化先达到预定的状态，”以数量作比，也就是说，一个数量比另一个数量多，意思是说，以同一个单位去数两个数量，一个得到的个数比另一个得到的个数大。以此可以看出，那个匀速运动其实就是单位，也就是我们前面反复论说的“现在”。我们印象中的时间就是平稳地流淌的，就是匀速流淌的。也就是说，我们致一能力也有着一种类似均匀的性质。它是超越个体的。<div style="padding-bottom:1em;"></div><blockquote><q>时间是如何和意识发生关系的呢？以及，时间为什么被认为存在于陆地上、海洋里和天空里的一切事物呢？这些都是值得研究的问题。至于说到后一问题，那是因为时间作为运动的数，它是运动的性质或状况，而所有这些地方的事物都能运动（因为它们都在空间里），时间和运动无论在潜能上还是现实上都是同在的。 
+可能有人要问：如果意识不存在，时间是否存在呢？所以会产生这个问题是因为，如果没有计数者，也就不能有任何事物的被数，因此显然不能有任何数，因为数是已经被数者或能被数者。如果除了意识或意识的理性而外没有别的事物能实行计数的行动，那么，如果没有意识的话，也就不可能有时间，而只有作为时间存在基础的运动存在了（我们想象运动是能脱离意识而存在的）。但运动是有前和后的，而前和后作为可数的事物就是时间。 </q></blockquote>
+按：又一次点明了时间依赖主观能力。<div style="padding-bottom:1em;"></div><blockquote><q>也可能有人要问：时间是哪一种运动的数？是任何种运动的数吗？——因为产生、灭亡和生长都是在时间里的，性质变化和位置移动也是在时间里的。既然这些变化都作为运动，时间就必然是一切这类运动的数。因此，时间就一般地为连续性运动的数，而不只是某一特殊运动的数。 
+但是在一种运动进行中的“现在”，可能还有别的运动存在（其中每一个运动都有数）。它们的时间是不同的呢，还是同时有两个同样的时间呢？不是的。同样并同时的时间就是同一个，甚至不同时的时间也是同一种的：比如有一些狗，还有一些马，各为七只，其数是同一的。被同时定限的诸运动的时间也是同一的，运动尽可以有的快有的慢，一个是位移另一个是性质变化；只要两个运动的数是相同的和同时的，它们的时间就是同一的。也因此，尽管运动是不同的和分离的，在任何地方，它们的时间是同一的，因为相等的和同时的数在任何地方都是同一的。 
+既然有位移和包括在位移中的循环运动，又，既然一切事物皆用与之同类的某一个事物计量，单子用一个单子计量，马用一匹马计量，同样，时间也用某一定的时间来计量；又，如我们己说过的，时间以运动计量，运动也以时间计量——其所以如此，那是因为运动的量和时间的量都是以靠时间确定的运动来计量的——那么，如果一个基本事物是与之同类的所有事物的计量单位的话，整齐划一的循环运动最适于作为单位，因为它的数最容易为人所认识。
+性质变化、增长和产生都不整齐划一，只有位移能够划一。也正因此，才有人认为时间是天球的运动，因为别的运动皆由这个运动计量，时间也由这个运动计量之故。也因为此，产生了一个惯常的说法，即人们常说的：人类的事情以及一切其他具有自然运动和生灭过程的事物的现象都是一个循环。这是因为所有这一切都是在时间里被识别的，并且都有它们的终结和开始，仿佛在周期地进行着，因为时间本身也被认为是一种循环。而这又是因为时间计量这种位移，时间本身又被这种位移计量之故。因此把事物的产生说成是一个循环，就等于说时间有循环，而所以说时间有循环则是因为它是被循环运动计量的，因为除了计量单位而外，没有别的东西能看出被计量的事物，而整体事物就是许多个计量单位。 </q></blockquote>
+按：这里讨论的正是第十四节第一段所讨论的问题的进一步想法。而第十四节又是整个时间论文中的进一步想法。这几段的中心问题就是，时间的普遍性和个体性问题。时间是只有普遍的一个呢？还是各个运动有各个运动的时间？时间为什么只有一个？狗和马的例子好像表明亚氏只能从数字的相同来说明时间的同一。其实不然。相同的数字所表示的时间，最终必然要推至相同的动变单位。亚氏找到了循环运动。但如果是我们，我们的方向该是“现在”所具有的至私即是至公的性质。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28602347/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-16 21:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28602314">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/chesslover/"><img src="https://img3.doubanio.com/icon/u40553893-12.jpg" alt="塔湾子" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28602314/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28602314/" class="">第128页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/chesslover/" class=" " title="塔湾子">塔湾子</a>
+              
+            </p>
+            <div class="reading-note" data-cid="28602314">
+              <div class="short">
+                
+                  <span class="">最小的无名数是二。但是名数一方面有最小，一方面又没有最小，例如线，它在数方面的最小是二或一，但在量方面没有最小，因为每一条线都是永远可以分得更小的。时间的情况也相同：在数的方面最小是一或二，而在量方面没有最小。也显然，时间本身不能说“快慢”，而是“多少”或“长短”。因为作为连续体说它是“长短”，作为数说它是“多少”；但它不是“快慢”，因为，即使我们用以计数的数，也不是说快慢的。 
+在任何地方，同时..</span>
+                <p class="pl">
+                  <span class="">2013-09-16 21:31</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>最小的无名数是二。但是名数一方面有最小，一方面又没有最小，例如线，它在数方面的最小是二或一，但在量方面没有最小，因为每一条线都是永远可以分得更小的。时间的情况也相同：在数的方面最小是一或二，而在量方面没有最小。也显然，时间本身不能说“快慢”，而是“多少”或“长短”。因为作为连续体说它是“长短”，作为数说它是“多少”；但它不是“快慢”，因为，即使我们用以计数的数，也不是说快慢的。 
+在任何地方，同时的时间都是同一的，前后的时间就不是同一的，因为“正在发生的”变化是一个，而“已发生的”变化和“将发生的”变化不是同一个。时间不是我们用以计数的数，而是被计数的数，所以这个数因先后不同而永不相同，因为“现在”是各不相同的。一百匹马和一百个人的数目是同一的，但被数者是不同的，马不同于人。共次，象运动过程能一再反复地同一那样，时间也能如此，例如年、春、秋即是。 
+我们不仅用时间计量运动，也用运动计量时间，因为它们是相互确定的。时间既然是运动的数，所以它确定运动。运动也确定时间。我们说出用运动计量的时间是多是少，就象用被计量的事物来说出数一样，例如用一匹马作为单位来说出马的数目。我们是靠了数来认识马的多少的，反过来，又靠了一匹马作为单位来认识马的数目。在时间和运动的关系上也一样，因为我们一方面用时间来计量运动，另一方面也用运动来计量时间。这是一个很合逻辑的结果，因为运动相应于量，时间相应于运动，它们都是有量的、连续的和可分的。因为，运动所以是这样，由于量（大小）是这样的，而时间所以是这样，由于运动是这样的。又，我们用运动来计量量，也用量来计量运动，例如作了长途的跋涉，我们就说路途是长的；如果路途是长的，我们就说作了长途的跋涉。时间和运动之间的关系也如此，运动是怎样时间也是怎样，时间是怎样运动也是怎样。 
+既然时间是运动和运动存在的尺度，而时间计量运动是通过确定一个用以计量整个运动的运动来实现的，正如时尺之计量长度是通过将一时长规定为一个计量全长用的单位实现的那样。……</q></blockquote>
+按：这一段文字后出，而所讨论的内容却应当移到最前。在这两三段里，亚氏反复说明我们一般以为时间计量运动，其实本质上是运动计量时间。时间是数，例如五匹马中的五。而更本质的问题在于，五是如何数出的。五匹马是五个一匹马，五是数，而一匹马是单位。五要被数出，先决条件是先确定一匹马为单位。这一匹马是用以计量“五”这个数的单位，与用运动（一匹马）来作为计量时间（五）的单位是一样的意思。时间计量运动，运动也计量时间。也就是说五计量了有多少个一匹马，一匹马的存在也使得马被计数为五（以两匹马为单位，则马被计数为2.5）。这就是亚氏说时间的运动的数的意思（这2.5和5可以被类比到年月日之类）。但在阅读前几节时我们所关注的问题在于，一匹马、二匹马这样的单位是如何被选取和确定的，所以我们并没有过多地纠缠于间断的马匹单位与连续的数量之间的转换。通过十一节最后三段的细致分析，我们得到了一个选取一段运动（一段也是一种方便的说法）来计量时间的最基本单位——“现在”。以一匹马为单位，数量五意味着马被计量为有多少个（五个）一匹马；以现在为单位，时间也就意味着运动被计量为有多少个现在。所谓一日、一月、一年，也就是一日个现在，一月个现在，一年个现在。时间不表示长度，而是表示数量。数量是连续的，而它的单位是间断的。这是亚氏时间论述要说明的论点。亚氏是要说明时间，而我们更关注“现在”的意义。“现在”的基本内涵只是一，而我们拥有念念不断地进行致一的能力。这个“现在”与佛家所说的“刹那”相通，具体需另文论之。<div style="padding-bottom:1em;"></div><blockquote><q>……并且，运动之所谓“存在于时间里”就意味着，时间既计量运动本身，也计量运动的存在，——因为它计量运动和计量运动的存在是同时的，并且，运动之“存在于时间里”这正是意味着，它的存在是以时间计量的——显然，其他事物的“存在于时间里” 也是如此，即由时间计量它们的存在。 
+所谓“存莅于时间里”有两种涵义：（1）在时间存在着的时候存在着，或者（2）象我们说一些事物“存在于数里”那样。而后者又（a）意味着这些事物是数的部分或数的方式，一般地说，是“数的某某”；（b）或意味着这些事物有数。 
+既然（2）时间是数，那么（a）“现在”和“前”等等之在时间里，就象“单位”、“奇数”、“偶数”之在数里一样（因为后者是“数的某某”，前者是“时间的某某”），但是（b）事物存在于时间里是象存在于数里那样的，如果是这样的话，那么，事物被数所包括就象在空间里的事物被空间所包括那样。 
+也很显然，（1）“在时间存在着的时候存在着”并不等于“存在于时间里”，就象当运动或空间存在着的时候存在，并不等于存在在运动里或空间里一样。因为，如果在某事物里就是这个意思的话，那么一切事物就可以在随厦什么事物里了，宇宙也可以存在在一粒谷里了，因为当谷粒存在时宇宙也存在着。但是这个说法偶然是合适的；反过来说是必然合适的：事物存在在时间里必然意味着，事物存在时相应的时间也存在；事物存在在运 动里必然意味着，事物存在时相应的运动也存在。 
+既然“在时间里”象“在数里”一样，那么可以认为时间比一切在时间里的事物都长久。因此必然，在时间里的所有事物应被时间所包括，就象其他“在某事物里的事物”也被某事物所包括，例如，在空间里的事物被空间所包括一样。因此，事物也受到时间一定的影响，正如我们惯常说“时间消磨着事物”以及“一切事物俱因时间的迁移而变老了，由于时间的消逝而被淡忘了”等等。然而我们不说，随着时间的过去学会了什么，或变年轻了，或变美好了。因为时间本身主要是一个破坏性的因素。它是运动的数，而运动危害着事物的现状。因此显然，永恒的事物不存在于时间里，因为它不被时间所包括，它们的存在也不是由时间计量的。可以证明这一点的是：这种事物没有一个会受到时间的影响。这表明它们不存在于时间里。 </q></blockquote>
+按：区分“存在于时间里”的两种类型是否真的必要呢？因为“存在于时间里”这种说法本身就似乎是顺从世俗一般理解的表述，应该列入下一节对“几个时间术语的定义”的讨论中。事物存在于数中，还使用上一段的例子，马如何存在于“五”中？确实与事物存在于空间中有些不同，但更进一步思考却仍然可以找到相同之处。马存在于五中，与马存在于一个空间中一样，都依赖综合统一性。统一空间的方式是形象重合，统一数量的方式是概念的叠加。“在时间存在的时候存在着”，是否是一个疑难？如果仅仅是像此段里所担心的那样，宇宙也可以存在在一颗谷粒里，那似乎并不能以此为理由将这种模式排除。这种表述很符合即体即用的说法，而因为我们在讨论概念的叠加，也并不应该把形象的重合混杂进来。存在于时间里的事物的概念在时间概念存在的时候存在着，这十分符合概念的叠加的表达方式。唯一的困难在于已经消失了的事物的概念只与过去的时间同时存在，而不与现在的时间同时存在，而时间的概念却无所谓现在和过去。问题大概出现在这里的“时间”指代得并不明确。<div style="padding-bottom:1em;"></div>“永恒的事物不存在于时间里”，字面的意思是永恒的东西不随着时间而发生动变。而我们已经知道，时间是数，如果类比数，也就是说永恒的事物不能被数，没有数量。换句话说，永恒的事物没有动变，不能被以动变的单位计量。五匹马用数量五来计量，就可以得到一匹马，而不用数量来计量也就得不到所谓的一匹马的单位。而没有这动变的单位，也就没有由单位乘以数量得到的总体了。也就是说永恒的东西没有动变。但是另一方面我们知道这个动变的单位与现在有关，在这个现在中，我们综合了前后两个现在在一个现在里，在一中看出了动变。在这个意义上说永恒者没有动变意味着什么呢？意味着这个一中看不出动变。要么是这个一无法得到，前个和后个不被认为是同一的东西，因而无法比较；要么是前后两个完全一样，比较不出不同。后一种情况实际表现为分不出前后，而只有一个印象，一个现在。进一步意味着我们的致一能力只能对它形成一种印象。这个永恒者要么是我们的致一能力本身，而我们的致一能力不变；要么我们的能力可以变化，而它彻底地超越我们的能力。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28602314/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-16 21:31
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1157313/annotation">更多读书笔记（共11篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1157313/discussion/42758670/" title="这本书的翻译怎么样？" class="">这本书的翻译怎么样？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/zhiwuzhiyuan/">植物之远</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2011-11-19</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 16.00元</span>
+        <span class="price"> <del>20.00元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=173767&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1300&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=1670&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEwZRGVgRCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMTA1cYXx0dS0IJRmsPfnMOA1gFEWd6TxcbUx1wFng3Gi1TDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBhYFAoWA1QrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsUAxYFVh9TCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=1157313&amp;type=bkbuy&amp;subject=1157313" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1300&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=1670&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEwZRGVgRCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMTA1cYXx0dS0IJRmsPfnMOA1gFEWd6TxcbUx1wFng3Gi1TDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBhYFAoWA1QrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsUAxYFVh9TCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=1157313&amp;type=bkbuy&amp;subject=1157313" class="buylink-price ">
+                      <span class="">
+                        16.70 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1300&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=1670&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1157313%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D20709722&amp;cntvendor=3&amp;srcsubj=1157313&amp;type=bkbuy&amp;subject=1157313" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1300&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=1670&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1157313%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D20709722&amp;cntvendor=3&amp;srcsubj=1157313&amp;type=bkbuy&amp;subject=1157313" class="buylink-price ">
+                      <span class="">
+                        16.70 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1300&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=1300&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4327963.htm&amp;cntvendor=3&amp;link2key=6f58ce5d20&amp;srcsubj=1157313&amp;type=bkbuy&amp;subject=1157313" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1300&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=1300&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4327963.htm&amp;cntvendor=3&amp;link2key=6f58ce5d20&amp;srcsubj=1157313&amp;type=bkbuy&amp;subject=1157313" class="buylink-price ">
+                      <span class="">
+                        13.00 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/1157313/buylinks">
+              &gt; 查看3家网店价格
+                (13.00 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D7-100-01164-7&amp;subject=7100011647&amp;type=borrow&amp;library=10007&amp;link2key=6f58ce5d20" target="_blank">北京市公共图书馆(2)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7100011647%26otherloc%3Dtrue&amp;subject=7100011647&amp;type=borrow&amp;library=10011&amp;link2key=6f58ce5d20" target="_blank">上海市中心图书馆(5)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fourex.lib.sjtu.edu.cn%2Fprimo_library%2Flibweb%2Faction%2Fsearch.do%3Ffn%3Dsearch%26vl%28freeText0%29%3D7-100-01164-7&amp;subject=7100011647&amp;type=borrow&amp;library=10006&amp;link2key=6f58ce5d20" target="_blank">上海交通大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D7-100-01164-7%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7100011647&amp;type=borrow&amp;library=10021&amp;link2key=6f58ce5d20" target="_blank">重庆图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.zslib.com.cn%3A8991%2FF%2F%3Ffunc%3Dfind-b%26find_code%3Disb%26request%3D9787100011648&amp;subject=7100011647&amp;type=borrow&amp;library=10026&amp;link2key=6f58ce5d20" target="_blank">广东省立中山图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1010230">全部11</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1418921/">Oxford University Press版</a>
+          01 June, 1936 / 3人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1084519/">中国人民大学出版社版</a>
+          2003-11 / 50人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/2874619/">Rutgers University Press版</a>
+          1995-3-1 / 9人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/3656948/">Digireads.com版</a>
+          2006-01-01 / 4人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1157313/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/17884/" target="_blank">“汉译世界学术名著丛书－哲学”——商务印书馆</a>
+                <span class="pl">(彼岸)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/41351/" target="_blank">商务印书馆－汉译世界学术名著丛书－－哲学类（桔黄色）</a>
+                <span class="pl">(折叠火车)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1129694/" target="_blank">《如何阅读一本书》推荐书目</a>
+                <span class="pl">(glassheart)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/216900/" target="_blank">《如何阅读一本书》推荐书目1（慢慢更新）</a>
+                <span class="pl">(爱读书的小兔兔)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/787631/" target="_blank">亚里士多德（ΑΡΙΣΤΟΤΕΛΗΣ，Aristotle）</a>
+                <span class="pl">(爛貓)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/141572899/"><img src="https://img3.doubanio.com/icon/u141572899-1.jpg" class="pil" alt="大魔法师" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/141572899/">大魔法师</a><br/>
+      <div class="pl ll">          6月20日          在读      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+      <span class="pl">tags:亚里士多德 古希腊哲学</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/unionz/"><img src="https://img3.doubanio.com/icon/u73889571-73.jpg" class="pil" alt="帝归" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/unionz/">帝归</a><br/>
+      <div class="pl ll">          6月15日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/162423494/"><img src="https://img3.doubanio.com/icon/u162423494-1.jpg" class="pil" alt="蔡振羽" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/162423494/">蔡振羽</a><br/>
+      <div class="pl ll">          6月12日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/144801682/"><img src="https://img1.doubanio.com/icon/u144801682-18.jpg" class="pil" alt="cat" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/144801682/">cat</a><br/>
+      <div class="pl ll">          6月10日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1157313/doings">58人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1157313/collections">187人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1157313/wishes">390人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1157313/offers">4本二手书欲转让</a>
+          <span class="">
+            (10.00
+                至 13.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有390人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于物理学的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1157313/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'kbs35QmYsUQ',
+            criteria = '7:哲学|7:亚里士多德|7:古希腊|7:物理学|7:商务印书馆|7:汉译世界学术名著丛书|7:西方哲学|7:自然哲学|7:希腊哲学|7:希腊|3:/subject/1157313/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- hador13-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

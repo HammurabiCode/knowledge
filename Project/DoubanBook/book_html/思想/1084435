@@ -1,0 +1,3487 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>策略思维 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1084435/">
+<meta name="keywords" content="策略思维,阿维纳什・K・迪克西特,巴里・J・奈尔伯夫,中国人民大学出版社,2003年7月第3版,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书策略思维 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1084435/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">策略思维</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img1.doubanio.com/lpic/s1304989.jpg" title="策略思维">
+    <img src="https://img1.doubanio.com/lpic/s1304989.jpg" title="点击看大图" alt="策略思维"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E9%98%BF%E7%BB%B4%E7%BA%B3%E4%BB%80%E3%83%BBK%E3%83%BB%E8%BF%AA%E5%85%8B%E8%A5%BF%E7%89%B9">阿维纳什・K・迪克西特</a>
+        
+           /
+        
+        <a class="" href="/search/%E5%B7%B4%E9%87%8C%E3%83%BBJ%E3%83%BB%E5%A5%88%E5%B0%94%E4%BC%AF%E5%A4%AB">巴里・J・奈尔伯夫</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 中国人民大学出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 商界、政界及日常生活中的策略竞争<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E7%8E%8B%E5%B0%94%E5%B1%B1%20%E8%AF%91">王尔山/译</a>
+        
+           /
+        
+        <a class="" href="/search/%E7%8E%8B%E5%88%99%E6%9F%AF%20%E6%A0%A1">王则柯/校</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2003年7月第3版<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 333<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 39.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/5004">当代世界学术名著·经济学系列</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787300043388<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.5 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">1538</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:63px"></div>
+
+            <span class="rating_per">41.9%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">42.3%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:20px"></div>
+
+            <span class="rating_per">13.8%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:2px"></div>
+
+            <span class="rating_per">1.6%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.3%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1084435-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1084435-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1084435-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1084435-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1084435-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1084435-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1084435-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1084435-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1084435">
+        <a href="#" data-url="https://book.douban.com/subject/1084435/" data-desc="" data-title="书籍《策略思维》 (来自豆瓣) " data-pic="https://img1.doubanio.com/lpic/s1304989.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1084435"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>耶鲁大学教授奈尔伯夫和普林斯顿大学教授迪克西特的这本着作，用许多活生生的例子，向没有经济学基础的读者展示了博弈论策略思维的道理。试看一例：　　奈尔伯夫大学毕业的时候，在剑桥大学的正式舞会上参加轮盘赌游戏并且以700:300的大比数领先。眼看大奖在望，鬼使神差他却无视已经具有的后动优势，在最后一轮大意先行，结果功败垂成。事后他回忆那天酒喝多了，忘记了博弈论的教导：领先的时候要采取让对手先行的保守策略。这位博弈论的高才生，就这样输在原来处于第二位并且曾经求和建议分享奖励的女士手下（参见本书第1章）。　　人生是一个永不停息的决策过程。从事什么样的工作，怎样打理一宗生意，该和谁结婚，怎样将孩子抚养成人，要不要竞争总裁的位置，都是这类决策的例子。你不是在一个真空的世界里做决定。相反，你身边全是和你一样的决策制定者。虽然冲突的成分很多，但是合作的因素也不少。本书...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>耶鲁大学教授奈尔伯夫和普林斯顿大学教授迪克西特的这本着作，用许多活生生的例子，向没有经济学基础的读者展示了博弈论策略思维的道理。试看一例：　　奈尔伯夫大学毕业的时候，在剑桥大学的正式舞会上参加轮盘赌游戏并且以700:300的大比数领先。眼看大奖在望，鬼使神差他却无视已经具有的后动优势，在最后一轮大意先行，结果功败垂成。事后他回忆那天酒喝多了，忘记了博弈论的教导：领先的时候要采取让对手先行的保守策略。这位博弈论的高才生，就这样输在原来处于第二位并且曾经求和建议分享奖励的女士手下（参见本书第1章）。　　人生是一个永不停息的决策过程。从事什么样的工作，怎样打理一宗生意，该和谁结婚，怎样将孩子抚养成人，要不要竞争总裁的位置，都是这类决策的例子。你不是在一个真空的世界里做决定。相反，你身边全是和你一样的决策制定者。虽然冲突的成分很多，但是合作的因素也不少。本书将帮助你学会策略地思考，在人生博弈中扩大胜面。　　本书以讲故事取胜。它的学术根源，是迪克西特教授在普林斯顿大学公共与国际事务学院开设的“策略博弈”课程。简而言之，这是关于了解对手打算如何战胜你，然后你战而胜之的艺术。怎样打赢一场网球，少数如何战胜多数，为什么要“喜爱”你最讨厌的对手等等，都在讨论之列。　　这是一门新兴的策略科学，由一些简单的基本原理组成。不同背景和行业的读者掌握了这些原理，运筹帷幄取得胜利的本领就会上升一个层</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1084435/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1084435_short">
+        序言 什么是策略行为？<br/>
+        第1部分<br/>
+        第1章 10个策略故事<br/>
+        第2章 准备接招<br/>
+        第3章 看穿对手的策略<br/>
+        第1部分结语<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1084435_short').hide();$('#dir_1084435_full').show();$.get('/j/subject/j_dir_count',{id:1084435});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1084435_full" style="display:none">
+        序言 什么是策略行为？<br/>
+        第1部分<br/>
+        第1章 10个策略故事<br/>
+        第2章 准备接招<br/>
+        第3章 看穿对手的策略<br/>
+        第1部分结语<br/>
+        第2部分 <br/>
+        第4章 走出囚徒困境<br/>
+        第5章 策略行动<br/>
+        第6章 可信的承诺<br/>
+        第7章 不可预测性<br/>
+        第2部分结语<br/>
+        第8章 边缘政策<br/>
+        ……<br/>
+        注释<br/>
+        索引<br/>
+        附录 约翰・纳什：现代博弈论奠基人<br/>
+        译后记<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1084435_full').hide();$('#dir_1084435_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共620个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/博弈论">博弈论</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/思维">思维</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/经济学">经济学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/策略">策略</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/博弈">博弈</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/经济">经济</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/管理">管理</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/谋略">谋略</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/5004">当代世界学术名著·经济学系列 (共64册)</a>,
+这套丛书还有
+《经济思想史》,《竞争策略与竞争政策》,《制度与行为经济学》,《经济学与消费者行为》,《理解全球贸易》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;策略思维&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/537213/?dcs=subject-rec&amp;dcm=douban&amp;dct=1084435" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/537213.jpg?v=1395395705.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/537213/" target="_blank">思考，快与慢</a>
+          </div>
+          <div class="price">
+              8.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/8491269/?dcs=subject-rec&amp;dcm=douban&amp;dct=1084435" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/8491269.jpg?v=1423492495.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/8491269/" target="_blank">黑猩猩的政治</a>
+          </div>
+          <div class="price">
+              14.40元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/371786/?dcs=subject-rec&amp;dcm=douban&amp;dct=1084435" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/371786.jpg?v=1396433137.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/371786/" target="_blank">经济学思想史讲义</a>
+          </div>
+          <div class="price">
+              25.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/787967/?dcs=subject-rec&amp;dcm=douban&amp;dct=1084435" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/787967.jpg?v=1395395356.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/787967/" target="_blank">平台战略</a>
+          </div>
+          <div class="price">
+              8.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/803847/?dcs=subject-rec&amp;dcm=douban&amp;dct=1084435" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/803847.jpg?v=1395395353.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/803847/" target="_blank">技术元素</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;策略思维&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1193621/" onclick="moreurl(this, {'total': 10, 'clicked': '1193621', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s5741461.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1193621/" onclick="moreurl(this, {'total': 10, 'clicked': '1193621', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            决策与判断
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1084473/" onclick="moreurl(this, {'total': 10, 'clicked': '1084473', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s9097644.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1084473/" onclick="moreurl(this, {'total': 10, 'clicked': '1084473', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            双赢之道
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2030439/" onclick="moreurl(this, {'total': 10, 'clicked': '2030439', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s2360589.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2030439/" onclick="moreurl(this, {'total': 10, 'clicked': '2030439', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            赢者的诅咒
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1504957/" onclick="moreurl(this, {'total': 10, 'clicked': '1504957', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1509100.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1504957/" onclick="moreurl(this, {'total': 10, 'clicked': '1504957', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            学会提问
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1005930/" onclick="moreurl(this, {'total': 10, 'clicked': '1005930', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1181768.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1005930/" onclick="moreurl(this, {'total': 10, 'clicked': '1005930', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            决策的艺术
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1446417/" onclick="moreurl(this, {'total': 10, 'clicked': '1446417', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s2164877.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1446417/" onclick="moreurl(this, {'total': 10, 'clicked': '1446417', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            微观动机与宏观行为
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1792470/" onclick="moreurl(this, {'total': 10, 'clicked': '1792470', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1775871.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1792470/" onclick="moreurl(this, {'total': 10, 'clicked': '1792470', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            行为博弈
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3248694/" onclick="moreurl(this, {'total': 10, 'clicked': '3248694', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s3458768.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3248694/" onclick="moreurl(this, {'total': 10, 'clicked': '3248694', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            不确定状况下的判断
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1020644/" onclick="moreurl(this, {'total': 10, 'clicked': '1020644', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2002163.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1020644/" onclick="moreurl(this, {'total': 10, 'clicked': '1020644', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            金字塔原理
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1159542/" onclick="moreurl(this, {'total': 10, 'clicked': '1159542', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s5688299.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1159542/" onclick="moreurl(this, {'total': 10, 'clicked': '1159542', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            新企业的起源与演进
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1084435/comments/">全部 337 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="294019330">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-294019330" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-294019330" class="j a_show_login" data-cid="294019330">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/frankel/">Frankel</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2010-09-16</span>
+                </span>
+            </h3>
+            <p class="comment-content">把博弈讲解的深入浅出</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="201117727">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-201117727" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-201117727" class="j a_show_login" data-cid="201117727">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/cold755/">掐出新鲜</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2010-06-23</span>
+                </span>
+            </h3>
+            <p class="comment-content">还是有些超越常识的的，值得看。翻译用的一些连接词有点奇怪，一些地方的逻辑也有点问题。懒得推敲了……</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="732085225">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-732085225" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-732085225" class="j a_show_login" data-cid="732085225">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/danielleo/">莫邪</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2013-10-04</span>
+                </span>
+            </h3>
+            <p class="comment-content">#恒阅# 管理经济学课的推荐参考阅读书。前半部分关于博弈论的理念、原则阐述的都十分清晰并且发人深省，后半部分略微有点数学化。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="967222510">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-967222510" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-967222510" class="j a_show_login" data-cid="967222510">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/1355665/">magnus</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2015-10-12</span>
+                </span>
+            </h3>
+            <p class="comment-content">粗浅的扫盲，难为他搜集这么多案例</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="943040915">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-943040915" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-943040915" class="j a_show_login" data-cid="943040915">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/ThinkingCat/">思考的猫</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-10-29</span>
+                </span>
+            </h3>
+            <p class="comment-content">博弈论</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1205866900">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1205866900" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1205866900" class="j a_show_login" data-cid="1205866900">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/83143884/">七枷社</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">有很多的案例，看起来还挺容易分神的，其实核心思想很简单，就是将博弈抽象成简化模型，进行数值的两两比较，得出优势策略。数据估算不是很严谨，但就像书名昭示的，突出的是其中的思维。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1198970342">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1198970342" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1198970342" class="j a_show_login" data-cid="1198970342">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/64553382/">程生</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">其实不太好意思写上读过，但是短时间内应该不会再拿起来了。看的电子版，但是制作不规范，很多图都没有，看到《时代建筑》与《新闻周刊》这个案例的时候涉及太多图表就很难看下去了，同时里面举的例子很喜欢拿橄榄球比赛作比，里面的很多专业术语压根不懂，而且书的内容也没到让我有搜索相关知识的动力</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1189228752">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1189228752" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1189228752" class="j a_show_login" data-cid="1189228752">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/159829216/">叮当</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-12</span>
+                </span>
+            </h3>
+            <p class="comment-content">博弈论的经典读物，值得一读。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1189221533">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1189221533" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1189221533" class="j a_show_login" data-cid="1189221533">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/160432076/">小饭团</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-05-12</span>
+                </span>
+            </h3>
+            <p class="comment-content">抽象思考是件有趣的事，多读这样的书感觉会开发出大脑里的新领域</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1188292458">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1188292458" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1188292458" class="j a_show_login" data-cid="1188292458">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/96035607/">Smika华</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-09</span>
+                </span>
+            </h3>
+            <p class="comment-content">从许多实例着手，开始分析博弈的策略，生活中几乎哪里都有博弈，需要我们留心观察。从后倒退，开始你的博弈；明确博弈的规则以及方法，更好选择博弈后的优化选项.</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1084435/comments/">更多短评 337 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1084435/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            策略思维的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 30 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1594734">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1594734/" class="title-link">用策略思维来理解和预测经济政策</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1594734"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/3365276/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u3365276-12.jpg"></a>
+    <a href="https://www.douban.com/people/3365276/" class="author">
+      <span property="v:reviewer">peterq</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2008-12-23"
+      class="main-meta">2008-12-23 21:06:24</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1594734_short" class="review-short">
+            <div class="short-content">
+                  畅销10多年的博弈论经典读物，将策略由艺术变成了一种科学，同时也将马基亚维利理论和厚黑学放入了理性的选择中。策略思维是个能力放大器，而不管你的目的如何。在中国这个缺乏契约教育和监管的国度中，学会策略思维能更好地保护自己。本书分成3个部分，逻辑性一般，内容有些庞...
+
+                    <a class="pl" href="https://book.douban.com/review/1594734/#comments">(10回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">27有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1594734_full" class="hidden">
+            <div id="review_1594734_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6185586">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6185586/" class="title-link">读阿维纳什・K・迪克西特, 巴里・J・奈...</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6185586"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/glenwang/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1144163-23.jpg"></a>
+    <a href="https://www.douban.com/people/glenwang/" class="author">
+      <span property="v:reviewer">汪杨</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2013-07-27"
+      class="main-meta">2013-07-27 17:05:18</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6185586_short" class="review-short">
+            <div class="short-content">
+                  生动有趣的例子，非常好的书。  p95 以牙还牙策略其实非常有效。  p118 霍布斯的名言，言语的束缚实在软弱无力，根本抑制不了人们的贪婪。  p184 看不见的手最多也就适用于一切都能标出价格的情况，对于公用品等很多情况都是无效的。  p218对于政治和社会现象的研讨非常有意思...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6185586_full" class="hidden">
+            <div id="review_6185586_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1047696">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1047696/" class="title-link">Thinking strategically</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1047696"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/iamurphy/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1145993-1.jpg"></a>
+    <a href="https://www.douban.com/people/iamurphy/" class="author">
+      <span property="v:reviewer">默非</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2006-05-26"
+      class="main-meta">2006-05-26 11:14:09</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1047696_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-1047696-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1047696_full" class="hidden">
+            <div id="review_1047696_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1678849">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1678849/" class="title-link">语言有点晦涩，内容还行</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1678849"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/ziqian/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1885577-14.jpg"></a>
+    <a href="https://www.douban.com/people/ziqian/" class="author">
+      <span property="v:reviewer">ziqian</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2009-02-11"
+      class="main-meta">2009-02-11 14:41:47</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1678849_short" class="review-short">
+            <div class="short-content">
+                  原作者的案例用得比较多，但是语言感觉稍嫌啰嗦，不知是不是翻译的原因，感觉有些专有名词翻译得不是很好如“优势策略”很多网站都是用的“占优策略”，个人也觉得“占优策略”比较形象。整体感觉语言晦涩了些，《活学活用博弈论》同样讲博弈策略，也属普及型读物，语言就简洁...
+
+                    <a class="pl" href="https://book.douban.com/review/1678849/#comments">(3回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">7有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1678849_full" class="hidden">
+            <div id="review_1678849_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="4880128">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/4880128/" class="title-link">notes</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-4880128"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/nwwfewx/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u9083557-8.jpg"></a>
+    <a href="https://www.douban.com/people/nwwfewx/" class="author">
+      <span property="v:reviewer">伊卡洛斯</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2011-03-27"
+      class="main-meta">2011-03-27 22:08:57</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_4880128_short" class="review-short">
+            <div class="short-content">
+                  第一部分       博弈树法则：       1)向前展望，倒后推理       2)假如你有一个优势策略(即无论对手采取任何策略，这一策略都将胜过其他任何策略)，请照办       3)剔除劣势策略，不予考虑       4)寻找这个博弈的均衡，即一对策略，按照这对策略做，各个参与者的行动都是对对...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">4有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_4880128_full" class="hidden">
+            <div id="review_4880128_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评30篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1084435/annotation">共<span property="v:count">36</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="23280356">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/mhsj/"><img src="https://img3.doubanio.com/icon/u38521873-21.jpg" alt="mhsj-_-" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/23280356/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/23280356/" class="">全书笔记</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/mhsj/" class=" " title="mhsj-_-">mhsj-_-</a>
+                (祝这世界继续热闹，祝我仍是我。)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="23280356">
+              <div class="short">
+                
+                  <span class="">
+     在社会科学中，研究策略性决策制定过程的分支称为博弈论。
+
+     双方一致希望看到的结果出现在各方都选择各自比较糟糕的策略的时候。
+
+     任何一个关于博弈的有用的分析，都应该考虑到怎样处理冲突和利益同时存在的情况。
+
+     惩罚经常压倒回报而处于上风。
+
+     策略博弈的精髓在于参与者的决策相互依存。这种互相影响或互动通过两种方式体现出来：相继发生，同时发生。
+
+     法则1：向前展望，向后推理..</span>
+                <p class="pl">
+                  <span class="">2012-12-19 14:28</span>
+                  
+                    &nbsp;&nbsp;<span class="">12人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>
+     在社会科学中，研究策略性决策制定过程的分支称为博弈论。
+
+     双方一致希望看到的结果出现在各方都选择各自比较糟糕的策略的时候。
+
+     任何一个关于博弈的有用的分析，都应该考虑到怎样处理冲突和利益同时存在的情况。
+
+     惩罚经常压倒回报而处于上风。
+
+     策略博弈的精髓在于参与者的决策相互依存。这种互相影响或互动通过两种方式体现出来：相继发生，同时发生。
+
+     法则1：向前展望，向后推理。(树状图)
+
+     对于任何一个相继选择并且数目有限的博弈，总是存在某种最佳策略。
+
+     一个普遍的观点是若要运用向前展望向后推理的原理，不可缺少的前提是后行者可以观察到先行者的行动;策略是不可逆转的。
+
+     拥有优势策略的一方将使用其优势策略，另一方则针对自己的策略采用自己的最佳策略。
+
+     “优势策略”的优势是指你的这个优势策略对你其他的策略有优势，而不是对你的对手的策略有优势。无论对手采用什么策略，某个参与者如果采用优势策略，就能使自己获得比采用其他任何策略更好的结果。
+
+     法则2：假如你有一个优势策略，请照办。
+
+     规避劣势策略做法，必须建立在至少一方拥有至少三个策略的博弈的基础上。
+
+     法则3：剔除所有劣势策略，不予考虑，如此一步一步做下去。
+
+     法则4：走完寻找优势策略和剔除劣势策略的捷径之后，下一步就是寻找这个博弈的平衡。
+
+     囚徒困境：其显著特征在于,双方选择各自的优势策略，以使其收益达到最大，不过，与双方选择将其收益最小化的策略相比，最终的收益却更糟。
+
+     提高不透明度定律：合谋集中在比较透明的抉择层面，竞争则转向不那么容易看出来的层面。
+
+     在最初博弈之上增加惩罚机制的做法，其目的就是为了减少作弊的动机。
+
+     在一个一次性的博弈当中无法达成互惠合作，只有在一种持续的关系中才能够体现惩罚的力度，并因此成为督促合作的木棒。
+
+     以牙还牙法体现了任何一个行之有效的策略应该符合的四个原则：清晰,善意,刺激性和宽容性。问题在于，任何一个错误都会反复出现。长期而言，以牙还牙策略有一半时间合作，一半时间背叛。
+
+     不管你选择什么策略，你都不可能影响你的同伴的看法。
+
+     开始合作;继续合作;计算在你合作的情况下对方看起来背叛了多少次;达到临界值就转向以牙还牙策略。
+
+     要想使焦土政策起作用，你就必须毁灭入侵者想要的一切，而这些东西未必是现在的主人最重视的。这么一个策略无论成功或失败，其本身或结果都是可取的。
+
+     一个策略行动的设计意图在于改变对方的看法和行动，使之变得对自己有利。其突出特征是刻意限制你的行动自由。
+
+     一个聪明的策略家，知道怎样把一个表格变成一棵树。
+
+     要想策略的行动，你必须保证自己不要采取在同时出招博弈里的均衡策略。为了使一个策略行动可信，你必须采取其他附加行动，使扭转这一行动变得代价高昂乃至完全没有可能。可信度要求对这个策略行动做出承诺。因此，策略行动包含两个因素：计划好的行动路线以及使这一路线显得可信的承诺。
+
+     一个无条件的行动可以使这个参与者获得策略上的优势，抢占先机，率先出招。即便你未必真的先行，仍然可以通过对一个回应规则作出一个承诺，获得相仿的策略优势。回应规则把你的行为视为会其他人行动的一种回应。虽然你是跟在别人后面行动，但是这个回应规则必须在别人开始行动之前就实施。
+
+     回应规则分为两种：威胁与许诺。一切威胁和许诺的共同点在于：回应规则使你不会在没有回应规则的前提下采取行动。
+
+     说明什么事情会在没有规则的情况下发生，称为警告或保证。
+
+     威胁和许诺是真正的策略行动，而警告和保证更多的是起一个告知的作用。警告或保证不会改变你为影响对方而设立的回应规则。 威胁和许诺一旦时机成熟，就会改变你的回应规则，使之不在成为最佳选择。这么做不是为了告知，而是为了操作。
+
+     无条件的行动是你先行且行动一层不变的回应规则。威胁与许诺则在你第二个出招时出现。两者都是有条件的行动，因为这个回应是由取决于对方怎样做的规则所确定的。
+
+     一种策略行动总是抢占先机的行动。回应规则必须在对方行动之前实施。这意味着无论策略行动是什么，整个博弈都必须当做相继出招的博弈进行分析。
+
+     不要给敌人对自己做出一个拼死战斗的非常可信的承诺的机会。
+
+     在你作出一个承诺的时候，你不应让自己的许诺超过必要的范围。适度原则同样适用于威胁。
+
+     所谓一个成功的威胁完全不必实践的理论，只在我们绝对有把握不会发生不可预见的错误的前提下成立。能奏效的最小而又最恰当的威胁应该成为首要选择，务必使惩罚与罪行相适应。
+
+     一个保持清醒的策略头脑的对手应该预计你可能有意误导他，因此，对那些他认为专门做出来显得对他有利的行动也就不会为之所动。
+
+     要想使一个策略行动显得很可信，你必须同时采取一个附加或从属的行动。我们把后一种行动称为承诺。
+          第一个原则，是改变博弈的结果，意思是说，务必使遵守你的承诺成为符合你自身利益的选择，把威胁变成警告，把承诺编程保证。
+               （1）建立和利用一种信誉；（2）写下合同；
+          第二个原则是改变博弈，是你背弃承诺的能力大受限制。
+               （3）切断沟通；（4）破釜沉舟；（5）让后果超出你的控制；（6）小步前进；
+          第三个原则是充分利用别人，帮助自己遵守承诺。
+               （7）通过团队合作建立可信度；（8）雇佣谈判代理人
+
+     对言语的约束可以通过两种途径得到强化：一是对食言后果的恐惧，而是不食言的肉要和自豪。
+
+     明显的不合理性可以变成良好的策略上的合理性。
+
+     为使合同方式奏效，负责强迫执行承诺或者收取罚金的一方必须具备某种独立的动机完成自己的任务。但是单有合同并不能解决可信度的问题。
+
+     边缘政策市故意创造一种可以辨认的风险，一种人们不能完全控制的风险。这一策略在于有意将行使变得多少有点难以把握。
+
+     若是打的承诺不可行，我们应该选择一个小的承诺，并经常重复使用。就像边缘政策一样，小步前进缩小了威胁或许诺的规模，相应的缩小了承诺的规模。要想避免信任瓦解，千万不能出现任何确定无疑的最后一轮。
+
+     团队合作可以超过社会压力的范畴，通过运用一个强有力的策略，迫使我们遵守自己的许诺。
+
+     对于耐用产品，一个垄断者实际上是在跟以后的自己竞争，从而使市场变得富有竞争性。
+
+     只要一方喜欢准确的预料将发生的事情，而另一方却竭力避免被预测，不可预测性就会变成策略的一个关键因素。
+
+     最小最大定理：在零和博弈中，参与者的利益严格相反，每个参与者尽量使对手的最大收益最小化，而它的对手则努力使自己的最小利益最大化。他们这样做的时候，会出现最大收益的最小值等于最小收益的最大值。
+
+     运用偶然性防止别人利用你的有规则的行为占你的便宜。
+
+     你为什么应该选择自己的最佳混合策略？理由是迫使对方继续使用他的最佳混合策略。
+
+     你希望让他大吃一惊，最稳妥的方法就是让你自己大吃一惊。你应该流出尽可能长的世界考虑各种可能的方案，直到最后一刻才通过一种不可预测的从而也使不可侦察的方法做出你的选择。
+
+    边缘政策的本质在于故意创造风险。这个风险应该大到让你的对手难以承受的地步，从而迫使他按照你的意愿行事。
+
+    边缘政策不仅在于创造风险，还在于小心控制这个风险的程度。
+
+     要使这种威胁变得可信，一个必不可少的要素在于，无论是你还是你的对手都不知道转折点究竟在哪里。
+
+     成功是由相对成绩而非绝对成绩决定的。
+
+     假如你将要遭到失败，你可能愿意败在一项艰巨的工作上。加入其他人对你的能力的了解确实非常终于，那么，你最好增加自己失败的机会，从而降低遭到失败的严重性。
+
+     要想在故事赚钱，你的目标是确定其他人认为哪几只股票的价格就要上升。一直以来，他们都是通过同时设身处地从别人的角度考察这个问题得出自己的结论。只要他们确实这么做，一切就会如常运行。
+
+     均衡可能轻易借助莫名其妙的想法或一时兴起的狂热达成。
+
+     若要从一个均衡转向一个更好的均衡，最有效的方法可能是借助异常短期而严厉的运动。诀窍在于促使达到临界点数目的人发生转变，然后，随大流效应就能达成一个可以自动维持下去的均衡。相反，长期施加一点点压力的做法不可能达到相同的效果。
+
+     只要你可以指望别人以后会为你挽回局面，你就会有一种歪曲自己的真实偏好的激励，夸大自己的要求，利用他人的偏好做文章。
+
+     决定如何划分利益大饼 的一个重要因素是各方的等待成本。虽然双方可能失去同样的利益，一方却可能有其他替代做法，有助于部分抵消这个损失。谁能在没有协议的情况下过得越好，谁就越是能从讨价还价的利益大饼中分得更大一块。
+
+     一旦一名策略谈判者发现，外部机会越好，他能从讨价还价中得到的份额也越大，他就会寻找策略做法，希望改善他的外部机会。与此同时，他还会留意到，真正影响大局的是他的外部机会与他的对手的外部机会的相对关系。他即便作出一个承诺或威胁，导致双方的外部机会同时受到损坏，也还是可以从讨价还价中得到更好的结果，前提是相比之下，他的对手的外部机会受到更严重的损害。
+
+     边缘政策的策略是双方之间较强的一方——即相对不那么害怕谈判破裂的一方——的武器。
+
+     边缘政策的风险在于，双方同时从光滑斜坡跌落的可能性。随着冲突持续，双方遭受重大损失的可能性虽然很想，却不断增长。正是离危险越来越近的感觉促使其中一方退让。边缘政策的一个不可分割的部分就在于有时候大家确实会越过边缘。
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/23280356/#comments">回应</a>&nbsp;&nbsp;
+                  2012-12-19 14:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="11343284">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/feseed/"><img src="https://img3.doubanio.com/icon/u10204069-36.jpg" alt="凡斯" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/11343284/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/11343284/" class="">第70页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/feseed/" class=" " title="凡斯">凡斯</a>
+                (雾中花·塔喆轮·快慢环·自明灯)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="11343284">
+              <div class="short">
+                
+                  <span class="">第一部分小结
+
+博弈是一种策略的相互依存状况：你的选择（即策略）将会得到什么结果，取决于另一个或者另一群有目的的行动者的选择。处于一个博弈中的决策者称为参与者，而他们的选择称为行动。一个博弈当中的参与者的利益可能严格对立，一人所得永远等于另一人所失。这样的博弈称为零和博弈。不过，更常见的情况是，既有共同利益，也有利益冲突，从而可能出现导致共同受益或者共同受害的策略组合。但是，我们通常还是会把这个博...</span>
+                <p class="pl">
+                  <span class="">2011-02-15 10:33</span>
+                  
+                    &nbsp;&nbsp;<span class="">9人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>第一部分小结
+
+博弈是一种策略的相互依存状况：你的选择（即策略）将会得到什么结果，取决于另一个或者另一群有目的的行动者的选择。处于一个博弈中的决策者称为参与者，而他们的选择称为行动。一个博弈当中的参与者的利益可能严格对立，一人所得永远等于另一人所失。这样的博弈称为零和博弈。不过，更常见的情况是，既有共同利益，也有利益冲突，从而可能出现导致共同受益或者共同受害的策略组合。但是，我们通常还是会把这个博弈当中的其他参与者称为一方的对手。 
+一个博弈的行动可能是相继进行，也可能是同时进行。在相继行动的博弈里，存在一条线性思维链：假如我这么做，我的对手可以那么做，反过来我应该这样应对…… 这种博弈通过描绘博弈树进行研究。只要遵循法则1：向前展望，倒后推理，就能找出最佳行动方式。 
+而在同时行动的博弈中，存在一个逻辑循环的推理过程：我认为他认为我认为…… 这个循环必须解开，一方必须看穿对手的行动，哪怕他在行动的时候并不知道这是怎么一回事。要想解开这么一种博弈，可以建立一张图，这张图能显示所有可能想像得到的策略组合将会相应产生什么结果。然后按照下列步骤进行分析。 
+首先看参与各方有没有优势策略，优势策略意味着，无论对手采取什么策略，这一策略都将胜过其他任何策略。这就引出法则2：假如你有一个优势策略，请照办。假如你没有优势策略，但你的对手有，那么，尽管认定他一定会照办吧，然后相应选择你自己的最佳策略。 
+接着，假如没有一方拥有优势策略，那就看看有没有人拥有一个劣势策略，劣势策略意味着无论对手采取什么策略，这一策略都将逊于其他任何策略。如果有，请遵循法则3：剔除劣势策略，不予考虑。如此一步一步做下去。假如在这么做的过程当中，在简化之后的博弈里出现了一个优势策略，应该采用这个优势策略。假如这个过程以一个独一无二的结果告终，那就意味着你找到了参与者的行动法则以及这个博弈的结果。即便这个过程可能不会导出一个独一无二的结果，这么做也可以缩小整个博弈的规模，使其变得更加容易控制。最后，假如既没有优势策略，又没有劣势策略，又或者这个博弈已经经过第二步进行了最大限度的简化，那么，请遵循法则4：寻找这个博弈的均衡，即一对策略，按照这对策略做，各个参与者的行动都是对对方行动的最佳回应。假如存在一个这样的独一无二的均衡，我们就有许多很好的证据证明为什么所有参与者都应该选择这个均衡。假如存在许多这样的均衡，你就需要用一个普遍认同的法则或者惯例做出取舍。假如并不存在这样的均衡，这通常意味着一切有规则可循的行为都有可能被对方加以利用，这时候你需要将你的策略混合运用。 
+在实践当中，博弈可能包含一些相继行动过程，也可能包含一些同时行动过程，因此须将上述技巧综合起来，灵活运用，思考和决定自己的最佳行动应该是什么。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/11343284/#comments">回应</a>&nbsp;&nbsp;
+                  2011-02-15 10:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36363749">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/69701206/"><img src="https://img3.doubanio.com/icon/u69701206-2.jpg" alt="dbdb" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36363749/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36363749/" class=""> 《策略思维》</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/69701206/" class=" " title="dbdb">dbdb</a>
+              
+            </p>
+            <div class="reading-note" data-cid="36363749">
+              <div class="short">
+                
+                  <span class="">摘录自评论
+人生是一个永不停息的决策过程。从事什么样的工作，怎样打理一宗生意，该和谁结婚，怎样将孩子抚养成人，要不要竞争总裁的位置，都是这类决策的例子。你不是在一个真空的世界里做决定。相反，你身边全是和你一样的决策制定者。虽然冲突的成分很多，但是合作的因素也不少。这本书将帮助你学会策略地思考，以及在人生博弈中扩大胜面。 
+　　 企业经营没有战略的指导是漂浮不定的，而没有策略的指导，就几乎什么都不能成...</span>
+                <p class="pl">
+                  <span class="">2015-10-17 08:44</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                摘录自评论<div style="padding-bottom:1em;"></div>人生是一个永不停息的决策过程。从事什么样的工作，怎样打理一宗生意，该和谁结婚，怎样将孩子抚养成人，要不要竞争总裁的位置，都是这类决策的例子。你不是在一个真空的世界里做决定。相反，你身边全是和你一样的决策制定者。虽然冲突的成分很多，但是合作的因素也不少。这本书将帮助你学会策略地思考，以及在人生博弈中扩大胜面。 <div style="padding-bottom:1em;"></div>　　 企业经营没有战略的指导是漂浮不定的，而没有策略的指导，就几乎什么都不能成就。时代变了，环境充满了越来越多的不确定性。不能依靠既定的战略，也不能依靠既定的计划，来指导企业日常的经营活动。关注执行、关注细节、关注具体操作，是企业日常经营活动的主题。以灵活反应、随机应变为特征的策略思维是企业管理者必须具备的。企业的经营活动，不可完全以市场需要和客户意愿为中心，否则，企业只能跟随在不断变化的市场需要和难以确定的客户意愿身后，亦步亦趋，疲于奔命，最终失去生存的机会。当然也不可以企业自我为中心，漠视环境的改变和市场需要的变化，否则，将为市场所抛弃、为竞争所淘汰。 <div style="padding-bottom:1em;"></div>　　 成功的企业经营活动应当以在战略指导下关注生存机会、关注具体执行过程、强调操作细节、应对现实变化、发展生存能力的策略为核心，形成以策略为中心的组织文化和组织形式，在充分考量环境变化和组织自身资源能力后，形成当下的、即期的经营策略，来指导企业的具体活动。这本书正是一部关于企业应该进行策略思维、如何进行策略思维和怎样将策略贯彻执行的书。<div style="padding-bottom:1em;"></div>美国对台军售<div style="padding-bottom:1em;"></div>　　博弈的双方是美国政府和中国政府。美国政府有两个策略，对台军售和不对台军售；中国政府有两个策略，（如你们所猜到的和看到的），抗议和不抗议。（尽管从来没有不抗议的时候，但除了抗议，也从来没有出现过其他策略）。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　因为几乎没几年就会出现一次这样的事情，所以这个博弈显然属于重复博弈。在这个重复博弈里，根据可以观察到的历史，中国政府的策略似乎总是可以预测的，那就是抗议。中国政府的这种超级稳定的反应，使得中国在系列博弈里建立了一种很强的reputation，他行为的可预测性大大提高。我们知道，在重复博弈里，如果你行为的可预测性很高，对手就可以根据你的反应采取对他来说最好的策略。所以，美国总是会对台军售。 <div style="padding-bottom:1em;"></div>　　  <div style="padding-bottom:1em;"></div>　　这又是一个不同时出招的博弈，并且双方在这个博弈里，只有冲突，没有合作。对美国来说，对台军售，美国除了可以获得直接的经济利益外，也可以通过提高的台湾的军事力量来威胁中国；中国当然不希望这种结果，所以要抗议。美国最希望看到的结果是对台军售，且中国不抗议；中国最希望看到的结果是美对台不军售，自己当然也不用抗议。然而，不论中国是不是抗议，对美国来说，对台军售都比不售武器的收益更大，所以，美国在这个博弈里有一个最优策略，就是把武器卖给台湾，中国看到了美国这一最优策略，这个时候，中国政府提出抗议就比不提出抗议的收益要好，所以中国政府会提出抗议。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　对不同时出招的博弈来说，双方出招的顺序不同可能会使博弈的结果有很大不同的。因此我想到，假如中国政府每年在美国没有推出任何对台军售计划之前，就宣布“假如美国政府对台军售，我们就...”，是不是会好一些？可能会。但中国政府缺少可信的威胁来应对这个事情，就是说，假如有这么一个威胁，中国真要实施这个威胁的时候，会发现，实施威胁还不如不实施威胁更好；当然，美国也会预计到这一点，因此不会理睬中国政府的威胁。正如，美国发现遵守自己“不对台军售”的承诺并不符合自己的利益并且双方对这种承诺没有强制约束时，他就不会去遵守承诺。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　这些正是最近发生的事情。美国政府又要把武器卖给台湾了，而中国政府，一如既往地，提出了抗议。 <div style="padding-bottom:1em;"></div>　　改变这个博弈的结果，需要引入新的变量，比如，美国卖武器给台湾，也符合中国的利益（比如台湾允许中国派人研究他们买到的美国武器:)），或者中国有实力对美国发出可信的威胁等。<div style="padding-bottom:1em;"></div>以牙还牙策略：<div style="padding-bottom:1em;"></div>这一策略有两个步骤：<div style="padding-bottom:1em;"></div>第一个回合选择合作<div style="padding-bottom:1em;"></div>下一回合是否选合作要看上一回对方是否合作，若对方上一回背叛，此回合我亦背叛；若对方上一回合作，此回合继续合作<div style="padding-bottom:1em;"></div>以牙还牙策略有四个特点：<div style="padding-bottom:1em;"></div>友善：以牙还牙者开始一定采取合作态度，不会背叛对方<div style="padding-bottom:1em;"></div>报复性：遭到对方背叛，以牙还牙者一定会还击作出报复<div style="padding-bottom:1em;"></div>宽恕：当对方停止背叛，以牙还牙者会原谅对方，继续合作<div style="padding-bottom:1em;"></div>不羡慕对手：以牙还牙者个人永远不会得到最大利益，整个策略以全体的最大利益为依归<div style="padding-bottom:1em;"></div>在众多策略中，以牙还牙是最有效的，曾连续数年击败由计算机科学家，经济学家和心理学家等团队所提出的策略。博弈论者尽管没有实质证据，但他们认为以牙还牙是最佳的策略。<div style="padding-bottom:1em;"></div>囚徒困境例子<div style="padding-bottom:1em;"></div>假设有四个参与者：两个用以牙还牙的策略，另外两个无论任何时候都会背叛其他人以让自己得到最大的好处。假定每个参与者将要面对另外三个参与者进行六次对决。如果一名参与者背叛对方而对方不背叛，前者有5分，后者得0分；如果双方不背叛对方，双方各得3分；如果双方同时背叛对方，双方各得1分。<div style="padding-bottom:1em;"></div>当以牙还牙者对背叛者，前者第一场比赛选择不背叛，而后者正好相反，后者获得5分。在余下的5场比赛，两位参与者背叛对方，每一场比赛各得1分。最后，背叛者得10分，以牙还牙者得5分。<div style="padding-bottom:1em;"></div>当双方均为以牙还牙者，在所有6场比赛中彼此均不会背叛对方。双方每回合各得3分，最后每人各得18分。<div style="padding-bottom:1em;"></div>当背叛者互相对赛，双方每次都会背叛对方。双方每回合各得1分，最后每人各得6分。<div style="padding-bottom:1em;"></div>尽管以牙还牙者从来没有赢得过一场比赛，而背叛者从未输过一场比赛，考虑到双方的最大共同利益，以牙还牙仍然是最好的策略。<div style="padding-bottom:1em;"></div>来源：<a rel="nofollow" href="http://zh.wikipedia.org/wiki/%E4%BB%A5%E7%89%99%E9%82%84%E7%89%99" target="_blank">http://zh.wikipedia.org/wiki/%E4%BB%A5%E7%89%99%E9%82%84%E7%89%99</a>
+边缘政策：一九五六年一月,杜勒斯提出美国“不怕走到战争边缘,但要学会走到战争边缘,又不卷入战争的必要艺术”。这种主张被称为“战争边缘政策”。常用来指，将危险的局势极端化的政策，是一种要么带来灾难，要么带来成功的政治策略。<div style="padding-bottom:1em;"></div>鲁大学教授奈尔伯夫和普林斯顿大学教授迪克西特的这本著作，用许多活生生的例子，向没有经济学基础的读者展示了博弈论策略思维的道理。试看一例： 奈尔伯夫大学毕业的时候，在剑桥大学的正式舞会上参加轮盘赌游戏并且以700:300的大比数领先。眼看大奖在望，鬼使神差他却无视已经具有的后动优势，在最后一轮大意先行，结果功败垂成。事后他回忆那天酒喝多了，忘记了博弈论的教导：领先的时候要采取让对手先行的保守策略。这位博弈论的高才生，就这样输在原来处于第二位并且曾经求和建议分享奖励的女士手下。<div style="padding-bottom:1em;"></div>个人实例：如果前面落后他人，最后一局便要让对方先出手冒险选择一条和对方不同的路才能逆袭。如果领先，之后便选择和他人相同的路。<div style="padding-bottom:1em;"></div>囚徒困境：“囚徒困境”是1950年美国兰德公司提出的博弈论模型。两个共谋犯罪的人被关入监狱，不能互相沟通情况。如果两个人都不揭发对方，则由于证据不确定，每个人都坐牢一年；若一人揭发，而另一人沉默，则揭发者因为立功而立即获释，沉默者因不合作而入狱十年；若互相揭发，则因证据确实，二者都判刑八年。由于囚徒无法信任对方，因此倾向于互相揭发，而不是同守沉默。<div style="padding-bottom:1em;"></div>方法：画出四格图，选择优势策略<div style="padding-bottom:1em;"></div>    可信承诺是博弈论中的一个重要的概念，动态博弈的一个中心问题是“可信性”问题。所谓可信性是指动态博弈中先行为的博弈方是否该相信后行为的博弈方会采取对自己有利的或不利的行为。因为后行为方将来会采取对先行为方有利的行为相当于一种“承诺”，而将来会采取对先行为方不利的行为相当于一种“威胁”，因此我们可将可信性分为“承诺的可信性”和“威胁的可信性”，即可信承诺与可信威胁。<div style="padding-bottom:1em;"></div>   可信威胁是那些对威胁者来说无论是事前还是事中都是有效的。事前有效意味着承诺在把博弈对手看成是和自己同时行动时是有效的，事中有效意味着当采取行动之后该威胁仍然是值得执行的。换言之，可信威胁是符合序贯理性的威胁，它是指当轮到承诺者行动时，他出于自身利益考虑确实会按照原先声明采取行动的承诺<div style="padding-bottom:1em;"></div>个人心得：承诺不可夸大，否则会大大降低它的可信度。比如美国以核威胁苏联从古巴撤出导弹，显然不可信。如果用战舰进行海上封锁，大大增加矛盾激发的可能性，这种威胁是很可信的。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36363749/#comments">回应</a>&nbsp;&nbsp;
+                  2015-10-17 08:44
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30604567">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/cirenyisi1314/"><img src="https://img1.doubanio.com/icon/u74305514-9.jpg" alt="某某某" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30604567/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30604567/" class="">杂谈</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/cirenyisi1314/" class=" " title="某某某">某某某</a>
+                (心理学爱好者)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30604567">
+              <div class="short">
+                
+                  <span class="">时隔两个月再写本书的笔记，绝对是个错误，几乎网的一干二净，把记得的都写出来。
+
+以牙还牙策略：
+这一策略有两个步骤：
+第一个回合选择合作
+下一回合是否选合作要看上一回对方是否合作，若对方上一回背叛，此回合我亦背叛；若对方上一回合作，此回合继续合作
+以牙还牙策略有四个特点：
+友善：以牙还牙者开始一定采取合作态度，不会背叛对方
+报复性：遭到对方背叛，以牙还牙者一定会还击作出报复
+宽恕：当对方停止背叛，...</span>
+                <p class="pl">
+                  <span class="">2014-02-20 16:10</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                时隔两个月再写本书的笔记，绝对是个错误，几乎网的一干二净，把记得的都写出来。<div style="padding-bottom:1em;"></div>以牙还牙策略：<div style="padding-bottom:1em;"></div>这一策略有两个步骤：<div style="padding-bottom:1em;"></div>第一个回合选择合作<div style="padding-bottom:1em;"></div>下一回合是否选合作要看上一回对方是否合作，若对方上一回背叛，此回合我亦背叛；若对方上一回合作，此回合继续合作<div style="padding-bottom:1em;"></div>以牙还牙策略有四个特点：<div style="padding-bottom:1em;"></div>友善：以牙还牙者开始一定采取合作态度，不会背叛对方<div style="padding-bottom:1em;"></div>报复性：遭到对方背叛，以牙还牙者一定会还击作出报复<div style="padding-bottom:1em;"></div>宽恕：当对方停止背叛，以牙还牙者会原谅对方，继续合作<div style="padding-bottom:1em;"></div>不羡慕对手：以牙还牙者个人永远不会得到最大利益，整个策略以全体的最大利益为依归<div style="padding-bottom:1em;"></div>在众多策略中，以牙还牙是最有效的，曾连续数年击败由计算机科学家，经济学家和心理学家等团队所提出的策略。博弈论者尽管没有实质证据，但他们认为以牙还牙是最佳的策略。<div style="padding-bottom:1em;"></div>囚徒困境例子<div style="padding-bottom:1em;"></div>假设有四个参与者：两个用以牙还牙的策略，另外两个无论任何时候都会背叛其他人以让自己得到最大的好处。假定每个参与者将要面对另外三个参与者进行六次对决。如果一名参与者背叛对方而对方不背叛，前者有5分，后者得0分；如果双方不背叛对方，双方各得3分；如果双方同时背叛对方，双方各得1分。<div style="padding-bottom:1em;"></div>当以牙还牙者对背叛者，前者第一场比赛选择不背叛，而后者正好相反，后者获得5分。在余下的5场比赛，两位参与者背叛对方，每一场比赛各得1分。最后，背叛者得10分，以牙还牙者得5分。<div style="padding-bottom:1em;"></div>当双方均为以牙还牙者，在所有6场比赛中彼此均不会背叛对方。双方每回合各得3分，最后每人各得18分。<div style="padding-bottom:1em;"></div>当背叛者互相对赛，双方每次都会背叛对方。双方每回合各得1分，最后每人各得6分。<div style="padding-bottom:1em;"></div>尽管以牙还牙者从来没有赢得过一场比赛，而背叛者从未输过一场比赛，考虑到双方的最大共同利益，以牙还牙仍然是最好的策略。<div style="padding-bottom:1em;"></div>来源：<a rel="nofollow" href="http://zh.wikipedia.org/wiki/%E4%BB%A5%E7%89%99%E9%82%84%E7%89%99" target="_blank">http://zh.wikipedia.org/wiki/%E4%BB%A5%E7%89%99%E9%82%84%E7%89%99</a><div style="padding-bottom:1em;"></div>边缘政策：一九五六年一月,杜勒斯提出美国“不怕走到战争边缘,但要学会走到战争边缘,又不卷入战争的必要艺术”。这种主张被称为“战争边缘政策”。常用来指，将危险的局势极端化的政策，是一种要么带来灾难，要么带来成功的政治策略。<div style="padding-bottom:1em;"></div>鲁大学教授奈尔伯夫和普林斯顿大学教授迪克西特的这本著作，用许多活生生的例子，向没有经济学基础的读者展示了博弈论策略思维的道理。试看一例： 奈尔伯夫大学毕业的时候，在剑桥大学的正式舞会上参加轮盘赌游戏并且以700:300的大比数领先。眼看大奖在望，鬼使神差他却无视已经具有的后动优势，在最后一轮大意先行，结果功败垂成。事后他回忆那天酒喝多了，忘记了博弈论的教导：领先的时候要采取让对手先行的保守策略。这位博弈论的高才生，就这样输在原来处于第二位并且曾经求和建议分享奖励的女士手下。<div style="padding-bottom:1em;"></div>个人实例：如果前面落后他人，最后一局便要让对方先出手冒险选择一条和对方不同的路才能逆袭。如果领先，之后便选择和他人相同的路。<div style="padding-bottom:1em;"></div>囚徒困境：“囚徒困境”是1950年美国兰德公司提出的博弈论模型。两个共谋犯罪的人被关入监狱，不能互相沟通情况。如果两个人都不揭发对方，则由于证据不确定，每个人都坐牢一年；若一人揭发，而另一人沉默，则揭发者因为立功而立即获释，沉默者因不合作而入狱十年；若互相揭发，则因证据确实，二者都判刑八年。由于囚徒无法信任对方，因此倾向于互相揭发，而不是同守沉默。<div style="padding-bottom:1em;"></div>方法：画出四格图，选择优势策略<div style="padding-bottom:1em;"></div>    可信承诺是博弈论中的一个重要的概念，动态博弈的一个中心问题是“可信性”问题。所谓可信性是指动态博弈中先行为的博弈方是否该相信后行为的博弈方会采取对自己有利的或不利的行为。因为后行为方将来会采取对先行为方有利的行为相当于一种“承诺”，而将来会采取对先行为方不利的行为相当于一种“威胁”，因此我们可将可信性分为“承诺的可信性”和“威胁的可信性”，即可信承诺与可信威胁。<div style="padding-bottom:1em;"></div>   可信威胁是那些对威胁者来说无论是事前还是事中都是有效的。事前有效意味着承诺在把博弈对手看成是和自己同时行动时是有效的，事中有效意味着当采取行动之后该威胁仍然是值得执行的。换言之，可信威胁是符合序贯理性的威胁，它是指当轮到承诺者行动时，他出于自身利益考虑确实会按照原先声明采取行动的承诺<div style="padding-bottom:1em;"></div>个人心得：承诺不可夸大，否则会大大降低它的可信度。比如美国以核威胁苏联从古巴撤出导弹，显然不可信。如果用战舰进行海上封锁，大大增加矛盾激发的可能性，这种威胁是很可信的。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30604567/#comments">回应</a>&nbsp;&nbsp;
+                  2014-02-20 16:10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="27754230">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/glenwang/"><img src="https://img3.doubanio.com/icon/u1144163-23.jpg" alt="汪杨" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/27754230/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/27754230/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/glenwang/" class=" " title="汪杨">汪杨</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="27754230">
+              <div class="short">
+                
+                  <span class="">生动有趣的例子，非常好的书。
+
+p95 以牙还牙策略其实非常有效。
+
+p118 霍布斯的名言，言语的束缚实在软弱无力，根本抑制不了人们的贪婪。
+
+p184 看不见的手最多也就适用于一切都能标出价格的情况，对于公用品等很多情况都是无效的。
+
+p218对于政治和社会现象的研讨非常有意思，这本书值得多读。
+
+弱者在多方博弈中初始应选择隐藏战略，这样可以提升自身的生存几率</span>
+                <p class="pl">
+                  <span class="">2013-07-24 19:57</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                生动有趣的例子，非常好的书。<div style="padding-bottom:1em;"></div>p95 以牙还牙策略其实非常有效。<div style="padding-bottom:1em;"></div>p118 霍布斯的名言，言语的束缚实在软弱无力，根本抑制不了人们的贪婪。<div style="padding-bottom:1em;"></div>p184 看不见的手最多也就适用于一切都能标出价格的情况，对于公用品等很多情况都是无效的。<div style="padding-bottom:1em;"></div>p218对于政治和社会现象的研讨非常有意思，这本书值得多读。<div style="padding-bottom:1em;"></div>弱者在多方博弈中初始应选择隐藏战略，这样可以提升自身的生存几率
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/27754230/#comments">回应</a>&nbsp;&nbsp;
+                  2013-07-24 19:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="34606786">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/52493723/"><img src="https://img3.doubanio.com/icon/u52493723-16.jpg" alt="朽月" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/34606786/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/34606786/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/52493723/" class=" " title="朽月">朽月</a>
+                (顺境时不懈怠，逆境时不沉沦。)
+              
+            </p>
+            <div class="reading-note" data-cid="34606786">
+              <div class="short">
+                
+                  <span class="">
+假如你成绩领先了，那么，维持领先地位的最可靠的办法就是看见别人怎么做，你就跟着怎么做。
+
+这一策略在竞争者超过两个之后就不再适用了。即便只有三条船只，假如一条船偏向右边，一条船偏向左边，成绩领先者就得择其一，确定自己要跟哪一条船。
+
+
+股市分析员和经济预测员也会受这种模仿策略的感染。业绩领先的预测员总是想方设法随大流，制造出一个跟其他人差不多的预测结果。这么一来，大家就不容易改变对这些预测员的能...</span>
+                <p class="pl">
+                  <span class="">2015-03-20 12:39</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>
+假如你成绩领先了，那么，维持领先地位的最可靠的办法就是看见别人怎么做，你就跟着怎么做。
+
+这一策略在竞争者超过两个之后就不再适用了。即便只有三条船只，假如一条船偏向右边，一条船偏向左边，成绩领先者就得择其一，确定自己要跟哪一条船。
+
+
+股市分析员和经济预测员也会受这种模仿策略的感染。业绩领先的预测员总是想方设法随大流，制造出一个跟其他人差不多的预测结果。这么一来，大家就不容易改变对这些预测员的能力的看法。另一方面，初出茅庐者则会采取一种冒险的策略：他们喜欢预言市场会出现繁荣或崩溃。通常他们都会说错，以后再也没人听信他们，不过，偶尔也会有人做出正确的预测，一夜成名，跻身名家行列。
+
+
+跟在别人后面第二个出手有两种办法。一是一旦看出别人的策略，你立即模仿，好比帆船比赛的情形；二是再等一等，直到这个策略被证明成功或者失败之后再说，
+
+
+极少数人的得益怎么总是会压倒更大多数人的损失而得到优先考虑呢？ 秘诀在于一次提出一件事情。
+
+
+一项决定即便获得多数人投票赞成，仍然有可能导致一个在每个人看来都比现状更糟的结果。
+
+
+多管齐下并不等于说要按照一个可以预计的模式交替使用你的策略。若是那样的话，你的对手就会通过观察得出一个模式，从而最大限度地利用这个模式还击，其效果几乎跟你使用单一策略一样好。实施多管齐下策略，诀窍在于不可预测性。
+
+
+其他人的行动向我们提示了他们究竟知道什么，我们应该利用这些信息指导我们自己的行动。当然，我们应该将这些信息连同我们自己有关这个问题的信息综合起来加以利用，运用全部策略机制，尽可能从其他人那里获取整个事情的真相。
+
+
+我们必须认识讨价还价的两个普遍特征。我们必须知道谁向谁提出了一个什么条件，换言之，就是这个博弈的规则是什么；接着，我们还要知道，假如各方不能达成一个协定，将会导致什么后果。
+
+
+相继行动的博弈，每个参与者不得不向前展望，估计对手的反应，从而倒后推理，决定自己这一轮应该怎么走。这是一条线性的推理链：“假如我这么做，另一个参与者会那么做——若是那样，我会这么反击”，依此类推。 而在同时行动的博弈里，没有一个参与者可以在自己行动之前得知另一个参与者的整个计划。在这种情况下，互动推理不是通过观察对方的策略进行，而是必须通过看穿对手的策略才能展开。要想做到这一点，单单假设自己处于对手的位置会怎么做还不够。即便你那样做了，你又能发现什么？你只会发现，你的对手也在做同样的事情，即他也在假设自己处于你的位置会怎么做。因此，每一个人不得不同时担任两个角色，一个是自己，一个是对手，从而找出双方的最佳行动方式。与一条线性的推理链不同，这是一个循环——“假如我认为他认为我认为……”。诀窍在于怎样破解这个循环。
+
+
+剔除所有劣势策略，不予考虑，如此一步一步做下去。
+
+
+走完寻找优势策略和剔除劣势策略的捷径之后，下一步就是寻找这个博弈的均衡。
+
+
+在同时行动的博弈中，我们有三个行动法则：一是寻找和运用优势策略；二是寻找和避免劣势策略，与此同时假设你的对手也在这么做；三是寻找和运用均衡。
+
+
+遵循法则1：向前展望，倒后推理，就能找出最佳行动方式。
+
+法则2：假如你有一个优势策略，请照办。假如你没有优势策略，但你的对手有，那么，尽管认定他一定会照办吧，然后相应选择你自己的最佳策略。
+
+法则3：剔除劣势策略，不予考虑。如此一步一步做下去。假如在这么做的过程当中，在简化之后的博弈里出现了一个优势策略，应该采用这个优势策略。假如这个过程以一个独一无二的结果告终，那就意味着你找到了参与者的行动法则以及这个博弈的结果。即便这个过程可能不会导出一个独一无二的结果，这么做也可以缩小整个博弈的规模，使其变得更加容易控制。最后，假如既没有优势策略，又没有劣势策略，又或者这个博弈已经经过第二步进行了最大限度的简化，那么，请遵循法则4：寻找这个博弈的均衡，即一对策略，按照这对策略做，各个参与者的行动都是对对方行动的最佳回应。假如存在一个这样的独一无二的均衡，我们就有许多很好的证据证明为什么所有参与者都应该选择这个均衡。假如存在许多这样的均衡，你就需要用一个普遍认同的法则或者惯例做出取舍。假如并不存在这样的均衡，这通常意味着一切有规则可循的行为都有可能被对方加以利用，这时候你需要将你的策略混合运用。
+
+
+对于所有策略行动，可信度都是一个问题。假如你的无条件行动、威胁或许诺只停留在口头上，而采取行动加以实践其实并不符合你的利益，你为什么要这么做呢？不过话说回来，别人可以向前展望、倒后推理，预测到你根本没有动机加以实践，那么你的策略行动就不会取得理想效果。
+
+
+改变对手对你就他的行动可能做出什么回应的预计。假如他相信你不会实践你作出的威胁或许诺，这一目的就会落空。假如你不能影响他的预期，你就不能影响他的行动。 一项可能改变的行动在一个懂得策略思维的对手面前根本起不了任何策略作用。他知道你的言行未必一致，因而会特别警惕战术诈骗。
+
+
+要想使一个策略行动显得很可信，你必须同时采取一个附加或从属的行动。我们把后一种行动称为承诺。 现在，我们提供八种手段，以助于建立可信的承诺。
+第一个原则是改变博弈的结果，意思是说，务必使遵守你的承诺成为符合你自身利益的选择：把威胁变成警告，把许诺变成保证。要做到这一点，有多种方法。
+ (1）建立和利用一种信誉。
+ (2）写下合同。 这两种手段都能使破坏承诺的代价高于遵守承诺的代价。 
+第二个原则是改变博弈，使你背弃承诺的能力大受限制。在这方面，我们考察三种可能性。最极端的做法莫过于剥夺自己反悔的机会，比如禁止自己走到反悔的地步，或断绝一切反悔的后路。甚至还有一种可能性，就是离开决策位置，听天由命。 
+(3）切断沟通。 
+(4）破釜沉舟。 
+(5）让后果超出你的控制。 以上两个原则合并起来就是：可能的行动及其结果都有可能改变。假如一个大的承诺被分割为许多小的承诺，那么，违背其中一个小的承诺的得益很可能并不足以抵消失去余下承诺的损失。
+因此我们说 (6）小步前进。 
+
+第三个原则是充分利用别人，帮助自己遵守承诺。一个团队也许会比单独一个人更容易建立可信度。又或者，你可以考虑雇用其他人来做你的代表。
+ (7）通过团队合作建立可信度。 
+(8）雇用谈判代理人。 信誉 假如你在博弈当中尝试了一个策略行动，然后反悔，你可能就会丧失可信度方面的信誉。若是遇到百年一遇、千载难逢的情况，信誉有可能显得不那么重要，因此也没有多大的承诺价值。不过，一般情况下，你都会在同一时间跟不同对手进行多个博弈。因此你就有建立信誉的动机，而这就相当于作出一个承诺，以使自己的策略行动显得可信。
+
+
+假如一名工人声称自己不能接受任何低于5％的工资涨幅，凭什么老板应该相信他一定不肯退让而接受4％的工资涨幅呢？摆在桌面上的银子完全可以引诱人们回头再作一次谈判。
+
+
+当你知道正在和你交谈的人出于自己的利益会有误导你的想法的时候，最佳选择可能是忽略他所说的一切，而不是按照字面意思理解或者断定应该反过来理解。
+
+
+扑克玩家应该隐蔽在自相矛盾的面具后面。好的扑克玩家必须避免一成不变的策略，随机行动，偶尔还要走过头，违反正确策略的基本原则。”一个“谨小慎微”的玩家难得大胜一回；没有人会跟他加码。他可能赢得许多小赌注，最后却不可避免会成为一个输家。一个经常虚张声势的“大大咧咧”的玩家，总会有人向他摊牌，于是也免不了失败的下场。最佳策略是将这两种策略混合使用。
+
+
+边缘政策的本质在于故意创造风险。这个风险应该大到让你的对手难以承受的地步，从而迫使他按照你的意愿行事，以化解这个风险。
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/34606786/#comments">回应</a>&nbsp;&nbsp;
+                  2015-03-20 12:39
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37605595">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/67978753/"><img src="https://img3.doubanio.com/icon/u67978753-3.jpg" alt="Elias" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37605595/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37605595/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/67978753/" class=" " title="Elias">Elias</a>
+                (最大的失败为怕失败而不敢尝试)
+              
+            </p>
+            <div class="reading-note" data-cid="37605595">
+              <div class="short">
+                
+                  <span class="">20160418开始读                </span>
+                <p class="pl">
+                  <span class="">2016-04-19 13:10</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                20160418开始读                
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37605595/#comments">回应</a>&nbsp;&nbsp;
+                  2016-04-19 13:10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="40995368">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/53840419/"><img src="https://img3.doubanio.com/icon/u53840419-3.jpg" alt="华中一粟" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/40995368/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/40995368/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/53840419/" class=" " title="华中一粟">华中一粟</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="40995368">
+              <div class="short">
+                
+                  <span class="">相继行动策略：向前展望，向后推理。(树状图)
+同时行动策略：循环图，画表格</span>
+                <p class="pl">
+                  <span class="">2016-12-29 17:09</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                相继行动策略：向前展望，向后推理。(树状图)<div style="padding-bottom:1em;"></div>同时行动策略：循环图，画表格
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/40995368/#comments">回应</a>&nbsp;&nbsp;
+                  2016-12-29 17:09
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="44453052">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/azwraith/"><img src="https://img3.doubanio.com/icon/u42656005-1.jpg" alt="水清木华" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44453052/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44453052/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/azwraith/" class=" " title="水清木华">水清木华</a>
+              
+            </p>
+            <div class="reading-note" data-cid="44453052">
+              <div class="short">
+                
+                  <span class="">第一次用读书笔记，我来测试下好不好用</span>
+                <p class="pl">
+                  <span class="">2017-05-31 15:34</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>第一次用读书笔记，我来测试下好不好用</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44453052/#comments">回应</a>&nbsp;&nbsp;
+                  2017-05-31 15:34
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="40995368">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/53840419/"><img src="https://img3.doubanio.com/icon/u53840419-3.jpg" alt="华中一粟" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/40995368/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/40995368/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/53840419/" class=" " title="华中一粟">华中一粟</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="40995368">
+              <div class="short">
+                
+                  <span class="">相继行动策略：向前展望，向后推理。(树状图)
+同时行动策略：循环图，画表格</span>
+                <p class="pl">
+                  <span class="">2016-12-29 17:09</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                相继行动策略：向前展望，向后推理。(树状图)<div style="padding-bottom:1em;"></div>同时行动策略：循环图，画表格
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/40995368/#comments">回应</a>&nbsp;&nbsp;
+                  2016-12-29 17:09
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="40403341">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/60568054/"><img src="https://img3.doubanio.com/icon/u60568054-15.jpg" alt="酱油瓶" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/40403341/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/40403341/" class="">耶鲁大学 - 博弈论</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/60568054/" class=" " title="酱油瓶">酱油瓶</a>
+                (上次像孩子一样地笑是什么时候了)
+              
+            </p>
+            <div class="reading-note" data-cid="40403341">
+              <div class="short">
+                
+                  <span class="">Lecture 1
+Don't play a strictly dominated strategy. 不要选择劣势策略。
+Rational choices can lead to bad outcomes. 理性选择导致次优结果。
+Figure out what you want before you try and get what you want. 汝欲得之，必先知之。
+Put yourself in others' shoes and try to figure out what they will do. 学会换位思考。
+Human nature is evil. 人性本自私。
+
+Lecture 2
+Game 2 from last lecture: 1-100, 2/3 of...</span>
+                <p class="pl">
+                  <span class="">2016-11-25 01:31</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                Lecture 1<div style="padding-bottom:1em;"></div>Don't play a strictly dominated strategy. 不要选择劣势策略。<div style="padding-bottom:1em;"></div>Rational choices can lead to bad outcomes. 理性选择导致次优结果。<div style="padding-bottom:1em;"></div>Figure out what you want before you try and get what you want. 汝欲得之，必先知之。<div style="padding-bottom:1em;"></div>Put yourself in others' shoes and try to figure out what they will do. 学会换位思考。<div style="padding-bottom:1em;"></div>Human nature is evil. 人性本自私。<div style="padding-bottom:1em;"></div>Lecture 2<div style="padding-bottom:1em;"></div>Game 2 from last lecture: 1-100, 2/3 of avg. <div style="padding-bottom:1em;"></div>博弈的要素：参与者，策略，收益payoff<div style="padding-bottom:1em;"></div>Deleting dominated strategies 剔除劣势策略<div style="padding-bottom:1em;"></div>common knowledge<div style="padding-bottom:1em;"></div>Iterative deletion of dominated strategies 迭代剔除劣势策略<div style="padding-bottom:1em;"></div>Lecture 3<div style="padding-bottom:1em;"></div>Presidential election<div style="padding-bottom:1em;"></div>Median Voter Theorem 中间选民定理<div style="padding-bottom:1em;"></div>Lecture 4<div style="padding-bottom:1em;"></div>Penalty kick<div style="padding-bottom:1em;"></div>Middle is not a best response to any belief.<div style="padding-bottom:1em;"></div>Do not shoot to the middle.<div style="padding-bottom:1em;"></div>Do not choose a strategy that is never a best response.<div style="padding-bottom:1em;"></div>Partnership game<div style="padding-bottom:1em;"></div>Nash equilibrium <div style="padding-bottom:1em;"></div>Lecture 5<div style="padding-bottom:1em;"></div>如果在strategy profile里的任何参与人的策略对于其他参与者的策略来讲都是最佳策略，那么这种情形就称为纳什均衡。<div style="padding-bottom:1em;"></div>动机1，no regrets不后悔。动机2，自我实施的信念。<div style="padding-bottom:1em;"></div>strictly dominated strategy严格劣势策略不可能成为纳什均衡策略。<div style="padding-bottom:1em;"></div>博弈的结果会不断趋近于纳什均衡。<div style="padding-bottom:1em;"></div>Investment game 熊市 牛市 coordination game 两个纳什均衡 一好一坏<div style="padding-bottom:1em;"></div>与囚徒困境不同，协同博弈中，通过communication就可以改变参与者的想法，改善博弈结果。self-enforcing agreement<div style="padding-bottom:1em;"></div>Lecture 6<div style="padding-bottom:1em;"></div>strategic complements 互补博弈<div style="padding-bottom:1em;"></div>going to the movie, Battle of the Sexes
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/40403341/#comments">回应</a>&nbsp;&nbsp;
+                  2016-11-25 01:31
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37605595">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/67978753/"><img src="https://img3.doubanio.com/icon/u67978753-3.jpg" alt="Elias" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37605595/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37605595/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/67978753/" class=" " title="Elias">Elias</a>
+                (最大的失败为怕失败而不敢尝试)
+              
+            </p>
+            <div class="reading-note" data-cid="37605595">
+              <div class="short">
+                
+                  <span class="">20160418开始读                </span>
+                <p class="pl">
+                  <span class="">2016-04-19 13:10</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                20160418开始读                
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37605595/#comments">回应</a>&nbsp;&nbsp;
+                  2016-04-19 13:10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1084435/annotation">更多读书笔记（共36篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1084435/discussion/55858869/" title="关于二阶段出价法的竞购方案" class="">关于二阶段出价法的竞购方案</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/51242829/">Edwin酌</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2013-11-09</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1084435/discussion/22968409/" title="Fun: 听 Avinash Dixit 教授讲英语" class="">Fun: 听 Avinash Dixit 教授讲英语</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/charlespdu/">Dubos</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2010-04-06</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1084435/discussion/1124976/" title="比较感兴趣" class="">比较感兴趣</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/ipis/">ipis</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2008-01-06</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1084435/discussion/1023122/" title="很不错的一本书" class="">很不错的一本书</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/1206914/">morph</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2006-07-20</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1084435/discussion/41859607/" title="268,269页的案例，不能联合起来，否定提案么" class="">268,269页的案例，不能联合起来，否定提案么</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/yqs1229/">伍盗泽音</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2011-09-28</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/1084435/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">其他版本在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+        <a class="publish" href="https://book.douban.com/subject/24523169/" target="_blank">中国人民大学出版社版</a><br/>
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 33.60元</span>
+        <span class="price"> <del>42.00元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=121310&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">其他版本的电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/23186752/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1084435" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/23186752/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1084435" class="">
+          <span class="buylink-price">
+            
+            <span class="">9.99 元</span>
+          </span>
+        </a>
+          <p class="publish">
+            <a target="_blank" href="/subject/24523169">中国人民大学出版社</a>
+          </p>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed" class="no-border">
+        
+  
+
+  <h2>
+    <span class="">其他版本的纸质版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline">
+            
+              <li class="">
+                  
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=2610&amp;pos=1&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1084435%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23245505&amp;srcsubj=1084435&amp;type=bkbuy&amp;subject=24523169">
+                    当当网
+                  </a>
+                  <a class="buylink-price" target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=2610&amp;pos=1&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1084435%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23245505&amp;srcsubj=1084435&amp;type=bkbuy&amp;subject=24523169">
+                    <span class=""> 26.10 元</span>
+                  </a>
+                  <p class="publish">
+                    <a href="https://book.douban.com/subject/24523169/" onclick="moreurl(this,{buylink:'other'})"
+                    class=" ">中国人民大学出版社版</a>
+                  </p>
+                </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D7-300-04338-0&amp;subject=7300043380&amp;type=borrow&amp;library=10007&amp;link2key=3a16bc5a7e" target="_blank">北京市公共图书馆(4)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7300043380&amp;subject=7300043380&amp;type=borrow&amp;library=10012&amp;link2key=3a16bc5a7e" target="_blank">上海市中心图书馆(4)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D7300043380%26strSearchType%3Disbn&amp;subject=7300043380&amp;type=borrow&amp;library=10002&amp;link2key=3a16bc5a7e" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Finterlib.jylib.cn%2Fopac%2Fwebsearch%2FbookSearch%3Ffilter%3D%2528isbn%253A7300043380%2529%26cmdACT%3Dlist%26xsl%3DBOOK_list.xsl%26col1%3Disbn%26val1%3D7300043380&amp;subject=7300043380&amp;type=borrow&amp;library=10003&amp;link2key=3a16bc5a7e" target="_blank">江阴市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fourex.lib.sjtu.edu.cn%2Fprimo_library%2Flibweb%2Faction%2Fsearch.do%3Ffn%3Dsearch%26vl%28freeText0%29%3D7-300-04338-0&amp;subject=7300043380&amp;type=borrow&amp;library=10006&amp;link2key=3a16bc5a7e" target="_blank">上海交通大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D7-300-04338-0%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7300043380&amp;type=borrow&amp;library=10021&amp;link2key=3a16bc5a7e" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1012071">全部6</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1666052/">W. W. Norton &amp; Company版</a>
+          1993-4-17 / 110人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/24523169/">中国人民大学出版社版</a>
+          2013-4 / 429人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/11027747/">W. W. Norton &amp; Company版</a>
+          1991-2-1 / 1人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/26982861/">W. W. Norton &amp; Co.版</a>
+          1991-8-21
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1084435/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/883483/" target="_blank">耶鲁大学部分公开课教科书与参考书目录</a>
+                <span class="pl">(抵抵)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1222848/" target="_blank">心智黑客</a>
+                <span class="pl">(阳志平)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/49512/" target="_blank">梁小民&lt;&lt;读经济学书&gt;&gt;的推荐(61)（2010.12.14）</a>
+                <span class="pl">(絮佩维埃尔)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/32761/" target="_blank">咨询&amp;思考&amp;方法论</a>
+                <span class="pl">(rink)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/651141/" target="_blank">==&gt;思考的技术---改变错误的思维模式&amp;树立正确的思维模式</a>
+                <span class="pl">(再出发)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/96511342/"><img src="https://img3.doubanio.com/icon/u96511342-1.jpg" class="pil" alt="蒋莹蔚" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/96511342/">蒋莹蔚</a><br/>
+      <div class="pl ll">          47分钟前          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:博弈论 管理 经济学</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/67791681/"><img src="https://img3.doubanio.com/icon/u67791681-2.jpg" class="pil" alt="说空话的懒丫" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/67791681/">说空话的懒丫</a><br/>
+      <div class="pl ll">          56分钟前          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/28395798/"><img src="https://img3.doubanio.com/icon/u28395798-6.jpg" class="pil" alt="史蒂芬.康康" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/28395798/">史蒂芬.康康</a><br/>
+      <div class="pl ll">          今天上午          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/159525746/"><img src="https://img3.doubanio.com/icon/u159525746-1.jpg" class="pil" alt="南国书生" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/159525746/">南国书生</a><br/>
+      <div class="pl ll">          今天上午          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1084435/doings">947人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1084435/collections">1827人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1084435/wishes">10001人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有10001人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于策略思维的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1084435/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = '6oTgrbqnz3o',
+            criteria = '7:博弈论|7:思维|7:经济学|7:策略|7:博弈|7:经济|7:管理|7:谋略|7:思想|7:博弈学|3:/subject/1084435/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar7d-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

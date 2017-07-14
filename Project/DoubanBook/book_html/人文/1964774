@@ -1,0 +1,3240 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>论语 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1964774/">
+<meta name="keywords" content="论语,中华书局,2006-12,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书论语 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1964774/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">论语</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s5804746.jpg" title="论语">
+    <img src="https://img3.doubanio.com/lpic/s5804746.jpg" title="点击看大图" alt="论语"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版社:</span> 中华书局<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2006-12<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 191<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 9.80元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/24307">传世经典 文白对照</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787101054187<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 9.0 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">7257</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">63.5%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:27px"></div>
+
+            <span class="rating_per">26.9%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:8px"></div>
+
+            <span class="rating_per">8.1%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.8%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.7%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1964774-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1964774-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1964774-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964774-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964774-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964774-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964774-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964774-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1964774">
+        <a href="#" data-url="https://book.douban.com/subject/1964774/" data-desc="" data-title="书籍《论语》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s5804746.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1964774"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>《论语》是一部语录体思想散文集。早在春秋后期孔子设坛讲学时期，其主体内容就已初始创成；孔子去世以后，他的辫子和再传弟子代代传授他的言论，并逐渐将这些口头记诵的语录言行记录下来，集腋成裘，最终在战国初年汇辑论纂成书，因此称“论”。《论语》主要记载孔子及其弟子的言行，因此称为“语”。</p>    <p>孔子思想以立身为出发点，而人能立身于世的首要条件就是具有“君子”人格。君子具备仁爱之心，自重自律；表里如一，言行一致；积极进取，德才兼备；孜孜于学，注重实践；安贫乐道，谨守正义等等；始终坚守人之间的相处之道，遵从不同的伦理关系，构建着和谐友爱的人际关系和社会环境。</p>    <p>这本书以权威版本为底本，约请张燕婴作了晓畅通俗的白话翻译。文白对照，并以对开的方式排版，以为读者提供阅读最方便的文本。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1964774/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1964774_short">
+        学而第一为政第二八佾第三里仁第四公冶长第五雍也第六述而第七泰伯第八子罕第九乡党第十先进第十一颜渊第十二子路第十三宪问第十四卫灵公第十五季氏第十六阳货第十七微子第十八子张第十九尧日第二十<br/>
+</div>
+
+<div class="indent" id="dir_1964774_full" style="display:none">
+        学而第一为政第二八佾第三里仁第四公冶长第五雍也第六述而第七泰伯第八子罕第九乡党第十先进第十一颜渊第十二子路第十三宪问第十四卫灵公第十五季氏第十六阳货第十七微子第十八子张第十九尧日第二十<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1964774_full').hide();$('#dir_1964774_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共479个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/国学">国学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/孔子">孔子</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/论语">论语</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/经典">经典</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/哲学">哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/古典文学">古典文学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/思想">思想</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/中国文学">中国文学</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/24307">传世经典 文白对照 (共14册)</a>,
+这套丛书还有
+《庄子》,《孔子家语》,《资治通鉴》,《资治通鉴》,《纲鉴易知录（套装全6册）》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;论语&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/10918334/?dcs=subject-rec&amp;dcm=douban&amp;dct=1964774" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/10918334.jpg?v=1435807264.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/10918334/" target="_blank">三国演义</a>
+          </div>
+          <div class="price">
+              5.40元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/316702/?dcs=subject-rec&amp;dcm=douban&amp;dct=1964774" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/316702.jpg?v=1395395734.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/316702/" target="_blank">论文艺女青年如何培养女王气场</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/407582/?dcs=subject-rec&amp;dcm=douban&amp;dct=1964774" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/407582.jpg?v=1437105182.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/407582/" target="_blank">少年PI的奇幻漂流（插图珍藏版）</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/271600/?dcs=subject-rec&amp;dcm=douban&amp;dct=1964774" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/271600.jpg?v=1395395936.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/271600/" target="_blank">大好河山可骑驴</a>
+          </div>
+          <div class="price">
+              6.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/393187/?dcs=subject-rec&amp;dcm=douban&amp;dct=1964774" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/393187.jpg?v=1395395731.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/393187/" target="_blank">7天治愈拖延症</a>
+          </div>
+          <div class="price">
+              5.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;论语&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1257360/" onclick="moreurl(this, {'total': 10, 'clicked': '1257360', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1255446.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1257360/" onclick="moreurl(this, {'total': 10, 'clicked': '1257360', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            孟子
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1883245/" onclick="moreurl(this, {'total': 10, 'clicked': '1883245', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1979223.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1883245/" onclick="moreurl(this, {'total': 10, 'clicked': '1883245', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            诗经
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1059258/" onclick="moreurl(this, {'total': 10, 'clicked': '1059258', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1045431.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1059258/" onclick="moreurl(this, {'total': 10, 'clicked': '1059258', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            道德经
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1013267/" onclick="moreurl(this, {'total': 10, 'clicked': '1013267', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1008848.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1013267/" onclick="moreurl(this, {'total': 10, 'clicked': '1013267', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            唐诗三百首
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2046236/" onclick="moreurl(this, {'total': 10, 'clicked': '2046236', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s5765615.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2046236/" onclick="moreurl(this, {'total': 10, 'clicked': '2046236', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            庄子
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1851955/" onclick="moreurl(this, {'total': 10, 'clicked': '1851955', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s29322975.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1851955/" onclick="moreurl(this, {'total': 10, 'clicked': '1851955', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            唐诗三百首
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1393724/" onclick="moreurl(this, {'total': 10, 'clicked': '1393724', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s9846666.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1393724/" onclick="moreurl(this, {'total': 10, 'clicked': '1393724', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            楚辞
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1006967/" onclick="moreurl(this, {'total': 10, 'clicked': '1006967', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1131431.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1006967/" onclick="moreurl(this, {'total': 10, 'clicked': '1006967', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            宋词三百首
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1014561/" onclick="moreurl(this, {'total': 10, 'clicked': '1014561', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1325863.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1014561/" onclick="moreurl(this, {'total': 10, 'clicked': '1014561', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            古文观止
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1287865/" onclick="moreurl(this, {'total': 10, 'clicked': '1287865', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2182990.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1287865/" onclick="moreurl(this, {'total': 10, 'clicked': '1287865', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            老子
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1964774/comments/">全部 1196 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="382519862">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-382519862" class="vote-count">3</span>
+                        <a href="javascript:;" id="btn-382519862" class="j a_show_login" data-cid="382519862">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/shihaolou/">碎岁</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2011-04-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">高中。虽背诵下了全书，但觉得孔子的见识不过是些常识，认为他靠这样的东西被称为圣人是欺我中华无人。不过有几篇短文篇幅的，还是很痛快。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="797645370">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-797645370" class="vote-count">3</span>
+                        <a href="javascript:;" id="btn-797645370" class="j a_show_login" data-cid="797645370">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/moshou/">魔云兽</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2014-04-17</span>
+                </span>
+            </h3>
+            <p class="comment-content">儒家经典</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="374070226">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-374070226" class="vote-count">7</span>
+                        <a href="javascript:;" id="btn-374070226" class="j a_show_login" data-cid="374070226">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/KidHolmes/">理念人</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2011-04-04</span>
+                </span>
+            </h3>
+            <p class="comment-content">把整部论语都抄了一遍，耗时一周，兼得习文练字修身养性，不亦乐乎</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="287983031">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-287983031" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-287983031" class="j a_show_login" data-cid="287983031">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/sputnikrose/">蒙面的我</a>
+                        <span class="user-stars allstar10 rating" title="很差"></span>
+                    <span>2010-08-29</span>
+                </span>
+            </h3>
+            <p class="comment-content">打倒孔家店！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="952126578">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-952126578" class="vote-count">10</span>
+                        <a href="javascript:;" id="btn-952126578" class="j a_show_login" data-cid="952126578">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/84074155/">再回首1984</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2015-08-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">看完论语最大的感触就是我们的老祖宗太聪明了，他们那个时候就认识到靠制度治理人们不能让人民心服，所以要用道德感化人民，要用道德治理百姓。但是人性是趋利避害的，他们的思想太超前了，只能先以完善的制度与法律来治理国家，最后再用道德用礼仪来感化大众。否则一味地忽视法律制度的作用，只会涌现出一大批满口仁义道德一肚子男盗女娼的伪君子。我们祖先用了两千多年来证明，靠单纯地道德说教这条路是走不通的，只有宪政只有制度，才能从根本上遏制人的邪恶与软弱。与其用虚无的道德去约束复杂而脆弱的人性，不如用实实在在的制度来约束君子和小人。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1207753960">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1207753960" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1207753960" class="j a_show_login" data-cid="1207753960">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/108336088/">雨清泽</a>
+                    <span>2017-06-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">好多思想</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1207311923">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1207311923" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1207311923" class="j a_show_login" data-cid="1207311923">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/155021644/">羽化</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">在这个纷乱的世界中，读这本书就感觉找到了人生游戏操作指南。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1206787005">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1206787005" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1206787005" class="j a_show_login" data-cid="1206787005">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/147929146/">dianwen</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-24</span>
+                </span>
+            </h3>
+            <p class="comment-content">看过多个版本解读。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1204987390">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1204987390" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1204987390" class="j a_show_login" data-cid="1204987390">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/154633892/">岸芷汀兰</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-20</span>
+                </span>
+            </h3>
+            <p class="comment-content">论语的伟大在于，穿越两千余年，依旧能让今人读懂，依旧能让今人有所启示。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1203486065">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1203486065" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1203486065" class="j a_show_login" data-cid="1203486065">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/32543399/">葡萄</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-16</span>
+                </span>
+            </h3>
+            <p class="comment-content">好好学做人，真想把整本书背下来。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1964774/comments/">更多短评 1196 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1964774/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            论语的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 109 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="2737147">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/2737147/" class="title-link">明明，明明，明明是充满魅力的人啊</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-2737147"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/sponge-D/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u4122764-3.jpg"></a>
+    <a href="https://www.douban.com/people/sponge-D/" class="author">
+      <span property="v:reviewer">obravo</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2009-11-11"
+      class="main-meta">2009-11-11 10:54:42</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_2737147_short" class="review-short">
+            <div class="short-content">
+                         我每一次看《论语》，都会觉得，我比较喜欢论语里的那个孔子：比起朱熹的孔子，要可爱多了，真实多了。他喜欢穿得体面，喜欢安安静静的发呆，喜欢有事没事发发牢骚，做一些每个老头都会做的事情。     不了解儒家的人，不了解孔子的人，往往会觉得，一个拥有万世师表盛...
+
+                    <a class="pl" href="https://book.douban.com/review/2737147/#comments">(34回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">244有用 / 17没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_2737147_full" class="hidden">
+            <div id="review_2737147_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5563790">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5563790/" class="title-link">论语取名</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5563790"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/CissyHsia/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2320698-90.jpg"></a>
+    <a href="https://www.douban.com/people/CissyHsia/" class="author">
+      <span property="v:reviewer">夏莲</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2012-08-28"
+      class="main-meta">2012-08-28 16:09:47</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5563790_short" class="review-short">
+            <div class="short-content">
+                  机缘巧合，最近手头在审的书稿就与论语有关。以此为契机，索性写一篇《论语取名》，与前文成一系列。 《诗经取名》http://book.douban.com/review/5093422/ 《楚辞取名》http://book.douban.com/review/5362460/ 写取名文章的发端，纯粹为好玩，我确也有些恋古，写得不亦乐乎。...
+
+                    <a class="pl" href="https://book.douban.com/review/5563790/#comments">(28回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">118有用 / 7没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5563790_full" class="hidden">
+            <div id="review_5563790_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3478395">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3478395/" class="title-link">有感于“从吾所好”</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3478395"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/annekircheis/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2674413-81.jpg"></a>
+    <a href="https://www.douban.com/people/annekircheis/" class="author">
+      <span property="v:reviewer">陌上萱</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2010-07-27"
+      class="main-meta">2010-07-27 14:28:33</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3478395_short" class="review-short">
+            <div class="short-content">
+                  一直很难忘一篇短文：一个富翁在海边度假时见到一个躺在沙滩上晒太阳的渔夫，商人的经济头脑使这个富翁忍不住问那渔夫为何不去出海捕鱼，没想到渔夫懒洋洋地反问他道捕鱼作什么——拿到市场上卖个好价钱——然后呢——再买大船，捕更多的鱼——然后呢——开渔场，当老板——然...
+
+                    <a class="pl" href="https://book.douban.com/review/3478395/#comments">(17回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">96有用 / 4没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3478395_full" class="hidden">
+            <div id="review_3478395_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1619603">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1619603/" class="title-link">孔子的理想与现实主义</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1619603"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/tsusuki/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/tsusuki/" class="author">
+      <span property="v:reviewer">[已注销]</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2009-01-14"
+      class="main-meta">2009-01-14 21:28:24</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1619603_short" class="review-short">
+            <div class="short-content">
+                  对于整个东方的文化而言，孔子也许算是最特殊的存在。西方人总试图将儒学作为宗教理解，他们所看到的孔子是一位精神的偶像，也许，如果所有无法摆脱的精神制约都可以视为宗教的话，孔子确实是这样一种后果的直接缔造者。但实际上这种认识存在非常大的偏差。虔诚的教徒永远不能...
+
+                    <a class="pl" href="https://book.douban.com/review/1619603/#comments">(8回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">62有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1619603_full" class="hidden">
+            <div id="review_1619603_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3535151">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3535151/" class="title-link">版本一般</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3535151"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/jihilo/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u38524879-4.jpg"></a>
+    <a href="https://www.douban.com/people/jihilo/" class="author">
+      <span property="v:reviewer">Mew</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2010-08-12"
+      class="main-meta">2010-08-12 09:35:20</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3535151_short" class="review-short">
+            <div class="short-content">
+                  书的质量还行，简体，但是，这本书里的译文一般到了极点~甚至看到现在有几段译文很莫名其妙~囧~~~~不喜欢的~
+
+                    <a class="pl" href="https://book.douban.com/review/3535151/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">0有用 / 0没用</span>
+                        <span class="publisher left">
+                            中华书局2006版</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3535151_full" class="hidden">
+            <div id="review_3535151_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评109篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1964774/annotation">共<span property="v:count">182</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="19567575">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/4495588/"><img src="https://img3.doubanio.com/icon/u4495588-2.jpg" alt="sissi" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/19567575/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/19567575/" class="">论先秦儒家与道家文艺思想的互补关系</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/4495588/" class=" " title="sissi">sissi</a>
+                (花未全开，月未圆。)
+              
+            </p>
+            <div class="reading-note" data-cid="19567575">
+              <div class="short">
+                
+                  <span class="">       先秦儒家与道家文艺思想的互补关系，这在中国哲学史的研究中是个老而又 老的话题了。然而即便如此，我们仍然可以从不同的角度与侧面，不断地发现新 的问题，提出新的思考。 
+    纵观我们的历史，我们可以看到作为意识形态上最为活跃、最为开拓创新的 “先秦”时期即春秋战国时期，真可谓“百家蜂起，诸子争鸣”。然而令人感到 奇怪的是，在这竞相争荣斗艳的百花纷纷凋零的时期，“独尊儒术”的文化专制 主义下，诸子百家..</span>
+                <p class="pl">
+                  <span class="">2012-07-11 09:12</span>
+                  
+                    &nbsp;&nbsp;<span class="">19人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                       先秦儒家与道家文艺思想的互补关系，这在中国哲学史的研究中是个老而又 老的话题了。然而即便如此，我们仍然可以从不同的角度与侧面，不断地发现新 的问题，提出新的思考。 <div style="padding-bottom:1em;"></div>    纵观我们的历史，我们可以看到作为意识形态上最为活跃、最为开拓创新的 “先秦”时期即春秋战国时期，真可谓“百家蜂起，诸子争鸣”。然而令人感到 奇怪的是，在这竞相争荣斗艳的百花纷纷凋零的时期，“独尊儒术”的文化专制 主义下，诸子百家学说自然而然地被压制而衰落，但是，不处于正统地位（个别 历史时期除外）的道家，却始终没有被消灭，而是长久的与儒家共存了下来。究 其原因， 无外乎它们之间有着互补的关系。下面主要从它们的各方面的对立中找 相通从而转化为互补。<div style="padding-bottom:1em;"></div>    文艺价值取向方面 <div style="padding-bottom:1em;"></div>    儒家更强调文学的社会价值；道家强调文学的审美价值。儒家偏向提倡积极 入世，推崇忧国忧民的士大夫精神，关注文艺对社会的价值；道家崇尚出世，追 求个人的超然独立，更关注文艺对个人的价值。简单来说，儒家是以现实的政治 为“家”，道家是以自然的理想为“家”。<div style="padding-bottom:1em;"></div>    表面上看来，儒、道是离异而对立的，一个入世，一个出世；一个进取，一 个退避； 儒家思想强调的是艺术为社会政治服务的实用功利思想，道家强调的人 与外界对象超功利、 没有作为的关系——即审美关系；儒家对文艺的影响主要在 主题内容方面， 而道家对艺术的影响则更多的是在创作规律方面。但实际二者相 互互补、相互制约，成为中国传统文化的主要思想核心。比如先秦儒家主张文人 积极入世，但有时候现实终究会不如人意，连汲汲以求，创立儒家学说的孔子都 说过： “天下有道则现，无道则隐。”（ 《论语·微子篇》 ）当中国的文人发现自己 的力量不足以救赎这个世界的时候就会产生困惑，从而陷入巨大的精神危机之 中。这时先秦道家的超世主义特别是庄子的“逍遥游”思想就成了中国文人精神 的最后的皈依。林语堂先生也说过，中国文人的社会理想是儒家的，个人理想是道家的。真是深刻精辟的论断。 <div style="padding-bottom:1em;"></div>    因此说对于中国文学， 由于儒道对文艺不同的价值取向，使得中国文学可以 在二者之间取得平衡，避免走向任何一个极端。儒家批判社会现实，所以中国文 学不会沦于无病呻吟，丧失历史洞察力和改造现实的力量。道家关注人的内心， 注重文艺的审美价值， 所以中国文学不至于彻底沦为政治的传声筒，丧失超越和 批判现实的力量。 儒道文艺思想在文艺价值取向方面的互补对于中国文学的发展 可谓是举足轻重。 <div style="padding-bottom:1em;"></div>    文艺审美风格方面 <div style="padding-bottom:1em;"></div>    儒家主张中和之美，追求“善”与“美的统一” ；道家崇尚自然朴素，追求 “真”与“美”的统一。儒家向往的是社会美学，注意发挥文艺规范社会秩序的 社会功能， 道家向往的是自然美学和生命美学， 注重文艺对人类自身提升的作用。 <div style="padding-bottom:1em;"></div>    但是我们可以看到儒家在重视文艺的同时，往往容易忽视文艺的审美特性， 这种对政教功能的片面性无疑强烈束缚了文艺。它在重视对人与社会的作用，以 及处理好与社会的关系的同时，提出了文学存在的最大价值是因为它“可以兴， 可以观，可以群，可以怨”，是因为可以“风以动之，教以化之”，是因为可以 “经夫妇，成孝敬，厚人伦，美教化，移风俗。”在儒家的文艺观中，文学的功 能是远远重于其本质的， 它的价值就体现它具有讽柬功能。至于文学本身是什么 样的，并不是儒家的文学观所关心的。 <div style="padding-bottom:1em;"></div>    而道家则从根本上否定文艺，但其审美态度、艺术眼光和自由精神，及其对 “道”独特的阐述方式，却特别契合于文艺。在道家的文艺观里，文学“美”的 这一面就相对突现了，而善的一面，即伦理社会所要求的那种善就淡化了，道家 的文艺观所重视的善是对个人灵魂的影响程度，是对个人生活和心灵的指导作 用，多是关于对文学创作经验的阐述和研究，这一点，在《诗品》中体现地非常 明显。 这里，儒道文艺的相对照之下，就可以很明显的发现，儒家的文艺观对文学 的外在的教化作用的一味追求， 容易忽略了文学之为文学的美，导致在政治的阴 影下存在，作为政治的工具和附庸而存在，但是这样的一味传道的文学是死的， 没有生命的，是僵化的，是无法超越而得到更新的价值的。而道家的文艺观正好 弥补了儒家一味重视文学教化性的缺陷， 它把文学研究和文学评论引向了文学本 质的方向， 一个一直为儒家的文艺观所忽略的方面， 在对文学创作的探讨研究中， 文学才有条件获得新的生命， 才能让各种思想在其中竞相开放而呈现气象万千的 局面。儒道文艺观恰成互补，深远影响了后世文学文论。<div style="padding-bottom:1em;"></div>    文艺批评标准方面<div style="padding-bottom:1em;"></div>    儒家主张“思无邪”，道家主张“法天贵真”。儒家认为文学观照的对象， 感情的抒发要受到礼乐的制约，追求“怨诽而不乱，好色而不淫”， “乐而不淫， 哀而不伤”，不能过度；道家则要求按照自然之道，追求物我合一的境界，表达 要自然率真，不失本色。<div style="padding-bottom:1em;"></div>    儒家在进行礼乐文化的重建过程中，为铸造中华民族的审美心理习惯做出了 特殊的贡献。对于诗，孔子才会有“不学诗，无以言”（《论语· 季氏》）的训导； 对于乐和舞， 孔子才会有“三月不知肉味”， “不图为乐之至于斯也” 《论语· （ 述而》 ） 之类的感受。孔子诗学批评上倡导的雅正观，体现了他的“中庸”哲学思想和重伦 理道德的审美观念。《论语?为政》：“诗三百，一言以蔽之，曰：思无邪。”正而 无邪，是孔子诗学批评的重要原则。他将这一原则用在具体的文学批评上，要求 诗有雅正中和之美，如称《关雎》：“乐而不淫，哀而不伤。”（《论语?八佾》）。 对于其认为有失雅正中和之美倾向的“郑卫之声”提出“恶紫之夺朱也， 恶郑声之乱 雅乐也，恶利口之覆家邦也。”（《论语?阳货》），以“郑声淫”，故欲“放郑声” （《论语?卫灵公》）。儒家诗教崇尚雅正的传统始终被遵从和提倡。但这些文 学问题的论述往往是片段的、 散漫的、 结论性的。 从某种意义上讲， 中国古代诗、 乐、 舞等表现艺术相对发达的历史特征便可以在儒家以礼乐来建构文化的独特方 式中找到根据。但在内容上，由于“礼”的等级观念始终规范着“乐”的自由想象， 致使艺术的形式发展得不到观念更新的配合与支持，以至于万变不离其宗，总是 在“发乎情，止乎礼义”的情感模式中转圈子，由中庸而平庸。于是，由最初富有 创造性变成了形式和内容的双重异化。在这种情况下，儒家与道家的互补便具有 了特殊的历史意义， 中国古典美学才得以健康而持续地发展，从而创造着人类艺 术史上的奇迹。<div style="padding-bottom:1em;"></div>    关于文艺接受方面<div style="padding-bottom:1em;"></div>    孟子主张“以意逆志”和“知人论世”，强调从作家作品角度去鉴赏；道家 则强调发挥读者的主观能动性。 老子提出自身要 “涤除玄鉴” 《老子· （ 十章》 ， ） 以虚静状态去感受作品之美。 庄子更从虚静基础上提出 “心斋” 的自我提升方法。<div style="padding-bottom:1em;"></div>    由此可见，老、庄对艺术法则的解构，只是要摒弃人为的功利标准，并不是 要践踏客观的自然规律；相反的，在处理自然与自由的辩证关系上，道家的主张 法则则是有其独到的见解和创意的。 而我们也可以看到对于它们在文艺接受的主 张，无论是作品角度去鉴赏，还是发挥读者的主观能动性都是不可或缺的，在这 一点你来讲，它们应该得以互补。<div style="padding-bottom:1em;"></div>    事实上，正是在先秦儒家与道家文艺思想在各方面上的互补所形成的必要的 张力的推动下，中国美学才可能显示出多彩的风格并得到健康的发展。 <div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/19567575/#comments">回应</a>&nbsp;&nbsp;
+                  2012-07-11 09:12
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="19567937">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/4495588/"><img src="https://img3.doubanio.com/icon/u4495588-2.jpg" alt="sissi" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/19567937/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/19567937/" class="">花未全开，月未圆。</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/4495588/" class=" " title="sissi">sissi</a>
+                (花未全开，月未圆。)
+              
+            </p>
+            <div class="reading-note" data-cid="19567937">
+              <div class="short">
+                
+                  <span class="">       花未全开月未圆，正是意境最佳时。 引申到关于人生，意思就是说人生在世凡事不可做过头，过则溢，有害而无益。
+
+    花好月圆固然美，唯美理想主义者推崇之致。然花未盛开，月未全轮时，不但美，而且更予人以希望及追求更美好的境界。 
+
+人类最美好的追求便隐含在这句“花未开时，月未圆”。喻物拟人，人追求突破，奋发向上，博击长空，几经艰辛，一飞冲天。事业，成就斐然之后最堪回首的是那展翅博击的艰辛时刻，以及..</span>
+                <p class="pl">
+                  <span class="">2012-07-11 09:31</span>
+                  
+                    &nbsp;&nbsp;<span class="">11人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                       花未全开月未圆，正是意境最佳时。 引申到关于人生，意思就是说人生在世凡事不可做过头，过则溢，有害而无益。<div style="padding-bottom:1em;"></div>    花好月圆固然美，唯美理想主义者推崇之致。然花未盛开，月未全轮时，不但美，而且更予人以希望及追求更美好的境界。 <div style="padding-bottom:1em;"></div>人类最美好的追求便隐含在这句“花未开时，月未圆”。喻物拟人，人追求突破，奋发向上，博击长空，几经艰辛，一飞冲天。事业，成就斐然之后最堪回首的是那展翅博击的艰辛时刻，以及那力排万难的奋斗过程，如滚滚长江奔腾到大海时已是平平展展，宽广无浪。爱情也如此，花未开月未圆时是最美最缠绵的。<div style="padding-bottom:1em;"></div>　　禅宗也有这种境界，叫做花未开时月未圆。意思是花在没有完全开放和月亮没有完全圆的时候是最好的时候。这个时候可以有期待，可以有改变。一旦花开月圆，则成定局，等待的结果必将是花枯萎、月损缺。这就是说万事万物均需有个距离，有个度。<div style="padding-bottom:1em;"></div>    于丹教授的“论语心得”有这样一段话： “花未全开月未圆”。花一旦全开,马上就要凋谢；月一旦全圆,马上就要缺损。而未全开,未全圆,会使你的内心有所期待,有所憧憬。这是自然万物的最佳状态，也是人生意境的最佳之时，它蕴涵着深刻的人生之道：“凡事当留余地，得意不宜再往”，“有福不可享尽，有势不可使尽”。<div style="padding-bottom:1em;"></div>    清代曾国藩对此把握得最好。他经常在心中反复念叨“花未全开月未圆”，“有福不可享尽，有势不可使尽”， “治生不求富，读书不求官，修德不求报，为文不求传”。他灭了太平天国到了功成名就的时候，毅然自销湘军，自树对手淮军。五十五岁时，辞去一切职务，注销爵位，提前退休。有人曾这样的评价他：立德立功立言三不朽，为师为将为相一完人。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/19567937/#comments">回应</a>&nbsp;&nbsp;
+                  2012-07-11 09:31
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="12630188">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/NONGFUAYONG/"><img src="https://img3.doubanio.com/icon/u50442864-4.jpg" alt="向阳花0315" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/12630188/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/12630188/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/NONGFUAYONG/" class=" " title="向阳花0315">向阳花0315</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="12630188">
+              <div class="short">
+                
+                  <span class="">&lt;原文开始&gt;&lt;/原文结束&gt;学而第一
+子曰：不患人之不己知，患不知人也。
+
+
+
+为政第二
+孟武伯问孝。子曰：“父母，唯其疾之忧。”
+
+子游问孝。子曰：“今之孝者，是谓能养，至于犬马，皆能有养，不敬，何以别乎？”
+
+子曰：温故而知新，可以为师矣。
+
+子贡问君子。子曰：“先行其言而后从之。
+
+子曰：学而不思则罔，思而不学则殆。
+
+子曰：由，诲汝知之乎！知之为知之，不知为不知，是知也。
+
+子张学干..</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/12630188/">(<span class="">2回应</span>)</a>
+                <p class="pl">
+                  <span class="">2011-05-01 21:23</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                &lt;原文开始&gt;&lt;/原文结束&gt;学而第一<div style="padding-bottom:1em;"></div>子曰：不患人之不己知，患不知人也。<div style="padding-bottom:1em;"></div>为政第二<div style="padding-bottom:1em;"></div>孟武伯问孝。子曰：“父母，唯其疾之忧。”<div style="padding-bottom:1em;"></div>子游问孝。子曰：“今之孝者，是谓能养，至于犬马，皆能有养，不敬，何以别乎？”<div style="padding-bottom:1em;"></div>子曰：温故而知新，可以为师矣。<div style="padding-bottom:1em;"></div>子贡问君子。子曰：“先行其言而后从之。<div style="padding-bottom:1em;"></div>子曰：学而不思则罔，思而不学则殆。<div style="padding-bottom:1em;"></div>子曰：由，诲汝知之乎！知之为知之，不知为不知，是知也。<div style="padding-bottom:1em;"></div>子张学干禄。子曰：“多闻阙疑，慎言其余，则寡尤。多见阙殆，慎行其余，则寡悔。言寡尤，行寡悔，禄在其中矣。<div style="padding-bottom:1em;"></div>八佾第三<div style="padding-bottom:1em;"></div>哀公问社于宰我。宰我对曰：“夏后氏以松，殷人以柏，周人以栗。曰：’使民战栗。’”子闻之曰：“成事不说，遂事不谏，既往不咎。”<div style="padding-bottom:1em;"></div>里仁第四<div style="padding-bottom:1em;"></div>子曰：“富与贵，是人之所欲也，不以其道得之，不处也。贫与贱，是人这所恶也，不以其道得之，不去也。”<div style="padding-bottom:1em;"></div>子曰：“朝闻道，夕死可矣。”<div style="padding-bottom:1em;"></div>子曰：“不患无位，患所以立。不患莫己知，求为可知也。”<div style="padding-bottom:1em;"></div>子曰：“见贤思齐焉，见不贤而内自省也。”<div style="padding-bottom:1em;"></div>子曰：“事父母几谏，见志不从，又敬不违，劳而不怨。”<div style="padding-bottom:1em;"></div>子曰：“古者言之不出，耻恭之不逮也。”<div style="padding-bottom:1em;"></div>公冶长第五<div style="padding-bottom:1em;"></div>子曰：“始吾于人也，听其言而信其行，今吾于人也，听其言而观其行。于予与改是。”<div style="padding-bottom:1em;"></div>雍也第六<div style="padding-bottom:1em;"></div>子曰：“人之生也直，罔之生也，幸而免。”<div style="padding-bottom:1em;"></div>述而第七<div style="padding-bottom:1em;"></div>子曰：“我非生而知之者，好古，敏以求之者也。”<div style="padding-bottom:1em;"></div>子曰：“三人行，必有我师焉，择其善者而从之，其不善者而改之。”<div style="padding-bottom:1em;"></div>···子曰：“丘也幸。苟有过，人必知之。”<div style="padding-bottom:1em;"></div>泰伯第八<div style="padding-bottom:1em;"></div>子曰：“民可使由之，不可使知之。”<div style="padding-bottom:1em;"></div>子曰：“笃信好学，守死善道。危邦不入，乱邦不居，天下有道则见，无道则隐。邦有道，贫且贱焉，耻也。邦无道，富且贵焉，耻也。”<div style="padding-bottom:1em;"></div>子曰：“学如不及，犹恐失之。”<div style="padding-bottom:1em;"></div>子罕第九<div style="padding-bottom:1em;"></div>子绝四：毋意、毋必、毋固、毋我。<div style="padding-bottom:1em;"></div>子曰：“后生可畏。焉知来者之不如今也？四十五十而无闻焉，斯亦不足畏也已。”<div style="padding-bottom:1em;"></div>子曰：“法语之言，能无从乎？改之为贵。巽与之言，能无说乎？绎之为贵。说而不绎，从而不改，吾未如之何也已矣。”<div style="padding-bottom:1em;"></div>子曰：“主忠信，毋友不如己者，过则勿惮改。”<div style="padding-bottom:1em;"></div>子曰：“可与共学，未可与适道；可与适道，未可与立；可与立，未可与权。”<div style="padding-bottom:1em;"></div>唐棣之华，偏其反而。岂不尔思，是室远而。子曰：“未之思也。夫何远之有！”<div style="padding-bottom:1em;"></div>先进第十一<div style="padding-bottom:1em;"></div>季路问事鬼神。子曰：“未能事人，焉能事鬼？”“敢问死？”曰：“未知生，焉知死？”<div style="padding-bottom:1em;"></div>颜渊第十二<div style="padding-bottom:1em;"></div>季康子问政于孔子曰：“如杀无道，以就有道，何如？”孔子对曰：“子为政，焉用杀。子欲善，而民善矣。君子之德风，小人之德草，草上之风，必偃。”<div style="padding-bottom:1em;"></div>子贡问友。子曰：“忠告而善道之，不可则止，无自辱焉。”<div style="padding-bottom:1em;"></div>子路第十三<div style="padding-bottom:1em;"></div>子曰：“野哉由也。君子于其所不知，盖阙如也。名不正则言不顺，言不顺则事不成，事不成则礼乐不兴，礼乐不兴则刑罚不中，刑罚不中则民无所措手足。故君子名之必可言也，言之必可行也。君子于其言，无所苟而已矣。”<div style="padding-bottom:1em;"></div>子曰：“其身正，不令而行；其身不正，虽令不从。”<div style="padding-bottom:1em;"></div>子贡问曰：“乡人皆好之，何如？”子曰：“未可也。”“乡人皆恶之，何如？”子曰：“未可也。不如乡人之善者好之，其不善者恶之。”<div style="padding-bottom:1em;"></div>宪问第十四<div style="padding-bottom:1em;"></div>子曰：“邦有道，危言危行，邦无道，危行言孙。”<div style="padding-bottom:1em;"></div>子曰：“贫而无怨难，富而无骄易。”<div style="padding-bottom:1em;"></div>子曰：“君子耻其言而过其行。”<div style="padding-bottom:1em;"></div>子曰：“不患人之不己知，患其不能也。”<div style="padding-bottom:1em;"></div>子曰：“骥不称其力，称其德也。”<div style="padding-bottom:1em;"></div>或曰：“以德报怨，何如？”子曰：“何以报德？以直报怨，以德报德。”<div style="padding-bottom:1em;"></div>卫灵公第十五<div style="padding-bottom:1em;"></div>子曰：“可与言而不与之言，失人；不可与言而与之言，失言。知者不失人，亦不失言。”<div style="padding-bottom:1em;"></div>子曰：“躬自厚而薄则于人，则远怨矣。”<div style="padding-bottom:1em;"></div>子曰：“君子病无能焉，不病人之不己知也。”<div style="padding-bottom:1em;"></div>子曰：“君子不以言举人，不以人废言。”<div style="padding-bottom:1em;"></div>子贡问曰：“有一言而可以终身行之者乎？”子曰：“其恕乎！己所不欲，勿施于人。”<div style="padding-bottom:1em;"></div>子曰：“众恶之，必察焉；众好之，必察焉。”<div style="padding-bottom:1em;"></div>子曰：“人能弘道，非道弘人。”<div style="padding-bottom:1em;"></div>子曰：“过而不改，是谓过矣。”<div style="padding-bottom:1em;"></div>子曰：“当仁不让于师。”<div style="padding-bottom:1em;"></div>季氏第十六<div style="padding-bottom:1em;"></div>孔子曰：“伺于君子有三愆：言未及之而言谓之躁，言及之而不言谓之隐，未见颜色而言谓之瞽。”<div style="padding-bottom:1em;"></div>孔子曰：“君子有三戒：少之时，血气未定，戒之在色；及其壮也，血气方刚，戒之在斗；及其老也，血气既衰，戒之在得。”<div style="padding-bottom:1em;"></div>阳货第十七<div style="padding-bottom:1em;"></div>子曰：“性相近也，习相远也。”<div style="padding-bottom:1em;"></div>子张问仁于孔子，孔子曰：“能行五者于天下，为仁矣。”请问之。曰：“恭宽信敏惠。恭则不侮，宽则得众，信则人任焉，敏则有功，惠则足以使人。”<div style="padding-bottom:1em;"></div>子曰：“由也，汝闻六言六蔽矣乎？”对曰：“未也。”“居，吾语汝。好仁不好学，其蔽也愚；好知不好学，其蔽也荡；好信不好学，其蔽也贼；好直不好学，其蔽也绞；好勇不好学，其蔽也乱；好刚不好学，其蔽也狂。”<div style="padding-bottom:1em;"></div>子曰：“道听而途说，德之弃也。”<div style="padding-bottom:1em;"></div>子路曰：“君子尚勇乎？”子曰：“君子义以为上，君子有勇而无义为乱，小人有勇而无义为盗。”<div style="padding-bottom:1em;"></div>子张第十九<div style="padding-bottom:1em;"></div>子张曰：“执德不弘，信道不笃，焉能为有，焉能为亡？”<div style="padding-bottom:1em;"></div>子夏之门人，问交于子张。子张曰：“子夏云何？”对曰：“子夏曰：可者与之，其不可者拒之。”子张曰：“异乎吾所闻。君子尊贤而容众，嘉善而矜不能。我之大贤与，于人何所不容；我之不贤与，人将拒我，如之何其拒人也？”<div style="padding-bottom:1em;"></div>子夏曰：“日知其所亡，月无忘其所能，可谓好学也已矣。”<div style="padding-bottom:1em;"></div>子夏曰：“百工居肆以成其事，君子学以致其道。”<div style="padding-bottom:1em;"></div>子夏曰：“君子有三变：望之俨然，即之也温，听其言也厉。”<div style="padding-bottom:1em;"></div>子夏曰：“君子信而后劳其民，未信则以为厉己也。信而后谏，未信则以为谤己也。”<div style="padding-bottom:1em;"></div>子贡曰：“君子之过也，如日月之食焉。过也，人皆见之；更也，人皆仰之。”<div style="padding-bottom:1em;"></div>尧曰第二十<div style="padding-bottom:1em;"></div>子张曰：“何谓五美？”曰：“君子惠而不费，劳而不怨，欲而不贪，泰而不骄，威而不猛。”<div style="padding-bottom:1em;"></div>子张曰：“何谓四恶？”子曰：“不教而杀谓之虐，不戒视成谓之暴，慢令致期谓之贼，犹之与人也，出纳之吝，谓之有司。”<div style="padding-bottom:1em;"></div>子曰：“不知命，无以为君子；不知礼，无以立也；不知言，无以知人也。”<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/12630188/#comments">2回应</a>&nbsp;&nbsp;
+                  2011-05-01 21:23
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="27779182">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/midjuly/"><img src="https://img3.doubanio.com/icon/u66153738-2.jpg" alt="midjuly" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/27779182/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/27779182/" class="">公冶长 第五</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/midjuly/" class=" " title="midjuly">midjuly</a>
+              
+            </p>
+            <div class="reading-note" data-cid="27779182">
+              <div class="short">
+                
+                  <span class="">道不行，乘桴浮于海。 
+想到苏轼临江仙里的那句“小舟从此逝，江海寄余生。” 读的古诗文很有限，不是这种情怀是不是在古人中很流行。不过想象一下这种逃脱不问世事还真是挺迷人。论语读了几章，真的不像课本中给人感觉的那么无聊空洞。官方的正式用于真的很能误导人。什么“记录孔子及其弟子的言行”。其实就是一个个小片段。真实有趣。</span>
+                <p class="pl">
+                  <span class="">2013-07-26 12:28</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>道不行，乘桴浮于海。</q></blockquote> <div style="padding-bottom:1em;"></div>想到苏轼临江仙里的那句“小舟从此逝，江海寄余生。” 读的古诗文很有限，不是这种情怀是不是在古人中很流行。不过想象一下这种逃脱不问世事还真是挺迷人。论语读了几章，真的不像课本中给人感觉的那么无聊空洞。官方的正式用于真的很能误导人。什么“记录孔子及其弟子的言行”。其实就是一个个小片段。真实有趣。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/27779182/#comments">回应</a>&nbsp;&nbsp;
+                  2013-07-26 12:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="12435612">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/chdr/"><img src="https://img1.doubanio.com/icon/u4526675-8.jpg" alt="45度角" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/12435612/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/12435612/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/chdr/" class=" " title="45度角">45度角</a>
+                (大道至简)
+              
+            </p>
+            <div class="reading-note" data-cid="12435612">
+              <div class="short">
+                
+                  <span class="">子曰, &quot;温故而知新, 可以为师矣&quot;.
+
+重读论语, 那些在中学时代就熟悉的语句, 之初是索然无味, 现在读起来确是富含哲理, 耐人寻味. &quot;学而不思则罔&quot;, 如此是也.
+简短的句子, 却如浩瀚大海般深邃. &quot;人不知, 而不愠&quot;, &quot;不患人之不己知, 患不知人也; 不患人之不己知, 患其不能也&quot;, 此乃君子之德, 之性, 我常想, 要经过多少努力, 要经历多少世事, 才能达到这般为人处世的境界.</span>
+                <p class="pl">
+                  <span class="">2011-04-19 16:21</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                子曰, &quot;温故而知新, 可以为师矣&quot;.<div style="padding-bottom:1em;"></div>重读论语, 那些在中学时代就熟悉的语句, 之初是索然无味, 现在读起来确是富含哲理, 耐人寻味. &quot;学而不思则罔&quot;, 如此是也.<div style="padding-bottom:1em;"></div>简短的句子, 却如浩瀚大海般深邃. &quot;人不知, 而不愠&quot;, &quot;不患人之不己知, 患不知人也; 不患人之不己知, 患其不能也&quot;, 此乃君子之德, 之性, 我常想, 要经过多少努力, 要经历多少世事, 才能达到这般为人处世的境界.
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/12435612/#comments">回应</a>&nbsp;&nbsp;
+                  2011-04-19 16:21
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="12457758">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/barbeq/"><img src="https://img3.doubanio.com/icon/u1561788-5.jpg" alt="bbq" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/12457758/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/12457758/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/barbeq/" class=" " title="bbq">bbq</a>
+                (obey the rule,obey the fool.)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="12457758">
+              <div class="short">
+                
+                  <span class="">不义而富且贵，于我如浮云。</span>
+                <p class="pl">
+                  <span class="">2011-04-20 22:24</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                不义而富且贵，于我如浮云。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/12457758/#comments">回应</a>&nbsp;&nbsp;
+                  2011-04-20 22:24
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="12630188">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/NONGFUAYONG/"><img src="https://img3.doubanio.com/icon/u50442864-4.jpg" alt="向阳花0315" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/12630188/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/12630188/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/NONGFUAYONG/" class=" " title="向阳花0315">向阳花0315</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="12630188">
+              <div class="short">
+                
+                  <span class="">&lt;原文开始&gt;&lt;/原文结束&gt;学而第一
+子曰：不患人之不己知，患不知人也。
+
+
+
+为政第二
+孟武伯问孝。子曰：“父母，唯其疾之忧。”
+
+子游问孝。子曰：“今之孝者，是谓能养，至于犬马，皆能有养，不敬，何以别乎？”
+
+子曰：温故而知新，可以为师矣。
+
+子贡问君子。子曰：“先行其言而后从之。
+
+子曰：学而不思则罔，思而不学则殆。
+
+子曰：由，诲汝知之乎！知之为知之，不知为不知，是知也。
+
+子张学干..</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/12630188/">(<span class="">2回应</span>)</a>
+                <p class="pl">
+                  <span class="">2011-05-01 21:23</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                &lt;原文开始&gt;&lt;/原文结束&gt;学而第一<div style="padding-bottom:1em;"></div>子曰：不患人之不己知，患不知人也。<div style="padding-bottom:1em;"></div>为政第二<div style="padding-bottom:1em;"></div>孟武伯问孝。子曰：“父母，唯其疾之忧。”<div style="padding-bottom:1em;"></div>子游问孝。子曰：“今之孝者，是谓能养，至于犬马，皆能有养，不敬，何以别乎？”<div style="padding-bottom:1em;"></div>子曰：温故而知新，可以为师矣。<div style="padding-bottom:1em;"></div>子贡问君子。子曰：“先行其言而后从之。<div style="padding-bottom:1em;"></div>子曰：学而不思则罔，思而不学则殆。<div style="padding-bottom:1em;"></div>子曰：由，诲汝知之乎！知之为知之，不知为不知，是知也。<div style="padding-bottom:1em;"></div>子张学干禄。子曰：“多闻阙疑，慎言其余，则寡尤。多见阙殆，慎行其余，则寡悔。言寡尤，行寡悔，禄在其中矣。<div style="padding-bottom:1em;"></div>八佾第三<div style="padding-bottom:1em;"></div>哀公问社于宰我。宰我对曰：“夏后氏以松，殷人以柏，周人以栗。曰：’使民战栗。’”子闻之曰：“成事不说，遂事不谏，既往不咎。”<div style="padding-bottom:1em;"></div>里仁第四<div style="padding-bottom:1em;"></div>子曰：“富与贵，是人之所欲也，不以其道得之，不处也。贫与贱，是人这所恶也，不以其道得之，不去也。”<div style="padding-bottom:1em;"></div>子曰：“朝闻道，夕死可矣。”<div style="padding-bottom:1em;"></div>子曰：“不患无位，患所以立。不患莫己知，求为可知也。”<div style="padding-bottom:1em;"></div>子曰：“见贤思齐焉，见不贤而内自省也。”<div style="padding-bottom:1em;"></div>子曰：“事父母几谏，见志不从，又敬不违，劳而不怨。”<div style="padding-bottom:1em;"></div>子曰：“古者言之不出，耻恭之不逮也。”<div style="padding-bottom:1em;"></div>公冶长第五<div style="padding-bottom:1em;"></div>子曰：“始吾于人也，听其言而信其行，今吾于人也，听其言而观其行。于予与改是。”<div style="padding-bottom:1em;"></div>雍也第六<div style="padding-bottom:1em;"></div>子曰：“人之生也直，罔之生也，幸而免。”<div style="padding-bottom:1em;"></div>述而第七<div style="padding-bottom:1em;"></div>子曰：“我非生而知之者，好古，敏以求之者也。”<div style="padding-bottom:1em;"></div>子曰：“三人行，必有我师焉，择其善者而从之，其不善者而改之。”<div style="padding-bottom:1em;"></div>···子曰：“丘也幸。苟有过，人必知之。”<div style="padding-bottom:1em;"></div>泰伯第八<div style="padding-bottom:1em;"></div>子曰：“民可使由之，不可使知之。”<div style="padding-bottom:1em;"></div>子曰：“笃信好学，守死善道。危邦不入，乱邦不居，天下有道则见，无道则隐。邦有道，贫且贱焉，耻也。邦无道，富且贵焉，耻也。”<div style="padding-bottom:1em;"></div>子曰：“学如不及，犹恐失之。”<div style="padding-bottom:1em;"></div>子罕第九<div style="padding-bottom:1em;"></div>子绝四：毋意、毋必、毋固、毋我。<div style="padding-bottom:1em;"></div>子曰：“后生可畏。焉知来者之不如今也？四十五十而无闻焉，斯亦不足畏也已。”<div style="padding-bottom:1em;"></div>子曰：“法语之言，能无从乎？改之为贵。巽与之言，能无说乎？绎之为贵。说而不绎，从而不改，吾未如之何也已矣。”<div style="padding-bottom:1em;"></div>子曰：“主忠信，毋友不如己者，过则勿惮改。”<div style="padding-bottom:1em;"></div>子曰：“可与共学，未可与适道；可与适道，未可与立；可与立，未可与权。”<div style="padding-bottom:1em;"></div>唐棣之华，偏其反而。岂不尔思，是室远而。子曰：“未之思也。夫何远之有！”<div style="padding-bottom:1em;"></div>先进第十一<div style="padding-bottom:1em;"></div>季路问事鬼神。子曰：“未能事人，焉能事鬼？”“敢问死？”曰：“未知生，焉知死？”<div style="padding-bottom:1em;"></div>颜渊第十二<div style="padding-bottom:1em;"></div>季康子问政于孔子曰：“如杀无道，以就有道，何如？”孔子对曰：“子为政，焉用杀。子欲善，而民善矣。君子之德风，小人之德草，草上之风，必偃。”<div style="padding-bottom:1em;"></div>子贡问友。子曰：“忠告而善道之，不可则止，无自辱焉。”<div style="padding-bottom:1em;"></div>子路第十三<div style="padding-bottom:1em;"></div>子曰：“野哉由也。君子于其所不知，盖阙如也。名不正则言不顺，言不顺则事不成，事不成则礼乐不兴，礼乐不兴则刑罚不中，刑罚不中则民无所措手足。故君子名之必可言也，言之必可行也。君子于其言，无所苟而已矣。”<div style="padding-bottom:1em;"></div>子曰：“其身正，不令而行；其身不正，虽令不从。”<div style="padding-bottom:1em;"></div>子贡问曰：“乡人皆好之，何如？”子曰：“未可也。”“乡人皆恶之，何如？”子曰：“未可也。不如乡人之善者好之，其不善者恶之。”<div style="padding-bottom:1em;"></div>宪问第十四<div style="padding-bottom:1em;"></div>子曰：“邦有道，危言危行，邦无道，危行言孙。”<div style="padding-bottom:1em;"></div>子曰：“贫而无怨难，富而无骄易。”<div style="padding-bottom:1em;"></div>子曰：“君子耻其言而过其行。”<div style="padding-bottom:1em;"></div>子曰：“不患人之不己知，患其不能也。”<div style="padding-bottom:1em;"></div>子曰：“骥不称其力，称其德也。”<div style="padding-bottom:1em;"></div>或曰：“以德报怨，何如？”子曰：“何以报德？以直报怨，以德报德。”<div style="padding-bottom:1em;"></div>卫灵公第十五<div style="padding-bottom:1em;"></div>子曰：“可与言而不与之言，失人；不可与言而与之言，失言。知者不失人，亦不失言。”<div style="padding-bottom:1em;"></div>子曰：“躬自厚而薄则于人，则远怨矣。”<div style="padding-bottom:1em;"></div>子曰：“君子病无能焉，不病人之不己知也。”<div style="padding-bottom:1em;"></div>子曰：“君子不以言举人，不以人废言。”<div style="padding-bottom:1em;"></div>子贡问曰：“有一言而可以终身行之者乎？”子曰：“其恕乎！己所不欲，勿施于人。”<div style="padding-bottom:1em;"></div>子曰：“众恶之，必察焉；众好之，必察焉。”<div style="padding-bottom:1em;"></div>子曰：“人能弘道，非道弘人。”<div style="padding-bottom:1em;"></div>子曰：“过而不改，是谓过矣。”<div style="padding-bottom:1em;"></div>子曰：“当仁不让于师。”<div style="padding-bottom:1em;"></div>季氏第十六<div style="padding-bottom:1em;"></div>孔子曰：“伺于君子有三愆：言未及之而言谓之躁，言及之而不言谓之隐，未见颜色而言谓之瞽。”<div style="padding-bottom:1em;"></div>孔子曰：“君子有三戒：少之时，血气未定，戒之在色；及其壮也，血气方刚，戒之在斗；及其老也，血气既衰，戒之在得。”<div style="padding-bottom:1em;"></div>阳货第十七<div style="padding-bottom:1em;"></div>子曰：“性相近也，习相远也。”<div style="padding-bottom:1em;"></div>子张问仁于孔子，孔子曰：“能行五者于天下，为仁矣。”请问之。曰：“恭宽信敏惠。恭则不侮，宽则得众，信则人任焉，敏则有功，惠则足以使人。”<div style="padding-bottom:1em;"></div>子曰：“由也，汝闻六言六蔽矣乎？”对曰：“未也。”“居，吾语汝。好仁不好学，其蔽也愚；好知不好学，其蔽也荡；好信不好学，其蔽也贼；好直不好学，其蔽也绞；好勇不好学，其蔽也乱；好刚不好学，其蔽也狂。”<div style="padding-bottom:1em;"></div>子曰：“道听而途说，德之弃也。”<div style="padding-bottom:1em;"></div>子路曰：“君子尚勇乎？”子曰：“君子义以为上，君子有勇而无义为乱，小人有勇而无义为盗。”<div style="padding-bottom:1em;"></div>子张第十九<div style="padding-bottom:1em;"></div>子张曰：“执德不弘，信道不笃，焉能为有，焉能为亡？”<div style="padding-bottom:1em;"></div>子夏之门人，问交于子张。子张曰：“子夏云何？”对曰：“子夏曰：可者与之，其不可者拒之。”子张曰：“异乎吾所闻。君子尊贤而容众，嘉善而矜不能。我之大贤与，于人何所不容；我之不贤与，人将拒我，如之何其拒人也？”<div style="padding-bottom:1em;"></div>子夏曰：“日知其所亡，月无忘其所能，可谓好学也已矣。”<div style="padding-bottom:1em;"></div>子夏曰：“百工居肆以成其事，君子学以致其道。”<div style="padding-bottom:1em;"></div>子夏曰：“君子有三变：望之俨然，即之也温，听其言也厉。”<div style="padding-bottom:1em;"></div>子夏曰：“君子信而后劳其民，未信则以为厉己也。信而后谏，未信则以为谤己也。”<div style="padding-bottom:1em;"></div>子贡曰：“君子之过也，如日月之食焉。过也，人皆见之；更也，人皆仰之。”<div style="padding-bottom:1em;"></div>尧曰第二十<div style="padding-bottom:1em;"></div>子张曰：“何谓五美？”曰：“君子惠而不费，劳而不怨，欲而不贪，泰而不骄，威而不猛。”<div style="padding-bottom:1em;"></div>子张曰：“何谓四恶？”子曰：“不教而杀谓之虐，不戒视成谓之暴，慢令致期谓之贼，犹之与人也，出纳之吝，谓之有司。”<div style="padding-bottom:1em;"></div>子曰：“不知命，无以为君子；不知礼，无以立也；不知言，无以知人也。”<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/12630188/#comments">2回应</a>&nbsp;&nbsp;
+                  2011-05-01 21:23
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="14555532">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/yuyanliang/"><img src="https://img3.doubanio.com/icon/u4021608-4.jpg" alt="章子的思维世界" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/14555532/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/14555532/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/yuyanliang/" class=" " title="章子的思维世界">章子的思维世界</a>
+                (章子的思维世界)
+              
+            </p>
+            <div class="reading-note" data-cid="14555532">
+              <div class="short">
+                
+                  <span class="">《&lt;论语&gt;辨》
+
+1998年，美国两位汉学家（中文名叫白牧之和白妙子，英文名是E. Bruce Brooks和A. Teako Brooks）出版了《&lt;论语&gt;辨》（The Original Analects），为解开《论语》谜底提供了重要线索。
+
+　　两位作者从西方人特有的咬嚼劲头和实事求是的理性精神出发，采用了传统的考据、辨伪方法，从细读文本开始，尤其注重篇章结构分析和对偶法的使用，仔细梳理了30年，终于发现了问题。他们证实了柳宗元、陆象山和..</span>
+                <p class="pl">
+                  <span class="">2011-09-18 14:46</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《&lt;论语&gt;辨》<div style="padding-bottom:1em;"></div>1998年，美国两位汉学家（中文名叫白牧之和白妙子，英文名是E. Bruce Brooks和A. Teako Brooks）出版了《&lt;论语&gt;辨》（The Original Analects），为解开《论语》谜底提供了重要线索。<div style="padding-bottom:1em;"></div>　　两位作者从西方人特有的咬嚼劲头和实事求是的理性精神出发，采用了传统的考据、辨伪方法，从细读文本开始，尤其注重篇章结构分析和对偶法的使用，仔细梳理了30年，终于发现了问题。他们证实了柳宗元、陆象山和崔述的猜测，《论语》确实不是孔子的言行录，而是“早期儒学的历史”。【8】他们认为，《论语》不是一次成书而是“层累”地形成的，时间跨度大约持续了230年左右（从公元前479年孔子去世到公元前249年鲁国被灭）而不是一般所说的50年。所谓层累，就是弟子之间在互相倾轧并争夺儒家领导权和儒学阐释权的博弈过程中，对原始《论语》进行的重新编排、反复改窜和增补。因此，现存文本是累积起来的。<div style="padding-bottom:1em;"></div>　　细读《论语》，可以发现孔门弟子间至少有4次大的冲突及随之而来的文本改窜。<div style="padding-bottom:1em;"></div>　　第1次是卜商、颛孙师、言偃等联手推举有若为领袖而遭到曾参抵制。双方的理由都很虚：前者是有若相貌如孔子，后者是孔子如江汉之水那样深长，如秋阳那样明亮，有若达不到。此次较量，曾参取得了胜利。这发生在孔子去世6年之后。《孟子》“滕文公上”有明确记载，看来态度亦倾向于曾子。笔者按，很难推测卜商、颛孙师、言偃是否有当儒学领袖的想法，但反对曾参是一致的。<div style="padding-bottom:1em;"></div>　　第2次是对端木赐的诋毁。在《公冶长》中，端木赐连续三次被贬低。两次借用孔子之口，一次是自贬，公开承认自己无法与颜回相提并论。笔者认为，这不一定是孔子的真意，也不一定是端木赐与颜回的争宠，而很可能是曾参或曾参弟子编派出来的、用孔子和颜回来打压端木赐的一种障眼法。因为从感情角度讲，端木赐对孔子的感情最深。孔子死后，唯独他一个人在老师墓旁建草庐并守孝6年。从心理动机看，孔子死后，端木赐威望大增，师兄弟临别之际都去向他（而不是别人）辞行（《孟子》“滕文公上”），而曾参在否定了卜商、颛孙师、言偃的建议，取消了有若的儒家继承权和儒学阐释权后，便开始把早期弟子之佼佼者端木赐作为最大障碍。不抹黑端木赐，曾参无法掌权。曾参只是孔门3期一名普通学生，资历很浅。他要想抹黑端木赐，不得不假借孔子的口吻或者颜回的德行和威望。两位作者甚至认为，曾参由于年龄太小可能根本没有见过孔子的面。他们也确认，《公冶长》不是历史上的真实孔子对端木赐的真正评价。<div style="padding-bottom:1em;"></div>　　第3次是曾子确立领袖地位后，出于将自我神圣化的需要对《论语》的大肆改窜。其突出表现是《述而》和《泰伯》。两位作者认为，这两篇不是原始《论语》而是曾子或曾子弟子的作品。不仅如此，他们还发现，曾子及弟子组成的创作班子为了稳固已取得的地位，在搞个人崇拜时采取了（1）贬低对手，（2）故意只字不提对手和（3）美化自己的方法，在其他篇目中也悄悄塞进私货，把自己“描绘成唯一得到孔子秘传的得意弟子”。【9】在他们看来，《里仁》中被后人冠以“孔门传心”的一段话，【10】就是如此编派的。通过这种手段，曾参把自己塑造成独得儒学真谛，也最有资格阐释夫子禅机的唯一人选。<div style="padding-bottom:1em;"></div>　　第4次是子思（孔子之嫡孙）对惨遭贬斥的早期弟子的平反。它发生在曾氏集团统治儒学以后的50年（公元前400年）左右。曾参逝世，子思开始执掌门户，第一件事就是为先辈（早期弟子）恢复名誉。这体现为《先进》的部分内容。首先，他确定了4科10哲的名录。其次，将被丑化或被妖魔化了的卜商、宰予等还原为正常人。再次，就是把曾参从神坛上搬下来，洗掉其脸上多余的油彩，使之回归原来的形象——“鲁”（木头疙瘩）。<div style="padding-bottom:1em;"></div>　　经过艰苦细致之清理，两位作者按照历史层累的实际构成状况，尝试恢复了《论语》的原貌。他们认为，今本《论语》的头三篇《学而》、《为政》和《八佾》，是由曾参之后的儒家人物在不同动机支配下陆续置于全书之首的，本来顺序不是这样。他们认为，原来排在第4篇的《里仁》应为首篇，而原来的首篇《学而》其实应为第15篇。除此之外，他们还将全部《论语》的20篇“平均分配”到上述从孔子逝世到鲁国灭亡的230年时间里，每篇相距约10年。<div style="padding-bottom:1em;"></div>　　4<div style="padding-bottom:1em;"></div>　　两位作者的冷静清理与实证分析，基本证实了如下猜测。《论语》不是一次性辑录完成的，也不是孔子去世后弟子们将学习笔记凑在一起编排出来的，不是在一个平和宁静的气氛中进行的，因而也不可能是孔子言论和行为的客观再现。它被编派过、阐释过，是在一个围绕着儒家继承权和儒学阐释权展开博弈的环境里层累地形成的。在这一过程中，可以看到卜商、颛孙师、言偃的努力和失败，可以看到有若的努力和失败，还可以看到曾参的成功、志得意满、处心积虑和狡猾。特别需要提及的是，有若和弟子的努力虽然是悲剧性的和徒劳无力的，但其挣扎的痕迹留下来了。尽管曾参和弟子为了丑化有若可以添加某些内容，把他说成除长相像孔子外一无所长的人，但有若作为“子”的存在却并没有被删除干净。<div style="padding-bottom:1em;"></div>　　从今本《论语》看，毫无疑问，它体现的主要还是曾参的思想。笔者认为，这是因为在某种程度上，子思作为孔子之后裔，虽然可以为早期弟子平反，也有可能订正《论语》中的某些错误，但他毕竟也是曾参的学生。按照儒学体系内部那深入骨髓的“尊上”理论和“为师、父讳”的观念，子思不可能彻底否定老师，不可能彻底改正《论语》，更不可能使被篡改的东西完全恢复原貌。还有，作为隔了代的孔子后裔，又随从一个隔了代（孔门3期）的学生（曾参）学习，子思即使想恢复原貌也不可能，他无法了解孔子当年到底讲了些什么。在口耳相传的学习时代，子思的所有学问都来自曾参。他无法确证曾参的传授中哪些是自己的哪些是孔子的，尤其是，在曾参做稳了儒学教主又要故意含糊其词的情况下，他更难区分。尽管子思有可能对讲授中曾参过分赞美自己而贬低早期弟子——有些就是子思的叔伯亲属——的内容保持警惕或产生疑问，但也仅此而已。他无法改变既定的事实。孟轲是子思的学生（广义的），所传承的基本还是曾参的思想。<div style="padding-bottom:1em;"></div>　　由此，曾参－子思－孟轲的传授系统终于成为儒学正宗。这正好解释了《论语》中虽对曾参有批评但大量还是歌颂的原因，也解释了凡在重大问题上（如与早期弟子发生分歧时，或与有若争论时）孟轲为何总是毫不犹豫地倾向于曾参的原因。<div style="padding-bottom:1em;"></div>　　但是，这一传授系统也有很大问题，就是原始的“孔子儒学”有可能被基本遮蔽。换言之，孔子从周公那里继承而来的那种富含华夏先民智慧以及深厚人文主义精神的儒学——尚柔学，有可能被包裹在曾参那神不知鬼不觉的阐释之中。或者说，我们今天要求小孩子念念有词、摇头晃脑所读之“经”，某些专家和美女学者津津有味、自以为是地加以咀嚼、品尝的《论语》，其实是经过曾参改窜的，是曾参用自己的思想之牙、观念之舌咀嚼、品尝过后，吐在盘子里端上来，又鼓励人们一再咀嚼、品尝的。<div style="padding-bottom:1em;"></div><a rel="nofollow" href="http://cache.baidu.com/c?m=9f65c" target="_blank">http://cache.baidu.com/c?m=9f65c</a> ... 0853&amp;user=baidu
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/14555532/#comments">回应</a>&nbsp;&nbsp;
+                  2011-09-18 14:46
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="43985526">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/157303166/"><img src="https://img3.doubanio.com/icon/u157303166-1.jpg" alt="若妖" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43985526/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43985526/" class="">第130页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/157303166/" class=" " title="若妖">若妖</a>
+                (写给自己看.)
+              
+            </p>
+            <div class="reading-note" data-cid="43985526">
+              <div class="short">
+                
+                  <span class="">君子谋道不谋食。耕也，馁在其中矣。学也，禄在其中矣。君子忧道不忧贫。</span>
+                <p class="pl">
+                  <span class="">2017-05-15 21:32</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>君子谋道不谋食。耕也，馁在其中矣。学也，禄在其中矣。君子忧道不忧贫。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43985526/#comments">回应</a>&nbsp;&nbsp;
+                  2017-05-15 21:32
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42687077">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/158563704/"><img src="https://img3.doubanio.com/icon/u158563704-1.jpg" alt="zl钰" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42687077/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42687077/" class="">第2页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/158563704/" class=" " title="zl钰">zl钰</a>
+              
+            </p>
+            <div class="reading-note" data-cid="42687077">
+              <div class="short">
+                
+                  <span class="">人生的两种常态：“看得破，忍不过。想得到，做不来” 好比大多数人抽烟，明明知道对身体不好，不应该抽，这就是“看得破”，但大多数情况下，还是会拿起一根烟吸，这就是“忍不过”。对于一些事，想要得到，可是做起来就会认为体力不行，这就是“想得到，做不来” 我想，生活中没有非要忍与不忍，做与不做，具体问题具体分析，有时是在忍与不忍，做与不做之间寻求一种平衡。好比熬夜加班，明明知道对身体不好，但还是要熬夜，...</span>
+                <p class="pl">
+                  <span class="">2017-03-28 18:07</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>人生的两种常态：“看得破，忍不过。想得到，做不来”</p><p>好比大多数人抽烟，明明知道对身体不好，不应该抽，这就是“看得破”，但大多数情况下，还是会拿起一根烟吸，这就是“忍不过”。对于一些事，想要得到，可是做起来就会认为体力不行，这就是“想得到，做不来”</p><p>我想，生活中没有非要忍与不忍，做与不做，具体问题具体分析，有时是在忍与不忍，做与不做之间寻求一种平衡。好比熬夜加班，明明知道对身体不好，但还是要熬夜，因为工作需要，我们可以做的是尽量少加班。再举个例子，人人都想创业，但创业很难，可是我们可以尝试，但如果实在做不来，那么就放弃。</p><p>两点之间寻求平衡！</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42687077/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-28 18:07
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42669940">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/158563704/"><img src="https://img3.doubanio.com/icon/u158563704-1.jpg" alt="zl钰" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42669940/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42669940/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/158563704/" class=" " title="zl钰">zl钰</a>
+              
+            </p>
+            <div class="reading-note" data-cid="42669940">
+              <div class="short">
+                
+                  <span class="">【论先行后言的合理性】 子贡问君子。子曰：先行其言而后从之。 大意是：如何做君子，就是先行动后说出来。 可是笔者认为 凡事都先做了再说，也不一定是合理的态度。我想孔子的这一句话，是针对某些事都说了半天，却没有任何行动的人而有感而发的。 这句话笔者分了三个方向理解 1.有些事情，要先做后说；有些事情，最好边做边说；有些事情，必须先说后做。各有不同的情况，具体情况具体分析。 2.应注意言行要恰到好处。即 行动...</span>
+                <p class="pl">
+                  <span class="">2017-03-28 09:25</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>【论先行后言的合理性】</p><p>子贡问君子。子曰：先行其言而后从之。</p><p>大意是：如何做君子，就是先行动后说出来。</p><p>可是笔者认为 凡事都先做了再说，也不一定是合理的态度。我想孔子的这一句话，是针对某些事都说了半天，却没有任何行动的人而有感而发的。</p><p>这句话笔者分了三个方向理解</p><p>1.有些事情，要先做后说；有些事情，最好边做边说；有些事情，必须先说后做。各有不同的情况，具体情况具体分析。</p><p>2.应注意言行要恰到好处。即 行动合理，说得也合理，应当衡量当时的情况，做出合理的解释。</p><p>3.说了就要去做，不要光说不做，做人应当“言必信，行必果”</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42669940/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-28 09:25
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="39958703">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/144476368/"><img src="https://img3.doubanio.com/icon/u144476368-2.jpg" alt="Nuo.L" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39958703/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39958703/" class="">学而</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/144476368/" class=" " title="Nuo.L">Nuo.L</a>
+                (唯心不易)
+              
+            </p>
+            <div class="reading-note" data-cid="39958703">
+              <div class="short">
+                
+                  <span class="">今天总算是弄明白了上学时一直困惑的一个问题：为什么“学而时习之，不亦说乎？”是经常复习，还能很快乐？复习是件很快乐的事，那想必老师也不用强调复习的重要了吧。
+
+因为“学习”一词，我们常常会把学和习混起来用，然而古人多是一字一义，我便起了查查习字本义得想法。“习”本义为“小鸟多次尝试飞行”，这从简体字上很难理解，换成繁体字 “習” 就好多。这词引申过来就是在实践中慢慢熟练，相较于“学”的更偏向于理论上...</span>
+                <p class="pl">
+                  <span class="">2016-10-31 22:09</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                今天总算是弄明白了上学时一直困惑的一个问题：为什么“学而时习之，不亦说乎？”是经常复习，还能很快乐？复习是件很快乐的事，那想必老师也不用强调复习的重要了吧。<div style="padding-bottom:1em;"></div>因为“学习”一词，我们常常会把学和习混起来用，然而古人多是一字一义，我便起了查查习字本义得想法。“习”本义为“小鸟多次尝试飞行”，这从简体字上很难理解，换成繁体字 “習” 就好多。这词引申过来就是在实践中慢慢熟练，相较于“学”的更偏向于理论上的明白，觉悟，“习”强调的是把“学”来的应用到实践之中，所以这句话就通顺多了（至少更符合逻辑一些）。<div style="padding-bottom:1em;"></div>其实想想现在的词语中，“习作”，“练习”，“习惯”，可以明显发现这些词里面体现了习的本义，是不可以被“学”替换的，而复习不过是习的一个组合词，怎么可能是它的本义呢？就算今人可以说习有复习的意思，但至少不会是古义。<div style="padding-bottom:1em;"></div>之后查到的一些资料也显示其实朱熹，南怀瑾等人早就把这事解释清楚了，那课本里犯这种错误其实就有点不该了。由此联想到这后面的几句是不是解释的也有点问题？按书本上说的，这后面两句和第一句怎么感觉扯得有点远？<div style="padding-bottom:1em;"></div>“朋”的本义可以说也是被曲解了的。“朋”指的是同师们的或者说志同道合的人，而非现在简单的朋友。那么这句话就很有意思了，志同道合的人，为什么要从远方来找我（孔子）？想必是认同我（孔子）的想法来和我做交流切磋的。人生能得一知己，那可比普通朋友的拜访要更快乐了。<div style="padding-bottom:1em;"></div>说到最后一句，我起先也怀疑“知”是不是做“智”用，但是这样解释怎么也和前面的联系不起来，窃以为这里可以解释为“他人不了解，认可我的学说却不生气，不也是君子该做的吗（克己）？” 这样就和前面有知己相对应起来了，也和孔子的实际情况有些关联。<div style="padding-bottom:1em;"></div>这样还有一个前面有些困惑的问题也算是有个比较合理的解释了：第二句的“有”这个字有些多余，为什么要这个字而不是“朋自远方来”或者是“友朋自远方来”（也有这种说法）？我认为，“有”字其实是和后面这句的“不”相对应的，有认同我的学说的人对应不认可我学说的人。<div style="padding-bottom:1em;"></div>当然这三句也有很多的解释，有说这三句本义不相联系的，也有说这是递进的三种境界的。<div style="padding-bottom:1em;"></div>也想到了一些其他的问题：“學”的本义是什么？“悦”和“乐”真的是同义，但为了避开重复所使用不同的字吗？<div style="padding-bottom:1em;"></div>这些就留待下次再温故而知新了吧。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39958703/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-31 22:09
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1964774/annotation">更多读书笔记（共182篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964774/discussion/24758180/" title="先人们留下的是金子" class="">先人们留下的是金子</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/SaraShen/">公主彻夜未眠、</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2017-02-13</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964774/discussion/14032228/" title="真的不是很喜欢孔子..." class="">真的不是很喜欢孔子...</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/wudaoyan1540/">松本真杯具怂男</a></td>
+            <td class="pl"><span class="">12 回应</span></td>
+            <td class="pl"><span class="">2014-01-24</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964774/discussion/57776491/" title="中华书局 这个有系列丛书吗？" class="">中华书局 这个有系列丛书吗？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/48036642/">AkitnesKosuke</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2014-05-25</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964774/discussion/27970688/" title="~" class="">~</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/xiaoka01002/">源泉深蓝</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2010-10-06</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964774/discussion/25191051/" title="山东人，不可不读论语啊" class="">山东人，不可不读论语啊</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/ming009/">小白</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2010-08-04</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/1964774/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">其他版本在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+        <a class="publish" href="https://book.douban.com/subject/6813209/" target="_blank">中华书局版</a><br/>
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 19.20元</span>
+        <span class="price"> <del>24.00元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=122697&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">其他版本的电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/1759299/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1964774" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/1759299/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1964774" class="">
+          <span class="buylink-price">
+            
+            <span class="">18.00 元</span>
+          </span>
+        </a>
+          <p class="publish">
+            <a target="_blank" href="/subject/24700111">中信出版股份有限公司</a>
+          </p>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=640&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=1080&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgNUGFgRBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIWBlYYXxEdS0IJRmtxZFN6UUZbF2BzeStjWhwFRV4vZxl1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBtZFAUbAlQrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVBhMEVh9fCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=1964774&amp;type=bkbuy&amp;subject=1964774" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=640&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=1080&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgNUGFgRBiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIWBlYYXxEdS0IJRmtxZFN6UUZbF2BzeStjWhwFRV4vZxl1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBtZFAUbAlQrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVBhMEVh9fCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=1964774&amp;type=bkbuy&amp;subject=1964774" class="buylink-price ">
+                      <span class="">
+                        10.80 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=640&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=1240&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1964774%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23514504&amp;cntvendor=3&amp;srcsubj=1964774&amp;type=bkbuy&amp;subject=1964774" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=640&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=1240&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1964774%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23514504&amp;cntvendor=3&amp;srcsubj=1964774&amp;type=bkbuy&amp;subject=1964774" class="buylink-price ">
+                      <span class="">
+                        12.40 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=640&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=640&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F1855591.htm&amp;cntvendor=3&amp;link2key=a91b24a763&amp;srcsubj=1964774&amp;type=bkbuy&amp;subject=1964774" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=640&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=640&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F1855591.htm&amp;cntvendor=3&amp;link2key=a91b24a763&amp;srcsubj=1964774&amp;type=bkbuy&amp;subject=1964774" class="buylink-price ">
+                      <span class="">
+                        6.40 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/1964774/buylinks">
+              &gt; 查看3家网店价格
+                (6.40 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D978-7-101-05418-7&amp;subject=7101054188&amp;type=borrow&amp;library=10007&amp;link2key=a91b24a763" target="_blank">北京市公共图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7101054188&amp;subject=7101054188&amp;type=borrow&amp;library=10012&amp;link2key=a91b24a763" target="_blank">上海市中心图书馆(4)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F58.154.49.3%3A8080%2Fopac%2Fopenlink.php%3FhistoryCount%3D1%26strText%3D7-101-05418-8%26doctype%3DALL%26strSearchType%3Disbn%26match_flag%3Dforward%26displaypg%3D20%26sort%3DCATA_DATE%26orderby%3Ddesc%26showmode%3Dlist%26location%3DALL&amp;subject=7101054188&amp;type=borrow&amp;library=10010&amp;link2key=a91b24a763" target="_blank">沈阳师范大学图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1045503">全部13</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1929958/">中华书局版</a>
+          2006-9-1 / 1395人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/2374504/">辽宁民族出版社版</a>
+          1996 / 355人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1891302/">广州出版社版</a>
+          2001-5 第一版 / 91人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1006675/">山东友谊出版社版</a>
+          1992-01 / 111人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1964774/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/1757387/" target="_blank">评分9.0~9.7(1000+人参与评价)</a>
+                <span class="pl">(翼道子)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/2455132/" target="_blank">也许能改变你生活态度的书</a>
+                <span class="pl">(Noûs)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/586383/" target="_blank">杨奎松推荐历史系本科生推荐阅读书目</a>
+                <span class="pl">(纸遁)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/118925/" target="_blank">管理人必看的300本书籍（1）</a>
+                <span class="pl">(tony)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/43430373/" target="_blank">豆瓣高分书2500本：千人打分不低于8分</a>
+                <span class="pl">(偶就是那个鬼)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/140237598/"><img src="https://img1.doubanio.com/icon/u140237598-7.jpg" class="pil" alt="RENYS" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/140237598/">RENYS</a><br/>
+      <div class="pl ll">          1小时前          读过      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/albeepan/"><img src="https://img3.doubanio.com/icon/u53292100-6.jpg" class="pil" alt="书卿" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/albeepan/">书卿</a><br/>
+      <div class="pl ll">          今天上午          读过      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/63628034/"><img src="https://img3.doubanio.com/icon/u63628034-5.jpg" class="pil" alt="Laila" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/63628034/">Laila</a><br/>
+      <div class="pl ll">          今天凌晨          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1964774/doings">1193人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1964774/collections">10178人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1964774/wishes">4474人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1964774/offers">2本二手书欲转让</a>
+          <span class="">
+            (1.00
+                至 50.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有4474人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于论语的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1964774/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = '5wDZKCJ0QdQ',
+            criteria = '7:国学|7:孔子|7:论语|7:经典|7:哲学|7:古典文学|7:思想|7:中国文学|7:古典名著|7:中国|3:/subject/1964774/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar7d-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3150 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>危机与重构 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/26603137/">
+<meta name="keywords" content="危机与重构,李碧妍,北京师范大学出版社,2015-8-30,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书危机与重构 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/26603137/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">危机与重构</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img1.doubanio.com/lpic/s28901427.jpg" title="危机与重构">
+    <img src="https://img1.doubanio.com/lpic/s28901427.jpg" title="点击看大图" alt="危机与重构"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E6%9D%8E%E7%A2%A7%E5%A6%8D">李碧妍</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 北京师范大学出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 唐帝国及其地方诸侯<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2015-8-30<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 572<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 79.80元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/2065">新史学&amp;多元对话系列</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787303183876<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 9.1 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">291</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">64.6%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:27px"></div>
+
+            <span class="rating_per">27.5%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:5px"></div>
+
+            <span class="rating_per">5.2%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.7%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:2px"></div>
+
+            <span class="rating_per">2.1%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-26603137-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-26603137-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-26603137-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26603137-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26603137-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26603137-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26603137-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26603137-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-26603137">
+        <a href="#" data-url="https://book.douban.com/subject/26603137/" data-desc="" data-title="书籍《危机与重构》 (来自豆瓣) " data-pic="https://img1.doubanio.com/lpic/s28901427.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_26603137"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>聂隐娘身处的时代与周遭具体如何？</p>    <p>诸侯割据怎样促成了大唐帝国的重建并走向了自身的终结？</p>    <p>作者于盘根错节之中抽丝剥笋，给人以读推理小说的奇妙感</p>    <p>“安史之乱”无疑是中国中古史上的大事关键，但相对于其重要性，既往的研究却还远远不够。本书从政治地理学切入，通过对唐代后半期   最为重要的政治群体之一——藩镇的实证性考 察，对唐帝国得以成功度过“安史之乱”这一中古史上之剧变，并在由此创发的新兴的藩镇体制下，重建其政治权威与统治力的问题，给出了一个合理的历史解释，为我们重新认识中古史提供了一条重要的线索。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/26603137/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>李碧妍，女，上海人，历史学博士，先后就读于上海大学历史系、复旦大学历史地理研究中心，从事唐代政治史、历史政治地理的研究。论文曾先后发表于《学术月刊》、《唐研究》、《中华文史论丛》等学术刊物。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_26603137_short">
+        目录<br/>
+        绪论<br/>
+        第一章  河南：对峙开始的地方<br/>
+        第一节  河南节度使与张巡<br/>
+        第二节 元帅的时代<br/>
+        第三节 永平军的成长与蜕变<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_26603137_short').hide();$('#dir_26603137_full').show();$.get('/j/subject/j_dir_count',{id:26603137});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_26603137_full" style="display:none">
+        目录<br/>
+        绪论<br/>
+        第一章  河南：对峙开始的地方<br/>
+        第一节  河南节度使与张巡<br/>
+        第二节 元帅的时代<br/>
+        第三节 永平军的成长与蜕变<br/>
+        第四节  平卢系藩镇的解体<br/>
+        小结<br/>
+        第二章  关中：有关空间的命题<br/>
+        第一节 异族威胁与空间的重构<br/>
+        第二节  派系危机与空间的崩溃<br/>
+        第三节  东大门的空间塑造<br/>
+        第四节  神策军镇的空间演变<br/>
+        小结<br/>
+        第三章  河北：化外之地的异同<br/>
+        第一节  安禄山叛乱与河北<br/>
+        第二节  后安禄山时代的叛军<br/>
+        第三节  河朔三镇性格的差异<br/>
+        第四节  帝国的东北地区<br/>
+        小结<br/>
+        第四章 江淮：新旧交替的舞台<br/>
+        第一节  永王东行的图景<br/>
+        第二节  刘展之乱的真相<br/>
+        第三节 韩滉与镇海军时代的来临<br/>
+        第四节  李锜叛乱与动乱期的终结<br/>
+        小结<br/>
+        代结语  藩镇时代的意义<br/>
+        附 录<br/>
+        后记<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_26603137_full').hide();$('#dir_26603137_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共153个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/历史">历史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/隋唐史">隋唐史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/唐史">唐史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/藩镇">藩镇</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/中国史">中国史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/中古史">中古史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/政治史">政治史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/李碧妍">李碧妍</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/2065">新史学&amp;多元对话系列 (共17册)</a>,
+这套丛书还有
+《法兰西风格》,《面对疾病》,《清代江南的瘟疫与社会》,《施善与教化》,《国中的“异乡”》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;危机与重构&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/11574575/?dcs=subject-rec&amp;dcm=douban&amp;dct=26603137" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/11574575.jpg?v=1438139269.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/11574575/" target="_blank">何草不黄</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/912203/?dcs=subject-rec&amp;dcm=douban&amp;dct=26603137" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/912203.jpg?v=1395395188.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/912203/" target="_blank">东周战争与儒法国家的诞生</a>
+          </div>
+          <div class="price">
+              8.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/917331/?dcs=subject-rec&amp;dcm=douban&amp;dct=26603137" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/917331.jpg?v=1395395210.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/917331/" target="_blank">学做工</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/317513/?dcs=subject-rec&amp;dcm=douban&amp;dct=26603137" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/317513.jpg?v=1395395911.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/317513/" target="_blank">清代社会的贱民等级</a>
+          </div>
+          <div class="price">
+              9.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/2255462/?dcs=subject-rec&amp;dcm=douban&amp;dct=26603137" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/2255462.jpg?v=1395393843.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/2255462/" target="_blank">拜占庭帝国通史</a>
+          </div>
+          <div class="price">
+              2.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;危机与重构&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10796986/" onclick="moreurl(this, {'total': 10, 'clicked': '10796986', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s10457802.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10796986/" onclick="moreurl(this, {'total': 10, 'clicked': '10796986', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            魏晋之际的政治权力与家族网络
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26699027/" onclick="moreurl(this, {'total': 10, 'clicked': '26699027', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s28620459.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26699027/" onclick="moreurl(this, {'total': 10, 'clicked': '26699027', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            北宋晚期的政治体制与政治文化
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25881733/" onclick="moreurl(this, {'total': 10, 'clicked': '25881733', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27276911.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25881733/" onclick="moreurl(this, {'total': 10, 'clicked': '25881733', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            五代时期北方中国的权力结构
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/24316388/" onclick="moreurl(this, {'total': 10, 'clicked': '24316388', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s29276803.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/24316388/" onclick="moreurl(this, {'total': 10, 'clicked': '24316388', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            旧史舆地文录
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26612502/" onclick="moreurl(this, {'total': 10, 'clicked': '26612502', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s28393047.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26612502/" onclick="moreurl(this, {'total': 10, 'clicked': '26612502', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            清流文化与唐帝国
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25926547/" onclick="moreurl(this, {'total': 10, 'clicked': '25926547', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s27865148.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25926547/" onclick="moreurl(this, {'total': 10, 'clicked': '25926547', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            黑毡上的北魏皇帝
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/20473479/" onclick="moreurl(this, {'total': 10, 'clicked': '20473479', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27891501.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/20473479/" onclick="moreurl(this, {'total': 10, 'clicked': '20473479', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            建元与改元
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4248139/" onclick="moreurl(this, {'total': 10, 'clicked': '4248139', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4350278.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4248139/" onclick="moreurl(this, {'total': 10, 'clicked': '4248139', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            唐代藩镇研究
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26377063/" onclick="moreurl(this, {'total': 10, 'clicked': '26377063', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28416051.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26377063/" onclick="moreurl(this, {'total': 10, 'clicked': '26377063', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            魏晋之际的政治权力与家族网络
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26794951/" onclick="moreurl(this, {'total': 10, 'clicked': '26794951', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28902861.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26794951/" onclick="moreurl(this, {'total': 10, 'clicked': '26794951', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            南宋初期政治史研究
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/26603137/comments/">全部 109 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="958410370">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-958410370" class="vote-count">5</span>
+                        <a href="javascript:;" id="btn-958410370" class="j a_show_login" data-cid="958410370">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/anchoretic/">王韧勉</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-01-31</span>
+                </span>
+            </h3>
+            <p class="comment-content">本书或许是2015年度最火历史学著作，近年来周振鹤先生及其弟子在上古、中古时期的历史地理学研究中有着卓越性的突破，本书的意义在于动态的看待山川地理与政局沿革之间的互动。藩镇割据的人员组成在背景上有深厚的“地图炮”色彩，这也是在任何人际关系中占比最大的影响因子，而这样细微的互动在全面的格局中细致的影响，是之前纯粹的政治史研究中常被忽视的璞玉。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="971348050">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-971348050" class="vote-count">9</span>
+                        <a href="javascript:;" id="btn-971348050" class="j a_show_login" data-cid="971348050">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/qiujiangyiye/">银酒监武</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2015-10-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">宅了一天，读完了这本书。作者网络材料之丰富，与既有研究对话之深入，的确令人赞叹。书中对地理的重视，多副地图，也使本书颇为增色。但最让人印象深刻的，是作者清晰的逻辑思路和对时代把握之准确，这才是最难得的，也是超出同侪的地方。比如序言对藩镇研究的梳理就十分清晰，也与国内一般的藩镇综述不同。对河南、关中、河北、江淮这些地区在中晚唐的变化，不同地区之间的关系及其影响，都能看出作者对时代是有完整而准确的认识的。在我们这个拥有数据库和网络化的时代，材料的搜集或许已经不是难事，对材料的理解和时代的认识往往是大多数的短板。后者正是让我对作者颇感敬佩的一点。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="980820600">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-980820600" class="vote-count">13</span>
+                        <a href="javascript:;" id="btn-980820600" class="j a_show_login" data-cid="980820600">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/cjfuzi/">霜闕</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2015-11-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">与其说是研究中晚唐，在我看来，不如把该书看作是一种思考北宋疆域（地理疆域、文化疆域）形成合理性的解释。读过之后，似乎可以感到，藩镇作为政治地理空间的构建方式，反而比州县更能在中晚唐时代延展帝国中央多元的控制能力，也逐渐打开了地方与中央之间本是被隐藏于重重行政层级之间的阻隔。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1055009513">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1055009513" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-1055009513" class="j a_show_login" data-cid="1055009513">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/roulong/">一大坨</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-06-24</span>
+                </span>
+            </h3>
+            <p class="comment-content">佩服这个博士，这本书有气象！坦坦的五星</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="993953696">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-993953696" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-993953696" class="j a_show_login" data-cid="993953696">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/ivyliving/">尘一</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-12-31</span>
+                </span>
+            </h3>
+            <p class="comment-content">鸡蛋里面挑骨头，肯定还是有问题。不过相当见功底。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1204540589">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1204540589" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1204540589" class="j a_show_login" data-cid="1204540589">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/StoneBath/">藿香正气</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-19</span>
+                </span>
+            </h3>
+            <p class="comment-content">好看</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1201108478">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1201108478" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1201108478" class="j a_show_login" data-cid="1201108478">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/4211741/">ficus</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-11</span>
+                </span>
+            </h3>
+            <p class="comment-content">唐帝国后期如何重构中央与地方的相互关系，保障中央安全及权力，各个藩镇的地理位置，及形成的渊源与中央的关系，讲的比较清楚，不错</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1200515638">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1200515638" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1200515638" class="j a_show_login" data-cid="1200515638">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/greatabel/">greatabel</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-06-09</span>
+                </span>
+            </h3>
+            <p class="comment-content">小时候觉得李白像辛弃疾一样的人物，长大后才发现他其实是政治上的傻白甜，站队和政治嗅觉可能比唐贵妃都不如；唐朝的藩镇制度其实是被迫的，有它存在的时代合理性，就像罗马帝国晚期亚瑟王那些传说一样。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1199778925">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1199778925" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1199778925" class="j a_show_login" data-cid="1199778925">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/1749118/">Melina</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">广而深，条分缕析，关于藩镇很难写出更好的书了。不过张书里夹带的私货更对我胃口。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1194206060">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1194206060" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1194206060" class="j a_show_login" data-cid="1194206060">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/59522532/">夏日的雨</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">对安史之乱前后藩镇研究最精辟，最透彻的专著。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/26603137/comments/">更多短评 109 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/26603137/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            危机与重构的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 12 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7657544">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7657544/" class="title-link">另一种“唐宋变革说”</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7657544"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/weizhoushiwang/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u1679535-7.jpg"></a>
+    <a href="https://www.douban.com/people/weizhoushiwang/" class="author">
+      <span property="v:reviewer">维舟</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2015-11-13"
+      class="main-meta">2015-11-13 15:19:15</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7657544_short" class="review-short">
+            <div class="short-content">
+                         平日惯用的朝代划分时常会误导人。尽管世人印象中的唐朝多是“盛唐气象”所留下的，但自安史之乱后唐代还有长达150年的后半期，而中晚唐这一时期无论在文化还是社会结构上来说，可以说都是“宋型文化”的一部分，与初唐、盛唐相比已发生了本质的改变。从这一点来看，中...
+
+                    <a class="pl" href="https://book.douban.com/review/7657544/#comments">(6回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">39有用 / 15没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7657544_full" class="hidden">
+            <div id="review_7657544_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7668300">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7668300/" class="title-link">仇鹿鸣、李碧妍：安史之乱为何没有导致唐朝灭亡</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7668300"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/tingyun/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1068412-4.jpg"></a>
+    <a href="https://www.douban.com/people/tingyun/" class="author">
+      <span property="v:reviewer">停云</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2015-11-23"
+      class="main-meta">2015-11-23 11:48:41</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7668300_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-7668300-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7668300_full" class="hidden">
+            <div id="review_7668300_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7967706">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7967706/" class="title-link">旧瓶新酒透深意</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7967706"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/anchoretic/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2860322-82.jpg"></a>
+    <a href="https://www.douban.com/people/anchoretic/" class="author">
+      <span property="v:reviewer">王韧勉</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2016-07-07"
+      class="main-meta">2016-07-07 14:28:19</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7967706_short" class="review-short">
+            <div class="short-content">
+                  近百年来，日本汉学家内藤湖南的“唐宋变革论”在中国古代史学界影响深远，内藤湖南认为唐宋之间是中国古代历史“中古”与“近世”的分界线。支撑内藤湖南观点最成熟的莫过于“安史之乱”后，中国的经济重心南移，宋代经济的巨大发展。而这一切作用于行政制度上的变化莫过于政...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">5有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7967706_full" class="hidden">
+            <div id="review_7967706_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7631420">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7631420/" class="title-link">全面书评之不可能</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7631420"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/3091140/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u3091140-2.jpg"></a>
+    <a href="https://www.douban.com/people/3091140/" class="author">
+      <span property="v:reviewer">saidelizi</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2015-10-18"
+      class="main-meta">2015-10-18 23:52:41</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7631420_short" class="review-short">
+            <div class="short-content">
+                  此书花了4天时间精读完成，大呼过瘾、几乎涉及到了藩镇问题的方方面面，分析无比详细。个人认为写书评是件完全不可能的事情。因为读者的评论本身（准确说收获本身）就是书中异常详细的分析与结论。当然我也希望学者、爱好者们能在此书基础上继续推进。  所以对于必成经典的此书...
+
+                    <a class="pl" href="https://book.douban.com/review/7631420/#comments">(6回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">19有用 / 11没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7631420_full" class="hidden">
+            <div id="review_7631420_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7592525">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7592525/" class="title-link">作者后记</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7592525"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/redbreast/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u29449961-4.jpg"></a>
+    <a href="https://www.douban.com/people/redbreast/" class="author">
+      <span property="v:reviewer">时间与玫瑰</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2015-09-06"
+      class="main-meta">2015-09-06 09:10:59</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7592525_short" class="review-short">
+            <div class="short-content">
+                  后记  我在本科三年级的时候，开始关注唐代藩镇问题。毕业时期，我完成了第一篇与唐代藩镇有关的论文——《德宗政府与韩滉所领浙西东道》。尽管现在看来，这篇毕业论文写得相当幼稚，但它确实激发了我对藩镇研究的兴趣。因此直到如今，我都一直感念将我吸引进入藩镇研究的这两...
+
+                    <a class="pl" href="https://book.douban.com/review/7592525/#comments">(11回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">11有用 / 11没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7592525_full" class="hidden">
+            <div id="review_7592525_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评12篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/26603137/annotation">共<span property="v:count">7</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="36438619">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/105594691/"><img src="https://img3.doubanio.com/icon/u105594691-20.jpg" alt="翊夕" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36438619/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36438619/" class="">第148页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/105594691/" class=" " title="翊夕">翊夕</a>
+                (等到看你银色满际)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36438619">
+              <div class="short">
+                
+                  <span class="">作者认为，大历年间马璘移镇泾、原，郭子仪迁于邠州，朱泚领镇凤翔后，关中四镇北庭系、朔方系、幽州系三大派系三足鼎立的局面形成。而在这三大派系中，作者着重论述了幽州系形成的过程。
+作者对所谓幽州派系和凤翔军队的论述，基本上是在黄永年先生《“泾师之变”发微》一文的基础上展开的，认为幽州系力量的主体是朱泚自幽州带来的防秋兵。而作者借由《张道昇墓志》的内容，试图解决黄永年先生所没有解决的一个问题：朱泚带来的...</span>
+                <p class="pl">
+                  <span class="">2015-10-27 19:39</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                作者认为，大历年间马璘移镇泾、原，郭子仪迁于邠州，朱泚领镇凤翔后，关中四镇北庭系、朔方系、幽州系三大派系三足鼎立的局面形成。而在这三大派系中，作者着重论述了幽州系形成的过程。<div style="padding-bottom:1em;"></div>作者对所谓幽州派系和凤翔军队的论述，基本上是在黄永年先生《“泾师之变”发微》一文的基础上展开的，认为幽州系力量的主体是朱泚自幽州带来的防秋兵。而作者借由《张道昇墓志》的内容，试图解决黄永年先生所没有解决的一个问题：朱泚带来的军队只有数千人，在泽潞兵离开的情况下，这些军队并不能够承担起防御吐蕃的重任，故而肯定从幽州又调过兵或有其他系统军队入驻；然而这些调兵并没有记载，故而无法考证。<div style="padding-bottom:1em;"></div>作者所引《张道昇墓志》录文为《唐代墓志汇编》所收录，笔者勘合了墓志拓片，准确无误，现将作者所引录文置于此：<div style="padding-bottom:1em;"></div>释褐充节度副将，转左金吾卫大将军，旋充左厢步兵火将兼节度押衙。节制朱公首议归朝，公演成其意，遂帅精骑二万，西赴阙庭，署公为行营都知兵马使。帝嘉之，拜朱公为丞相，旋除太尉兼陇右节度。圣朝以公有辅佐之勋，特赐车马金银缯彩万数……积功劳迁特进、开府仪同三司、持节陇州诸军事陇州刺史、上柱国、南阳县开国伯。<div style="padding-bottom:1em;"></div>作者认为，“遂帅精骑二万，西赴阙庭”当指张道昇跟随朱泚入京；则朱泚入京时带领的人马是由张道昇作为统帅的两万人的队伍；“精骑二万”不仅指随军士兵，还有随军的家眷。于是，作者就此自认为解决了幽州系主导下凤翔的兵力问题。<div style="padding-bottom:1em;"></div>然而笔者认为这一论断存在一定的问题。首先，作者认为“精骑二万”包括随军家属的依据是唐墓志的书写习惯，即在书写军队数量时将随军家属包括在内，我们姑且称之为“制度一”；其次，朱泚率兵入关的理由是防秋，而防秋军一般不携带家属，我们称之为“制度二”。则依作者的论断，朱泚入关的历史事实便造成了“制度一”和“制度二”的冲突：为何朱泚入关防秋，其军队携带家属。作者也对此表示疑惑，并在第153页注释一中通过与《旧唐书•刘澭传》的记载的对比提出。<div style="padding-bottom:1em;"></div>以上是论断存在的第一个问题；而第二个问题是，即使朱泚入关时真的携带了两万人，其中多数人也是随军家属，并不具有战斗力，能作战的军队也是少数；作者在第四章第四节考察碑文记载的“徐州军”归浙人数时，也采用了区分家属与士兵的方法，认为碑文所记载“二万人”包括家属，士兵如正史记载只有千余。那么，同样的道理，朱泚所率领的这两万人中，真正的士兵也不应该超过正史所记载的五千人。换言之，兵士人数的问题依旧没有解决，《张道昇墓志》这一史料的引入没有起到太大作用。<div style="padding-bottom:1em;"></div>笔者思考过后认为，这两个问题都是有解释和解决的思路的。然而笔者对中晚唐历史基本一窍不通，思路亦不甚规范，谨在此提出，备作者参考。<div style="padding-bottom:1em;"></div>第一个问题，所谓“制度一”和“制度二”的冲突。首先，需要考虑“制度一”和“制度二”是否有是确实存在的，然而学界研究在前，笔者又不懂唐史，故这个问题就不是笔者能够触及的了；而笔者想提出的是下面的思路：“制度一”和“制度二”本来是不冲突的，因为从逻辑上来讲张道昇所率领的这两万人完全可以皆是兵士，不包括家属；换言之，“制度一”和“制度二”的貌似冲突的根源其实还是《张道昇墓志》所记载的“二万”这一人数问题，因为这一人数实在是太多了，基本是不可能全是军士的。那么，一个解决的思路是，重新检验《张道昇墓志》所记载的“精骑”人数。笔者认为，墓志书写层面，“二万”当为“二千”之误；历史事实层面，张道昇所率领的并非是两万人，而是两千人。理由如下：<div style="padding-bottom:1em;"></div>其一，在利用墓志资料作为史料时，应当首先检验墓志所反映的历史信息的真实性，并且检讨墓志的生产背景和书写意图。正如作者在论述中指出的，陆贽在《兴元论请优奖曲环所领将士状》一文中有“其（曲环所领幽陇兵）家属则陷于匪人”的文字。当然，因为此时“奉天之难”已经爆发，这里的“匪人”究竟指朱滔还是指朱泚是存疑的。作者认为“匪人”当指朱滔，笔者赞同。然而作者并没有以此为基础探讨“幽陇兵”的主力随朱泚入关的时候是否携带家属的问题。笔者认为，恰好可以就此材料说明，朱泚入关时所携带的军士并不包括随军家属。则以此为基础，《张道昇墓志》所记载的“二万”这一数字应当存在问题。<div style="padding-bottom:1em;"></div>其二，关于朱滔、朱泚分别带领的防秋兵的数量，两《唐书》的本纪、列传各有不同的记载，作者皆以《旧唐书•代宗纪》为准，认为皆是五千人。这一数字应当没有问题，但需要检讨的是两《唐书》记载朱泚所率防秋兵数量不同的原因。作者已经注意到，《旧唐书•朱泚传》和《新唐书•朱泚传》皆记载朱泚率领的为“三千人”，而《旧唐书•代宗纪》记载为“五千人”；然而作者在发现这一史料冲突之后只取用了《代宗纪》“五千人”的记载，而没有进一步思考为何会有这种数量的差距。笔者认为，如果仔细观察，会发现“三千人”和“五千人”所差的正好是“二千人”，这“二千人”不是历史书写的谬误，而恰恰是张道昇所率领的军队。<div style="padding-bottom:1em;"></div>其三，也是对第二条理由的继续探讨。考察《张道昇墓志》的记载，“节制朱公首议归朝，公演成其意，遂帅精骑二万，西赴阙庭，署公为行营都知兵马使”这一段文字其实可以提示我们，张道昇似乎并非与朱泚一起前往长安的，而是独立率领两千人前往，极有可能是以“先锋”的身份。如此考虑，张道昇与朱泚分别前往长安之间便存在了一个时间差，两《唐书》本纪和传记之间的不同正是这种时间差的体现。<div style="padding-bottom:1em;"></div>基于以上三点理由，笔者认为，《张道昇墓志》所记载“精骑二万”当为“精骑二千”之误；而历史的事实是张道昇先于朱泚率领两千人作为“先锋”前往长安，朱泚率领三千人紧随其后，二者合计五千人。<div style="padding-bottom:1em;"></div>（如此，亦能与“精骑”二字相吻合，张道昇所率领的，正是幽州节度使麾下的精锐骑兵）<div style="padding-bottom:1em;"></div>下面来看第二个问题，即凤翔的军队人数问题。首先正如作者所引《旧唐书•韩滉传》的记载，“大历五年以后，蕃戎罕侵”，凤翔的防御任务已经不像大历初年那样重；其次，陆贽《兴元论请优奖曲环所领将士状》文中描述曲环所统领的幽陇军时，有“悉是朱泚部曲，或顷在凤翔所管，或本从河朔同来”之言；笔者认为，这里的“本从河朔同来”的军士，有可能便是朱泚入关之初所统的淄青、承德藩镇防秋兵；如此，亦符合幽州军主导下凤翔多元化的军事结构这一结构性特点。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36438619/#comments">回应</a>&nbsp;&nbsp;
+                  2015-10-27 19:39
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36036317">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/redbreast/"><img src="https://img3.doubanio.com/icon/u29449961-4.jpg" alt="时间与玫瑰" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36036317/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36036317/" class="">第340页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/redbreast/" class=" " title="时间与玫瑰">时间与玫瑰</a>
+                (岁寒，然后知松柏之后凋也)
+              
+            </p>
+            <div class="reading-note" data-cid="36036317">
+              <div class="short">
+                
+                  <span class="">魏博：牙军的历史
+
+位于河北南部的魏博镇是河朔三镇中最著名，也是学者讨论得最早、最多的藩镇。清人王夫之即言：
+
+藩镇之强，始于河北，而魏博为尤，魏博者，天下强悍之区也。 
+
+魏博的强悍体现在：一则实力强，二则对唐廷跋扈，三则内部变乱的破坏性大。而这一切，很大程度上被归因为魏博拥有一支名震于时的牙军：
+
+魏牙军，起田承嗣募军中子弟为之，父子世袭，姻党盘互，悍骄不顾法令，〔史〕宪诚等皆所立，有不慊，辄..</span>
+                <p class="pl">
+                  <span class="">2015-09-02 18:57</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                魏博：牙军的历史<div style="padding-bottom:1em;"></div>位于河北南部的魏博镇是河朔三镇中最著名，也是学者讨论得最早、最多的藩镇。清人王夫之即言：<div style="padding-bottom:1em;"></div>藩镇之强，始于河北，而魏博为尤，魏博者，天下强悍之区也。 <div style="padding-bottom:1em;"></div>魏博的强悍体现在：一则实力强，二则对唐廷跋扈，三则内部变乱的破坏性大。而这一切，很大程度上被归因为魏博拥有一支名震于时的牙军：<div style="padding-bottom:1em;"></div>魏牙军，起田承嗣募军中子弟为之，父子世袭，姻党盘互，悍骄不顾法令，〔史〕宪诚等皆所立，有不慊，辄害之无噍类。厚给禀，姑息不能制。时语曰：“长安天子，魏府牙军。”谓其势强也。 <div style="padding-bottom:1em;"></div>“牙军”又作“衙军”。实际上，唐代的任何一个藩镇都有牙军，任何一个藩镇的军力也都是以牙军为核心组建的。有关唐代牙军的问题，以日本学者日野开三郎、矢野主税、堀敏一、渡边孝等人的研究最为全面精湛。 国内方面，则有齐勇锋、张国刚等先生的论述。 总体而言，我接受在重新考察诸位前辈研究基础上提出观点的渡边孝先生对“牙军”所下的定义：<div style="padding-bottom:1em;"></div>牙军在作为一般藩镇的亲卫军、藩军中抽调出来的精锐、主战中核部队的同时，还担当着牙城、使牙的警备与宿卫。 <div style="padding-bottom:1em;"></div>牙军“分布在藩镇的牙城内外、罗城内外，使府治所境内、管下各州县及险要之地皆有牙兵镇守” 。但会府与牙城无疑是牙军驻扎的主要地区。至于牙军的性质，则属于唐廷认可的官健。其实牙军之于藩镇，就类似于神策军等禁军之于唐廷，两者的情况极为相似。并且正如学者所指出的，与神策军一样，牙军本身也有层次性， 并且随着时间的发展，愈益显现出复杂化、重层化的趋势。 <div style="padding-bottom:1em;"></div>魏博牙军与其他藩镇牙军相比，首先是规模大，其次是存在时间长。作为一个人数众多的势力集团，其长存于魏博一百五十年之久。正因为名声过大，“魏博牙军”在唐代已经成为了一个固有的称呼。 本文所讨论的就是，这样一个知名的牙军集团对于魏博镇的军事结构而言究竟有着一种怎样的意义？它与魏博的强弱、跋扈、变乱有着怎样的关系？是否像人们认为的那样，魏博就始终是牙军的天下？由于魏博的牙军由初代节帅田承嗣创立，并且正如渡边孝指出的，直到唐末，魏博牙军都基本保持着田承嗣以来的初源形态， 因此我们对魏博牙军的讨论就将从其奠基者田承嗣谈起。<div style="padding-bottom:1em;"></div>（一）牙军的诞生<div style="padding-bottom:1em;"></div>魏博设镇始于广德元年初，初代节帅田承嗣，为魏、博、德、沧、瀛五州都防御使。当年底，魏博升格为节度使额藩镇， 后又增领贝州。 史称：<div style="padding-bottom:1em;"></div>        承嗣不习教义，沉猜好勇，虽外受朝旨，而阴图自固。重加税率，修缮兵甲；计户口之众寡，而老弱事耕稼，丁壮从征役，故数年之间，其众十万。仍选其魁伟强力者万人以自卫，谓之衙兵。郡邑官吏，皆自署置。户版不籍于天府，税赋不入于朝廷，虽曰藩臣，实无臣节。 <div style="padding-bottom:1em;"></div>这段有关魏博牙军创立过程的描述为我们提供了以下几个重要信息：第一，魏博牙军的培养是以整个魏博军事力量的培养为背景进行的。第二，这些军人由魏博管内的丁壮编成，因此从一开始就具有明显的地方化倾向。第三，用以自卫的牙军以军人中的魁伟强力者充任，并且有万人之多。 第四，牙军为田承嗣的新创，它主要以集体性质的牙“兵”方式对作为节帅的田氏负责。<div style="padding-bottom:1em;"></div>很长时间来，学者对魏博牙军的关注集中在牙军的性质、产生模式，以及它的作用，尤其是它对魏博发展的影响上面， 但恰恰忽略了田承嗣何以要发展牙军这一更为本质的问题。提出并解决这一问题的是渡边孝。他将魏博牙军创立的原委置于田承嗣发展魏博整体军事力量的背景下来进行考察。他指出，和成德、幽州相比，安史之乱中一直在河南前线作战，甚至在叛乱结束前不久还与唐廷在莫州对峙的田承嗣，在受封魏博节帅之初其手下将士已损耗颇多。并且，与河南中、北部相比，魏博所在的河南南部在乱中一直是朝叛对峙的主战场。因此，面对不利的环境和形势，在安史之乱结束后创立强力藩军，对于颇有野心和强悍的田承嗣来说，就是其任帅之初的第一要务。 尤其是当乱后，两河藩镇普遍发展自身实力，田氏“修缮甲兵”的举措更不难理解。<div style="padding-bottom:1em;"></div>渡边孝提供了将魏博与成德初期的军事发展进行比较研究的良好视角。实际上，田承嗣的大规模征发当地丁壮，籍以为兵，并在此基础上选拔骁健者为牙军，与其说是一种刻意追求创获的积极举措，倒还不如说他实在是没有李宝臣那样好的基础。并且，魏博的环境尤其是田氏的身份，看来也无法像李宝臣那样吸引太多的安史旧将，尤其是高级军将。正如渡边孝说的，李宝臣也并非没有吸纳当地民众充实成德军的举措，比如他也“招集亡命之徒，缮阅兵仗” ，但这只是宝臣补强成德的一种次要手段。并且，他招收的只是农户、良家之外的“亡命之徒”。需要通过“计户口”而进行的大规模征役对成德而言是不需要的，因为成德早已拥有安史以来为数众多的旧将部众作为其军队基础。因此，与成德相比，以当地人为兵源主体的魏博军队从一开始就具有很强的地域依附性。 另一个与成德不同的地方就在于，正如田承嗣自己说的，成德的军事特长是精骑，而魏博的特色则是步兵。<div style="padding-bottom:1em;"></div>史料称田承嗣在数年之内“练卒十万”可能略有夸大，但通过田氏的发展，魏博军事实力大增则是无须置疑的事实，这也是大历十年田承嗣得以盗据相卫的军事资本。而在此役后，田氏的实力又得到发展，其不但掠相卫之“精兵良马，悉归魏州” ，而且虽受邻镇攻击，魏博之德、沧、瀛三州分别为淄青、成德、幽州三镇所取，但军事与经济地位高于前者的相、卫、洺三州则为田氏成功虏获。到大历晚期，田承嗣已据有“魏、博、相、卫、洺、贝、澶七州” （见图27），实力已足堪与宝臣等人比肩。建中二年初，即位伊始的德宗以洪经纶为黜陟使，巡视新任节帅田悦所在的魏博镇，史称：<div style="padding-bottom:1em;"></div>〔经纶〕不晓时务，闻悦军七万人，符下，罢其四万，令还农。悦阳顺命，如符罢之。既而集应罢者，激怒之曰：“汝曹久在军中，有父母妻子，今一旦为黜陟使所罢，将何资以自衣食乎！”众大哭。悦乃出家财以赐之，使各还部伍。于是军士皆德悦而怨朝廷。 <div style="padding-bottom:1em;"></div>经过十几年的努力，来源当地农户的魏博士卒已经成为彻底的雇佣兵，从军已经成为这些职业军人养活自身及父母妻子的唯一途径。当然我相信，作为魏博军中最为精锐的牙军，这一点同样适用在他们身上。<div style="padding-bottom:1em;"></div>（二）牙军的蛰伏<div style="padding-bottom:1em;"></div>有关魏博牙军的组织情况及性格特色，《旧唐书•罗[绍]威传》中的这段回溯性描述提供了一个大致的轮廓：<div style="padding-bottom:1em;"></div>魏之牙中军者，自至德中，田承嗣盗据相、魏、澶、博、卫、贝等六州，召募军中子弟置之部下，遂以为号。皆丰给厚赐，不胜骄宠。年代浸远，父子相袭，亲党胶固。其凶戾者，强买豪夺，逾法犯令，长吏不能禁。变易主帅，有同儿戏，如史宪诚、何进滔、韩君雄、乐彦祯，皆为其所立。优奖小不如意，则举族被害。<div style="padding-bottom:1em;"></div>魏博牙军原是以征募当地农民而形成的亲卫军，不过其随后很快就转化为以“丰给厚赐”为利益主旨的雇佣兵集团。 地域意识强烈、“父子世袭，姻党盘互”是魏博牙军的主要特点。魏博牙军在唐代历史上最为著名的凶戾事例就是上述记载说的“变易主帅，有同儿戏”。而田承嗣时代后的魏博动乱几乎都牵涉到主帅的变易。正因为如此，牙军一直被视为魏博动乱的根源。<div style="padding-bottom:1em;"></div>但堀敏一先生很早便指出了，上述史料“所举变易主帅事例的史宪诚、何进滔、韩君雄、乐彦祯等都是后半期的节度使，这是值得注意的。当仔细观察这些事实时，就可发现魏博节度使和兵士的关系在初期和后期有很大的不同” 。<div style="padding-bottom:1em;"></div>堀敏一先生认为，魏博前期的藩帅位置一直由田氏一族所占有。前期藩帅交替的主导权，大体上在节度使本人、亲属和他的左右心腹人手里。但到田弘正时代后，主导权开始为兵士方面所掌握，从而可以主动地进行废立。 如此来说的话，魏博牙军似乎并不像我们通常认为的那样，从其被田承嗣创立之初就主导着魏博的局势。<div style="padding-bottom:1em;"></div>正因为如此，我们有必要先来谈一下前期主导魏博局势的究竟是哪些力量。从魏博前期节帅的更替来看，二代节帅田悦由田承嗣指定，并使诸子佐之。兴元元年（784），田悦为承嗣子田绪所杀，但田绪“惧众不附，奔出北门。邢曹俊、孟希祐等领徒数百追及之。遥呼之曰：‘节度使须郎君为之，他人固不可也。’乃以绪归衙，推为留后。”田绪因此成为了魏博的三代节帅。田绪尚代宗女嘉诚公主，嘉诚无子，以田绪幼子田季安为己子。田绪卒时，“季安年才十五，军人推为留后”。季安子怀谏，其母为曾经的摄洺州刺史、后在节帅李抱真死后率兵民投奔田绪的前泽潞大将元谊之女。史称：“及季安卒，元氏召诸将欲立怀谏，众皆唯唯。” 因此总的来看，虽然田氏的节帅继任也不稳定，但将领在对节帅的更替方面都发挥了举足轻重的作用。 实际上，田氏时代魏博节帅的即位模式与成德的节帅继任是很相像的。 在两镇节帅的更替中，一旦出现继任者年岁较幼、资历较浅的情况，将领都在其中发挥着主导性的作用。<div style="padding-bottom:1em;"></div>将领对魏博初期政局的影响不仅体现在田悦时代之后的藩帅继任上，在田承嗣、田悦这两个“魏博势力的确立和发展的时代” 中，其意义更为重大。以大历十年田承嗣盗据其邻镇相卫（昭义），代宗诏令两河藩镇对其进行讨伐一事来说，<div style="padding-bottom:1em;"></div>五月，乙未，承嗣将霍荣国以磁州降。丁未，〔淄青〕李正己攻德州，拔之。〔淮西〕李忠臣统永平、河阳、怀、泽步骑四万进攻卫州。六月，辛未，田承嗣遣其将裴志清等攻冀州，志清以其众降〔成德〕李宝臣。甲戌，承嗣自将围冀州，宝臣使高阳军使张孝忠将精骑四千御之，宝臣大军继至；承嗣烧辎重而遁……田承嗣以诸道兵四合，部将多叛而惧，秋，八月，遣使奉表，请束身归朝……己丑，田承嗣遣其将卢子期寇磁州……〔十月，〕卢子期攻磁州，城几陷；李宝臣与昭义留后李承昭共救之，大破子期于清水，擒子期至京师；斩之。河南诸将又大破田悦于陈留；田承嗣惧……十一月，丁酉，田承嗣将吴希光以瀛州降……田承嗣请入朝，李正己屡为之上表，乞许其自新……〔大历十一年〕二月，庚辰，田承嗣复遣使上表，请入朝。<div style="padding-bottom:1em;"></div>在田承嗣的两次忧惧请降中，其手下将领都扮演了重要角色。前次是霍荣国与昭义降将裴志清等部将的叛离。《新唐书•田承嗣传》更称：“承嗣列将往往携阻，杀数十人乃定。”至于后一次，除了大将卢子期的被擒外，瀛州守将吴希光的降唐对于田承嗣次月的“再请入朝”也有关键影响。在建中二年，谷从政劝其甥李惟岳勿与唐廷对抗，接受德宗诏命入朝时就说过以下这番话：<div style="padding-bottom:1em;"></div>昔田承嗣从安、史父子同反，身经百战，凶悍闻于天下，违诏举兵，自谓无敌。及卢子期就擒，吴希光归国，承嗣指天垂泣，身无所措。赖先相公（指李宝臣）按兵不进，且为之祈请，先帝宽仁，赦而不诛，不然，田氏岂有种乎！ <div style="padding-bottom:1em;"></div>田承嗣时代的这种将领在魏博军政结构中发挥重要作用的局面，也为此后的田悦时代所继承。这从“四镇之乱”初，田悦与手下将领的关系中可以看得很明显。史称田悦以邢曹俊、孟希祐、李长春、符璘、康愔为爪牙：<div style="padding-bottom:1em;"></div>会幽州朱滔等奉诏讨惟岳，悦乃遣孟希祐以兵五千助惟岳；别遣康愔以兵八千攻邢州；杨朝光以兵五千壁卢疃，绝昭义饷道。悦自将兵数万继进……〔河东节度使马〕燧乃自壶关鼓而东，破卢疃，战双冈，禽贼大将卢子昌而杀朝光，悦遁保洹水。 <div style="padding-bottom:1em;"></div>推测此处的卢子昌就是田承嗣时代大将卢子期的同族兄弟，而被杀的杨朝光可能与当年攻击相卫的大将杨光朝为同一人。史又称：<div style="padding-bottom:1em;"></div>贝州刺史邢曹俊，田承嗣旧将也，老而有谋，悦宠信牙官扈崿而疏之。及攻临洺（洺州属县，时属唐），召曹俊问计……诸将恶其异己，共毁之，悦不用其策。 <div style="padding-bottom:1em;"></div>〔其后田悦洹水大败，〕收余兵千余走魏州……悦夜至南郭，大将李长春闭关不内，以俟官军，久之，天且明，长春乃开门纳之。悦杀长春，婴城拒守。城中士卒不满数千，死者亲戚，号哭满街。悦忧惧，乃持佩刀，乘马立府门外，悉集军民，流涕言曰：“悦不肖，蒙淄青、成德二丈人大恩，不量其力，辄拒朝命，丧败至此，使士大夫肝脑涂地，皆悦之罪也。悦有老母，不能自杀，愿诸公以此刀断悦首，提出城降马仆射（即马燧），自取富贵，无为与悦俱死也！”因从马上自投地。将士争前抱持悦曰：“尚书举兵徇义，非私己也。一胜一负，兵家之常。某辈累世受恩，何忍闻此！愿奉尚书一战，不胜则以死继之。”悦曰：“诸公不以悦丧败而弃之，悦虽死，敢忘厚意于地下！”乃与诸将各断发，约为兄弟，誓同生死。悉出府库所有及敛富民之财，得百余万，以赏士卒，众心始定。复召贝州刺史刑曹俊，使之整部伍，缮守备，军势复振。 <div style="padding-bottom:1em;"></div>从田悦诛杀降唐不成的魏州守将李长春后向将士所说的一番话语，以及此后与诸将“断发为誓、约为兄弟”等举措来看，取信于手下将领看来还是田悦维持其统治的一项根本策略。当然，在其上述言行过后，魏博的大将李再春父子、符令奇父子，以及其从兄田昂、王光进等人还是投降了唐廷。 幸好，靠着邢曹俊的“整军完垒”，魏博士气复振。而此邢曹俊者，正是上文提及的，在田悦死后与孟希祐等追还田绪，使其顺利继承帅位的魏博老将。<div style="padding-bottom:1em;"></div>所以我认为，在田承嗣、田悦时代，魏博其实和成德一样，也是一个以将校集团为中心的政权。尽管田承嗣的广征士卒、培植牙军，是很不同于其他两河藩帅的一项举措，但是同样作为安史旧部的藩镇，魏博初期的军事结构依然延续了传统的模式，即将领的主导地位此时并没有被改变。田承嗣手下也拥有实力大将和旧有部众，尽管规模不及李宝臣等人。田氏也努力招纳安史余部和蕃族将领。当大历十年田承嗣成功吞并相卫后，就又有一批相卫将卒被吸纳进魏博，其中就包括相卫的高级将领、安史旧将符令奇、符璘父子。 并且，田氏同成德的李氏父子一样，也对位高权重的将领心怀芥蒂，甚至不惜杀戮。史称田季安时，其因衙内兵马使田弘正“人情归附，乃出为临清镇将，欲捃摭其过害之。弘正假以风痹请告，灸灼满身，季安谓其无能为” 。后来元稹在为田弘正所作的墓志及德政碑中亦说，弘正之前，“魏之法虐切疑忌，诸将以才多死者” 。又称：“先是诸将之外有权者，莫不拘劫妻子以为固；四方之来聘问者，莫不防碍出入以为密。士吏工贾，限其往来，人多惧愁，稀复会聚，至是（指弘正任帅后）皆旷然矣。” <div style="padding-bottom:1em;"></div>因此，或许正如两《唐书•田承嗣传》说的，田承嗣创立牙军的用意，最初可能主要只是为了“自卫”。牙军不仅尚未对魏博早期的政局产生太大的影响，而且田氏伯侄似乎也没有指望牙军能成为魏博对外作战的中坚力量。至于牙军在此后能演变成如此令人生畏的力量，也许真的是其创立者田承嗣所始料未及的。<div style="padding-bottom:1em;"></div>（三）牙军的主导<div style="padding-bottom:1em;"></div>魏博藩帅更替的主导权开始为牙军方面所掌握是从田弘正时代开始的。自田弘正之后，魏博节帅史宪诚、何进滔、韩允忠（韩君雄）、乐彦祯（乐行达）、赵文㺹、罗弘信皆为牙军拥立。而史宪诚、何全皞、韩简 、乐彦祯、赵文㺹亦都因不为牙军所容而被杀。牙军作为一个以魏州兵士为主体，并代表后者意志的军士集团，虽然在名义上处于节帅、将领、兵士三者的最底层，但实际上却已成为了魏博政局的主导力量。<div style="padding-bottom:1em;"></div>关于牙军在魏博中后期频繁发动变乱、更换节帅的原因，最重要的一点就是节帅直接削减了他们的经济所得，或者因与唐廷相结而消耗了魏博府库的财源。由于军士的“丰给厚赐”现在无法得到满足，于是多起牙军叛乱便应运而生。 另一点则是作为一支主要由魏博当地人组成，并且随着时间的增累，逐渐发展成“父子相袭、亲党胶固”的军队，虽然为保卫本土，或维护本镇利益常常表现出很强的战斗力。实际上，在田弘正时代后，牙军作为魏博对外征战中核心部队的地位已经奠定下来，尤其到晚期，这一点更加明显。 但长时间的出境作战，却又是他们极不乐意的。这往往也是促成牙军动乱的另一个诱因。总之，“嗜利性”与“地域依附性”构成了魏博中后期牙军的两个重要特征。<div style="padding-bottom:1em;"></div>不过仔细观察一下魏博中后期的节帅人选与节帅更替事件，中期与后期仍有差异。我们先来说一下中期的情况。首先，田弘正、史宪诚、何进滔都是以诸如“牙内都知兵马使”这样高级的牙军将领身份被牙兵拥立为节帅的。其次，田弘正是田氏家族的成员，而史宪诚、何进滔则可能都是来自于灵州的粟特人。史氏家族迁入魏博的时间当在安史之乱后，而何进滔的“客寄于魏”则更可能晚到元和年间。 换言之，他们的家族都不是出自安史集团，也并非田承嗣旧部。再次，据森部丰先生的研究，尽管《何弘敬墓志》中所谓其六代祖令思因与乔叔望、执失思力争功，为叔望所诬奏，于是“并部曲八百人迁于魏相贝三州” 的记载并不可靠，但此记载仍可能反映了这样一个事实，即何进滔来到魏博时，确是率领了相当数量的粟特人一同前来的，这从其娶康氏、其子弘敬娶安氏也可看出。也就是说，何进滔能成为魏博节帅，很可能是得到了一个粟特集团的支持。 这一点也许同样能适用在史宪诚的身上。因为就在史、何担任魏博节帅的时期，在他们身边就确有米文辩这样的粟特胡人出任魏博的高级军将。 <div style="padding-bottom:1em;"></div>不过不难看出，这样一个占据魏博统治上层的粟特集团与已掌握魏博主导权的牙军集团，其特质少有相似之处。最大的区别就在于前者是魏博之客，而后者则是魏博的土著。也许正是为了弥补这种差距，何氏后人在何弘敬的墓志中会刻意伪造他们在贞观时期即已迁居魏、相、贝的事实。其用意应该正如荣新江先生说的，是为了“要强调何氏在河北根基深远”。 并且，到何弘敬的时期，其已经放弃继续以粟特人为联姻对象的政策，而是为其子何全皞娶故卫州刺史徐迺文之女为妇。 何氏此举的初衷也许是为了进一步笼络魏博当地的势力，并且使自己的家族能够尽快摆脱“客”的身份而融入河北。但其导致的结果，却可能正使自己在最后的危难关头丧失了粟特人的支持。 咸通十一年（870），何全皞因“骄暴好杀、又减将士衣粮” 为牙军逐杀。而由粟特节帅统治魏博半个多世纪的历史也就此终结。<div style="padding-bottom:1em;"></div>（四）牙军的兴灭<div style="padding-bottom:1em;"></div>当帝国进入到动乱的晚唐时期，魏博也同样迎来了它最为动荡的最后四十余年历史。和中期相比，这一时期的节帅更替更为频繁。被推举出来的节帅也全部来自魏州当地。并且到最后，由牙军推立的节帅已经不再具备牙军右职的身份。堀敏一先生将其概括为，此一时期的魏博节帅是真正“从牙军伙伴中出身的藩帅”，并指出，这一特点在最后一位被牙军拥立的节帅罗弘信的事迹中表现得最为突出 ：<div style="padding-bottom:1em;"></div>先是，有邻人密谓弘信曰：“某尝夜遇一白须翁，相告云，君当为土地主。如是者再三。”弘信窃异之。及废〔赵〕文㺹，军人聚呼曰：“孰愿为节度使者？”弘信即应之曰：“白须翁早以命我。”众乃环而视之，曰：“可也。”由是立之。 <div style="padding-bottom:1em;"></div>两《唐书•罗弘信传》等都称罗弘信为魏州贵乡（魏州治所）人，不过由近来学者据《唐赠工部尚书罗让神道碑》的分析来看，罗氏祖上与田承嗣同出平州卢龙军，并且在魏博前期地位显赫，因此很可能是本隶安禄山麾下，并随安史叛军南下，乱后随田承嗣降唐，定居魏博的将领。罗氏既来自平州，其族属很可能是蕃族，但在碑文中已被粉饰为长沙罗氏。值得注意的是，罗氏家族虽世仕魏博，但或与魏博数次节帅更替的变乱相关，其家族在魏博军中的地位却每况愈下。到罗弘信被牙军推立前，其已只是一名负责牧圉的军中小校，地位已介于兵士与军将之间。 <div style="padding-bottom:1em;"></div>在愈益接近魏博后期的时代，牙军推选出来的魏博藩帅也与牙军的特性愈益接近。胡人、高级将领、非本地人已经不再成为牙军拥立的对象，这倒不是说牙军在推立节帅时有着明确的身份歧视；相反，倒还不如说，此时的牙军已经全然不顾他们所推选的节帅在藩镇中的身份地位，他们唯独关心的是谁能够真正保障他们的利益。这就是罗弘信事件所反映出来的最为本质的问题。而另一个问题则是，由于魏博政局的主导权现已彻底为牙军支配，因此到了这个时候，节帅们所关心的，已经不再是诸如与唐廷、与邻镇的关系，也不是如何利用魏博的军事优势跻身到唐末的争霸行列，而唯有如何控制牙军这一问题。 <div style="padding-bottom:1em;"></div>乐彦祯父子采取的措施是“召亡命之徒五百余辈，出入卧内，号为‘子将’，委以腹心”，意欲通过培植更为亲信可靠的私兵取代牙兵。但此举导致的后果却是“军人籍籍，各有异议”。以至于招募“子将”的乐彦祯之子乐从训不得不“易服遁出”。不过此后乐从训仍被乐彦祯任命为“六州都指挥使。未几，又兼相州刺史。到任之后，般辇军器，取索钱帛，使人来往，交午涂路，军府疑贰” 。正如有学者所指出的，乐彦祯外放乐从训固然是与牙军的一种妥协，但就其任命后者担任“六州都指挥使”一职来看，仍是试图令后者掌握除牙军之外的镇军、州军的兵权，从而对魏州城内的牙军形成震慑。但这一举措不仅再次激化了双方的矛盾，使得乐彦祯在牙军的逼迫下退位为僧，而且还引发了乐从训与会府之间的大规模军事冲突。<div style="padding-bottom:1em;"></div>此次冲突中最值得注意的地方，除了上述罗弘信的登台外，更堪注意的则是河南的朱温作为先后支持乐从训与罗弘信的力量开始介入魏博的内乱之中，并成为左右胜败的关键因素。 朱温势力的再次介入魏博，是到罗弘信之子罗绍威担任魏博节帅之时。而这一次，则是帮助罗绍威彻底铲除魏博牙军。天佑三年（906）正月，与罗绍威联姻的朱温以助女之丧为名入魏，<div style="padding-bottom:1em;"></div>庚午，绍威潜遣人入库断弓弦、甲襻。是夕，绍威帅其奴客数百，与〔朱温将马〕嗣勋合击牙军。牙军欲战而弓甲皆不可用，遂阖营殪之，凡八千家，婴孺无遗。<div style="padding-bottom:1em;"></div>受城内牙军被杀的影响，散居魏博六州之内的牙军和外镇军也纷纷起兵独立，不再倾心罗氏。数月后，魏博境内的军事骚乱被朱温平定，但史称：<div style="padding-bottom:1em;"></div>〔朱温〕留魏半岁，罗绍威供亿，所杀牛羊豕近七十万，资粮称是，所赂遗又近百万，比去，蓄积为之一空。绍威虽去其逼，而魏兵自是衰弱。绍威悔之，谓人曰：“合六州四十三县铁，不能为此错也！” <div style="padding-bottom:1em;"></div>尽管以牙军为支柱的魏博镇实力雄厚，但其“嗜利性”与“地域依附性”使其满足于既得的经济利益和政治地位，缺乏与唐末群雄并争天下的动力。而倚靠着牙军之力维持其半独立体制到唐末的魏博，最终也因着牙军的覆灭，在新兴的朱温面前变得毫无还手之力了。后梁乾化二年（912），朱温大将杨师厚趁前者之丧进据魏州，魏博末代节帅罗周翰被迫离镇，历时149年的唐代魏博政权正式宣告结束。<div style="padding-bottom:1em;"></div>（五）成德与魏博的意义<div style="padding-bottom:1em;"></div>渡边孝先生是第一位将成德与魏博的权力构造进行系统比较的学者。在他看来，成德军事结构的主导权在“大将”，而魏博则是作为“军士”整体的牙军集团。承袭安史叛军以来的传统，成德的宿将人数多、威望重，世袭与彼此间的联姻关系是其巩固势力的重要手段。与之相对，成德的兵士层却可能不断经历着新陈代谢。因此，成德是一个“将”与“兵”的地位悬殊的社会。或可说，成德的历任节帅本身也是将领伙伴集团中的一员。魏博的牙军本是以征募当地农民而形成的亲卫军，不过，其随后很快就转化为以“丰给厚赐”为利益主旨的雇佣兵集团。地域意识强烈、“父子世袭，姻党盘互”是魏博牙军的主要特点。而藩帅拥立与魏博自立的主体就是这样一个兵士集团。<div style="padding-bottom:1em;"></div>上文有关魏博的研究，对渡边孝先生的观点提出了一个小小的修正。首先，我赞同渡边氏关于成德的论述。成德的军事构造从李宝臣时代就已奠定，并且，这种构造直接承袭自安史集团，又终成德之世始终没有改变。不过在我看来，魏博的军事构造却并不是从一开始就形成以牙军为主导的格局的。尽管田承嗣的创立牙军为此后后者的崛起奠定了基础，但这只是魏博军事基础与传统不如成德的一个反映，这使得田承嗣有必要、也有可能发展直属于藩帅的亲卫部队，而创立牙军最初的目的也许只是为了“自卫”。至于魏博军事的基本构造，其实在最初和成德一样，因为魏博毕竟也是由安史降将与安史旧部为基础建立的藩镇。这就是为什么在元和七年（812），宪宗在田季安死后意欲经营魏博时李绛所说的：<div style="padding-bottom:1em;"></div>凡河南河北叛涣之地，事体大同，惧部下诸将有权，恐得便图己，各令均管兵马，不令偏在一人，使力敌权均，为变不得。若广与诸将计会，则必谋泄不同；若一将为变，自然兵少不济，以此相制，先动不得，此是贼中之制置，于事为便。加以酷诛重购，故无敢发意者。 <div style="padding-bottom:1em;"></div>因为在元和七年左右这样一个依旧由田氏统治的时代，魏博的权力结构还没有发生质的变化。魏博牙军势力的抬头，并逐渐占据主导权，是从田弘正时代开始的。田弘正到田布，可能是一个过渡的时期。在随后的史氏和何氏的时代，魏博的将领，尤其是粟特集团的将领看来仍旧有一定势力。不过粟特将领得以跻身魏博上层，最初也可能正是借着魏博发展牙军的契机，以及旧将的退出。但何全皞之后，将领层就再也无法对魏博政局造成影响了，牙军开始完全把持魏博。而到了这一时期，节帅就不得不通过设置更为亲信的私兵作为新的“自卫”部队与驻守牙城的牙军对峙，甚至不惜动用外镇或州兵的力量来威慑和挑战作为魏博征战核心的牙军。也就是说，魏博牙军的势力是随着时间的发展不断壮大的，而与牙军势力发展相对，魏博将领的影响力却在日益下降。其导致的结果便是魏博节帅的人选由诸将拥护的田氏一族，变为由牙军拥立的田氏大将，再到牙军推选出来的粟特将领，然后是魏博本地的军校，最后则是与兵士身份所差无几、世仕魏州的罗弘信。魏博藩帅更替过程中所显示出来的藩帅身份差异，正是将领地位下降与牙军势力崛起最好的表征。<div style="padding-bottom:1em;"></div>那么，成德与魏博的这种权力构造差异的意义究竟何在呢？在我看来，成德与魏博正代表了安史之乱后，以两河藩镇为代表的藩镇军事构造的两种模式。第一种以河北的成德、河南的淄青、淮西为代表。这三个藩镇共同的特点都在于，军将集团构成了三镇权力结构的中枢。有关淄青的情况，史料言：<div style="padding-bottom:1em;"></div>自正己至师道，窃有郓、曹等十二州，六十年矣。惧众不附己，皆用严法制之。大将持兵镇于外者，皆质其妻子；或谋归款于朝，事泄，其家无少长皆杀之。以故能劫其众，父子兄弟相传焉。 <div style="padding-bottom:1em;"></div>淄青最终因持兵在外的大将刘悟的倒戈，结束了李氏祖孙四世近六十年的统治， 也就此被一分为三，彻底结束了其半割据的历史。淄青的情况可以说与成德最为相似，所以在淄青被宪宗平定后的次年，当成德节帅王承宗死后，其弟承元执意不接受诸将的拥戴、一心离镇时，就说过下述一番话：<div style="padding-bottom:1em;"></div>昔李师道之未败也，朝廷尝赦其罪，师道欲行，诸将固留之。其后杀师道者亦诸将也。诸将勿使承元为师道，则幸矣。<div style="padding-bottom:1em;"></div>与淄青的藩帅之位由李氏一族长期把持不同，淮西节帅在半个多世纪里则更迭数姓。但是，李忠臣之后的历任淮西节帅——李希烈、陈仙奇、吴少诚、吴少阳、吴元济均为当镇大将；而且有趣的是，他们与刘悟一样，均非淮西当地人；并且，也都是主动夺取节帅之位的。因此与成德、淄青相似，淮西其实也是一个由将领主导当镇军政大权的地方。史称宪宗发兵讨伐吴元济时，<div style="padding-bottom:1em;"></div>元济不能有所指授，诸将赵昌、凌朝江、董重质、李祐、李宪、王览、赵晔、王仁清等以便宜人自为战，抗王师，有少诚、少阳旧风。<div style="padding-bottom:1em;"></div>又称此后元济意欲降唐，“为群贼所制，不能自拔” 。可见这种情况与淄青很相像。<div style="padding-bottom:1em;"></div>淄青、淮西与成德的另一个共同特征则是，三镇都相当重视骑兵，并以骑兵为当镇精锐。史称李正己“货市渤海名马，岁岁不绝” 。淮西“少马，而广畜骡，乘之教战，谓之骡子军，尤称勇悍” 。<div style="padding-bottom:1em;"></div>成德、淄青、淮西这种“权在将领”而又重视骑兵的相仿军事结构，在我看来，都是因为此三镇是由原安禄山的河朔部众为基础组建的缘故。成德集中了乱后最为精锐与数量众多的安史余部，而淄青和淮西则是由来自营州的平卢军军人为主干建立的。换言之，它们在继承这些部众的同时，也一并继承了原安史集团的军事统治方式，即分权于将领，由将领统辖各自的部众。至于对骑兵的重视，一则也是继承了河北边地的传统。并且，骑兵这种军种是比较适合以将领分部统领的方式来实行管理的。如此来看的话，我们不妨把这三镇称为“安史旧部型藩镇”。<div style="padding-bottom:1em;"></div>但是这类以将领层为权力主导的藩镇也有一个很严重的问题，就是由于权力分散，容易导致分裂。并且，将领构成了对节帅最大的一个威胁。所以李绛说“若常得严明主帅能制诸将之死命者以临之，则粗能自固矣”，否则，则可能会有“列将起代主帅” 之祸。成德的分裂、淄青的灭亡、淮西的困境其实都得因于此。而对唐廷来说，笼络、离间或打击这些藩镇的将领，则是其取得对这些藩镇战争主导权的一种可行手段。其实我推测，另外三个以原安禄山部众组建的两河藩镇——相卫、汴宋和滑亳可能也属于这种类型。只是因为它们在代宗大历年间就已经瓦解或转型，使得我们对它们的权力构造由于无法获得更多的史料信息而无从详知。并且由于淄青和淮西在元和时代因宪宗的打击，以及其后一系列“去平卢化”的措施，实际上已经宣告灭亡，所以位于河北中部这一相对安全的地缘位置，且实力颇强的成德镇就成了这类藩镇中唯一的幸存者。而从成德本身的发展来看，将领层的强大曾是其傲视两河藩镇的军事资本，但此后又是将其拖入分裂的危机根源。但最终，成德却在保持这一传统的前提下实现了两河藩镇中最为稳定和长久的统治。<div style="padding-bottom:1em;"></div>接下来我要来谈谈魏博的意义。和成德一样，我认为魏博也代表了一类藩镇，这类与魏博相似的藩镇还有介于河东、河北间的泽潞，以及河南的宣武与武宁。这四个藩镇的共同特点都在于牙军势力的强大。并且，它们就是赵翼在谈到唐代“骄兵”问题时所列举的四个藩镇。 换言之，唐代“骄兵”问题以此四者最为突出。<div style="padding-bottom:1em;"></div>在第一章中，我对宣武和武宁的“骄兵”问题已有过论述，并指出，军队地方化和地方军人集团的形成是“骄兵”产生的根源。不过关于地方军人集团何以会在宣武和武宁，而不在淄青、淮西这样的平卢系藩镇中产生，前文尚未作进一步的展开。这里我想指出的是，宣武和武宁都是平卢系藩镇解体后的新兴藩镇，也就是说，“权在将领”的传统在这些藩镇中其实并不突出。正因为如此，刘玄佐和王智兴可以比较自由地扩充和培养兵士层的力量，尤其是可以发展直属于节帅本人的最为亲信的那一批牙军。这一点同样适用在魏博和泽潞身上。堀敏一先生在讨论牙军的产生模式时，就专门将泽潞的情况与魏博进行了比较。尽管在泽潞的初期军事发展中，并没有诞生像魏博那样明显的牙军集团，但显然，堀氏已经敏锐地注意到田承嗣与李抱真征募当地农民进行“团练”，随后将其纳入作为职业军人的“官健”的过程是极为相似的。 魏博大力发展包括牙军在内的军事力量，外在的一个动力就是其在两河藩镇中实力偏弱。至于泽潞，更是因为作为身处地瘠民贫的太行山区的新兴藩镇，建立之初就面临着经济及军事力量虚弱的问题。换言之，这类藩镇多半传统势力不强，所谓“传统势力不强”，既是指其军事力量相较之前那类藩镇略显单弱，也是指将领层没有在这类藩镇中发育得特别成熟。所以，这一方面使得这些藩镇的节帅在发展其军事力量时，可以直接以扩充兵士人数为目的，不需要经过中间将领层的环节，这就是为什么以上几个藩镇可以在短时间内迅速提升军事力量的原因。另一方面，也正是因为没有将领层的干扰，藩镇节帅可以直接发展直属于本人的军队，而不用受到将领的掣肘。由于这些兵士都从当地征募，由当地人构成本镇的主要兵源，因此他们的地著意识就特别强烈，也容易形成所谓的地方军人集团。因此与上述的“安史旧部型藩镇”相比，我们或许可以称它们为“新兴的地域型藩镇”。<div style="padding-bottom:1em;"></div>由于兵士由节帅征募、直接对节帅负责，所以这样一个地方军人集团就成了这些藩镇的权力中坚。节帅培植这些兵士的初衷原是为了获得直属于自己的亲信力量，因此给予其优厚的经济待遇以及父子相袭的特权，但是，这反倒成了这些地方军人从军入伍的根本目的。于是，为了维护与巩固本集团的特权利益，他们不乐频繁作战，而一旦节帅损害了他们的利益，他们立即会倒戈以向前者，这些藩镇内部的动乱多半都由此而来。这也就是旧史所谓的“骄兵”。所以我们看到，在这些藩镇中，越是主帅的亲信部众，比如负责宿卫的那部分牙军，越容易成为搅扰政局、变易主帅的根源，也最为跋扈。以下是长庆二年有关宣武牙军的一段记述：<div style="padding-bottom:1em;"></div>李质者，汴之牙将……有诏以韩充镇汴。充未至，质权知军州事。使衙牙兵二千人，皆日给酒食，物力为之损屈。充将至，质曰：“若韩公始至，顿去二千人日膳，人情必大去；若不除之，后当无继。不可留此弊以遗吾帅。”遂处分停日膳而后迎充。<div style="padding-bottom:1em;"></div>这里的“使衙牙兵二千人”在《新唐书•韩充传》中又被称为“军中敢士二千直阁下”，是负责勤卫的亲信牙兵。关于泽潞的情况，史料亦言：<div style="padding-bottom:1em;"></div>又〔泽潞旧帅〕卢从史时，日具三百人膳以饷牙兵，〔新帅郗〕士美曰：“卒卫于牙，固职也，安得广费为私恩？”亦罢之。 <div style="padding-bottom:1em;"></div>至于最为著名的武宁“骄兵”银刀军，史料称：<div style="padding-bottom:1em;"></div>初，王智兴得徐州，召募凶豪之卒二千人，号曰银刀、雕旗、门枪、挟马等军，番宿衙城……其徒日费万计。每有宾宴，必先厌食饫酒，祁寒暑雨，卮酒盈前，然犹喧噪邀求，动谋逐帅。<div style="padding-bottom:1em;"></div>其银刀都，父子相承，每日三百人守卫，皆露刃坐于两廊夹幕下，稍不如意，相顾笑议于饮食间，一夫号呼，众卒相和。<div style="padding-bottom:1em;"></div>堀敏一先生认为，三百人可能是牙军值勤的标准人数。并且指出，武宁银刀都的这种情况，与贞元十二年（794）出任宣武军节度使的董晋在上任次日即罢去的“幕于公庭庑下，挟弓执剑以须。日出而入，前者去；日入而出，后者至。寒暑时至，则加劳赐酒肉”的宣武“腹心之士” 极为相似。 <div style="padding-bottom:1em;"></div>当然，为了控制牙军，主帅有时又不得不培植更为亲信的私兵与之对抗，比如魏博乐氏父子豢养“子将”。或者说在一般牙军之外，再发展亲卫牙军。其实上举诸例中的牙军，尤其是韩愈所说的董晋上任后罢除的宣武“腹心之士”就属于后者。 这样一来，就出现了所谓藩镇亲卫军重层化的现象。<div style="padding-bottom:1em;"></div>而与之前的“安史旧部型藩镇”相比，这类藩镇还有一个不同于前者的特点，那就是它们多半是以步兵为主干的藩镇。这一方面当然与它们所处的地理环境有关， 但另一方面也可说它们没有太多骑兵的传统。事实上，步兵是一种远较骑兵更易培养的军种，这也就是为什么这些藩镇在成立之初就能够迅速崛起的另一个原因。当然，即就牙军守卫牙城或使牙的职责而言，步兵也比骑兵更适合此职，因此在步兵型的藩镇中，牙军更为突出。<div style="padding-bottom:1em;"></div>但很明显，这类藩镇也有一个严重的问题，就是兵士对节帅的威胁。这倒不是他们想要挑战节帅的位置，而是他们要求节帅必须保证他们的既得利益。而对唐廷来说，控制这类藩镇也不是一件容易的事情，除了指望节帅能对这些骄卒实施镇压外，似乎并无太好的办法。当然，由于这几个藩镇与唐廷的关系很不相同，所以其牙军集团的具体面貌，以及最终瓦解的方式也有差异。与唐廷关系最密切的泽潞，其军事构造因合并昭义、招纳刘悟的郓州兵等前后发生过较大的变化， 而且其本身也在武宗会昌年间被唐廷分裂。至于宣武牙军和武宁银刀军则都在此后遭到过强悍主帅的打压。而处于半割据状态的魏博牙军，则是其中规模最大、存在时间最长、实力最强，也是最为跋扈的。尽管魏博牙军的成立曾是魏博迅速崛起，并且帮助节帅逐渐摆脱将领掣肘与威胁的一种有效的统治方式，但田承嗣看似成功的重构魏博军事构造，却也为魏博此后愈益频繁和剧烈的内部动乱埋下了伏笔。<div style="padding-bottom:1em;"></div>不过就历史的角度来说，魏博的这种权力构造相对成德而言，也许更具有时代的意义，因为我们已在其中，隐约看到了未来北宋军队中央化的某些特征。宋人尹源在其《叙兵》一文中说道：<div style="padding-bottom:1em;"></div>若唐之失，失于诸侯之不制，非失于外兵之强，故有骄将，罕闻有骄兵。今之失，失于将太轻，而外兵不足以应敌，内兵鲜得其用，故有骄兵，不闻有骄将。 <div style="padding-bottom:1em;"></div>尹源的论说纵然未必完全正确，因为“骄兵”在唐代其实已经存在，但他的说法或许正提醒我们，在宋代已成为一种普遍情形的“骄兵”，在唐代，其实还只是特定时空范围内的一种军事现象。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36036317/#comments">回应</a>&nbsp;&nbsp;
+                  2015-09-02 18:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36028422">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/redbreast/"><img src="https://img3.doubanio.com/icon/u29449961-4.jpg" alt="时间与玫瑰" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36028422/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36028422/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/redbreast/" class=" " title="时间与玫瑰">时间与玫瑰</a>
+                (岁寒，然后知松柏之后凋也)
+              
+            </p>
+            <div class="reading-note" data-cid="36028422">
+              <div class="short">
+                
+                  <span class="">序
+
+周振鹤
+
+在中国的历史长河中，统一与分裂的现象是极其引人注目的政治过程。连说书人的口头语也是“话说天下大势，分久必合，合久必分”。但是如果我们认真地将“分裂”的意义作一剖析，则会发现，中国历史上由一个统一的政权分裂为两个或更多政权的例子，其实只有汉末与唐末。换句话说，统一政权的分裂只出现过两度，一而再，并没有再而三。许多人通常也视为分裂时期的辽宋对峙与金宋对峙其实并非由一个政权分裂而来，而是...</span>
+                <p class="pl">
+                  <span class="">2015-09-01 17:18</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                序<div style="padding-bottom:1em;"></div>周振鹤<div style="padding-bottom:1em;"></div>在中国的历史长河中，统一与分裂的现象是极其引人注目的政治过程。连说书人的口头语也是“话说天下大势，分久必合，合久必分”。但是如果我们认真地将“分裂”的意义作一剖析，则会发现，中国历史上由一个统一的政权分裂为两个或更多政权的例子，其实只有汉末与唐末。换句话说，统一政权的分裂只出现过两度，一而再，并没有再而三。许多人通常也视为分裂时期的辽宋对峙与金宋对峙其实并非由一个政权分裂而来，而是不同政权之间的并立。辽的前身契丹政权比北宋还早出现，改国号为辽也早于北宋开国。金则是击败了辽政权才与南宋并存。至于秦统一以前的春秋战国时期也并不是分裂时期，而应视为未统一阶段。西周并非中央集权制国家，而是封建式国家，封邦建国制度本身的形态就是各封国之间的并立状态。<div style="padding-bottom:1em;"></div>进一步言之，汉末与唐末所引起的分裂还有程度的差异，汉末引起的分裂时期很长，若从魏文帝黄初元年算起，直至隋灭陈，前后有390年。如果自汉献帝兴平二年孙策割据江东算起，则更长。而唐末的分裂从后梁太祖起算，到宋太宗灭北汉，不过73年。这样看来，有一个问题就值得我们思考，为何中国历史上的中央集权制国家引起的分裂次数很少，且分裂时间趋短？这个问题很大，不容易一下子说明白，但有一点是明确的，那就是中央集权制国家在确立了这一制度以后，不断随着历史的进展而有技术上的改进，使得中央集权的程度越来越高，分裂的可能性越来越小。即使一旦分裂，也会比较快地走向重新统一。黑格尔以为中国没有历史，有的只是王朝的更迭。但他不知道中国历史的机制是渐变而非突变，如果从更长远以及更大范围来看，则中国历史上的制度演变是有损有益，也就是对前代制度有继承的一面，也有改革的一面。继承是保持连贯性，改革则是为了适应新形势。所以孔夫子在回答子张“十世可知耶？”的问题时，就答道“殷因于夏礼，其损益可知也；周因于殷礼，其损益可知也，其或继周者，虽百世可知也”。从过去的朝代汲取历史经验与教训，对前代的制度采取有损有益的政治措施，成为中国历代政权运行的基本脉络。<div style="padding-bottom:1em;"></div>唐朝最终因为藩镇割据而分裂，但却又因藩镇的并峙均衡而维系中央政权，延续了比唐前期的完全统一时期更长的时间。这是一个颇有点奇怪的现象，这个现象正说明唐代吸取东汉分裂而亡的教训而采取的措施起了相当的作用。当然，这个作用并不完善，所以唐朝仍不免亡于分裂割据，于是后来的宋代，对于中央与地方的关系更加措意，地方权力进一步被削弱，中央集权进一步加强。于是宋以后，再未因地方分裂而引起王朝的覆亡。由于唐代后期的藩镇并立现象的两重性，一方面是唐代分裂的原因，另一方面又是维持中央政权得以不墮的因素，使得历史研究者投入许多精力对这一机制进行深入的研究。研究的关键无非在于中央、藩镇与州三方的政治关系，或讨论藩镇与州的关系，或分析州与中央的关系，或辩证中央与藩镇的关系。或综其中两方论之，或统其三方而作分析。<div style="padding-bottom:1em;"></div>其中关于中央与藩镇的关系在粗线条方面是相对明确的，一方面是河朔诸镇的割据状态，使得唐后期的统一形势成为跛脚的状态。另一方面是东南八道的忠诚与经济支持使中央政权得以运转，此外则是边缘藩镇的不即不离状态。但在中央能够控制的藩镇中，有一层最重要的关系存在于中央、藩镇与州之间。中央一直想要维持安史之乱以前直领州县的状态，而藩镇则想控制所属州县以获取本身最大的利益。唐代后期即在这种拉锯争夺的动态均衡过程中维持了一百五十年之久，远远超过中国的一些一统王朝。其实唐初的地方政治制度设计已经虑及东汉的教训，采取了许多预防措施，其大要略为以下三点：一是不设高层政区，以中央直领州级单位；一是将州一级政区的地域划小，不让其拥有过大的人力财力；三是不划定监察区，避免其转化为行政区。这一措施的最大缺陷是中央政府的管理幅度过大，难以周全，于是在唐玄宗时仍然不得不划定十五个监察区，为以后的藩镇分立种下了地域方面的基础。<div style="padding-bottom:1em;"></div>安史之乱以后，为镇压叛乱而形成的藩镇，实际上是合军区政区与监察区为一体的特殊地方机构，其与中央争权乃是自然正常的行为。所以表面上看起来，中央、藩镇与州是三层直线关系，实际上是三角关系，三者各为一角，互相“绷着”。正因为就全唐范围而言，各藩镇之间也是互相绷着，唐后期就这样绷了一个半世纪才寿终正寝。这种情况宋代统治者十分清楚，深知地方政区的两级制绝不可行，而三级制又行不得，索性就设计了一个调和的全新制度，虽设高层政区，而分其职司为三、四个部门，而且州一级政府还可直达中央，不为路一级长官所阻隔。这样的制度使北宋相对正常地运转了一百来年，又继续在南宋再运转了差不多同样的时间，更在百年之后又为明代所改进效仿。于是我们从中看到了现代所热议的唐宋变革的一个侧面样态。<div style="padding-bottom:1em;"></div>虽说唐宋之际的政治变革的基本理路已为大家所知悉，但其间的细节部分并未见得为人所熟知，而且还常常对同一史实有见仁见智的分歧。李碧妍这本《危机与重构——唐帝国及其地方诸侯》是作者多年来独立思考唐代藩镇问题的心得总结。虽说李碧妍从我读博士研究生，但一直习惯于独立思维，这本书即是她独立思考精心构思的结晶。此书集中讨论了8世纪中期至9世纪初唐代的地方政治问题，构成全书的四个章节，分别论述了政治焦点各不相同的四个区域——河南、关中、河北及江淮——在安史之乱爆发后的政治发展情形，这些论述都围绕着一个主题而展开，即唐后期中央政府是如何处理安史之乱及由此所开创的藩镇时代的地方政治危机，重新树立起朝廷的政治权力的。虽然上面我说到唐代中央与藩镇关系的粗线条是明确的，但细节却有待于深入的揭示。有别于以往的一些藩镇研究，本书作者的着力点在于将一系列被以往研究所忽略的藩镇事件，还原到一个具体的政治社会场景之中，或者说，在一个特定的时空界限内，去对与藩镇有关的各种地方政治事件进行阐释，以此来为读者展现一个富有生机，且呈现出多棱面的藩镇群体，并提供一个远比一般认识更为复杂的中晚唐地方政治面相，并在此基础上，对藩镇时代在中国历史上的意义重新给予一个具有说服力的判断。<div style="padding-bottom:1em;"></div>作者对历史细节有着特殊的敏感，并且也乐于在追索历史细节的过程中去充分发挥自己在逻辑推理方面的能力，因此阅读本书似乎有着面对推理小说的感觉。当然，作者的目的并非单纯地纠结于个别的历史细节，或只是对具体的历史事件进行有兴味的解读。本书作者的目标，显然是希望通过藩镇这一视角，去思考藩镇所处的时代的整体结构与发展方向，并且，对藩镇所在的中晚唐这样一个时代，给予一个恰切的历史定位。换言之，作者对藩镇个案的微观考察，希望最终导出的是对一个宏观时代的把握。而借由作者的这一努力，我们也可以看到她对于热议多年的“唐宋变革”的理解，是如何受到前辈学者的影响并在此基础上作出反思的。虽然在李碧妍之前，已经有过数量众多的对藩镇的研究，但我相信本书绝对不止是在这些著作中数量上的增加而已。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36028422/#comments">回应</a>&nbsp;&nbsp;
+                  2015-09-01 17:18
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37187987">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/54869212/"><img src="https://img3.doubanio.com/icon/u54869212-2.jpg" alt="青丘" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37187987/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37187987/" class="">唉，非要说这本书不参考日本先行论著也是醉了</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/54869212/" class=" " title="青丘">青丘</a>
+              
+            </p>
+            <div class="reading-note" data-cid="37187987">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/37187987/"><img src="https://img3.doubanio.com/view/page_note/small/public/p37187987-3.jpg"></a>
+                  </div>
+                  <span class="">为了避免被打脸删光自己书评区的回复简直笑死。。折腾几个小时倒腾完自己黑历史真是辛苦了喵～要不要这么此地无银三百两噗哈哈哈哈哈哈(ಡωಡ) 以下就绪论部分脚注拍照，以免未入手本书的朋友被其误导。   
+哦，对了，我不相信一个靠脚注判断作者查阅了哪些资料的人是做学问的。但是我非常相信这样一个人，一定会认为所有人都是脑子有病的——没病也要给你挑个病啊。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/37187987/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2016-02-15 16:16</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                为了避免被打脸删光自己书评区的回复简直笑死。。折腾几个小时倒腾完自己黑历史真是辛苦了喵～要不要这么此地无银三百两噗哈哈哈哈哈哈(ಡωಡ) 以下就绪论部分脚注拍照，以免未入手本书的朋友被其误导。<div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p37187987-3.jpg" alt=""><br><span class="pic-title"></span></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p37187987-2.jpg" alt=""><br><span class="pic-title"></span></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p37187987-1.jpg" alt=""><br><span class="pic-title"></span></div>
+哦，对了，我不相信一个靠脚注判断作者查阅了哪些资料的人是做学问的。但是我非常相信这样一个人，一定会认为所有人都是脑子有病的——没病也要给你挑个病啊。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37187987/#comments">1回应</a>&nbsp;&nbsp;
+                  2016-02-15 16:16
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="36028422">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/redbreast/"><img src="https://img3.doubanio.com/icon/u29449961-4.jpg" alt="时间与玫瑰" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36028422/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36028422/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/redbreast/" class=" " title="时间与玫瑰">时间与玫瑰</a>
+                (岁寒，然后知松柏之后凋也)
+              
+            </p>
+            <div class="reading-note" data-cid="36028422">
+              <div class="short">
+                
+                  <span class="">序
+
+周振鹤
+
+在中国的历史长河中，统一与分裂的现象是极其引人注目的政治过程。连说书人的口头语也是“话说天下大势，分久必合，合久必分”。但是如果我们认真地将“分裂”的意义作一剖析，则会发现，中国历史上由一个统一的政权分裂为两个或更多政权的例子，其实只有汉末与唐末。换句话说，统一政权的分裂只出现过两度，一而再，并没有再而三。许多人通常也视为分裂时期的辽宋对峙与金宋对峙其实并非由一个政权分裂而来，而是...</span>
+                <p class="pl">
+                  <span class="">2015-09-01 17:18</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                序<div style="padding-bottom:1em;"></div>周振鹤<div style="padding-bottom:1em;"></div>在中国的历史长河中，统一与分裂的现象是极其引人注目的政治过程。连说书人的口头语也是“话说天下大势，分久必合，合久必分”。但是如果我们认真地将“分裂”的意义作一剖析，则会发现，中国历史上由一个统一的政权分裂为两个或更多政权的例子，其实只有汉末与唐末。换句话说，统一政权的分裂只出现过两度，一而再，并没有再而三。许多人通常也视为分裂时期的辽宋对峙与金宋对峙其实并非由一个政权分裂而来，而是不同政权之间的并立。辽的前身契丹政权比北宋还早出现，改国号为辽也早于北宋开国。金则是击败了辽政权才与南宋并存。至于秦统一以前的春秋战国时期也并不是分裂时期，而应视为未统一阶段。西周并非中央集权制国家，而是封建式国家，封邦建国制度本身的形态就是各封国之间的并立状态。<div style="padding-bottom:1em;"></div>进一步言之，汉末与唐末所引起的分裂还有程度的差异，汉末引起的分裂时期很长，若从魏文帝黄初元年算起，直至隋灭陈，前后有390年。如果自汉献帝兴平二年孙策割据江东算起，则更长。而唐末的分裂从后梁太祖起算，到宋太宗灭北汉，不过73年。这样看来，有一个问题就值得我们思考，为何中国历史上的中央集权制国家引起的分裂次数很少，且分裂时间趋短？这个问题很大，不容易一下子说明白，但有一点是明确的，那就是中央集权制国家在确立了这一制度以后，不断随着历史的进展而有技术上的改进，使得中央集权的程度越来越高，分裂的可能性越来越小。即使一旦分裂，也会比较快地走向重新统一。黑格尔以为中国没有历史，有的只是王朝的更迭。但他不知道中国历史的机制是渐变而非突变，如果从更长远以及更大范围来看，则中国历史上的制度演变是有损有益，也就是对前代制度有继承的一面，也有改革的一面。继承是保持连贯性，改革则是为了适应新形势。所以孔夫子在回答子张“十世可知耶？”的问题时，就答道“殷因于夏礼，其损益可知也；周因于殷礼，其损益可知也，其或继周者，虽百世可知也”。从过去的朝代汲取历史经验与教训，对前代的制度采取有损有益的政治措施，成为中国历代政权运行的基本脉络。<div style="padding-bottom:1em;"></div>唐朝最终因为藩镇割据而分裂，但却又因藩镇的并峙均衡而维系中央政权，延续了比唐前期的完全统一时期更长的时间。这是一个颇有点奇怪的现象，这个现象正说明唐代吸取东汉分裂而亡的教训而采取的措施起了相当的作用。当然，这个作用并不完善，所以唐朝仍不免亡于分裂割据，于是后来的宋代，对于中央与地方的关系更加措意，地方权力进一步被削弱，中央集权进一步加强。于是宋以后，再未因地方分裂而引起王朝的覆亡。由于唐代后期的藩镇并立现象的两重性，一方面是唐代分裂的原因，另一方面又是维持中央政权得以不墮的因素，使得历史研究者投入许多精力对这一机制进行深入的研究。研究的关键无非在于中央、藩镇与州三方的政治关系，或讨论藩镇与州的关系，或分析州与中央的关系，或辩证中央与藩镇的关系。或综其中两方论之，或统其三方而作分析。<div style="padding-bottom:1em;"></div>其中关于中央与藩镇的关系在粗线条方面是相对明确的，一方面是河朔诸镇的割据状态，使得唐后期的统一形势成为跛脚的状态。另一方面是东南八道的忠诚与经济支持使中央政权得以运转，此外则是边缘藩镇的不即不离状态。但在中央能够控制的藩镇中，有一层最重要的关系存在于中央、藩镇与州之间。中央一直想要维持安史之乱以前直领州县的状态，而藩镇则想控制所属州县以获取本身最大的利益。唐代后期即在这种拉锯争夺的动态均衡过程中维持了一百五十年之久，远远超过中国的一些一统王朝。其实唐初的地方政治制度设计已经虑及东汉的教训，采取了许多预防措施，其大要略为以下三点：一是不设高层政区，以中央直领州级单位；一是将州一级政区的地域划小，不让其拥有过大的人力财力；三是不划定监察区，避免其转化为行政区。这一措施的最大缺陷是中央政府的管理幅度过大，难以周全，于是在唐玄宗时仍然不得不划定十五个监察区，为以后的藩镇分立种下了地域方面的基础。<div style="padding-bottom:1em;"></div>安史之乱以后，为镇压叛乱而形成的藩镇，实际上是合军区政区与监察区为一体的特殊地方机构，其与中央争权乃是自然正常的行为。所以表面上看起来，中央、藩镇与州是三层直线关系，实际上是三角关系，三者各为一角，互相“绷着”。正因为就全唐范围而言，各藩镇之间也是互相绷着，唐后期就这样绷了一个半世纪才寿终正寝。这种情况宋代统治者十分清楚，深知地方政区的两级制绝不可行，而三级制又行不得，索性就设计了一个调和的全新制度，虽设高层政区，而分其职司为三、四个部门，而且州一级政府还可直达中央，不为路一级长官所阻隔。这样的制度使北宋相对正常地运转了一百来年，又继续在南宋再运转了差不多同样的时间，更在百年之后又为明代所改进效仿。于是我们从中看到了现代所热议的唐宋变革的一个侧面样态。<div style="padding-bottom:1em;"></div>虽说唐宋之际的政治变革的基本理路已为大家所知悉，但其间的细节部分并未见得为人所熟知，而且还常常对同一史实有见仁见智的分歧。李碧妍这本《危机与重构——唐帝国及其地方诸侯》是作者多年来独立思考唐代藩镇问题的心得总结。虽说李碧妍从我读博士研究生，但一直习惯于独立思维，这本书即是她独立思考精心构思的结晶。此书集中讨论了8世纪中期至9世纪初唐代的地方政治问题，构成全书的四个章节，分别论述了政治焦点各不相同的四个区域——河南、关中、河北及江淮——在安史之乱爆发后的政治发展情形，这些论述都围绕着一个主题而展开，即唐后期中央政府是如何处理安史之乱及由此所开创的藩镇时代的地方政治危机，重新树立起朝廷的政治权力的。虽然上面我说到唐代中央与藩镇关系的粗线条是明确的，但细节却有待于深入的揭示。有别于以往的一些藩镇研究，本书作者的着力点在于将一系列被以往研究所忽略的藩镇事件，还原到一个具体的政治社会场景之中，或者说，在一个特定的时空界限内，去对与藩镇有关的各种地方政治事件进行阐释，以此来为读者展现一个富有生机，且呈现出多棱面的藩镇群体，并提供一个远比一般认识更为复杂的中晚唐地方政治面相，并在此基础上，对藩镇时代在中国历史上的意义重新给予一个具有说服力的判断。<div style="padding-bottom:1em;"></div>作者对历史细节有着特殊的敏感，并且也乐于在追索历史细节的过程中去充分发挥自己在逻辑推理方面的能力，因此阅读本书似乎有着面对推理小说的感觉。当然，作者的目的并非单纯地纠结于个别的历史细节，或只是对具体的历史事件进行有兴味的解读。本书作者的目标，显然是希望通过藩镇这一视角，去思考藩镇所处的时代的整体结构与发展方向，并且，对藩镇所在的中晚唐这样一个时代，给予一个恰切的历史定位。换言之，作者对藩镇个案的微观考察，希望最终导出的是对一个宏观时代的把握。而借由作者的这一努力，我们也可以看到她对于热议多年的“唐宋变革”的理解，是如何受到前辈学者的影响并在此基础上作出反思的。虽然在李碧妍之前，已经有过数量众多的对藩镇的研究，但我相信本书绝对不止是在这些著作中数量上的增加而已。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36028422/#comments">回应</a>&nbsp;&nbsp;
+                  2015-09-01 17:18
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="40912696">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/isaga/"><img src="https://img3.doubanio.com/icon/u1722448-13.jpg" alt="嵯峨云风" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/40912696/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/40912696/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/isaga/" class=" " title="嵯峨云风">嵯峨云风</a>
+                (策划就是生活)
+              
+            </p>
+            <div class="reading-note" data-cid="40912696">
+              <div class="short">
+                
+                  <span class="">“李碧妍的《危机与重构——唐帝国及其地方诸侯》是作者多年来独立思考唐朝藩镇问题的心得总结。此书集中讨论了8世纪中期至9世纪初唐代的地方政治问题……有别于以往的一些藩镇研究，本书作者的着力点在于将一系列被以往研究所忽略的藩镇事件，还原到一个具体的政治社会场景之中；或者说，在一个特定的时空界限内，去对与藩镇有关的各种地方政治事件进行阐释，以此来为读者展现一个富有生机，且呈现出多棱面的藩镇群体……
+
+作者...</span>
+                <p class="pl">
+                  <span class="">2016-12-24 21:36</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                “李碧妍的《危机与重构——唐帝国及其地方诸侯》是作者多年来独立思考唐朝藩镇问题的心得总结。此书集中讨论了8世纪中期至9世纪初唐代的地方政治问题……有别于以往的一些藩镇研究，本书作者的着力点在于将一系列被以往研究所忽略的藩镇事件，还原到一个具体的政治社会场景之中；或者说，在一个特定的时空界限内，去对与藩镇有关的各种地方政治事件进行阐释，以此来为读者展现一个富有生机，且呈现出多棱面的藩镇群体……<div style="padding-bottom:1em;"></div>作者对历史细节有着特殊的敏感，并且也乐于在追索历史细节的过程中去充分发挥自己在逻辑推理方面的能力，因此阅读本书似乎有着面对推理小说的感觉。当然，作者的目的并非单纯地纠结于个别的历史细节，或只是对具体的历史事件进行有兴味的解读。本书作者的目标，显然是希望通过藩镇这一视角，去思考藩镇所处的时代的整体结构与发展方向……换言之，作者对藩镇个案的微观考察，希望最终导出的是对一个宏观时代的把握。”<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/40912696/#comments">回应</a>&nbsp;&nbsp;
+                  2016-12-24 21:36
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36438619">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/105594691/"><img src="https://img3.doubanio.com/icon/u105594691-20.jpg" alt="翊夕" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36438619/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36438619/" class="">第148页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/105594691/" class=" " title="翊夕">翊夕</a>
+                (等到看你银色满际)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36438619">
+              <div class="short">
+                
+                  <span class="">作者认为，大历年间马璘移镇泾、原，郭子仪迁于邠州，朱泚领镇凤翔后，关中四镇北庭系、朔方系、幽州系三大派系三足鼎立的局面形成。而在这三大派系中，作者着重论述了幽州系形成的过程。
+作者对所谓幽州派系和凤翔军队的论述，基本上是在黄永年先生《“泾师之变”发微》一文的基础上展开的，认为幽州系力量的主体是朱泚自幽州带来的防秋兵。而作者借由《张道昇墓志》的内容，试图解决黄永年先生所没有解决的一个问题：朱泚带来的...</span>
+                <p class="pl">
+                  <span class="">2015-10-27 19:39</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                作者认为，大历年间马璘移镇泾、原，郭子仪迁于邠州，朱泚领镇凤翔后，关中四镇北庭系、朔方系、幽州系三大派系三足鼎立的局面形成。而在这三大派系中，作者着重论述了幽州系形成的过程。<div style="padding-bottom:1em;"></div>作者对所谓幽州派系和凤翔军队的论述，基本上是在黄永年先生《“泾师之变”发微》一文的基础上展开的，认为幽州系力量的主体是朱泚自幽州带来的防秋兵。而作者借由《张道昇墓志》的内容，试图解决黄永年先生所没有解决的一个问题：朱泚带来的军队只有数千人，在泽潞兵离开的情况下，这些军队并不能够承担起防御吐蕃的重任，故而肯定从幽州又调过兵或有其他系统军队入驻；然而这些调兵并没有记载，故而无法考证。<div style="padding-bottom:1em;"></div>作者所引《张道昇墓志》录文为《唐代墓志汇编》所收录，笔者勘合了墓志拓片，准确无误，现将作者所引录文置于此：<div style="padding-bottom:1em;"></div>释褐充节度副将，转左金吾卫大将军，旋充左厢步兵火将兼节度押衙。节制朱公首议归朝，公演成其意，遂帅精骑二万，西赴阙庭，署公为行营都知兵马使。帝嘉之，拜朱公为丞相，旋除太尉兼陇右节度。圣朝以公有辅佐之勋，特赐车马金银缯彩万数……积功劳迁特进、开府仪同三司、持节陇州诸军事陇州刺史、上柱国、南阳县开国伯。<div style="padding-bottom:1em;"></div>作者认为，“遂帅精骑二万，西赴阙庭”当指张道昇跟随朱泚入京；则朱泚入京时带领的人马是由张道昇作为统帅的两万人的队伍；“精骑二万”不仅指随军士兵，还有随军的家眷。于是，作者就此自认为解决了幽州系主导下凤翔的兵力问题。<div style="padding-bottom:1em;"></div>然而笔者认为这一论断存在一定的问题。首先，作者认为“精骑二万”包括随军家属的依据是唐墓志的书写习惯，即在书写军队数量时将随军家属包括在内，我们姑且称之为“制度一”；其次，朱泚率兵入关的理由是防秋，而防秋军一般不携带家属，我们称之为“制度二”。则依作者的论断，朱泚入关的历史事实便造成了“制度一”和“制度二”的冲突：为何朱泚入关防秋，其军队携带家属。作者也对此表示疑惑，并在第153页注释一中通过与《旧唐书•刘澭传》的记载的对比提出。<div style="padding-bottom:1em;"></div>以上是论断存在的第一个问题；而第二个问题是，即使朱泚入关时真的携带了两万人，其中多数人也是随军家属，并不具有战斗力，能作战的军队也是少数；作者在第四章第四节考察碑文记载的“徐州军”归浙人数时，也采用了区分家属与士兵的方法，认为碑文所记载“二万人”包括家属，士兵如正史记载只有千余。那么，同样的道理，朱泚所率领的这两万人中，真正的士兵也不应该超过正史所记载的五千人。换言之，兵士人数的问题依旧没有解决，《张道昇墓志》这一史料的引入没有起到太大作用。<div style="padding-bottom:1em;"></div>笔者思考过后认为，这两个问题都是有解释和解决的思路的。然而笔者对中晚唐历史基本一窍不通，思路亦不甚规范，谨在此提出，备作者参考。<div style="padding-bottom:1em;"></div>第一个问题，所谓“制度一”和“制度二”的冲突。首先，需要考虑“制度一”和“制度二”是否有是确实存在的，然而学界研究在前，笔者又不懂唐史，故这个问题就不是笔者能够触及的了；而笔者想提出的是下面的思路：“制度一”和“制度二”本来是不冲突的，因为从逻辑上来讲张道昇所率领的这两万人完全可以皆是兵士，不包括家属；换言之，“制度一”和“制度二”的貌似冲突的根源其实还是《张道昇墓志》所记载的“二万”这一人数问题，因为这一人数实在是太多了，基本是不可能全是军士的。那么，一个解决的思路是，重新检验《张道昇墓志》所记载的“精骑”人数。笔者认为，墓志书写层面，“二万”当为“二千”之误；历史事实层面，张道昇所率领的并非是两万人，而是两千人。理由如下：<div style="padding-bottom:1em;"></div>其一，在利用墓志资料作为史料时，应当首先检验墓志所反映的历史信息的真实性，并且检讨墓志的生产背景和书写意图。正如作者在论述中指出的，陆贽在《兴元论请优奖曲环所领将士状》一文中有“其（曲环所领幽陇兵）家属则陷于匪人”的文字。当然，因为此时“奉天之难”已经爆发，这里的“匪人”究竟指朱滔还是指朱泚是存疑的。作者认为“匪人”当指朱滔，笔者赞同。然而作者并没有以此为基础探讨“幽陇兵”的主力随朱泚入关的时候是否携带家属的问题。笔者认为，恰好可以就此材料说明，朱泚入关时所携带的军士并不包括随军家属。则以此为基础，《张道昇墓志》所记载的“二万”这一数字应当存在问题。<div style="padding-bottom:1em;"></div>其二，关于朱滔、朱泚分别带领的防秋兵的数量，两《唐书》的本纪、列传各有不同的记载，作者皆以《旧唐书•代宗纪》为准，认为皆是五千人。这一数字应当没有问题，但需要检讨的是两《唐书》记载朱泚所率防秋兵数量不同的原因。作者已经注意到，《旧唐书•朱泚传》和《新唐书•朱泚传》皆记载朱泚率领的为“三千人”，而《旧唐书•代宗纪》记载为“五千人”；然而作者在发现这一史料冲突之后只取用了《代宗纪》“五千人”的记载，而没有进一步思考为何会有这种数量的差距。笔者认为，如果仔细观察，会发现“三千人”和“五千人”所差的正好是“二千人”，这“二千人”不是历史书写的谬误，而恰恰是张道昇所率领的军队。<div style="padding-bottom:1em;"></div>其三，也是对第二条理由的继续探讨。考察《张道昇墓志》的记载，“节制朱公首议归朝，公演成其意，遂帅精骑二万，西赴阙庭，署公为行营都知兵马使”这一段文字其实可以提示我们，张道昇似乎并非与朱泚一起前往长安的，而是独立率领两千人前往，极有可能是以“先锋”的身份。如此考虑，张道昇与朱泚分别前往长安之间便存在了一个时间差，两《唐书》本纪和传记之间的不同正是这种时间差的体现。<div style="padding-bottom:1em;"></div>基于以上三点理由，笔者认为，《张道昇墓志》所记载“精骑二万”当为“精骑二千”之误；而历史的事实是张道昇先于朱泚率领两千人作为“先锋”前往长安，朱泚率领三千人紧随其后，二者合计五千人。<div style="padding-bottom:1em;"></div>（如此，亦能与“精骑”二字相吻合，张道昇所率领的，正是幽州节度使麾下的精锐骑兵）<div style="padding-bottom:1em;"></div>下面来看第二个问题，即凤翔的军队人数问题。首先正如作者所引《旧唐书•韩滉传》的记载，“大历五年以后，蕃戎罕侵”，凤翔的防御任务已经不像大历初年那样重；其次，陆贽《兴元论请优奖曲环所领将士状》文中描述曲环所统领的幽陇军时，有“悉是朱泚部曲，或顷在凤翔所管，或本从河朔同来”之言；笔者认为，这里的“本从河朔同来”的军士，有可能便是朱泚入关之初所统的淄青、承德藩镇防秋兵；如此，亦符合幽州军主导下凤翔多元化的军事结构这一结构性特点。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36438619/#comments">回应</a>&nbsp;&nbsp;
+                  2015-10-27 19:39
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37268621">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/1606803/"><img src="https://img3.doubanio.com/icon/u1606803-5.jpg" alt="冻冻" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37268621/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37268621/" class="">第294页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/1606803/" class=" " title="冻冻">冻冻</a>
+              
+            </p>
+            <div class="reading-note" data-cid="37268621">
+              <div class="short">
+                
+                  <span class="">第六行到第七行 使万年送洛阳是不是错了 应该是辛万宝吧</span>
+                <p class="pl">
+                  <span class="">2016-02-27 09:26</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                第六行到第七行 使万年送洛阳是不是错了 应该是辛万宝吧
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37268621/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-27 09:26
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="40912696">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/isaga/"><img src="https://img3.doubanio.com/icon/u1722448-13.jpg" alt="嵯峨云风" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/40912696/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/40912696/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/isaga/" class=" " title="嵯峨云风">嵯峨云风</a>
+                (策划就是生活)
+              
+            </p>
+            <div class="reading-note" data-cid="40912696">
+              <div class="short">
+                
+                  <span class="">“李碧妍的《危机与重构——唐帝国及其地方诸侯》是作者多年来独立思考唐朝藩镇问题的心得总结。此书集中讨论了8世纪中期至9世纪初唐代的地方政治问题……有别于以往的一些藩镇研究，本书作者的着力点在于将一系列被以往研究所忽略的藩镇事件，还原到一个具体的政治社会场景之中；或者说，在一个特定的时空界限内，去对与藩镇有关的各种地方政治事件进行阐释，以此来为读者展现一个富有生机，且呈现出多棱面的藩镇群体……
+
+作者...</span>
+                <p class="pl">
+                  <span class="">2016-12-24 21:36</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                “李碧妍的《危机与重构——唐帝国及其地方诸侯》是作者多年来独立思考唐朝藩镇问题的心得总结。此书集中讨论了8世纪中期至9世纪初唐代的地方政治问题……有别于以往的一些藩镇研究，本书作者的着力点在于将一系列被以往研究所忽略的藩镇事件，还原到一个具体的政治社会场景之中；或者说，在一个特定的时空界限内，去对与藩镇有关的各种地方政治事件进行阐释，以此来为读者展现一个富有生机，且呈现出多棱面的藩镇群体……<div style="padding-bottom:1em;"></div>作者对历史细节有着特殊的敏感，并且也乐于在追索历史细节的过程中去充分发挥自己在逻辑推理方面的能力，因此阅读本书似乎有着面对推理小说的感觉。当然，作者的目的并非单纯地纠结于个别的历史细节，或只是对具体的历史事件进行有兴味的解读。本书作者的目标，显然是希望通过藩镇这一视角，去思考藩镇所处的时代的整体结构与发展方向……换言之，作者对藩镇个案的微观考察，希望最终导出的是对一个宏观时代的把握。”<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/40912696/#comments">回应</a>&nbsp;&nbsp;
+                  2016-12-24 21:36
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37268621">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/1606803/"><img src="https://img3.doubanio.com/icon/u1606803-5.jpg" alt="冻冻" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37268621/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37268621/" class="">第294页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/1606803/" class=" " title="冻冻">冻冻</a>
+              
+            </p>
+            <div class="reading-note" data-cid="37268621">
+              <div class="short">
+                
+                  <span class="">第六行到第七行 使万年送洛阳是不是错了 应该是辛万宝吧</span>
+                <p class="pl">
+                  <span class="">2016-02-27 09:26</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                第六行到第七行 使万年送洛阳是不是错了 应该是辛万宝吧
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37268621/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-27 09:26
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37187987">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/54869212/"><img src="https://img3.doubanio.com/icon/u54869212-2.jpg" alt="青丘" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37187987/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37187987/" class="">唉，非要说这本书不参考日本先行论著也是醉了</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/54869212/" class=" " title="青丘">青丘</a>
+              
+            </p>
+            <div class="reading-note" data-cid="37187987">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/37187987/"><img src="https://img3.doubanio.com/view/page_note/small/public/p37187987-3.jpg"></a>
+                  </div>
+                  <span class="">为了避免被打脸删光自己书评区的回复简直笑死。。折腾几个小时倒腾完自己黑历史真是辛苦了喵～要不要这么此地无银三百两噗哈哈哈哈哈哈(ಡωಡ) 以下就绪论部分脚注拍照，以免未入手本书的朋友被其误导。   
+哦，对了，我不相信一个靠脚注判断作者查阅了哪些资料的人是做学问的。但是我非常相信这样一个人，一定会认为所有人都是脑子有病的——没病也要给你挑个病啊。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/37187987/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2016-02-15 16:16</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                为了避免被打脸删光自己书评区的回复简直笑死。。折腾几个小时倒腾完自己黑历史真是辛苦了喵～要不要这么此地无银三百两噗哈哈哈哈哈哈(ಡωಡ) 以下就绪论部分脚注拍照，以免未入手本书的朋友被其误导。<div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p37187987-3.jpg" alt=""><br><span class="pic-title"></span></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p37187987-2.jpg" alt=""><br><span class="pic-title"></span></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p37187987-1.jpg" alt=""><br><span class="pic-title"></span></div>
+哦，对了，我不相信一个靠脚注判断作者查阅了哪些资料的人是做学问的。但是我非常相信这样一个人，一定会认为所有人都是脑子有病的——没病也要给你挑个病啊。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37187987/#comments">1回应</a>&nbsp;&nbsp;
+                  2016-02-15 16:16
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36742753">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/51735260/"><img src="https://img3.doubanio.com/icon/u51735260-4.jpg" alt="Kyoto" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36742753/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36742753/" class="">第499页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/51735260/" class=" " title="Kyoto">Kyoto</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36742753">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/36742753/"><img src="https://img3.doubanio.com/view/page_note/small/public/p36742753-1.jpg"></a>
+                  </div>
+                  <span class="">小标题下第一段的“祖父李神通”有误，李神通是李渊堂弟，辈分明显要比李锜的祖父高，根据《旧唐书 列传第六十二》“李国贞”传记可知“李国贞，淮安王神通子、淄川王孝同之曾孙。父广业”，不知作者是否对这个地方解读有误导致错误，查阅《新唐书 表第十上 宗室世系上》得到确认 </span>
+                <p class="pl">
+                  <span class="">2015-12-10 21:16</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                小标题下第一段的“祖父李神通”有误，李神通是李渊堂弟，辈分明显要比李锜的祖父高，根据《旧唐书 列传第六十二》“李国贞”传记可知“李国贞，淮安王神通子、淄川王孝同之曾孙。父广业”，不知作者是否对这个地方解读有误导致错误，查阅《新唐书 表第十上 宗室世系上》得到确认<div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p36742753-1.jpg" alt=""><br><span class="pic-title"></span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36742753/#comments">回应</a>&nbsp;&nbsp;
+                  2015-12-10 21:16
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/26603137/annotation">更多读书笔记（共7篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        <span>
+            <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=discuss">
+              <span>在这本书的论坛里发言</span>
+            </a>
+        </span>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/32385659/?dcs=subject-buylink&amp;dcm=douban&amp;dct=26603137" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/32385659/?dcs=subject-buylink&amp;dcm=douban&amp;dct=26603137" class="">
+          <span class="buylink-price">
+            
+            <span class="">39.90 元</span>
+          </span>
+        </a>
+      </li>
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B01M5DWGDV2736048/?asin=B01M5DWGDV&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B01M5DWGDV&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">1.00 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=5670&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=5940&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgFTGVkXByJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIUAVcZWRAdS0IJRmtxR01uU2w5TmJLcTVeJQtRen8uUFJDDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBpfFQURBVErXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVBBQFVxleCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=26603137&amp;type=bkbuy&amp;subject=26603137" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=5670&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=5940&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgFTGVkXByJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIUAVcZWRAdS0IJRmtxR01uU2w5TmJLcTVeJQtRen8uUFJDDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBpfFQURBVErXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVBBQFVxleCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=26603137&amp;type=bkbuy&amp;subject=26603137" class="buylink-price ">
+                      <span class="">
+                        59.40 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=5670&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=7580&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26603137%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23779034&amp;cntvendor=3&amp;srcsubj=26603137&amp;type=bkbuy&amp;subject=26603137" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=5670&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=7580&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26603137%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23779034&amp;cntvendor=3&amp;srcsubj=26603137&amp;type=bkbuy&amp;subject=26603137" class="buylink-price ">
+                      <span class="">
+                        75.80 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=5670&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=5670&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7003545.htm&amp;cntvendor=3&amp;link2key=64b7074c69&amp;srcsubj=26603137&amp;type=bkbuy&amp;subject=26603137" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=5670&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=5670&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7003545.htm&amp;cntvendor=3&amp;link2key=64b7074c69&amp;srcsubj=26603137&amp;type=bkbuy&amp;subject=26603137" class="buylink-price ">
+                      <span class="">
+                        56.70 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/26603137/buylinks">
+              &gt; 查看3家网店价格
+                (56.70 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/26603137/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/203925/" target="_blank">豆瓣评星很高很强大【历史】</a>
+                <span class="pl">(爱玛·包法利)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/42736792/" target="_blank">1000+ 豆瓣9.0+的書</a>
+                <span class="pl">(笃动武者)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1785285/" target="_blank">老谭策划</a>
+                <span class="pl">(时间与玫瑰)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1822014/" target="_blank">广义人类学备忘录</a>
+                <span class="pl">(nothing传叔)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/643815/" target="_blank">豆瓣评分超过9.0的书</a>
+                <span class="pl">(varro)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/135871886/"><img src="https://img3.doubanio.com/icon/u135871886-3.jpg" class="pil" alt="傅里叶猴子" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/135871886/">傅里叶猴子</a><br/>
+      <div class="pl ll">          10分钟前          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/nonentity/"><img src="https://img3.doubanio.com/icon/u1431563-60.jpg" class="pil" alt="Kukulkan" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/nonentity/">Kukulkan</a><br/>
+      <div class="pl ll">          17分钟前          在读      </div>
+
+      <br/>
+
+
+          <span class="">又被&#34;勾魂&#34;了，虽然立场针锋相对，但对苏决这种人越来越多同情跟理解。</span> <br/>
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/78576225/"><img src="https://img3.doubanio.com/icon/u78576225-4.jpg" class="pil" alt="路人甲" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/78576225/">路人甲</a><br/>
+      <div class="pl ll">          今天下午          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/26603137/doings">102人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/26603137/collections">304人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/26603137/wishes">2902人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/26603137/offers">1本二手书欲转让</a>
+          <span class="">
+            (45.00
+              元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有2902人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于危机与重构的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/26603137/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'uDJa3x7stFw',
+            criteria = '7:历史|7:隋唐史|7:唐史|7:藩镇|7:中国史|7:中古史|7:政治史|7:李碧妍|7:唐朝|7:中国历史|3:/subject/26603137/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar7d-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,2879 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>回归分析 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/4933040/">
+<meta name="keywords" content="回归分析,谢宇,社会科学文献出版社,2010-8,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书回归分析 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/4933040/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">回归分析</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s4466936.jpg" title="回归分析">
+    <img src="https://img3.doubanio.com/lpic/s4466936.jpg" title="点击看大图" alt="回归分析"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E8%B0%A2%E5%AE%87">谢宇</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 社会科学文献出版社<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2010-8<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 387<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 45.00元<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/14303">社会学教材教参方法系列</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787509716014<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 9.3 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">119</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">72.3%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:20px"></div>
+
+            <span class="rating_per">22.7%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:4px"></div>
+
+            <span class="rating_per">5.0%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.0%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.0%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-4933040-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-4933040-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-4933040-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4933040-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4933040-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4933040-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4933040-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-4933040-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-4933040">
+        <a href="#" data-url="https://book.douban.com/subject/4933040/" data-desc="" data-title="书籍《回归分析》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s4466936.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_4933040"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>《回归分析》源于作者多年在密歇根大学教授回归分析的课程讲义，从基本的统计概念讲起，对线性回归分析的基本假定、回归中的统计推论和回归诊断做了详尽的介绍，同时还涵盖了很多在社会科学中对实际研究非常有用的内容，包括虚拟变量、交互作用、辅助回归、多项式回归、样条函数回归和阶跃函数回归等。此外，《回归分析》还涉及通径分析、纵贯数据模型、多层线性模型和Iogit模型等方面的内容。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/4933040/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>谢宇，美国密歇根大学Otis Dudley Duncan杰出教授，同时也是密歇根大学社会学系、统计系和中国研究中心教授，社会研究院（ISR）人口研究中心和调查研究中心研究员，调查研究中心量化方法组主任；北京大学长江学者特聘讲座教授。2004年当选美国艺术与科学院院士和台湾“中央研究院”院士，2009年当选美国国家科学院院士。其研究领域包括：社会分层、统计方法、人口学、科学社会学和中国研究。主要著作有：《分类数据分析的统计方法》、《科学界的女性》、《美国亚裔的人口统计描述》、《社会学方法与定量研究》、《婚姻与同居》等。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_4933040_short">
+        第1章 基本统计概念<br/>
+        1.1 统计思想对于社会科学研究的重要性<br/>
+        1.2 本书的特点<br/>
+        1.3 基本统计概念<br/>
+        1.4 随机变量的和与差<br/>
+        1.5 期望与协方差的性质<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_4933040_short').hide();$('#dir_4933040_full').show();$.get('/j/subject/j_dir_count',{id:4933040});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_4933040_full" style="display:none">
+        第1章 基本统计概念<br/>
+        1.1 统计思想对于社会科学研究的重要性<br/>
+        1.2 本书的特点<br/>
+        1.3 基本统计概念<br/>
+        1.4 随机变量的和与差<br/>
+        1.5 期望与协方差的性质<br/>
+        1.6 本章小结<br/>
+        第2章 统计推断基础<br/>
+        2.1 分布<br/>
+        2.2 估计<br/>
+        2.3 假设检验<br/>
+        2.4 本章小结<br/>
+        第3章 一元线性回归<br/>
+        3.1 理解回归概念的三种视角<br/>
+        3.2 回归模型<br/>
+        3.3 回归直线的拟合优度<br/>
+        3.4 假设检验<br/>
+        3.5 对特定X下y均值的估计<br/>
+        3.6 对特定X下y单一值的预测<br/>
+        3.7 简单线性回归中的非线性变换<br/>
+        3.8 实例分析<br/>
+        3.9 本章小结<br/>
+        第4章 线性代数基础<br/>
+        4.1 定义<br/>
+        4.2 矩阵的运算<br/>
+        4.3 特殊矩阵<br/>
+        4.4 矩阵的秩<br/>
+        4.5 矩阵的逆<br/>
+        4.6 行列式<br/>
+        4.7 矩阵的运算法则<br/>
+        4.8 向量的期望和协方差阵的介绍<br/>
+        4.9 矩阵在社会科学中的应用<br/>
+        4.10本章小结<br/>
+        第5章 多元线性回归<br/>
+        5.1 多元线性回归模型的矩阵形式<br/>
+        5.2 多元回归的基本假定<br/>
+        5.3 多元回归参数的估计<br/>
+        5.4 0LS回归方程的解读<br/>
+        5.5 多元回归模型误差方差的估计<br/>
+        5.6 多元回归参数估计量方差的估计<br/>
+        5.7 模型设定中的一些问题<br/>
+        5.8 标准化回归模型<br/>
+        5.9 cHIP88实例分析<br/>
+        5.10 本章小结<br/>
+        第6章 多元回归中的统计推断与假设检验<br/>
+        6.1 统计推断基本原理简要回顾<br/>
+        6.2 统计显著性的相对性.以及效应幅度<br/>
+        6.3 单个回归系数反=0的检验<br/>
+        6.4 多个回归系数的联合检验<br/>
+        6.5 回归系数线性组合的检验<br/>
+        6.6 本章小结<br/>
+        第7章 方差分析和F检验<br/>
+        7.1 一元线性回归中的方差分析<br/>
+        7.2 多元线性回归中的方差分析<br/>
+        7.3 方差分析的假定条件<br/>
+        7.4 F检验<br/>
+        7.5 判定系数增量<br/>
+        7.6 拟合优度的测量<br/>
+        7.7 实例分析<br/>
+        7.8 本章小结<br/>
+        第8章 辅助回归和偏回归图<br/>
+        8.1 回归分析中的两个常见问题<br/>
+        8.2 辅助回归<br/>
+        8.3 变量的对中<br/>
+        8.4 偏回归图<br/>
+        8.5 排除忽略变量偏误的方法<br/>
+        8.6 应用举例<br/>
+        8.7 本章小结<br/>
+        第9章 因果推断和路径分析<br/>
+        9.1 相关关系<br/>
+        9.2 因果推断<br/>
+        9.3 因果推断的问题<br/>
+        9.4 因果推断的假设<br/>
+        9.5 因果推断中的原因<br/>
+        9.6 路径分析<br/>
+        9.7 本章小结<br/>
+        第10章 多重共线性问题<br/>
+        10.1 多重共线性问题的引入<br/>
+        10.2 完全多重共线性<br/>
+        10.3 近似多重共线性<br/>
+        10.4 多重共线性的度量<br/>
+        10.5 多重共线性问题的处理<br/>
+        10.6 本章小结<br/>
+        第11章 多项式回归、样条函数回归和阶跃甬数回归<br/>
+        11.1 多项式回归<br/>
+        11.2 样条函数回归<br/>
+        11.3 阶跃函数回归<br/>
+        11.4 本章小结<br/>
+        第12章 虚拟变量与名义自变量<br/>
+        12.1 名义变量的定义与特性<br/>
+        12.2 虚拟变量的设置<br/>
+        ……<br/>
+        第13章 交互项<br/>
+        第14章 异方差与广义最小二乘法<br/>
+        第15章 纵贯数据的分析<br/>
+        第16章 多层线性模型介绍<br/>
+        第17章 回归诊断<br/>
+        第18章 二分因变量的logit模型<br/>
+        词汇表<br/>
+        参考文献<br/>
+        后记<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_4933040_full').hide();$('#dir_4933040_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共68个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/统计学">统计学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/回归分析">回归分析</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社会学">社会学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/统计">统计</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/数学">数学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/谢宇">谢宇</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/研究方法">研究方法</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/方法论">方法论</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/14303">社会学教材教参方法系列 (共7册)</a>,
+这套丛书还有
+《社会学方法与定量研究》,《分类数据分析的统计方法》,《量化数据分析》,《分层线性模型》,《社会学方法与定量研究》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;回归分析&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/314773/?dcs=subject-rec&amp;dcm=douban&amp;dct=4933040" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/314773.jpg?v=1395395913.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/314773/" target="_blank">面对疾病</a>
+          </div>
+          <div class="price">
+              14.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/569294/?dcs=subject-rec&amp;dcm=douban&amp;dct=4933040" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/569294.jpg?v=1395395664.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/569294/" target="_blank">民主的限制</a>
+          </div>
+          <div class="price">
+              3.70元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1205853/?dcs=subject-rec&amp;dcm=douban&amp;dct=4933040" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1205853.jpg?v=1395394460.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1205853/" target="_blank">异星异客</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/371786/?dcs=subject-rec&amp;dcm=douban&amp;dct=4933040" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/371786.jpg?v=1396433137.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/371786/" target="_blank">经济学思想史讲义</a>
+          </div>
+          <div class="price">
+              25.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;回归分析&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/11578220/" onclick="moreurl(this, {'total': 10, 'clicked': '11578220', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s11163499.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/11578220/" onclick="moreurl(this, {'total': 10, 'clicked': '11578220', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            量化数据分析
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1854768/" onclick="moreurl(this, {'total': 10, 'clicked': '1854768', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1858550.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1854768/" onclick="moreurl(this, {'total': 10, 'clicked': '1854768', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            社会学方法与定量研究
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3852284/" onclick="moreurl(this, {'total': 10, 'clicked': '3852284', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s3879856.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3852284/" onclick="moreurl(this, {'total': 10, 'clicked': '3852284', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            分类数据分析的统计方法
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3117028/" onclick="moreurl(this, {'total': 10, 'clicked': '3117028', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s8456631.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3117028/" onclick="moreurl(this, {'total': 10, 'clicked': '3117028', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            事件史分析及其应用
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2194312/" onclick="moreurl(this, {'total': 10, 'clicked': '2194312', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s5837822.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2194312/" onclick="moreurl(this, {'total': 10, 'clicked': '2194312', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            分层线性模型
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3234797/" onclick="moreurl(this, {'total': 10, 'clicked': '3234797', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27221732.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3234797/" onclick="moreurl(this, {'total': 10, 'clicked': '3234797', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            应用STATA做统计分析
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10826043/" onclick="moreurl(this, {'total': 10, 'clicked': '10826043', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s23832490.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10826043/" onclick="moreurl(this, {'total': 10, 'clicked': '10826043', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            对数线性模型
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10826053/" onclick="moreurl(this, {'total': 10, 'clicked': '10826053', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s11327970.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10826053/" onclick="moreurl(this, {'total': 10, 'clicked': '10826053', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            多元回归中的交互作用
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10956297/" onclick="moreurl(this, {'total': 10, 'clicked': '10956297', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s11328246.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10956297/" onclick="moreurl(this, {'total': 10, 'clicked': '10956297', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            logit与probit
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6851561/" onclick="moreurl(this, {'total': 10, 'clicked': '6851561', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6942044.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6851561/" onclick="moreurl(this, {'total': 10, 'clicked': '6851561', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            Cambridge Handbook of Experime...
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/4933040/comments/">全部 45 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="361309886">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-361309886" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-361309886" class="j a_show_login" data-cid="361309886">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/yuanshaoxia/">之远</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2011-06-09</span>
+                </span>
+            </h3>
+            <p class="comment-content">数学基础不太好，看起来稍有点吃力</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="963145112">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-963145112" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-963145112" class="j a_show_login" data-cid="963145112">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/farmland1988/">PsychMouse</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-04-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">读一遍是不够的，至少看了三遍还是每次都有新的感悟。需要继续看下去。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="502567643">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-502567643" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-502567643" class="j a_show_login" data-cid="502567643">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/tanyujing2/">其其实</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2014-03-06</span>
+                </span>
+            </h3>
+            <p class="comment-content">看完学完就要用一用。我觉得我能follow个60%的内容都是很大的进步吧。。。哭瞎</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="826675577">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-826675577" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-826675577" class="j a_show_login" data-cid="826675577">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/lenazhu/">朱尔赫斯</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2014-07-17</span>
+                </span>
+            </h3>
+            <p class="comment-content">好用！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="981228284">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-981228284" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-981228284" class="j a_show_login" data-cid="981228284">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/thethe.wang/">柴郡</a>
+                    <span>2015-11-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">用生命去修的統計課。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1177396016">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1177396016" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1177396016" class="j a_show_login" data-cid="1177396016">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/127606215/">原子弹Yuan</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-04</span>
+                </span>
+            </h3>
+            <p class="comment-content">看得较少，作为教育测评的基本知识。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1164116649">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1164116649" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1164116649" class="j a_show_login" data-cid="1164116649">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/51284577/">michaelcxb</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-03-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">适合基础较弱的同学看</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1065037623">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1065037623" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1065037623" class="j a_show_login" data-cid="1065037623">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/62930490/">趿嵑</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-07-23</span>
+                </span>
+            </h3>
+            <p class="comment-content">棒！但是方法介绍地还是偏少啊</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1055502297">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1055502297" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1055502297" class="j a_show_login" data-cid="1055502297">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/62858246/">Doug</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-06-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">教材类的好书，每精读一本都能学到好多</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1044292801">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1044292801" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1044292801" class="j a_show_login" data-cid="1044292801">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/14262960/">迷迭香</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-05-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">这本书太好了，好到爱不释手，了解回归分析的第一书！</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/4933040/comments/">更多短评 45 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/4933040/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            回归分析的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 2 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5653922">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5653922/" class="title-link">为什么要读此书</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5653922"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/49624274/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u49624274-15.jpg"></a>
+    <a href="https://www.douban.com/people/49624274/" class="author">
+      <span property="v:reviewer">刘颖蓓</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2012-11-14"
+      class="main-meta">2012-11-14 16:04:24</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5653922_short" class="review-short">
+            <div class="short-content">
+                  学习会回归分析为什么要读此书？  1、这本书为“著”，而不是“编著”； 2、作者美国华裔教授，书为作者用中文写的，而不是翻译，所以不会出现翻译不当的现象； 3、本书和美国大部分书籍一样，会把概念解释的非常清楚，充分从一个初学者的角度去展开问题； 4、书中会把涉及的统...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">5有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5653922_full" class="hidden">
+            <div id="review_5653922_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5138276">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5138276/" class="title-link">学习回归分析必读之作</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5138276"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/55422233/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/55422233/" class="author">
+      <span property="v:reviewer">紫京</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2011-10-21"
+      class="main-meta">2011-10-21 10:59:23</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5138276_short" class="review-short">
+            <div class="short-content">
+                  目前国内虽然有一些专门针对于回归分析方法的学术论作，但是或较为高深，晦涩难懂，或者蜻蜓点水，缺乏重点与难点的深入探讨。而此本谢宇教授作品，是基于其教学实践而编撰而成，既涵盖了量化研究和方法的理论，同时，将方法和案例紧密联系一起，可读性非常之强。  
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">8有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5138276_full" class="hidden">
+            <div id="review_5138276_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评2篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+      
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="38171756">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/47193109/"><img src="https://img3.doubanio.com/icon/u47193109-4.jpg" alt="南渡南归" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/38171756/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/38171756/" class="">第33页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/47193109/" class=" " title="南渡南归">南渡南归</a>
+                (人生何处不围城。)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="38171756">
+              <div class="short">
+                
+                  <span class="">这一结果表示，1988年全国城市居民的年收入均值有95%的可能性落在1854.59~1888.11元之间。
+
+95%的置信区间不应该是这个陈述的可信度是95%，而不是95%的可能性落在区间内？？
+
+</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/38171756/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2016-07-18 10:38</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>这一结果表示，1988年全国城市居民的年收入均值有95%的可能性落在1854.59~1888.11元之间。</q></blockquote><div style="padding-bottom:1em;"></div>95%的置信区间不应该是这个陈述的可信度是95%，而不是95%的可能性落在区间内？？<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/38171756/#comments">1回应</a>&nbsp;&nbsp;
+                  2016-07-18 10:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="31330233">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/wszt/"><img src="https://img3.doubanio.com/icon/u79332436-4.jpg" alt="wszt" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/31330233/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/31330233/" class="">第19页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/wszt/" class=" " title="wszt">wszt</a>
+              
+            </p>
+            <div class="reading-note" data-cid="31330233">
+              <div class="short">
+                
+                  <span class="">概率统计方面的基本功在后面学习回归等相当重要，但是第一章只是走马观花地提一下，也因为这本书不是概率方面的，所以没必要在这上面浪费章节。
+这方面需要另外看其他书补充。</span>
+                <p class="pl">
+                  <span class="">2014-04-22 09:28</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                概率统计方面的基本功在后面学习回归等相当重要，但是第一章只是走马观花地提一下，也因为这本书不是概率方面的，所以没必要在这上面浪费章节。<div style="padding-bottom:1em;"></div>这方面需要另外看其他书补充。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/31330233/#comments">回应</a>&nbsp;&nbsp;
+                  2014-04-22 09:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="15634396">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/27422714/"><img src="https://img3.doubanio.com/icon/u27422714-22.jpg" alt="姚之之" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/15634396/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/15634396/" class="">第3页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/27422714/" class=" " title="姚之之">姚之之</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="15634396">
+              <div class="short">
+                
+                  <span class="">只有在真正理解了统计学思想之后，一个人才能对定量研究方法进行评价。</span>
+                <p class="pl">
+                  <span class="">2011-12-02 16:27</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                只有在真正理解了统计学思想之后，一个人才能对定量研究方法进行评价。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/15634396/#comments">回应</a>&nbsp;&nbsp;
+                  2011-12-02 16:27
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="15634396">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/27422714/"><img src="https://img3.doubanio.com/icon/u27422714-22.jpg" alt="姚之之" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/15634396/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/15634396/" class="">第3页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/27422714/" class=" " title="姚之之">姚之之</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="15634396">
+              <div class="short">
+                
+                  <span class="">只有在真正理解了统计学思想之后，一个人才能对定量研究方法进行评价。</span>
+                <p class="pl">
+                  <span class="">2011-12-02 16:27</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                只有在真正理解了统计学思想之后，一个人才能对定量研究方法进行评价。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/15634396/#comments">回应</a>&nbsp;&nbsp;
+                  2011-12-02 16:27
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="31330233">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/wszt/"><img src="https://img3.doubanio.com/icon/u79332436-4.jpg" alt="wszt" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/31330233/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/31330233/" class="">第19页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/wszt/" class=" " title="wszt">wszt</a>
+              
+            </p>
+            <div class="reading-note" data-cid="31330233">
+              <div class="short">
+                
+                  <span class="">概率统计方面的基本功在后面学习回归等相当重要，但是第一章只是走马观花地提一下，也因为这本书不是概率方面的，所以没必要在这上面浪费章节。
+这方面需要另外看其他书补充。</span>
+                <p class="pl">
+                  <span class="">2014-04-22 09:28</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                概率统计方面的基本功在后面学习回归等相当重要，但是第一章只是走马观花地提一下，也因为这本书不是概率方面的，所以没必要在这上面浪费章节。<div style="padding-bottom:1em;"></div>这方面需要另外看其他书补充。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/31330233/#comments">回应</a>&nbsp;&nbsp;
+                  2014-04-22 09:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="38171756">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/47193109/"><img src="https://img3.doubanio.com/icon/u47193109-4.jpg" alt="南渡南归" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/38171756/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/38171756/" class="">第33页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/47193109/" class=" " title="南渡南归">南渡南归</a>
+                (人生何处不围城。)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="38171756">
+              <div class="short">
+                
+                  <span class="">这一结果表示，1988年全国城市居民的年收入均值有95%的可能性落在1854.59~1888.11元之间。
+
+95%的置信区间不应该是这个陈述的可信度是95%，而不是95%的可能性落在区间内？？
+
+</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/38171756/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2016-07-18 10:38</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>这一结果表示，1988年全国城市居民的年收入均值有95%的可能性落在1854.59~1888.11元之间。</q></blockquote><div style="padding-bottom:1em;"></div>95%的置信区间不应该是这个陈述的可信度是95%，而不是95%的可能性落在区间内？？<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/38171756/#comments">1回应</a>&nbsp;&nbsp;
+                  2016-07-18 10:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="38171756">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/47193109/"><img src="https://img3.doubanio.com/icon/u47193109-4.jpg" alt="南渡南归" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/38171756/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/38171756/" class="">第33页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/47193109/" class=" " title="南渡南归">南渡南归</a>
+                (人生何处不围城。)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="38171756">
+              <div class="short">
+                
+                  <span class="">这一结果表示，1988年全国城市居民的年收入均值有95%的可能性落在1854.59~1888.11元之间。
+
+95%的置信区间不应该是这个陈述的可信度是95%，而不是95%的可能性落在区间内？？
+
+</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/38171756/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2016-07-18 10:38</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>这一结果表示，1988年全国城市居民的年收入均值有95%的可能性落在1854.59~1888.11元之间。</q></blockquote><div style="padding-bottom:1em;"></div>95%的置信区间不应该是这个陈述的可信度是95%，而不是95%的可能性落在区间内？？<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/38171756/#comments">1回应</a>&nbsp;&nbsp;
+                  2016-07-18 10:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="31330233">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/wszt/"><img src="https://img3.doubanio.com/icon/u79332436-4.jpg" alt="wszt" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/31330233/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/31330233/" class="">第19页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/wszt/" class=" " title="wszt">wszt</a>
+              
+            </p>
+            <div class="reading-note" data-cid="31330233">
+              <div class="short">
+                
+                  <span class="">概率统计方面的基本功在后面学习回归等相当重要，但是第一章只是走马观花地提一下，也因为这本书不是概率方面的，所以没必要在这上面浪费章节。
+这方面需要另外看其他书补充。</span>
+                <p class="pl">
+                  <span class="">2014-04-22 09:28</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                概率统计方面的基本功在后面学习回归等相当重要，但是第一章只是走马观花地提一下，也因为这本书不是概率方面的，所以没必要在这上面浪费章节。<div style="padding-bottom:1em;"></div>这方面需要另外看其他书补充。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/31330233/#comments">回应</a>&nbsp;&nbsp;
+                  2014-04-22 09:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="15634396">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/27422714/"><img src="https://img3.doubanio.com/icon/u27422714-22.jpg" alt="姚之之" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/15634396/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/15634396/" class="">第3页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/27422714/" class=" " title="姚之之">姚之之</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="15634396">
+              <div class="short">
+                
+                  <span class="">只有在真正理解了统计学思想之后，一个人才能对定量研究方法进行评价。</span>
+                <p class="pl">
+                  <span class="">2011-12-02 16:27</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                只有在真正理解了统计学思想之后，一个人才能对定量研究方法进行评价。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/15634396/#comments">回应</a>&nbsp;&nbsp;
+                  2011-12-02 16:27
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/4933040/discussion/58118992/" title="如有意向出版，敬请投稿" class="">如有意向出版，敬请投稿</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/85483425/">祥云</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2014-06-30</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=2210&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=2210&amp;pos=1&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4808122.htm&amp;cntvendor=1&amp;link2key=09c6aaa1c5&amp;srcsubj=4933040&amp;type=bkbuy&amp;subject=4933040" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=2210&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=2210&amp;pos=1&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4808122.htm&amp;cntvendor=1&amp;link2key=09c6aaa1c5&amp;srcsubj=4933040&amp;type=bkbuy&amp;subject=4933040" class="buylink-price ">
+                      <span class="">
+                        22.10 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/4933040/buylinks">
+              &gt; 查看1家网店价格
+                (22.10 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787509716014&amp;subject=7509716012&amp;type=borrow&amp;library=10012&amp;link2key=09c6aaa1c5" target="_blank">上海市中心图书馆(2)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D9787509716014%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7509716012&amp;type=borrow&amp;library=10022&amp;link2key=09c6aaa1c5" target="_blank">广州图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D9787509716014%26strSearchType%3Disbn&amp;subject=7509716012&amp;type=borrow&amp;library=10002&amp;link2key=09c6aaa1c5" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fourex.lib.sjtu.edu.cn%2Fprimo_library%2Flibweb%2Faction%2Fsearch.do%3Ffn%3Dsearch%26vl%28freeText0%29%3D978-7-5097-1601-4&amp;subject=7509716012&amp;type=borrow&amp;library=10006&amp;link2key=09c6aaa1c5" target="_blank">上海交通大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac3.wzlib.cn%2Fopac%2Fsearch%3FsearchWay%3Disbn%26q%3D978-7-5097-1601-4%26booktype%3D%26marcformat%3D%26sortWay%3Dscore%26sortOrder%3Ddesc%26startPubdate%3D%26endPubdate%3D%26rows%3D10&amp;subject=7509716012&amp;type=borrow&amp;library=10020&amp;link2key=09c6aaa1c5" target="_blank">温州市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D978-7-5097-1601-4%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7509716012&amp;type=borrow&amp;library=10021&amp;link2key=09c6aaa1c5" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1049087">全部2</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/22277048/">社会科学文献出版社版</a>
+          2013-3 / 7人读过 / 有售
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/4933040/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/1629277/" target="_blank">人文社科方法论</a>
+                <span class="pl">(密涅瓦的貓頭鷹)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/252185/" target="_blank">社会学与政治学</a>
+                <span class="pl">(王荣欣)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/36133477/" target="_blank">产品经理</a>
+                <span class="pl">(檀郎)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/592438/" target="_blank">学识——数据分析</a>
+                <span class="pl">(半睡半醒的猪)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1355627/" target="_blank">读书：方法相关</a>
+                <span class="pl">(桐斋主人)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/103499118/"><img src="https://img3.doubanio.com/icon/u103499118-3.jpg" class="pil" alt="里中念伊" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/103499118/">里中念伊</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/feifan321/"><img src="https://img3.doubanio.com/icon/u1870835-5.jpg" class="pil" alt="飞凡|missing you" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/feifan321/">飞凡|missing you</a><br/>
+      <div class="pl ll">          6月21日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/115717554/"><img src="https://img3.doubanio.com/icon/u115717554-14.jpg" class="pil" alt="少川与亚轩" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/115717554/">少川与亚轩</a><br/>
+      <div class="pl ll">          6月17日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/4933040/doings">58人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/4933040/collections">134人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/4933040/wishes">576人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/4933040/offers">4本二手书欲转让</a>
+          <span class="">
+            (1.00
+              元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有576人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于回归分析的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/4933040/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'o-U20o2Mhl8',
+            criteria = '7:统计学|7:回归分析|7:社会学|7:统计|7:数学|7:谢宇|7:研究方法|7:方法论|7:Methodology|7:数据分析|3:/subject/4933040/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- hador13-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

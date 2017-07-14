@@ -1,0 +1,3329 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>反脆弱 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/25782902/">
+<meta name="keywords" content="反脆弱,[美]纳西姆•尼古拉斯•塔勒布,中信出版社,2014-1-1,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书反脆弱 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/25782902/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">反脆弱</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img1.doubanio.com/lpic/s27196248.jpg" title="反脆弱">
+    <img src="https://img1.doubanio.com/lpic/s27196248.jpg" title="点击看大图" alt="反脆弱"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E7%BA%B3%E8%A5%BF%E5%A7%86%E2%80%A2%E5%B0%BC%E5%8F%A4%E6%8B%89%E6%96%AF%E2%80%A2%E5%A1%94%E5%8B%92%E5%B8%83">[美]纳西姆•尼古拉斯•塔勒布</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 中信出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 从不确定性中获益<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> Antifragile: Things That Gain from Disorder<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E9%9B%A8%E7%8F%82">雨珂</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2014-1-1<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 408<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 68.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 精装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787508643335<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.2 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">3147</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">41.2%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:57px"></div>
+
+            <span class="rating_per">36.9%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:26px"></div>
+
+            <span class="rating_per">16.8%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:5px"></div>
+
+            <span class="rating_per">3.4%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:2px"></div>
+
+            <span class="rating_per">1.6%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25782902-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25782902-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25782902-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25782902-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25782902-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25782902-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25782902-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25782902-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-25782902">
+        <a href="#" data-url="https://book.douban.com/subject/25782902/" data-desc="" data-title="书籍《反脆弱》 (来自豆瓣) " data-pic="https://img1.doubanio.com/lpic/s27196248.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_25782902"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>为什么这个世界上最稳定的国家其实没有政府？</p>    <p>为什么负债对你不好，以及为什么我们通常所说的“效率”根本缺乏就是效率？</p>    <p>为什么政府和社会政策保护强者，却伤害弱者？</p>    <p>为什么你应该在还没入职之前，就应该写好辞职信？</p>    <p>泰坦尼克号的沉没为什么拯救了更多的生命？</p>    <p>尼采有句名言：“杀不死我的，使我更强大。”就像人的骨头承受压力和紧张会变得更加强壮，谣言或暴乱在有人试图压制它们时会变本加厉一样，生命中的许多事物也会受益于压力、混乱、波动和不确定。</p>    <p>畅销书《黑天鹅》告诉我们，发生概率极低的事件和无法预测的“黑天鹅”事件，在世界上几乎每一种事物的身上都会发生。在《反脆弱》一书中，塔勒布告诉我们在不确定的世界中的生存法则，他找到并定义了“反脆弱”类事物：每一个事物都会从波动中得到利益或蒙受损失，脆弱性是指因为波动和不确定而承受损失，反脆弱性则是指让自己避免这些损失，甚至从混...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>为什么这个世界上最稳定的国家其实没有政府？</p>    <p>为什么负债对你不好，以及为什么我们通常所说的“效率”根本缺乏就是效率？</p>    <p>为什么政府和社会政策保护强者，却伤害弱者？</p>    <p>为什么你应该在还没入职之前，就应该写好辞职信？</p>    <p>泰坦尼克号的沉没为什么拯救了更多的生命？</p>    <p>尼采有句名言：“杀不死我的，使我更强大。”就像人的骨头承受压力和紧张会变得更加强壮，谣言或暴乱在有人试图压制它们时会变本加厉一样，生命中的许多事物也会受益于压力、混乱、波动和不确定。</p>    <p>畅销书《黑天鹅》告诉我们，发生概率极低的事件和无法预测的“黑天鹅”事件，在世界上几乎每一种事物的身上都会发生。在《反脆弱》一书中，塔勒布告诉我们在不确定的世界中的生存法则，他找到并定义了“反脆弱”类事物：每一个事物都会从波动中得到利益或蒙受损失，脆弱性是指因为波动和不确定而承受损失，反脆弱性则是指让自己避免这些损失，甚至从混乱和不确定中获利。</p>    <p>反脆弱类事物不只受益于混沌，也需要适时出现的压力与危机，如此才能维持生存与实现繁荣。作者还认为，不确定性是件好事，甚至有其存在的必要，并且建议我们培养反脆弱性的特质。反脆弱性超越强韧性或坚固性：强韧性只能够抵抗震动和维持原状；反脆弱性则会让事物变得越来越好。此外，反脆弱性还可以避免预测误差，并且保护事物不受负面“黑天鹅”事件的影响。</p>    <p>这本书大谈试错法、人生的大小决定、政治、自治市、战争、个人理财、经济体系和医疗系统……风格独树一帜。《反脆弱》性是我们生活在不确定世界中的“导航仪”，也是面对随时可能出现的“黑天鹅”事件的终极自保指南。</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/25782902/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>纳西姆•尼古拉斯•塔勒布（Nassim Nicholas Taleb），畅销书《黑天鹅》、《随机漫步的傻瓜》作者，我们这个时代最伟大的思想者之一。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_25782902_short">
+        章节概要与阅读导图　XI<br/>
+        前 言　XV<br/>
+        第一卷 反脆弱性：介绍<br/>
+        第1章　达摩克利斯之剑和九头蛇怪　3<br/>
+        生活中的一半事物未被命名　3<br/>
+        请砍我的头　5<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_25782902_short').hide();$('#dir_25782902_full').show();$.get('/j/subject/j_dir_count',{id:25782902});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_25782902_full" style="display:none">
+        章节概要与阅读导图　XI<br/>
+        前 言　XV<br/>
+        第一卷 反脆弱性：介绍<br/>
+        第1章　达摩克利斯之剑和九头蛇怪　3<br/>
+        生活中的一半事物未被命名　3<br/>
+        请砍我的头　5<br/>
+        反脆弱性的原型　8<br/>
+        领域独立就是领域依赖　10<br/>
+        第2章　随处可见的过度补偿和过度反应　12<br/>
+        如何在跑马比赛中取胜　14<br/>
+        论暴乱、爱和其他意料之外压力受益者的反脆弱性　18<br/>
+        第3章　猫与洗衣机　24<br/>
+        压力源即信息　26<br/>
+        针对儿童的犯罪　31<br/>
+        第4章　杀死我的东西却让其他人更强壮　35<br/>
+        反脆弱性的层级　35<br/>
+        错误，谢谢你　41<br/>
+        为何整体厌恶个体　44<br/>
+        杀不死我的，会杀死其他人　45<br/>
+        第二卷 现代化与对反脆弱性的否定<br/>
+        第5章　露天市场与办公楼　53<br/>
+        两种职业　53<br/>
+        自下而上的变动　57<br/>
+        远离极端斯坦　60<br/>
+        12 000年　63<br/>
+        第6章　告诉他们我爱随机性　69<br/>
+        饥饿的驴　71<br/>
+        一枚名叫“稳定性”的定时炸弹　74<br/>
+        在这里，我们把什么叫作现代化？　76<br/>
+        第7章　天真的干预　79<br/>
+        干预和 医源性损伤　79<br/>
+        大规模的神经过敏　92<br/>
+        国家无能的时候反而大有益　95<br/>
+        将催化剂与起因混为一谈　98<br/>
+        第8章　预测是现代化的产物　101<br/>
+        第三卷 非预测性的世界观<br/>
+        第9章　胖子托尼与脆弱推手　109<br/>
+        懒惰的朋友　109<br/>
+        愚蠢的人和不愚蠢的人　112<br/>
+        第10章　塞内加的不利因素和有利因素　117<br/>
+        第11章　千万别嫁给摇滚明星　125<br/>
+        破损的包裹无法恢复原状　125<br/>
+        塞内加的杠铃　127<br/>
+        第四卷 可选择性、技术与反脆弱性的智慧<br/>
+        第12章　泰勒斯的甜葡萄　137<br/>
+        选择权与不对称性　138<br/>
+        泰勒斯主义和亚里士多德主义　143<br/>
+        第13章　教鸟儿如何飞行　150<br/>
+        苏联–哈佛鸟类学系　156<br/>
+        副现象　159<br/>
+        第14章　当两件事不是“同一回事”时　164<br/>
+        压力在哪里？　165<br/>
+        绿色木材谬误　169<br/>
+        混为一谈　172<br/>
+        第15章　失败者撰写的历史　177<br/>
+        医疗领域的案例　189<br/>
+        反“火鸡”问题　194<br/>
+        江湖郎中、学者和爱出风头的人　197<br/>
+        第16章　混乱中的秩序　199<br/>
+        生态与游戏　199<br/>
+        反脆弱性的（杠铃式）教育　201<br/>
+        第17章　胖子托尼与苏格拉底辩论　206<br/>
+        《欧蒂弗罗篇》　206<br/>
+        胖子托尼对话苏格拉底　208<br/>
+        定义性知识的优越性　210<br/>
+        愚蠢的人和非愚蠢的人的区别　215<br/>
+        第四卷小结　217<br/>
+        第五卷 非线性与非线性<br/>
+        第18章　一块大石头与一千颗小石子的区别　223<br/>
+        发现脆弱性的简单法则　224<br/>
+        更多就是不同之处　232<br/>
+        小的可能是丑陋的，但肯定不那么脆弱　234<br/>
+        预估与预测　238<br/>
+        强调“效率”的地方偏偏缺乏效率　241<br/>
+        第19章　炼金石与反炼金石　245<br/>
+        如何识别谁将破产　245<br/>
+        如何失去了祖母　249<br/>
+        现在来谈炼金石　251<br/>
+        第六卷 否定法<br/>
+        第20章　时间与脆弱性　263<br/>
+        从西蒙尼德斯到詹森　263<br/>
+        学习做减法　265<br/>
+        越活越年轻：林迪效应　270<br/>
+        一些心理偏差　273<br/>
+        建筑和不可逆转的新事物狂热症　277<br/>
+        把科学变成新闻　281<br/>
+        应该会消失的东西　284<br/>
+        先知与现在　285<br/>
+        恩培多克勒的狗　287<br/>
+        第21章　医疗、凸性和不透明　288<br/>
+        如何在急诊室中辩论　290<br/>
+        医源性损伤的首要原则：经验主义　291<br/>
+        医源性损伤的第二原则：非线性反应　292<br/>
+        埋藏证据　295<br/>
+        大自然的不透明逻辑　299<br/>
+        第22章　活得长寿，但不要太长　307<br/>
+        预期寿命和凸性　307<br/>
+        如何吃掉自己　317<br/>
+        第七卷 脆弱性与反脆弱性的伦理<br/>
+        第23章　切身利害：反脆弱性和牺牲他人的可选择性 　323<br/>
+        汉谟拉比　327<br/>
+        空谈者的免费选择权　329<br/>
+        古人和斯蒂格利茨综合征　339<br/>
+        选择权、反脆弱性与社会公平　344<br/>
+        反脆弱性与大公司的伦理　347<br/>
+        第24章　给职业套上伦理光环　353<br/>
+        专业人士和集体　355<br/>
+        大数据与研究者的选择权　361<br/>
+        集体的专制　364<br/>
+        第25章　结语　366<br/>
+        后 记　369<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_25782902_full').hide();$('#dir_25782902_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共773个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/思维">思维</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/心理学">心理学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/反脆弱">反脆弱</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/塔勒布">塔勒布</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社会">社会</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/黑天鹅">黑天鹅</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/心理">心理</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/投资">投资</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;反脆弱&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/885217/?dcs=subject-rec&amp;dcm=douban&amp;dct=25782902" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/885217.jpg?v=1395395245.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/885217/" target="_blank">清醒思考的艺术</a>
+          </div>
+          <div class="price">
+              4.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/10574918/?dcs=subject-rec&amp;dcm=douban&amp;dct=25782902" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/10574918.jpg?v=1434624627.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/10574918/" target="_blank">随机生存的智慧</a>
+          </div>
+          <div class="price">
+              9.60元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/484790/?dcs=subject-rec&amp;dcm=douban&amp;dct=25782902" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/484790.jpg?v=1395395714.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/484790/" target="_blank">精益创业</a>
+          </div>
+          <div class="price">
+              5.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/24253907/?dcs=subject-rec&amp;dcm=douban&amp;dct=25782902" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/24253907.jpg?v=1471251023.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/24253907/" target="_blank">自控力</a>
+          </div>
+          <div class="price">
+              14.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/537213/?dcs=subject-rec&amp;dcm=douban&amp;dct=25782902" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/537213.jpg?v=1395395705.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/537213/" target="_blank">思考，快与慢</a>
+          </div>
+          <div class="price">
+              8.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;反脆弱&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3025921/" onclick="moreurl(this, {'total': 8, 'clicked': '3025921', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s3023327.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3025921/" onclick="moreurl(this, {'total': 8, 'clicked': '3025921', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            黑天鹅
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5346110/" onclick="moreurl(this, {'total': 8, 'clicked': '5346110', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4532008.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5346110/" onclick="moreurl(this, {'total': 8, 'clicked': '5346110', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            穷查理宝典
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5375620/" onclick="moreurl(this, {'total': 8, 'clicked': '5375620', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4554820.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5375620/" onclick="moreurl(this, {'total': 8, 'clicked': '5375620', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            失控
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3006742/" onclick="moreurl(this, {'total': 8, 'clicked': '3006742', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s3003932.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3006742/" onclick="moreurl(this, {'total': 8, 'clicked': '3006742', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            改变
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6709809/" onclick="moreurl(this, {'total': 8, 'clicked': '6709809', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6586365.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6709809/" onclick="moreurl(this, {'total': 8, 'clicked': '6709809', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            暗时间
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4243770/" onclick="moreurl(this, {'total': 8, 'clicked': '4243770', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4409486.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4243770/" onclick="moreurl(this, {'total': 8, 'clicked': '4243770', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            创新者的窘境
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6965746/" onclick="moreurl(this, {'total': 8, 'clicked': '6965746', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6999201.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6965746/" onclick="moreurl(this, {'total': 8, 'clicked': '6965746', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            科技想要什么
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1013208/" onclick="moreurl(this, {'total': 8, 'clicked': '1013208', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1670978.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1013208/" onclick="moreurl(this, {'total': 8, 'clicked': '1013208', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            如何阅读一本书
+          </a>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/25782902/comments/">全部 1222 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="978760768">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-978760768" class="vote-count">16</span>
+                        <a href="javascript:;" id="btn-978760768" class="j a_show_login" data-cid="978760768">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/amoyahoo/">自娱者小五</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2015-11-19</span>
+                </span>
+            </h3>
+            <p class="comment-content">又来几句论了：1.大面上我非常喜欢这本书所阐述的道理，忍受过逆境的是强者，可善用逆境甚至乐于行走于逆境之中的是英雄是赢家；不刻意去掩盖时常的波动和正常的不确定性，反而有持久而平稳的幸福感；2.辩证的道理，适用于农业、生物进化、政体发展和经济体塑造，当然更可指导人生。书中有一段关于作者对失败者的定义，颇得我心；3.不喜欢说理部分，举例无说服力，感觉是来自作者的臆想，以自己编写的故事来佐证自己的道理，自然没有漏洞，但很无趣；4.书里几处自身经历的描述不难看出，作者是个蛮激进的人，观点偏右。最后一句属于客观评述，仅仅是个人看法，不褒不贬。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="838442578">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-838442578" class="vote-count">11</span>
+                        <a href="javascript:;" id="btn-838442578" class="j a_show_login" data-cid="838442578">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/qiaomai/">荞麦</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-08-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">虽然有些地方根本看不懂，而且有几章我觉得根本就是作者在胡说八道……但我真的得到了很大的启示！！！很大！！！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="791554896">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-791554896" class="vote-count">4</span>
+                        <a href="javascript:;" id="btn-791554896" class="j a_show_login" data-cid="791554896">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/maxineY/">7酱™</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-03-31</span>
+                </span>
+            </h3>
+            <p class="comment-content">刷新了几个概念，提供了一些很特别的视角。但是书中有些跨学科的例子举的有点儿太牵强，总觉得作者在刷逆向思维的时候应该再刷一个逆向思维的逆向思维，这样就很难得出一个自圆其说的理论体系而是寻找了一个微妙的平衡。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="760235959">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-760235959" class="vote-count">4</span>
+                        <a href="javascript:;" id="btn-760235959" class="j a_show_login" data-cid="760235959">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/danielleo/">莫邪</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2014-03-28</span>
+                </span>
+            </h3>
+            <p class="comment-content">#恒阅# 个体面对不确定性有三种属性：脆弱、强韧、反脆弱。反脆弱即能从冲击和伤害中成长。生命体相对无生命体的区别就在于其具备反脆弱性。个体被不确定性伤害的时候，整体却因为个体的脆弱而获得反脆弱性。前提是个体之间相互独立不会传播突变，且突变不是毁灭性的。与其防备和避免黑天鹅事件，不如找到具备反脆弱属性的办法。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="936501425">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-936501425" class="vote-count">28</span>
+                        <a href="javascript:;" id="btn-936501425" class="j a_show_login" data-cid="936501425">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/kaylynn/">鬼</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2015-07-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">这种东西8.4，你们真是没读过好的</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1207637264">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1207637264" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1207637264" class="j a_show_login" data-cid="1207637264">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/vasman/">/名士</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">经典之作，值得再读</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1207294001">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1207294001" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1207294001" class="j a_show_login" data-cid="1207294001">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/151126142/">李李Leona</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">思想有启发性，但语言比较啰嗦、发散。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1207255536">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1207255536" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1207255536" class="j a_show_login" data-cid="1207255536">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/66729630/">徐众一</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">关键词：反脆弱。正如健身一样，肌肉在重压的情况下反而会更强壮。我们生活中许多事物也会在压力、混乱、波动中受益，例如泰坦尼克号。不确定性是恒定存在的，永远潜伏在世间万物的背后，不可预测不可预防，我们只能通过构建反脆弱体系来应对，甚至获益。三大模型：降低脆弱性、杠铃策略、积极试错。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1204345753">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1204345753" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1204345753" class="j a_show_login" data-cid="1204345753">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/qjgods/">小杰</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-18</span>
+                </span>
+            </h3>
+            <p class="comment-content">拥抱变化，拥抱错误，在变化中获益，在错误中成长。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1202617249">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1202617249" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1202617249" class="j a_show_login" data-cid="1202617249">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/136881197/">麦芽糖</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-06-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">一本有点难啃的书。反脆弱这个词是作者自创的，实质上本书就是告诉我们如何面对未来的不确定事件带来的风险。我们原本的方法靠的是提前预测风险提前做好准备，等到意外来临以后就可以面对。这个其实也是脆弱的，因为它怕事大。大自然就是反脆弱的，基因的各异，物种的多变，在系统的层层布局中就算有一天地球毁灭，还是会有各种细菌或者基因终究会从某个地方冒出来。“凡是杀不死我的，只会让我变得更加强大”。所以反脆弱指的是首先我们要承认生活中存在各种意外，我们设计的生活模式，不但可以在风险中受挫，而且可以从风险中获取成长，坚强和最大利益。那么我们改如何减少脆弱性呢？生活中要多做减法；利用杠铃策略；主动理性试错。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/25782902/comments/">更多短评 1222 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/25782902/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            反脆弱的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 168 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6570305">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6570305/" class="title-link">纠结和疼痛才是参与感</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6570305"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/cystony/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u3305644-76.jpg"></a>
+    <a href="https://www.douban.com/people/cystony/" class="author">
+      <span property="v:reviewer">cys.tony</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-03-02"
+      class="main-meta">2014-03-02 22:42:52</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6570305_short" class="review-short">
+            <div class="short-content">
+                      一个玻璃杯美美地放在桌子上，当摔到地上的时候它会瞬间破碎，所以玻璃杯就是脆弱的；如果摔到地上的是一个塑料杯，它不会破碎而会在地上弹两下，所以塑料杯是强韧的；想象一下有种杯子，当摔到地下的时候，它非但没有破碎反而变成了两个杯子，这个时候它就是反脆弱的。   ...
+
+                    <a class="pl" href="https://book.douban.com/review/6570305/#comments">(31回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">234有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6570305_full" class="hidden">
+            <div id="review_6570305_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6573668">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6573668/" class="title-link">【蜡翼·书评】酒神思维</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6573668"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/nwwfewx/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u9083557-8.jpg"></a>
+    <a href="https://www.douban.com/people/nwwfewx/" class="author">
+      <span property="v:reviewer">伊卡洛斯</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-03-05"
+      class="main-meta">2014-03-05 12:45:00</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6573668_short" class="review-short">
+            <div class="short-content">
+                  （注：该文已于3月3日在《经济观察报》上发表） 介绍这本书之前，很有必要介绍一下本书作者：纳西姆·尼古拉斯·塔勒布。这位来自于黎巴嫩艾姆云的“漫游者”可谓是一个“天才”：在商业领域，他是安皮里卡资本公司的创办人，被业界誉为深有影响的商业思想家，在学术领域，他是...
+
+                    <a class="pl" href="https://book.douban.com/review/6573668/#comments">(19回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">118有用 / 7没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6573668_full" class="hidden">
+            <div id="review_6573668_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6484559">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6484559/" class="title-link">Notes</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6484559"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/huangyongtao/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1134011-45.jpg"></a>
+    <a href="https://www.douban.com/people/huangyongtao/" class="author">
+      <span property="v:reviewer">Jack</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2013-12-30"
+      class="main-meta">2013-12-30 01:26:48</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6484559_short" class="review-short">
+            <div class="short-content">
+                  写的足够好，好到我老人家继续写一次笔记。  1. 每一次飞机的失事都降低了下一次事故发生的概率，每一家银行的崩溃都提高了下一家银行崩溃的概率。  2. 要让经济具有反脆弱性，并经历所谓的变化。每个独立的企业都有必要是脆弱的。较高层级事物的反脆弱性有赖于较低级事物的脆...
+
+                    <a class="pl" href="https://book.douban.com/review/6484559/#comments">(23回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">135有用 / 13没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6484559_full" class="hidden">
+            <div id="review_6484559_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6495961">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6495961/" class="title-link">【蜡翼·笔记】在混乱中成长</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6495961"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/nwwfewx/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u9083557-8.jpg"></a>
+    <a href="https://www.douban.com/people/nwwfewx/" class="author">
+      <span property="v:reviewer">伊卡洛斯</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-01-06"
+      class="main-meta">2014-01-06 18:41:51</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6495961_short" class="review-short">
+            <div class="short-content">
+                  0p     脆弱的事物喜欢安宁的环境，反脆弱的事物则从混乱中成长，强韧的事物不太在意环境。 0p     反脆弱性：从冲击中受益，暴露在波动性、随机性、混乱和压力、风险和不确定性下时，反而能茁壮成长和壮大，从随机事件中获得有利结果。 0p     风会熄灭蜡烛，却能使火越烧越旺...
+
+                    <a class="pl" href="https://book.douban.com/review/6495961/#comments">(9回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">131有用 / 7没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6495961_full" class="hidden">
+            <div id="review_6495961_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7087193">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7087193/" class="title-link">生活在无法预测的世界</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7087193"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/betagirl/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u3115754-24.jpg"></a>
+    <a href="https://www.douban.com/people/betagirl/" class="author">
+      <span property="v:reviewer">贝塔</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-09-14"
+      class="main-meta">2014-09-14 16:28:46</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7087193_short" class="review-short">
+            <div class="short-content">
+                  鸡汤与鸡精之间一定有区别，区别并不体现在作者的国籍、标题是否恶俗、词藻是否浮夸苍白，甚至内容本身是否已被用滥； 区别只体现在，宣扬某种理念的人，自己在现实生活中到底是个怎样的人：他是按照他所提倡的观念去生活的吗？他是否能在任何境遇下坚持自己的观念，并对这种行...
+
+                    <a class="pl" href="https://book.douban.com/review/7087193/#comments">(3回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">30有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7087193_full" class="hidden">
+            <div id="review_7087193_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评168篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/25782902/annotation">共<span property="v:count">268</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="32635894">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/83314440/"><img src="https://img3.doubanio.com/icon/u83314440-2.jpg" alt="读书笔记ppt" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/32635894/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/32635894/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/83314440/" class=" " title="读书笔记ppt">读书笔记ppt</a>
+              
+            </p>
+            <div class="reading-note" data-cid="32635894">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/32635894/"><img src="https://img3.doubanio.com/view/page_note/small/public/p32635894-2.jpg"></a>
+                  </div>
+                  <span class="">《反脆弱》读书笔记PPT 
+源文件下载链接，请戳： http://pan.baidu.com/s/1c07W5TQ
+
+
+
+本读书笔记由微博@糖炒诗人- 制作。
+系列图书笔记分享在微博@读书笔记PPT 。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/32635894/">(<span class="">3回应</span>)</a>
+                <p class="pl">
+                  <span class="">2014-08-22 20:15</span>
+                  
+                    &nbsp;&nbsp;<span class="">47人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《反脆弱》读书笔记PPT <div style="padding-bottom:1em;"></div>源文件下载链接，请戳： <a rel="nofollow" href="http://pan.baidu.com/s/1c07W5TQ" target="_blank">http://pan.baidu.com/s/1c07W5TQ</a><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p32635894-2.jpg" alt=""><br><span class="pic-title"></span></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p32635894-3.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>本读书笔记由微博@糖炒诗人- 制作。<div style="padding-bottom:1em;"></div>系列图书笔记分享在微博@读书笔记PPT 。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/32635894/#comments">3回应</a>&nbsp;&nbsp;
+                  2014-08-22 20:15
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="31373865">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/mleee/"><img src="https://img3.doubanio.com/icon/u4709101-2.jpg" alt="吾术家" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/31373865/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/31373865/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/mleee/" class=" " title="吾术家">吾术家</a>
+                (不掩饰)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="31373865">
+              <div class="short">
+                
+                  <span class="">对挫折的过度反应所释放出来的多余能量成就了创新！
+
+过度补偿机制往往隐藏在最不可能的地方。长途飞行后最好去健身房锻炼以消除疲劳，而不是坐下来休息。此外，还有一个众所周知的小伎俩，如果你急着要完成某事，不妨将其交给办公室里任务最繁忙的（或第二繁忙的）那个人去做。大多数人的空闲时间都会被浪费掉，因为空闲时间会让他们无所事事、懒惰、无心向学，而一旦他们忙起来，他们往往会在其他任务上也更为积极。过度反应在...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/31373865/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2014-04-25 15:49</span>
+                  
+                    &nbsp;&nbsp;<span class="">24人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                对挫折的过度反应所释放出来的多余能量成就了创新！<div style="padding-bottom:1em;"></div>过度补偿机制往往隐藏在最不可能的地方。长途飞行后最好去健身房锻炼以消除疲劳，而不是坐下来休息。此外，还有一个众所周知的小伎俩，如果你急着要完成某事，不妨将其交给办公室里任务最繁忙的（或第二繁忙的）那个人去做。大多数人的空闲时间都会被浪费掉，因为空闲时间会让他们无所事事、懒惰、无心向学，而一旦他们忙起来，他们往往会在其他任务上也更为积极。过度反应在这里再次显现。<div style="padding-bottom:1em;"></div>一个过度反应的系统一定会采用超额模式，建立额外的能力和力量，预期更坏的结果，对有关危险发生概率的信息做出反应。当然，从机会主义的角度说，这种额外的能力或力量本身也可能是很有用的。我们看到，冗余是机会主义，所以即使在没有危险的情况下，这种额外的力量也能带来一定的益处。告诉你碰到的下一个工商管理学硕士（MBA）分析师或商学院教授，冗余不是防御性的；它更像是投资，而不仅仅是保险。再告诉他们一句，他们认为“低效率”的事物往往是非常有效的。<div style="padding-bottom:1em;"></div>“健康”一词本身可能就相当不准确，甚至含糊不清，而“反脆弱性”超越了一般的健康状态，这帮助我们澄清了概念的混淆。什么是“健康”？是身体状况根据过去的特定环境进行调节，还是进一步针对预期的高压或更高强度的环境进行调节？许多人会选择第一种适应能力，而忽略反脆弱性的概念。但如果他们以数学方式写下自然选择的标准模型，他们会看到过度反应效应，而不仅仅是维持“健康”状态。<div style="padding-bottom:1em;"></div>政治运动和叛乱具有高度的反脆弱性，愚蠢的行为就是试图用暴力压制它们，而不是想办法操控它们、以退为进，或找到更精明的策略<div style="padding-bottom:1em;"></div>我想用一个现象结束这一部分的内容。我们常看到一个令人费解的现象，即给我们带来最大利益的并不是那些曾试图帮助我们（比如提供“建议”）的人，而是那些曾努力伤害我们但最终未能如愿的人<div style="padding-bottom:1em;"></div>衰老在很大程度上源自对舒适生活的误解，是一种文明病：一心想越活越长寿，可是不知为什么却越来越多病。在自然的环境下，人们会死，但是不会衰老，或者衰老的时间很短。比如，现代人的血压指标一般会随着年龄的增长而恶化，但是在狩猎采集者的身上都看不到这个现象，除了他们终老前的一小段时间。<div style="padding-bottom:1em;"></div>我们用系统性的方法清除事物的不确定性和随机性，以便在最细节的层面确保高度的可预测性，其目的就是为了舒适性、便利性和效率。<div style="padding-bottom:1em;"></div>如果你还活着，你的内心深处就会喜欢一定程度的随机性和混乱<div style="padding-bottom:1em;"></div>世界上有这么一种人，对他们来说，生活就是某种项目。在与他们交谈之后的几个小时内，你都会感觉很不舒服；生活开始变得像寡淡无味的食物。我是一个寻求刺激的人，我有一个刺激探测器，这似乎与我的无聊探测器很匹配，就好像我们天生配备着一个过滤器，天生厌恶无聊。<div style="padding-bottom:1em;"></div>现代生活中充斥着原本可以避免的慢性应激损伤。<div style="padding-bottom:1em;"></div>事物从波动、意外或伤害中获得的益处<div style="padding-bottom:1em;"></div>由此可见，为了永生不死，有机体需要完美地预测未来—近乎完美也是不够的。但是如果有机体只有一次有限的生命，并在代际延续的时候进行修正，就不需要预测未来的情况，而只需要对事物应该朝哪个方向发展有个极为模糊的概念。<div style="padding-bottom:1em;"></div>自然（以及类似自然的系统）喜欢有机体之间存在多样性，而不是一个不朽的有机体内部存在多样性<div style="padding-bottom:1em;"></div>进化得益于两种随机性：突变的随机性和环境的随机性—这两种随机性均通过类似的方式，导致幸存的下一代的特征发生变化<div style="padding-bottom:1em;"></div>为了改善系统，有人付出了生命的代价<div style="padding-bottom:1em;"></div>这就是生活中的核心错觉，即认为随机性是有风险的，是一桩坏事，消除随机性，就可以消除风险<div style="padding-bottom:1em;"></div>你在一个系统中看到的波动性越多，其实它越不容易遭遇“黑天鹅”事件<div style="padding-bottom:1em;"></div>被压抑了波动性的系统在爆炸后会发生什么。我们有一个恰当的例子：2003年当美国突然推翻萨达姆·侯赛因和他的政权时，阿拉伯复兴社会党遭到取缔。当时有超过10万人死亡，10年后，伊拉克仍是一个烂摊子<div style="padding-bottom:1em;"></div>脆弱但不自知<div style="padding-bottom:1em;"></div>概括地说，人为地压制波动性不仅会导致系统变得极其脆弱，同时，系统也不会呈现出明显的风险。我们说过，波动性就是信息。事实上，这些系统往往过于风平浪静，而其表面之下却暗流涌动。<div style="padding-bottom:1em;"></div>现代化始于国家对暴力的垄断，而终结于国家对财政不负责任的垄断运营。<div style="padding-bottom:1em;"></div>你越频繁地寻找数据，你会发现，你找到的噪声（而非被称为信号的宝贵数据）的比例就越高，噪声–信号比就越高<div style="padding-bottom:1em;"></div>我们不是天生就明白上述道理的，所以我们会在情绪上对噪声反应过度。最好的办法是只看重大的数据或条件的变化，而忽略小的变化。<div style="padding-bottom:1em;"></div>对一架坠机风险很高的飞机来说，“速度”多少毫无意义，因为我们知道它有可能无法到达目的地，而脆弱性的经济增长也不能被称为经济增长<div style="padding-bottom:1em;"></div>我用杠铃来形象地描述在某些领域采取保守策略（从而在负面的“黑天鹅”面前保持强韧性），而在其他领域承担很多小的风险（以开放的姿态迎接正面的“黑天鹅”）的双重态度，从而实现反脆弱性。<div style="padding-bottom:1em;"></div>随机性的杠铃策略会通过减轻脆弱性、消除伤害导致的不利风险来增强反脆弱性，也就是减少不利事件带来的痛苦，同时确保获得潜在收益<div style="padding-bottom:1em;"></div>反脆弱性等于获得的比失去的更多，等于有利因素比不利因素更多，即等于（有利的）不对称性，也等于偏好波动性。如果决策正确所得到的利益大于决策错误所受到的伤害，那么从长远来看，你就将从波动性中受益（反之亦然）<div style="padding-bottom:1em;"></div>任何试错都可以被视为一种选择权，只要你能够识别有利的结果并利用它就可以了。<div style="padding-bottom:1em;"></div>独裁者—就像一国政府—会觉得自己是不可缺少的，因为其他的替代方案我们不容易看见，或者被特殊利益集团隐藏起来了。例如，美联储会给经济带来巨大破坏，但人们仍旧确信它的有效性。人们害怕替代方案。同样的，在医源性损伤极度泛滥的年代，医疗仍被视为不可或缺<div style="padding-bottom:1em;"></div>所有被称为我的学生的人，都仅仅只是因为我们志趣相投而已。<div style="padding-bottom:1em;"></div>与选择权相同，失败了也不要停滞不前，必要时向其他方向摸索，跟随那种广阔的自由感和机会主义的引领，试错就是一种自由<div style="padding-bottom:1em;"></div>集体社会不是靠有组织的教育来推进的，情况正好相反<div style="padding-bottom:1em;"></div>对于脆弱的事物来说，冲击带来的伤害会随着冲击强度的增加而以更快的速度增长（直到达到某一水平）<div style="padding-bottom:1em;"></div>对知识最大—最有力的—贡献在于消除我们认为错误的东西，即采用减法认识论<div style="padding-bottom:1em;"></div>骗子是可以识别出来的，他们都会给你正向的意见，而且只有正向的建议，利用我们对所谓秘籍的轻信和热衷，听他们一说，我们顿时会觉得某件事再明白不过了，后来，在你忘了它们时，那样的感觉也随风而逝。<div style="padding-bottom:1em;"></div>我们知道错误的事情远多于知道正确的事情，或者就脆弱/强韧的分类来说，负向知识（什么是错的，什么不起作用）在错误面前比正向知识（什么是正确的，什么起作用）更强韧<div style="padding-bottom:1em;"></div>由于一个小小的例外便可以推翻一个论断，因此，虽然我们不能确定某个事物就是什么，但证伪总是比证实更容易找到依据。<div style="padding-bottom:1em;"></div>在政治领域，一个好的体制就是有助于社会淘汰坏人的体制，它不必考虑做什么事或者由谁执政。因为一个坏人造成的伤害可能大于一群好人集体所做出的努力。<div style="padding-bottom:1em;"></div>通过负向知识获取成功是古典智慧的一部分。对阿拉伯学者兼宗教领袖阿里·本·阿比–塔利卜来说，与一个无知的人保持距离相当于与一个聪明的人为伍<div style="padding-bottom:1em;"></div>了解什么是错的会给你带来强韧性，不了解则带来脆弱性和投机性，但不必因此而害怕，你要设法确保自己在错误的情况下也不会受到伤害。<div style="padding-bottom:1em;"></div>如果某人的简历很长，我会直接忽略他<div style="padding-bottom:1em;"></div>当有人告诉我，一个人写了300篇学术论文，获得了22个荣誉博士学位，却没有任何一项值得称道的贡献或个人观念时，那么我会对这种人避之不及<div style="padding-bottom:1em;"></div>反脆弱性的事物受益于波动和混乱，而脆弱的事物会因此受伤害<div style="padding-bottom:1em;"></div>当被要求想象未来时，我们倾向于拿当下作为基准，然后加入新的技术和产品，以及其他我们认为合理的事物，尽管这只是在过去的发展格局上的一种生硬的添加和篡改，最终杜撰出一个未来<div style="padding-bottom:1em;"></div>要了解未来，你并不需要技术自闭症们所用的术语，不必痴迷于“尖端技术”，以及诸如此类的东西。你只需要做以下工作：对过去保留一些尊重，对历史记录保留一些好奇，对老人的智慧保留一丝渴求，并掌握“启发法”的概念，这些不成文的经验法则对生存起到了决定性作用。换句话说，你将被迫重视能世代流传、能幸存下来的东西。<div style="padding-bottom:1em;"></div>技术很大程度上是一种信息，而不是一个实体，它不会像人类一样发生肌体的老化。比如轮子是不可能经历退化的，从这个意义上来说，它是不会变成“老古董”的<div style="padding-bottom:1em;"></div>我的回答是，让孩子们多读经典著作。未来包含在过去之中。其实有一个阿拉伯谚语就是这么说的：没有过去的人就没有未来。<div style="padding-bottom:1em;"></div>不管在哪个领域，业余爱好者往往都是最优秀的，如果你能够接触到他们的话。与业余爱好者不同，职场专业人士奢谈知识就好像妓女奢谈爱情。<div style="padding-bottom:1em;"></div>如果这个东西已经存在很长一段时间，那么，不管你认为它合理或不合理，你都可以预期它还会存在更长的时间，比那些预言它会死亡的人存活的时间更长<div style="padding-bottom:1em;"></div>宗教的作用之一就是驯服过于丰盛的生活所带来的医源性损伤—禁食会让你放下你饭来张口的权利意识<div style="padding-bottom:1em;"></div>我很好奇，为什么人们认同锻炼的压力对身体有益，但却无法推此及彼地认识到，一定的食物匮乏也会有相同的效果<div style="padding-bottom:1em;"></div>宗教的斋戒仪式比你从表面上看到的更有深度。实际上，这些斋戒仪式是将非线性带入我们的饮食中，从而与生物的特性相匹配<div style="padding-bottom:1em;"></div>虽然基因是具有反脆弱性的，因为它本身就是信息，但基因的载体却是脆弱的，而且需要维持这种脆弱性，以使基因变得更强。我们活着就是为了产生信息或改善信息<div style="padding-bottom:1em;"></div>愚蠢的人总是力图证明自己正确，而聪明人则力图赚钱，或者：<div style="padding-bottom:1em;"></div>愚蠢的人总是力图赢得辩论，而聪明人则寻求获利<div style="padding-bottom:1em;"></div>我们都认为，常常自吹自擂的人多令人反感。那么公司呢？我们为什么不反感那些宣传自己有多么伟大的公司？<div style="padding-bottom:1em;"></div>如果你不得不在流氓的承诺和公务员的承诺之间做出选择，那就选择前者吧。任何时候，机构都是没有荣誉感的，个人才会有荣誉感<div style="padding-bottom:1em;"></div>只有荣誉感才能促进商业的发展<div style="padding-bottom:1em;"></div>应该更重视提供不利于自己的证据的证人和意见<div style="padding-bottom:1em;"></div>与那些看到真实事件的发展过程，以观察现实生活的一般顺序看历史的人相比，从图书馆的角度看历史的人一定会看到更多具有欺骗性的关系。他会被更多的副现象所欺骗，其中之一便是多余数据而非真实信号带来的直接结果<div style="padding-bottom:1em;"></div>数据只能真正提供以否定法界定的知识—它可以有效地用于揭穿，而非确认某种观点<div style="padding-bottom:1em;"></div>用“其他人”来支持自己的论点其实意味着这个人—或组成“其他人”的整体—很无用而已<div style="padding-bottom:1em;"></div>所有大的事物都憎恶波动性。所有快的事物也一样。大且快的事物是面目可憎的。现代的事物往往都不喜欢波动性。<div style="padding-bottom:1em;"></div>验证你是否活着的最好方式，就是查验你是否喜欢变化。请记住，如果不觉得饥饿，山珍野味也会味同嚼蜡；如果没有辛勤付出，得到的结果将毫无意义；同样的，没有经历过伤痛，便不懂得欢乐；没有经历过磨难，信念就不会坚固；被剥夺了个人风险，合乎道德的生活自然也没有意义
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/31373865/#comments">1回应</a>&nbsp;&nbsp;
+                  2014-04-25 15:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30159373">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/3295794/"><img src="https://img3.doubanio.com/icon/u3295794-1.jpg" alt="奥德赛的暗流" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30159373/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30159373/" class="">第94页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/3295794/" class=" " title="奥德赛的暗流">奥德赛的暗流</a>
+                (中人资，恒常道，成大业。)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30159373">
+              <div class="short">
+                
+                  <span class="">你越频繁地寻找数据，找到噪音的比例就越高，因为大部分波动仅仅是随机现象。如果每年观察一次数据，噪音和信息比是一比一，那么每日观察一次将会得到99.5%的噪音与0.5%的信息，噪声的比例将是信号的200倍以上——这就是为什么每天听新闻（除了有非常重要的事情发生）的人离愚蠢也就只有一步之遥了。</span>
+                <p class="pl">
+                  <span class="">2014-01-14 23:42</span>
+                  
+                    &nbsp;&nbsp;<span class="">7人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                你越频繁地寻找数据，找到噪音的比例就越高，因为大部分波动仅仅是随机现象。如果每年观察一次数据，噪音和信息比是一比一，那么每日观察一次将会得到99.5%的噪音与0.5%的信息，噪声的比例将是信号的200倍以上——这就是为什么每天听新闻（除了有非常重要的事情发生）的人离愚蠢也就只有一步之遥了。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30159373/#comments">回应</a>&nbsp;&nbsp;
+                  2014-01-14 23:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30159302">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/3295794/"><img src="https://img3.doubanio.com/icon/u3295794-1.jpg" alt="奥德赛的暗流" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30159302/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30159302/" class="">第91页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/3295794/" class=" " title="奥德赛的暗流">奥德赛的暗流</a>
+                (中人资，恒常道，成大业。)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30159302">
+              <div class="short">
+                
+                  <span class="">一个人做事拖拖拉拉不是因为他不理性，而是他身处的环境不合理。称这个人不理性的经济学家和心理学家，其实才是不理性的。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/30159302/">(<span class="">3回应</span>)</a>
+                <p class="pl">
+                  <span class="">2014-01-14 23:37</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一个人做事拖拖拉拉不是因为他不理性，而是他身处的环境不合理。称这个人不理性的经济学家和心理学家，其实才是不理性的。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30159302/#comments">3回应</a>&nbsp;&nbsp;
+                  2014-01-14 23:37
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="30049376">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/3218617/"><img src="https://img3.doubanio.com/icon/u3218617-36.jpg" alt="很大の強子機器" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30049376/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30049376/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/3218617/" class=" " title="很大の強子機器">很大の強子機器</a>
+                (原來的“第六天小魔王”)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30049376">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/30049376/"><img src="https://img3.doubanio.com/view/page_note/small/public/p30049376-1.jpg"></a>
+                  </div>
+                  <span class=""> 收到了速印本正在读，发现我的93号速印本居然没有书脊，于是自己ps了一张贴到这，效果还不错哦【下载打印请戳】~ </span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/30049376/">(<span class="">6回应</span>)</a>
+                <p class="pl">
+                  <span class="">2014-01-06 19:30</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30049376-1.jpg" alt="贴上去的效果图，感觉还不错"><br><span class="pic-title">贴上去的效果图，感觉还不错</span></div>收到了速印本正在读，发现我的93号速印本居然没有书脊，于是自己ps了一张贴到这，效果还不错哦【下载打印请戳】~<div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30049376-2.jpg" alt="自制书脊，喜欢的朋友们可以下载打印"><br><span class="pic-title">自制书脊，喜欢的朋友们可以下载打印</span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30049376/#comments">6回应</a>&nbsp;&nbsp;
+                  2014-01-06 19:30
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30504212">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ymca33683728xp/"><img src="https://img3.doubanio.com/icon/u1458491-11.jpg" alt="jojo的人间冒险" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30504212/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30504212/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ymca33683728xp/" class=" " title="jojo的人间冒险">jojo的人间冒险</a>
+                (willpower是有限脆弱的)
+              
+            </p>
+            <div class="reading-note" data-cid="30504212">
+              <div class="short">
+                
+                  <span class="">1.财政赤字已被证明是社会和经济系统脆弱性的主要来源。
+
+2.强韧化的道路常始于一点点的伤害
+
+3.限制卡路里的摄入量能使人类活得更健康........定时摄入过量食物对你有害，剥夺了人类的饥饿压力源，从而可能阻止人类的肌体充分发挥其潜力；.........剥夺了系统的压力或重要的压力源并不一定是好事，甚至可能是非常有害的。
+
+4.人类总是无法脱离他们通常熟悉的环境来理解事物。.........当同一种思想在不同的背景中出现时，我...</span>
+                <p class="pl">
+                  <span class="">2014-02-12 02:15</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                1.财政赤字已被证明是社会和经济系统脆弱性的主要来源。<div style="padding-bottom:1em;"></div>2.强韧化的道路常始于一点点的伤害<div style="padding-bottom:1em;"></div>3.限制卡路里的摄入量能使人类活得更健康........定时摄入过量食物对你有害，剥夺了人类的饥饿压力源，从而可能阻止人类的肌体充分发挥其潜力；.........剥夺了系统的压力或重要的压力源并不一定是好事，甚至可能是非常有害的。<div style="padding-bottom:1em;"></div>4.人类总是无法脱离他们通常熟悉的环境来理解事物。.........当同一种思想在不同的背景中出现时，我们就无法辨识了，就好像我们注定要被事物最表象的东西，比如包装、漂亮的礼品袋等蒙蔽一般。<div style="padding-bottom:1em;"></div>5.知识分子往往关注的是随机性（脆弱性）带来的负面反应，而非正面反应（反脆弱性）。.........对挫折的过度反应所释放出来的多余能量成就了创新！..........从挫折中产生的强于常人的动力和意志力也是额外的能力.........很多人，像伟大的罗马政治家监察官老加图，就将安逸—几乎任何形式的安逸——视为通向堕落的道路。他不喜欢所有轻易就能获得的东西，因为他担心这样会削弱意志。而且，他担心这种弱化意志的事件影响的不只是个人层面：事实上，整个社会都会堕落。........富足比贫困更难对付。<div style="padding-bottom:1em;"></div>6.好马与劣马一起赛跑，最终会越跑越慢，而与更优秀的对手比赛则会越战越勇，并一举夺魁。压力源、反毒物兴奋效应与挑战的缺乏都会导致应激反应不足，从而降低最佳表现的水准。.........过度补偿机制往往隐藏在最不可能的地方。长途飞行后最好去健身房锻炼以消除疲劳，而不是坐下来休息。..........如果你急着要完成某事，不妨将其交给办公室里任务最繁忙的（或第二繁忙的）那个人去做。大多数人的空闲时间都会被浪费掉，因为空闲时间会让他们无所事事、懒惰、无心向学，而一旦他们忙起来，他们往往会在其他任务上也更为积极。过度反应在这里再次显现<div style="padding-bottom:1em;"></div>7.与黑手党老大一样，最沉默寡言的交易员才是最强大的。每个人都应该有足够的自我控制能力，让观众必须努力才能听清，这有助于他们切换到积极的思维模式下。人们曾对这种注意力反论做过一点点调查：“言语不流畅”的效应是有实证证据的。精神集中可以帮助我们进入更高的思维层面，激活更具活力、更善于分析的大脑机器。<div style="padding-bottom:1em;"></div>8.过度反应机制或类似的机制会使我们在有一点点背景噪声的地方更好地集中精力，就好像对抗这些噪声的行为可以帮助我们集中注意力。<div style="padding-bottom:1em;"></div>9.层层冗余正是自然生态系统集中管理风险的显著特征。..........冗余这个词很不明确，因为如果不发生意外的话，它似乎就是一种浪费，除非发生意外情况。然而，意外通常会发生。.........我们的身体会通过一种非常复杂的方式洞察周围的一切可能性，其评估风险的能力远远强于我们的智商。.........他进行的是最高重量级别的训练，并极为推崇这种训练方法，因为他发现这是最有效和最省时的方法。该方法包括在健身房内先利用一小段时间专注于提高过去的举重纪录，也就是你曾举起过的最大重量，就像最高水位标记一样。这种锻炼以尝试超越纪录一两次为限，而不是把时间花在无聊而耗时的重复尝试上。这种训练让我想到了自然的举重方式，而且这符合循证文献：全力以赴做到极致，随后将剩余时间用于休息和享用巨无霸牛排上。如今，我进行极限训练的时间已经有4年了，我很惊喜地看到，我的生理状况如何在预期超越过去最佳状态的过程中不断改善，直至到达极限。<div style="padding-bottom:1em;"></div>10.风险管理专业人士往往通过回顾历史来推断所谓的最糟情境，并据此估计未来的风险，这种方法被称为“压力测试”。他们往往将历史上最糟糕的经济衰退、最惨烈的战争、最不利的利率波动或最低的失业率作为对未来最糟糕形势的精确估计。但是，他们从来没有注意到以下矛盾：这个所谓的最糟形势在发生时，已经超越了当时历史的最糟形势。可是，这个关键的逻辑却被忽略了.......<div style="padding-bottom:1em;"></div>11.革命正是在压迫中孕育的，杀害几名示威者只会让更多的人站起来反抗........政治运动和叛乱具有高度的反脆弱性，愚蠢的行为就是试图用暴力压制它们，而不是想办法操控它们、以退为进，或找到更精明的策略<div style="padding-bottom:1em;"></div>12.心理学家们曾揭示了试图控制思想的过程有多荒谬：你越是投入更多的精力试图控制你的想法，你的想法越能控制你。.........<div style="padding-bottom:1em;"></div>13.一本书遭到了批评，实际上说明它引起了真实的、毫不虚假的关注，表明它不是一本无聊的书.........同样的隐性反脆弱性可以从我们对思想和人的攻击中反映出来：我们害怕这种攻击，也不喜欢负面曝光，但是如果你能挨过这种诋毁，则能大大受益，..........我从未听到外界对你的指责。你已经证明了自己根本无法激发别人对你的嫉妒。..........你不会想“控制”你的名声吧，你无法通过控制信息流实现这一点。相反的，你要努力改变你的风险敞口，比如让自己置身于一个不因声誉受损而被影响的位置，甚至置身于一个能从信息的反脆弱性中受益的位置。从这个意义上说，一个作家是反脆弱性的，但我们在下文中将看到，大多数现代职业通常并非如此。.........那些不修边幅的人往往是在声誉上具有强韧性，甚至反脆弱性的；而那些胡子刮得干干净净，甚至在海滩上也得衣冠楚楚的人则极易受到有关他们的信息的影响。<div style="padding-bottom:1em;"></div>14.信息有能力控制那些试图控制它的人。当你听到一家公司或一个负债累累的政府表示要“重新注入信心”，那么你就应该知道它们是脆弱的，注定失败。信息是无情的：越是召开新闻发布会来“安抚”投资者，越是会吓跑投资者，.........正是因为诱惑，人们才会将最多的钱借给最不需要的人。........我们常看到一个令人费解的现象，即给我们带来最大利益的并不是那些曾试图帮助我们（比如提供“建议”）的人，而是那些曾努力伤害我们但最终未能如愿的人。<div style="padding-bottom:1em;"></div>15.在这个复杂的世界里，“因”的概念总是非常模糊的：要么几乎不可能确认，要么无法真正界定.......对小孩子来说，疼痛是唯一的风险管理信息，因为他们的逻辑推理能力尚不完善。复杂系统的运转完全倚仗信息。传递周围信息的渠道有很多，往往不是眼睛所能发现的。这就是我们所说的因果隐蔽性：我们很难看到从原因到结果的明确指向，这让许多传统的分析方法与标准化逻辑完全失效。正如我所说的，具体事件的可预测性是很低的，因为存在这种因果隐蔽性。不仅如此，由于因果的这种非线性关系，人们往往需要比常规系统更高的透明度来洞察因果，但可惜，一切都隐藏在不透明的状态中。<div style="padding-bottom:1em;"></div>16.反脆弱性的产生是有条件的。压力源的刺激频率非常重要：人类在急性刺激下会比在慢性刺激下表现得更出色，尤其是在急性刺激后给予较长的恢复期，这将使得这些压力源成为信息的传导渠道。.........这样的压力源肯定比一个温和但连续不断的压力源有益，后者大多是让你在生活中感到压抑的东西，包括按揭贷款、税务问题、因拖欠报税而产生的内疚、考试压力、琐碎事务、电子邮件回复、填写表格、每天上下班通勤，等等。换句话说，这是文明带来的压力。事实上，神经生物学家表明，第一种类型的压力源是必要的，而第二种类型的压力源对人的健康却是有害的。要想知道不给人以恢复时间的低水平压力源的害处，<div style="padding-bottom:1em;"></div>17.我的情绪、悲伤，突如其来的焦虑，实际上是智慧的第二来源—甚至是第一来源。<div style="padding-bottom:1em;"></div>18.压力源的另一个被遗忘的特征隐藏在语言习得中。我从没见过有人是通过教科书，从语法开始学讲母语的，并接受双季度考试的测试，系统地将单词嵌入所学的语法规则中。你学习一种语言的最佳方式应该是在一个多少有些紧张压力的情况下，特别是在表达某些迫切需求的情况下（比如在热带地区享用晚餐后产生内急时），借助于困境，从反复的错误中进行学习。........习新单词并不需要死记硬背，而是利用另一种方式—与人沟通，不得不揣测他人心思，而暂时把害怕犯错误的心理放在一边。但是，成功、财富和科技却使得这种习得模式愈加难以推行。<div style="padding-bottom:1em;"></div>19.如果你还活着，你的内心深处就会喜欢一定程度的随机性和混乱。...........规避小错误的方法将导致下一次所犯的错误更加严重。<div style="padding-bottom:1em;"></div>20.在一个系统中，为了其他单元或者整体的利益，往往有必要牺牲某些单元—脆弱的单元或者人。每个新创企业都是脆弱的，但这推动了整个经济反脆弱性的提高，是个人创业者的脆弱性和他们必要的高失败率成就了生生不息的创业精神.........天然有机体都不会是单独存在的终极单元；它总是由子单元组成的，而它本身也可能是更大集合体的子单元。这些子单元可能会相互竞争。.........餐馆的质量、稳定性和可靠性无不取决于餐馆本身的脆弱性。.........自己的错误往往只会让他人或集体受益，好像个人天生就该为了更崇高的利益而非自己的利益犯错。.........要让经济具有反脆弱性，并经历所谓的进化，每个独立的企业都有必要是脆弱的，面临着崩溃的风险进化需要有机体（或它们的基因）死亡，并被其他有机体取代，以实现整体改善，或淘汰适应力不如其他有机体的生物。因此，较高层级事物的反脆弱性有赖于较低层级事物的脆弱性，或者较低层级事物的牺牲。.........我们发现了一个问题，加总（整体）的特征与各部分的特征并不相同—实际上，整体更希望局部受到伤害。<div style="padding-bottom:1em;"></div>     冷酷无情便是进步的引擎，承认这一点可能会让你感到沮丧。<div style="padding-bottom:1em;"></div>     自然和类自然的系统需要单个经济主体过度自信，即高估其业务成功的机会，而低估其业务失败的风险，只要其失败不至于影响他人。换句话说，局部而非整体的过度自信有利于这些系统的健康发展。...........一些轻率的风险甚至是自杀式风险，有利于经济的健康，只要不是所有人都承担了同样的风险，而且这些风险的大小和影响范围都非常有限。<div style="padding-bottom:1em;"></div>21.关于混乱，最有意思的是，缺乏混乱是有害的.........我们的头脑不太容易理解复杂的反应（我们都是线性思维，而对毒物剂量做出的反应则是非线性的）。我们的线性思维不喜欢细微差别，而更倾向于将信息简化为“有害”或“有用”。........我们从外部观察有机体，并将其视为一个整体。事实上，任何物体都可以做更深入的细分。<div style="padding-bottom:1em;"></div>22.进化最有趣的一面是，它是依赖反脆弱性实现的；它喜欢压力、随机性、不确定性和混乱—而个体生物则相对脆弱，基因库正是利用冲击来确保优胜劣汰，提高整体的适应力。......大自然更喜欢在信息层面，也就是通过遗传密码让游戏继续下去。因此，有机体需要死亡，以确保大自然的反脆弱性—大自然是投机的、无情的、自私的。...........自然（以及类似自然的系统）喜欢有机体之间存在多样性，而不是一个不朽的有机体内部存在多样性，<div style="padding-bottom:1em;"></div>23.错误，谢谢你.......当你脆弱的时候，你往往倾向于墨守成规，尽量减少变化—因为变化往往弊大于利。这就是为什么脆弱的事物需要明确的预测方法，反过来说，预测体系带来的只能是脆弱性。如果你想做出改变，并且不关心未来结果的多种可能性，认为大多数结果都会对你有利，那么你就具有反脆弱性。<div style="padding-bottom:1em;"></div>     另外，如果能够理性地进行试错，将错误当作一种信息源，那么，试错过程中出现的随机要素其实并没有那么随机。如果每次试错都能让你了解到什么是行不通的，渐渐地，你就接近有效的解决方案了—这样，每一次努力都变得更有价值，更像是一笔支出而非一个错误。当然，在此过程中你将不断地有所发现。..........它们所需要做的就是确保自己的错误足够小，以便生存下来。........变化导致错误，也会增强适应性<div style="padding-bottom:1em;"></div>24.我对失败者的特征描述就是，失败者往往在犯错后不内省、不探究，觉得难堪，听不得批评，试图解释自己的错误而不是用新的信息丰富自己，并开始新的历程。这些人往往视自己为“受害者”，受制于某个大阴谋、糟糕的老板或恶劣的天气........犯罪的人要比那些从来没犯过罪的人更可靠。犯了很多错误（当然，同样的错误不会犯一次以上）的人要比那些从来没有犯过错的人更可靠。<div style="padding-bottom:1em;"></div>25.尼采有句名言：“杀不死我的，只会让我更坚强”.........它也可能意味着“杀不死我的，并未使我变得更坚强，但它让我幸存下来，因为我比别人更强壮；由于它杀死了别人，也就是消灭了弱者，我们种群的当前平均素质变强了”。换句话说，我通过了结业考试。........考验只能说是一场无情的考试，失败者只有死路一条。..........<div style="padding-bottom:1em;"></div>26.我们身体里就像有一个开关，每当我们参与集体舞蹈、大规模骚乱或战争，这个为了集体利益而扼杀个体的开关就自动开启了。你会产生从众心理，成为艾利亚斯•卡内蒂所称的“应和节拍悸动的人群”的一部分。........<div style="padding-bottom:1em;"></div>27.有些人虽然什么也没有得到，无名无利，但却为别人贡献了最好的知识，即有关“无为”的知识（什么是不可行的）。他是这个过程的一个重要部分，他自己失败了，把好处留给了他人，更糟糕的是，他还未必能获得他人的尊重<div style="padding-bottom:1em;"></div>28.幸亏收入的波动性，技术工人这类职业才带有一点儿反脆弱性：小的变动促使技术工人不断地从环境中学习，并在持续的压力下保持竞争力与适应力。请记住，压力就是信息：技术工人由于有持续的压力而不断获得调整的机会。.......<div style="padding-bottom:1em;"></div>29.事实上，表面上看上去很稳定的其实很脆弱；而给人以脆弱假象的其实却很强大，甚至具有反脆弱性。........你在一个系统中看到的波动性越多，其实它越不容易遭遇“黑天鹅”事件。...........微小的骚动和焦虑滋养了灵魂，让物种繁荣的不是和平，而是自由。<div style="padding-bottom:1em;"></div>30.英伦三岛的雨：淅淅沥沥，连绵不断，偶尔发洪水也从未大到不可收拾的地步，远比长期干旱后遭遇强降雨的气候容易应对。换言之，这就是平均斯坦。<div style="padding-bottom:1em;"></div>31.稳定并不利于经济的发展：由于缺乏挫折的磨炼，企业在长期的稳定繁荣中变得非常脆弱，隐藏的脆弱性在平静的表面之下暗暗积聚，因此，将危机延后并非良策。同样的，市场缺乏波动性会导致隐性风险肆意增长。市场越是长时间地规避了动荡，当危机真正来临时，损失就越惨重。.........因为我们往往只将伤亡视为损失，却没有考虑到下一步会发生什么—这一点与园丁不同，园丁们深知，修剪树木将使树长得更好。<div style="padding-bottom:1em;"></div>32.热量导致原子脱离最初的位置，随机地在高能状态下漫游；冷却则给予它们更多的机会，寻找新的、更好的结构。<div style="padding-bottom:1em;"></div>33.生活秘籍之一：没有波动，就没有稳定。..........<div style="padding-bottom:1em;"></div>34.我可以推迟一个小病的就医时间，或者推迟一篇文章的写作时间，直到我的身体告诉我，我已经准备好了。通过这种方式，我可能在使用一个非常强大的自然过滤器。我只在自己有写作欲望的时候写作，而且只写我喜欢讨论的主题，要知道，读者可不是傻瓜。所以，我往往用拖延的方式等待内心的自我呼唤，用这种慢慢进化而来的本能来抵抗对我写作的任何干预。然而，一些心理学家和行为经济学家却似乎认为，拖延是一种疾病，是需要纠正和治愈的。.........由于拖延源于我们的自然意志，传递了我们自身动力不足的信息，因此解决方案就是换个环境或者换份工作，让自己不要那么纠结或者压抑。很少有人可以领会这样的逻辑，人们应该过一种视拖延为有益工具的、基于自然风险进行决策的生活。..........事实上，人类是非常不擅长过滤信息的，特别是短期信息，而拖延则是帮助我们筛选信息的较好方式，它能避免我们由于冲动而轻信某个信息，<div style="padding-bottom:1em;"></div>35.对“公牛桑米”萨尔瓦托•格拉瓦诺的采访，他曾参与谋杀了19人（都是匪徒火拼）。他说话慢条斯理，就好像讨论的问题“没什么大不了的”。但是，这类人只有在必要时才会做出反应；他要么不生气，一旦生气可谓雷霆震怒，每个人都得陪着小心，这类人与神经过敏那类人完全不同。<div style="padding-bottom:1em;"></div>36.你有没有想过为什么国家元首和非常富有的人虽能方便地获取医疗保健服务，却并不比普通人活得时间更久呢？嗯，看来这正是过度服用药物和过度获取医疗服务的后果。<div style="padding-bottom:1em;"></div>同样的，那些在公司里制定政策的人（如脆弱推手格林斯潘）由于有一个先进的数据采集部门的支持，因此得到了很多“及时”的信息，结果却往往反应过度，将噪声当作信号<div style="padding-bottom:1em;"></div>37.在一个自然的环境中，压力源就是信息。因此，信息过多意味着压力过大，超过了反脆弱性的临界点。........绝食有帮助身体自我康复的功效，因为这避免了因摄入食物而分泌过多的荷尔蒙。荷尔蒙会将信息传递给我们身体系统的不同部分，但荷尔蒙过高会导致生物机能的紊乱。就像接受新闻的频率过高会产生问题一样，过多信息有害无益—每日接受过多的新闻和摄入过多的糖都会让系统紊乱.........我们会在情绪上对噪声反应过度。最好的办法是只看重大的数据或条件的变化，而忽略小的变化。........我们总是忘记对照现实世界来查看我们心中对世界的认识。因此，我们生活在一个越来越脆弱的世界，同时却认为它越来越容易理解了。<div style="padding-bottom:1em;"></div>    总而言之，减轻干预的最好方法是限量供应信息，并以尽可能自然的方式来获取信息。<div style="padding-bottom:1em;"></div>38.你可以比你想象的更有能力控制脆弱性<div style="padding-bottom:1em;"></div>a.我们肩负的整个任务简化为一个核心原则，即怎样做才能将预测错误的危害最小化（收益最大化），也就是（我再三强调的）让事情不会因我们的错误而弄砸，甚至反而能从我们的错误中受益。<div style="padding-bottom:1em;"></div>b.我们暂时并不想改变现在的这个世界，首先我们应该让事物在缺陷和预测错误面前变得更加强韧，甚至应该利用这些错误。也就是说，从柠檬里榨出柠檬汁.......在地球上你没办法绕过这些局限。不可测量和不可预测的将永远不可测量和不可预测<div style="padding-bottom:1em;"></div>39.一旦他人得到了赞美而自己却没得到，或看似不如他们的人从他们手里夺取了赞美，那么他们就会受到伤害，变得脆弱。........<div style="padding-bottom:1em;"></div>40.那些依靠预测行事的人往往会承担更多的风险，遇到一些麻烦，甚至可能失败。为什么呢？因为预测者在预测误差面前是脆弱的。过于自信的飞行员最终导致机毁人亡，而数据预测则导致人们承担更多的风险。。。。。。<div style="padding-bottom:1em;"></div>41.塞加内所传递的思想：<div style="padding-bottom:1em;"></div>a。一无所失<div style="padding-bottom:1em;"></div>b。纯粹的强韧性的，对外部环境—无论是好还是坏—都具有免疫力，不因命运的决定而变得脆弱，因而它是强韧的。随机事件无论如何都不会影响我们（我们太强大了，以至于不会失去什么，同时也没有贪婪到想从中获利），所以我们在三元结构中属于中间的一类。<div style="padding-bottom:1em;"></div>c.成功带来了不对称性：你现在失去的远远多于你得到的。因而，你会显得脆弱。<div style="padding-bottom:1em;"></div>d.我就假设每天一大早，最糟糕的事情就已经真实地发生了，那么剩下的时间我会感觉好受一些。其实，这种把精神调节到应对“最糟情境”状态的方法比一些心理治疗方式更管用，因为它让我承担的这类风险的最糟情境是清晰和明确的，其伤害是有限的和已知的。但当一切都很顺利时，我们便很难坚持这种淡化式精神训练法，而此时恰恰是我们最需要这种训练方法的时候。此外，我偶尔也会按照塞内加的方式，在不舒服的环境中旅行<div style="padding-bottom:1em;"></div>e.知性的生活关乎如何进行情绪定位，以消除伤害的刺激，正如我们所看到的，方法就是淡化你所拥有的东西在你心中的地位，这样任何损失都不会给你带来伤痛。世界的波动性也不能给你带来负面影响。<div style="padding-bottom:1em;"></div>f.斯多葛主义的主旨就是情绪的驯化，而不一定是情绪的消除。它不是要把人类变成植物，而是将他们对情绪的关注转移到对产生情绪的核心根源的关注上，同时保持对情感的掌控力。在我看来，现代的斯多葛主义践行者就是能够将恐惧转化为谨慎，将痛苦转化为信息，将错误转化为启示，将欲望转变为事业的人。<div style="padding-bottom:1em;"></div>g.对善行进行投资。我们可能会被剥夺一些东西—但是，善行和美德是不会被剥夺的。<div style="padding-bottom:1em;"></div>h.财富是聪明人的奴仆，愚笨者的主人........爱财富，却不让财富伤害他的行为<div style="padding-bottom:1em;"></div>i.要让有利因素大于不利因素，只需要减少极端不利因素的侵害（情绪伤害），而不是改善中间因素。<div style="padding-bottom:1em;"></div>42.脆弱性等于失去的比得到的更多，等于不利因素比有利因素更多，即等于（不利的）不对称性。<div style="padding-bottom:1em;"></div>反脆弱性等于得到的比失去的更多，等于有利因素比不利因素更多，即等于（有利的）不对称性。<div style="padding-bottom:1em;"></div>如果潜在收益大于潜在损失，那么你对波动源就具有反脆弱性（反之亦然）。<div style="padding-bottom:1em;"></div>43.迈向反脆弱性的第一步就是减少不利因素，而不是增加有利因素；也就是说，通过降低自己暴露于负面“黑天鹅”事件的概率，让反脆弱性顺其自然地发挥作用。........路径依赖性带来的脆弱性往往被商人们忽视，这些习惯于静态思维的人往往认为，他们的主要任务是产生利润，而生存和风险控制等是之后或许会考虑的问题。这些商人忽略的是：较之于成功，生存的逻辑优先级别更高。要赚钱，最好先考虑生存问题。..........如果某个事物是脆弱性的，那么它破碎的风险会导致你做的任何旨在改善它或提高其“效率”的工作都变得无关紧要，除非你先降低其破碎的风险。罗马作家普布里亚斯•塞勒斯就曾写过：你无法既仓促又安全地做好任何事情，几乎没有一件事情能办得到。.........<div style="padding-bottom:1em;"></div>44.杠铃策略不一定是对称的，只是说，它由两个极端条件组成，中间空无一物。你也可以用更技术性的语言称其为双峰策略，因为它有两个截然不同的模式，而不是单独的中庸模式。........我用杠铃来形象地描述在某些领域采取保守策略（从而在负面的“黑天鹅”面前保持强韧性），而在其他领域承担很多小的风险（以开放的姿态迎接正面的“黑天鹅”）的双重态度，从而实现反脆弱性。一面是极端的风险厌恶，一面是极端的风险偏好，而不采取“中等程度”或“温和”的风险态度，因为这种态度实际上是骗人的把戏（人们一般都明白“高风险”和“零风险”的概念，但是中等风险则有很大的迷惑性，因为它受巨大的测量误差的影响）。但是，得益于它的结构，杠铃策略有利于不利风险的减少，也就是能消除毁灭性风险。.........杠铃策略可以指任何由截然不同的两类方案组成，并且摈弃了模棱两可的中间路线的策略，它往往会形成一种有利的不对称性。........意第绪谚语中就说“做好最坏的打算，最好的情况总能水到渠成”。这句话听起来平淡无奇，但事实上却并非如此：只要观察一下就知道，人们往往做最好的打算，而希望侥幸逃脱最坏的结果。我们有充分的证据证明，人们反感小的损失，但对非常严重的“黑天鹅”风险（他们往往会低估）却毫无反应，因为他们往往会为小的可能的损失投保，但却忽略了大的罕见的损失。..........职业也是可以分阶段的：先做非常安全的工作，随后从事投机性较强的工作。........如果我不得不上班的话，我认为最可取的（痛苦也较少的）就是高强度地工作一段非常短的时间，然后什么都不做（假设什么都不做，就是真正意义上的什么都不做），直到我完全恢复，并期待重来一次，而不是像日本人那样从事那种低强度、无休止、缺乏睡眠保证的、乏味的工作。...........更多的杠铃策略：做一些疯狂的事情（偶尔砸坏家具），就像希腊人在饮酒讨论会进行至后半场时所表现的那样，而在更大的决策上保持“理智”。阅读无用的娱乐杂志，以及经典书籍或复杂的著作，但不要读平庸的书籍。与大学生、出租车司机和园丁，或最优秀的学者交流，但不要和庸庸碌碌但野心不小的学者交流。如果你不喜欢某个人，要么随他去，要么击垮他，不要只是停留于口头攻击。.......随机性的杠铃策略会通过减轻脆弱性、消除伤害导致的不利风险来增强反脆弱性，也就是减少不利事件带来的痛苦，同时确保获得潜在收益。..........确保发生不可接受情况（即毁灭或灾难）的概率为零<div style="padding-bottom:1em;"></div>45.
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30504212/#comments">回应</a>&nbsp;&nbsp;
+                  2014-02-12 02:15
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30681707">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/53998992/"><img src="https://img3.doubanio.com/icon/u53998992-5.jpg" alt="一把青" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30681707/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30681707/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/53998992/" class=" " title="一把青">一把青</a>
+              
+            </p>
+            <div class="reading-note" data-cid="30681707">
+              <div class="short">
+                
+                  <span class="">有些事情能从冲击中受益，当暴露在波动性、随机性、混乱和压力、风险和不确定性下时，它们反而能茁壮成长和壮大。不过，尽管这一现象无处不在，我们还是没有一个词能够用来形容脆弱性的对立面。所以，不妨叫它反脆弱性吧。</span>
+                <p class="pl">
+                  <span class="">2014-02-26 19:43</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                有些事情能从冲击中受益，当暴露在波动性、随机性、混乱和压力、风险和不确定性下时，它们反而能茁壮成长和壮大。不过，尽管这一现象无处不在，我们还是没有一个词能够用来形容脆弱性的对立面。所以，不妨叫它反脆弱性吧。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30681707/#comments">回应</a>&nbsp;&nbsp;
+                  2014-02-26 19:43
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30992489">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/julyhaha/"><img src="https://img3.doubanio.com/icon/u52854457-2.jpg" alt="七月" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30992489/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30992489/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/julyhaha/" class=" " title="七月">七月</a>
+                (向日葵族人)
+              
+            </p>
+            <div class="reading-note" data-cid="30992489">
+              <div class="short">
+                
+                  <span class="">如何爱上风    风会熄灭蜡烛，却能使火烧的更旺</span>
+                <p class="pl">
+                  <span class="">2014-03-23 23:49</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>如何爱上风    风会熄灭蜡烛，却能使火烧的更旺</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30992489/#comments">回应</a>&nbsp;&nbsp;
+                  2014-03-23 23:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="44958464">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/130809386/"><img src="https://img3.doubanio.com/icon/u130809386-3.jpg" alt="广龙月月" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44958464/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44958464/" class="">全</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/130809386/" class=" " title="广龙月月">广龙月月</a>
+              
+            </p>
+            <div class="reading-note" data-cid="44958464">
+              <div class="short">
+                
+                  <span class="">黑天鹅事件： 黑天鹅事件(Black swan event)指非常难以预测，且不寻常的事件，通常会引起市场连锁负面反应甚至颠覆。在发现澳大利亚的黑天鹅之前，17世纪之前的欧洲人认为天鹅都是白色的。但随着第一只黑天鹅的出现，这个不可动摇的信念崩溃了。黑天鹅的存在寓意着不可预测的重大稀有事件，它在意料之外，却又改变一切。人类总是过度相信经验，而不知道一只黑天鹅的出现就足以颠覆一切。 达摩克利斯之剑，中文或称"悬顶之剑"， ...</span>
+                <p class="pl">
+                  <span class="">2017-06-16 16:58</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>黑天鹅事件： 黑天鹅事件(Black swan event)指非常难以预测，且不寻常的事件，通常会引起市场连锁负面反应甚至颠覆。在发现澳大利亚的黑天鹅之前，17世纪之前的欧洲人认为天鹅都是白色的。但随着第一只黑天鹅的出现，这个不可动摇的信念崩溃了。黑天鹅的存在寓意着不可预测的重大稀有事件，它在意料之外，却又改变一切。人类总是过度相信经验，而不知道一只黑天鹅的出现就足以颠覆一切。</p><p>达摩克利斯之剑，中文或称"悬顶之剑"，  用来表示时刻存在的危险。源自古希腊传说:迪奥尼修斯国王请他的朋友达摩克利斯赴宴，命其坐在用一根马鬃悬挂的一把寒光闪闪的利剑下。 这个非常有名的故事，他的核心只有一个道理：风险与权力并存、地位与能力相配。 </p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44958464/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-16 16:58
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="44484641">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/53487770/"><img src="https://img3.doubanio.com/icon/u53487770-1.jpg" alt="chimney" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44484641/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44484641/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/53487770/" class=" " title="chimney">chimney</a>
+                (来~来~大家来读书~~~)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="44484641">
+              <div class="short">
+                
+                  <span class="">除了看问题要排除 叙述性谬误，我们还要接受另一个教训。大脑中装满太多复杂的技巧和方法，往往会使人忽略基本的东西。但是，现实世界中的人是绝对不能忽略这些事情的，否则他们会遭遇失败。与研究人员不同，他们被置于生死存亡的境地，而不只是面临一个难题。所以，少即是多：一方面，研究得越多，就越容易忽略基础但根本的事情；另一方面，行动能将事情剥丝抽茧，直至剩下尽可能简单的模型。 我宁愿做愚钝但具有反脆弱性的人...</span>
+                <p class="pl">
+                  <span class="">2017-06-01 14:56</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>除了看问题要排除 叙述性谬误，我们还要接受另一个教训。大脑中装满太多复杂的技巧和方法，往往会使人忽略基本的东西。但是，现实世界中的人是绝对不能忽略这些事情的，否则他们会遭遇失败。与研究人员不同，他们被置于生死存亡的境地，而不只是面临一个难题。所以，少即是多：一方面，研究得越多，就越容易忽略基础但根本的事情；另一方面，行动能将事情剥丝抽茧，直至剩下尽可能简单的模型。</p><p>我宁愿做愚钝但具有反脆弱性的人，也不做极其聪明但脆弱的人。</p><p>我们的使命是驯化、主宰，甚至征服那些看不见的、不透明的和难以解释的事情。</p><p>从随机事件（或一定冲击）中获得的有利结果大于不利结果的就是反脆弱的，反之则是脆弱的。</p><p>这是现代化的悲剧，正如极为焦虑、过度保护子女的父母。那些试图帮助我们的人往往会对我们造成最大的伤害。</p><p>我想快乐地生活在一个我不了解的世界。</p><p>当你寻求秩序，你得到的不过是表面的秩序；而当你拥抱随机性，你却能把握秩序、掌控局面。</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44484641/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-01 14:56
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="44108259">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/51020653/"><img src="https://img1.doubanio.com/icon/u51020653-8.jpg" alt="王小铅" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44108259/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44108259/" class="">第272页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/51020653/" class=" " title="王小铅">王小铅</a>
+                (王小铅)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="44108259">
+              <div class="short">
+                
+                  <span class="">有些章节晦涩难懂'理论偏多'举例论证也缺乏进一步分析说明.</span>
+                <p class="pl">
+                  <span class="">2017-05-19 10:58</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>有些章节晦涩难懂'理论偏多'举例论证也缺乏进一步分析说明.</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44108259/#comments">回应</a>&nbsp;&nbsp;
+                  2017-05-19 10:58
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="43946985">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/pemboo/"><img src="https://img3.doubanio.com/icon/u1231131-1.jpg" alt="林欣浩" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43946985/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43946985/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/pemboo/" class=" " title="林欣浩">林欣浩</a>
+              
+            </p>
+            <div class="reading-note" data-cid="43946985">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/43946985/"><img src="https://img3.doubanio.com/view/page_note/small/public/p43946985-1.jpg"></a>
+                  </div>
+                  <span class="">太多的地方经不起推敲 说吃小剂量毒物能增加耐药性，那大哥你知道什么叫慢性中毒么？ 这书嘲笑人们拿历史上最大的危机来估算伤害，这是典型的反智主义：拿历史上最大危机估算危害当然不能百分之百准确，但并不意味着这种估算就没有意义。理性的做法是，历史经验可以告诉我们，在同等环境下遇到的危机大小是呈正态分布的，由此来估算需要付出多少成本来避免危机。否则按照本书作者的逻辑，该付出多少成本才能避免危机？ 说锻炼符...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/43946985/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2017-05-14 18:06</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>太多的地方经不起推敲</p><p>说吃小剂量毒物能增加耐药性，那大哥你知道什么叫慢性中毒么？</p><p>这书嘲笑人们拿历史上最大的危机来估算伤害，这是典型的反智主义：拿历史上最大危机估算危害当然不能百分之百准确，但并不意味着这种估算就没有意义。理性的做法是，历史经验可以告诉我们，在同等环境下遇到的危机大小是呈正态分布的，由此来估算需要付出多少成本来避免危机。否则按照本书作者的逻辑，该付出多少成本才能避免危机？</p><p>说锻炼符合所谓的超常反应更是胡扯，按照这个逻辑，人的体能根本不存在上限。</p><p>说革命越是打击反抗越激烈，这更是扯淡。细读历史，会发现绝大部分反抗全都被粗暴的镇压下去。因为它们被镇压了，没有制造出影响，所以读历史的时候注意不到。</p><p>作者用书越禁越流行证明他的理论，其实要有两个条件，一个是印刷术，一个是没有强大的统治者。作者知不知道中世纪前毁了多少书，中国历史上毁了多少书，光乾隆一个人禁的书，就让很多书从历史上彻底消失了，您那反脆弱性在哪呐</p><div class="image-container image-float-center"><div class="image-wrapper"><img src="https://img3.doubanio.com/view/page_note/large/public/p43946985-1.jpg"></div><div class="image-caption-wrapper"><div class="image-caption">你还有最基本的逻辑么？这不是因为原始人寿命短，还来不及得慢性病，以及原始人缺衣少吃，脂肪摄入量低么？</div></div></div><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43946985/#comments">1回应</a>&nbsp;&nbsp;
+                  2017-05-14 18:06
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/25782902/annotation">更多读书笔记（共268篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25782902/discussion/56974766/" title="【读书研讨会召集令】在“黑天鹅”的世界如何反脆弱 ，大家快来参加吧！" class="">【读书研讨会召集令】在“黑天鹅”的世界如何反脆...</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/prardise/">Gromit</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2014-03-12</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25782902/discussion/56512711/" title="翻得如何，请读过的大豆神们过来说道下！谢谢！" class="">翻得如何，请读过的大豆神们过来说道下！谢谢！</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/36211095/">mingkoukou</a></td>
+            <td class="pl"><span class="">16 回应</span></td>
+            <td class="pl"><span class="">2015-12-17</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25782902/discussion/56207285/" title="【样书收到了，真的很开心】" class="">【样书收到了，真的很开心】</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/3218617/">很大の強子機器</a></td>
+            <td class="pl"><span class="">3 回应</span></td>
+            <td class="pl"><span class="">2014-03-04</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25782902/discussion/614252715/" title="胖子托尼遗嘱里的秘密任务是什么？" class="">胖子托尼遗嘱里的秘密任务是什么？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/82096392/">由己</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2016-10-13</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25782902/discussion/60856794/" title="欲浏览该书扫描格式的请发Email给我" class="">欲浏览该书扫描格式的请发Email给我</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/123160165/">ALex</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2015-04-27</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/25782902/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 54.40元</span>
+        <span class="price"> <del>68.00元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=120473&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/2810274/?dcs=subject-buylink&amp;dcm=douban&amp;dct=25782902" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/2810274/?dcs=subject-buylink&amp;dcm=douban&amp;dct=25782902" class="">
+          <span class="buylink-price">
+            
+            <span class="">27.50 元</span>
+          </span>
+        </a>
+      </li>
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B00IDU149A2736048/?asin=B00IDU149A&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B00IDU149A&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">6.99 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4079&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=5060&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgVSHl4UBSJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIQAFAeWhIdS0IJRmsSUEsZHRogcmdidQJZU2xgaEAPbFxTDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBtdHAsUBFMrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVABUCUBpcCltXWwg%253D&amp;cntvendor=2&amp;srcsubj=25782902&amp;type=bkbuy&amp;subject=25782902" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4079&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=5060&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgVSHl4UBSJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIQAFAeWhIdS0IJRmsSUEsZHRogcmdidQJZU2xgaEAPbFxTDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBtdHAsUBFMrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVABUCUBpcCltXWwg%253D&amp;cntvendor=2&amp;srcsubj=25782902&amp;type=bkbuy&amp;subject=25782902" class="buylink-price ">
+                      <span class="">
+                        50.60 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4079&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=4079&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25782902%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23391110&amp;cntvendor=2&amp;srcsubj=25782902&amp;type=bkbuy&amp;subject=25782902" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4079&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=4079&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25782902%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23391110&amp;cntvendor=2&amp;srcsubj=25782902&amp;type=bkbuy&amp;subject=25782902" class="buylink-price ">
+                      <span class="">
+                        40.80 元
+                      </span>
+                    </a>
+
+                      
+                        <div class="more-info">
+                            <span class="buyinfo-promotion">
+                              图书加价购
+                            </span>
+                        </div>
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/25782902/buylinks">
+              &gt; 查看2家网店价格
+                (40.80 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1046509">全部9</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/10545758/">Random House版</a>
+          2012-11-27 / 159人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/24838618/">大塊文化版</a>
+          2013-6-28 / 151人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/10868405/">Random House Audio版</a>
+          2012-11-27 / 13人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/17771877/">未知出版社版</a>
+          2012-11-27 / 2人读过 / 有售
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/25782902/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/1868931/" target="_blank">《罗辑思维》第一季推荐书籍</a>
+                <span class="pl">(怪刺)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1756190/" target="_blank">优酷 罗辑思维 2013(第一季) 介绍的书籍</a>
+                <span class="pl">(IVAN)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/43430373/" target="_blank">豆瓣高分书2500本：千人打分不低于8分</a>
+                <span class="pl">(偶就是那个鬼)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/687785/" target="_blank">【书】所谓知识的另一种</a>
+                <span class="pl">(自娱者小五)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/477600/" target="_blank">投资理财通读书目</a>
+                <span class="pl">(ILoveRMB)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/150410175/"><img src="https://img3.doubanio.com/icon/u150410175-1.jpg" class="pil" alt="李瑞" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/150410175/">李瑞</a><br/>
+      <div class="pl ll">          昨天          在读      </div>
+
+      <br/>
+
+      <span class="pl">tags:黑天鹅 心理 反脆弱 投资 ...</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/128023775/"><img src="https://img3.doubanio.com/icon/u128023775-1.jpg" class="pil" alt="beauty" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/128023775/">beauty</a><br/>
+      <div class="pl ll">          昨天          读过      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+      <span class="pl">tags:反脆弱 塔勒布 思维</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/2278880/"><img src="https://img3.doubanio.com/icon/u2278880-3.jpg" class="pil" alt="飞儿乐" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/2278880/">飞儿乐</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/3415843/"><img src="https://img1.doubanio.com/icon/u3415843-19.jpg" class="pil" alt="Luna3.0" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/3415843/">Luna3.0</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25782902/doings">1483人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25782902/collections">3318人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25782902/wishes">15021人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/25782902/offers">2本二手书欲转让</a>
+          <span class="">
+            (10.00
+                至 50.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有15021人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于反脆弱的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/25782902/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'MmNpOuFucw8',
+            criteria = '7:思维|7:心理学|7:反脆弱|7:塔勒布|7:社会|7:黑天鹅|7:心理|7:投资|7:金融|7:数理&amp;逻辑&amp;天文&amp;地理|3:/subject/25782902/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar15a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

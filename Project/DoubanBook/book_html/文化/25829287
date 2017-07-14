@@ -1,0 +1,3363 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>数学 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/25829287/">
+<meta name="keywords" content="数学,[英] 蒂莫西•高尔斯,译林出版社,2014-3,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书数学 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/25829287/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">数学</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s27220613.jpg" title="数学">
+    <img src="https://img3.doubanio.com/lpic/s27220613.jpg" title="点击看大图" alt="数学"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E8%92%82%E8%8E%AB%E8%A5%BF%E2%80%A2%E9%AB%98%E5%B0%94%E6%96%AF">[英] 蒂莫西•高尔斯</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 译林出版社<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">原作名:</span> Mathematics: A Very Short Introduction<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E5%88%98%E7%86%99">刘熙</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2014-3<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 300<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 25.00<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/721">牛津通识读本</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787544745239<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.9 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">410</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">55.4%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:42px"></div>
+
+            <span class="rating_per">36.8%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:8px"></div>
+
+            <span class="rating_per">7.3%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.5%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.0%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25829287-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25829287-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25829287-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25829287-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25829287-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25829287-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25829287-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25829287-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-25829287">
+        <a href="#" data-url="https://book.douban.com/subject/25829287/" data-desc="" data-title="书籍《数学》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s27220613.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_25829287"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>★传达主流数学的魅力，揭开数与空间的神秘面纱</p>    <p>★从哲学高度展示数学思维方式，启示你如何抽象思考</p>    <p>★剑桥大学数学教授，“数学界诺贝尔奖”——菲尔茨奖得主蒂莫西•高尔斯著</p>    <p>★中国科学院院士、著名数学学者李大潜推荐，赞其为“数学科普读物的楷模”</p>    <p>所有人在日常生活中都会接触到数学问题，多数人却又对之心存畏惧。在这本极为易读又充满趣味的小书中，蒂莫西•高尔斯解释了高等数学与我们在中小学所学的数学知识之间的一些最为根本的、主要是哲学性的区别，让我们能更好地理解那些听起来带有悖论的概念，比如“无限”“弯曲空间”“虚数”等。从基本的观念，到哲学探究，再到与数学共同体相关的一般社会学问题，本书揭开了空间和数的神秘面纱之一角。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/25829287/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>作者</p>    <p>蒂莫西•高尔斯　剑桥大学劳斯•鲍尔数学教授，“数学界诺贝尔奖”——菲尔茨奖获得者，该奖专门授给“年轻数学家所作的最为大胆、最为深入、最有启示性的研究”。</p>    <p>序言作者</p>    <p>李大潜   复旦大学数学科学学院教授，中法应用数学研究所所长，《数学年刊》主编，曾任中国工业与应用数学 学会理事长，中国数学会副理事长。1957年毕业于复旦大学数学系并留校任教，1980年任教授，1995年当选为中国科学院院士，1997年当选为第三世界科学院院士，2005年当选为法国科学院外籍院士，2007年当选为欧洲科学院院士，2008年当选为葡萄牙科学院院士。在偏微分方程的理论及应用方面，取得了多项具有国际先进水平的成果。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_25829287_short">
+        前言<br/>
+        第一章　模型<br/>
+        第二章    数与抽象<br/>
+        第三章    证明<br/>
+        第四章    极限与无穷<br/>
+        第五章　维度<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_25829287_short').hide();$('#dir_25829287_full').show();$.get('/j/subject/j_dir_count',{id:25829287});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_25829287_full" style="display:none">
+        前言<br/>
+        第一章　模型<br/>
+        第二章    数与抽象<br/>
+        第三章    证明<br/>
+        第四章    极限与无穷<br/>
+        第五章　维度<br/>
+        第六章　几何<br/>
+        第七章　估计与近似<br/>
+        第八章　常见问题<br/>
+        索引<br/>
+        英文原文<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_25829287_full').hide();$('#dir_25829287_short').show();void(0);">收起</a>)
+</div>
+
+    
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">&#34;数学&#34;试读</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent">
+<p>
+
+20世纪初，伟大的数学家大卫•希尔伯特发现，有很多数学中的重要论点在结构上十分类似。他意识到，在适当的广义范畴下，这些论点事实上可以视为等同。与此类似的一系列发现为一个崭新的数学分支开启了大门。而这一新领域中的一个核心概念——希尔伯特空间——正是以希尔伯特的名字来命名的，这一概念使许许多多的现代数学研究变得清晰，范围之广包括了从数论直到量子力学各个分支，...</p>
+<ul class="col2-list clearfix">
+
+<li>
+    <a href="https://book.douban.com/reading/30691272/">前言</a>
+</li>
+
+<li>
+    <a href="https://book.douban.com/reading/30691299/">第八章 常见问题</a>
+</li>
+</ul>
+<div align="right">  · · · · · ·    (<a href="https://book.douban.com/subject/25829287/reading/">查看全部试读</a>)</div>
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共153个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/数学">数学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/牛津通识读本">牛津通识读本</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/科普">科普</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/蒂莫西·高尔斯">蒂莫西·高尔斯</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/英国">英国</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/科学">科学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/*译林·牛津通识读本*">*译林·牛津通识读本*</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/数学周边">数学周边</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/721">牛津通识读本 (共104册)</a>,
+这套丛书还有
+《全球化面面观-牛津通识读本》,《法国大革命》,《法哲学：价值与事实-牛津通识读本》,《印度哲学祛魅-牛津通识读本》,《基督教神学》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;数学&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/2604464/?dcs=subject-rec&amp;dcm=douban&amp;dct=25829287" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/2604464.jpg?v=1395630903.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/2604464/" target="_blank">印度哲学祛魅（中文版）</a>
+          </div>
+          <div class="price">
+              3.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/3401499/?dcs=subject-rec&amp;dcm=douban&amp;dct=25829287" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/3401499.jpg?v=1398655586.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/3401499/" target="_blank">科学革命（中文版）</a>
+          </div>
+          <div class="price">
+              3.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/2521240/?dcs=subject-rec&amp;dcm=douban&amp;dct=25829287" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/2521240.jpg?v=1395393719.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/2521240/" target="_blank">科学哲学（中文版）</a>
+          </div>
+          <div class="price">
+              7.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/5063734/?dcs=subject-rec&amp;dcm=douban&amp;dct=25829287" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/5063734.jpg?v=1406813072.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/5063734/" target="_blank">现代日本（中文版）</a>
+          </div>
+          <div class="price">
+              7.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/2636464/?dcs=subject-rec&amp;dcm=douban&amp;dct=25829287" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/2636464.jpg?v=1395393562.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/2636464/" target="_blank">选择理论（中文版）</a>
+          </div>
+          <div class="price">
+              7.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;数学&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3550249/" onclick="moreurl(this, {'total': 6, 'clicked': '3550249', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s3899746.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3550249/" onclick="moreurl(this, {'total': 6, 'clicked': '3550249', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            科学哲学
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/11441867/" onclick="moreurl(this, {'total': 6, 'clicked': '11441867', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s11118498.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/11441867/" onclick="moreurl(this, {'total': 6, 'clicked': '11441867', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            最佳可能的世界
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4306198/" onclick="moreurl(this, {'total': 6, 'clicked': '4306198', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6347080.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4306198/" onclick="moreurl(this, {'total': 6, 'clicked': '4306198', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            The Laws of Thermodynamics
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4904723/" onclick="moreurl(this, {'total': 6, 'clicked': '4904723', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4438534.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4904723/" onclick="moreurl(this, {'total': 6, 'clicked': '4904723', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            微积分的历程
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/20370475/" onclick="moreurl(this, {'total': 6, 'clicked': '20370475', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27247314.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/20370475/" onclick="moreurl(this, {'total': 6, 'clicked': '20370475', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            数学的语言
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4916533/" onclick="moreurl(this, {'total': 6, 'clicked': '4916533', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4438366.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4916533/" onclick="moreurl(this, {'total': 6, 'clicked': '4916533', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            代数的历史
+          </a>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/25829287/comments/">全部 197 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="913030341">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-913030341" class="vote-count">23</span>
+                        <a href="javascript:;" id="btn-913030341" class="j a_show_login" data-cid="913030341">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Ray1001/">Ray</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2015-04-15</span>
+                </span>
+            </h3>
+            <p class="comment-content">“有自尊心的数学家绝不会满足于仅仅观察到（甚至没有得到严格证明）大素数比小素数稀少，他一定想知道，他们稀少到何种具体程度。”同样，有自尊心的数学教师也绝不会满足仅仅将此书推荐给学生，他一定会取消一礼拜家庭作业，之后组织读书讨论。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="811500621">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-811500621" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-811500621" class="j a_show_login" data-cid="811500621">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Thomas.Xie/">蝉</a>
+                    <span>2014-05-30</span>
+                </span>
+            </h3>
+            <p class="comment-content">:无</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="811468307">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-811468307" class="vote-count">3</span>
+                        <a href="javascript:;" id="btn-811468307" class="j a_show_login" data-cid="811468307">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/bigmouthv2.0/">大嘴巴灵机一动</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-06-24</span>
+                </span>
+            </h3>
+            <p class="comment-content">据说是双语版？为毛在多看买的电子版只有中文……</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="811158856">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-811158856" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-811158856" class="j a_show_login" data-cid="811158856">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Eversint/">Ubique</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2015-07-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">2015/07/05 确实是“科普书”，真要看点数学，教材是少不了的。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="782686353">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-782686353" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-782686353" class="j a_show_login" data-cid="782686353">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/taiyanyinke1984/">大炎</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-07-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">没搞过哲学家的数学家不是好作家…强调术语与符号之有用性，多用抽象逻辑方法，轻松让读者看到证明之美…骚年们有空可以翻翻变换点儿思路…</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1207113348">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1207113348" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1207113348" class="j a_show_login" data-cid="1207113348">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/135768593/">早</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">如何证明自己数学水平低于初中平均水平，看这本书好了。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1199604487">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1199604487" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1199604487" class="j a_show_login" data-cid="1199604487">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/162212768/">lgyyfg</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">介绍了数学抽象思想的作用与理解方式，并应用在具体的几个数学方向上。
+作者对于数学抽象思想的观点是：规则作用即其意义，哲学角度看，这样理解是不完善甚至是错误的，但从应用类学科角度看，这样理解是非常有效的。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1197948504">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1197948504" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1197948504" class="j a_show_login" data-cid="1197948504">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/160384242/">worklife</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">书不厚，选了数学里一些最基础的概念，用平实易懂的语言，讲出背后的数学思想。对，最重要的是“数学思想”！另外刘熙老师翻译的真好！具有中学数学水平就能读懂，初中生也能看，但略有挑战。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1193647477">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1193647477" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1193647477" class="j a_show_login" data-cid="1193647477">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/meworld/">瓦塔西巴撒的斯</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-23</span>
+                </span>
+            </h3>
+            <p class="comment-content">规则固然重要，但学会应用规则的抽象思维能力更重要</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1192293708">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1192293708" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1192293708" class="j a_show_login" data-cid="1192293708">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/daisylving/">戴小同</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-20</span>
+                </span>
+            </h3>
+            <p class="comment-content">跟着知乎的安利去bili上看到微积分的视频觉得好棒，数学作为一种严谨的抽象思维方式，带着各种想象推理智慧思考，本质是如此的美。
+虽然很多难以理解，但是触及一二已经很开心了。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/25829287/comments/">更多短评 197 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/25829287/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            数学的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 13 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6583711">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6583711/" class="title-link">扩展阅读部分的译文</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6583711"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/c_pig8828/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u26941615-6.jpg"></a>
+    <a href="https://www.douban.com/people/c_pig8828/" class="author">
+      <span property="v:reviewer">蓬山远</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-03-11"
+      class="main-meta">2014-03-11 23:55:39</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6583711_short" class="review-short">
+            <div class="short-content">
+                  长度所限，关于数学，我在此没有讨论到许多其他重要方面。对于未涉及到的这些内容，我可以向读者推荐一些书目。如果你想学习数学史，那么Morris Kline的三卷权威著作《古今数学思想》（上海科学技术出版社）会是一部较有难度的参考作品。作者预期读者具备比阅读我这本小书更加...
+
+                    <a class="pl" href="https://book.douban.com/review/6583711/#comments">(5回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">12有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6583711_full" class="hidden">
+            <div id="review_6583711_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6565703">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6565703/" class="title-link">李大潜：数学科普读物的楷模</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6565703"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/1706339/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1706339-2.jpg"></a>
+    <a href="https://www.douban.com/people/1706339/" class="author">
+      <span property="v:reviewer">胡伍玄</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-02-27"
+      class="main-meta">2014-02-27 15:51:06</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6565703_short" class="review-short">
+            <div class="short-content">
+                   数学是绝大多数人学得最多的一门功课，但对于“数学是什么？”这一看来很普通的问题，却很难一下子给出一个使公众满意的回答。按照恩格斯的说法，数学是以现实世界的空间形式和数量关系为研究对象的。尽管人们现在对空间形式和数量关系的理解已经大大深化和拓展了，但作为一种...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">10有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6565703_full" class="hidden">
+            <div id="review_6565703_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6575712">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6575712/" class="title-link">公理化系统窥斑</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6575712"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/c_pig8828/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u26941615-6.jpg"></a>
+    <a href="https://www.douban.com/people/c_pig8828/" class="author">
+      <span property="v:reviewer">蓬山远</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-03-06"
+      class="main-meta">2014-03-06 18:17:24</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6575712_short" class="review-short">
+            <div class="short-content">
+                  对一个领域作一番简短的介绍，无非需要包含这样一些要素：一是这领域关注的对象和问题是什么，是星球，花草，还是家国？二是研究的方法和手段，是归纳现象，定量统计，还是比较分析？三是理论框架和研究成果，谈谈辉煌的历史，重大的影响，深刻的意义。就通识读本丛书已经引进...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">12有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6575712_full" class="hidden">
+            <div id="review_6575712_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6723747">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6723747/" class="title-link">多看的笔记</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6723747"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/lovedzc/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u1000999-69.jpg"></a>
+    <a href="https://www.douban.com/people/lovedzc/" class="author">
+      <span property="v:reviewer">丁丁虫</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-07-02"
+      class="main-meta">2014-07-02 10:33:05</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6723747_short" class="review-short">
+            <div class="short-content">
+                   2014-05-13 我假定读者具有一些兴趣，而不是需要靠我去大力宣扬。因此，我在书中没有用到趣闻轶事、漫画、惊叹号、搞笑的章节标题或者曼德布罗特集合的图片。   2014-05-13 当我们考察一个物理问题的解答时，十有八九能够就其中科学贡献部分和数学贡献部分划出一道清晰的界线...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6723747_full" class="hidden">
+            <div id="review_6723747_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6695458">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6695458/" class="title-link">数学到底应该怎么学？</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6695458"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/athanos/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u50071478-4.jpg"></a>
+    <a href="https://www.douban.com/people/athanos/" class="author">
+      <span property="v:reviewer">athanos</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-06-08"
+      class="main-meta">2014-06-08 05:04:02</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6695458_short" class="review-short">
+            <div class="short-content">
+                  高中时留有遗憾的恐怕就是英语、数学、计算机这三门课了。其他两门我觉得我多少现在赶上来了，唯独数学这门课毕业后更加一落千丈，乃至拖累了我学习数学的兴趣。  中学的数学，特别是为考试服务的数学，特点是高密度的技巧操练。正如作者在最后一张讲到的，数学（包括技巧的方...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">7有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6695458_full" class="hidden">
+            <div id="review_6695458_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评13篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/25829287/annotation">共<span property="v:count">28</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="41336199">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lovedzc/"><img src="https://img1.doubanio.com/icon/u1000999-69.jpg" alt="丁丁虫" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41336199/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41336199/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lovedzc/" class=" " title="丁丁虫">丁丁虫</a>
+                (2/10 15/31)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="41336199">
+              <div class="short">
+                
+                  <span class="">《牛津通识读本：数学（中文版）》的笔记（作者:【英】蒂莫西·高尔斯）
+牛津通识读本：数学（中文版）
+
+【英】蒂莫西·高尔斯
+ 2016-11-20
+人们所谓的数学中的抽象方法，正是我们采取类似态度来对待数学对象的结果。这种态度能够用这样一句话涵盖：数学对象是其所做。
+ 2016-11-20
+A1 加法交换律：对任意两个数a和b，有a+b=b+a。
+A2 加法结合律：对任意三个数a、b和c，有a+（b+c）=（a+b）+c。
+M1 乘法交换律：对任意两..</span>
+                <p class="pl">
+                  <span class="">2017-01-19 18:47</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《牛津通识读本：数学（中文版）》的笔记（作者:【英】蒂莫西·高尔斯）<div style="padding-bottom:1em;"></div>牛津通识读本：数学（中文版）<div style="padding-bottom:1em;"></div>【英】蒂莫西·高尔斯<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>人们所谓的数学中的抽象方法，正是我们采取类似态度来对待数学对象的结果。这种态度能够用这样一句话涵盖：数学对象是其所做。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>A1 加法交换律：对任意两个数a和b，有a+b=b+a。<div style="padding-bottom:1em;"></div>A2 加法结合律：对任意三个数a、b和c，有a+（b+c）=（a+b）+c。<div style="padding-bottom:1em;"></div>M1 乘法交换律：对任意两个数a和b，有ab=ba。<div style="padding-bottom:1em;"></div>M2 乘法结合律：对任意三个数a、b和c，有a（bc）=（ab）c。<div style="padding-bottom:1em;"></div>M3 1是乘法单位元：对任意数a，有1a=a。<div style="padding-bottom:1em;"></div>D 分配律：对任意三个数a、b和c，有（a+b）c=ac+bc。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>A3 0是加法单位元：对任意数a，有0+a=a。<div style="padding-bottom:1em;"></div>这就是关于0你所需要知道的一切了。无关它意味着什么，只是一条小规则告诉你它做什么。<div style="padding-bottom:1em;"></div>那关于数字0的其他性质呢，比方说0乘以任何数都等于0的性质？我并没有列出这条规则，因为我们可以从性质A3及之前的其他规则把它推导出来。例如，我们已经将2定义为1+1，那要怎样来表明0×2=0呢？首先，根据规则M1有0×2=2×0。然后，由规则D得到（1+1）×0=1×0+1×0。但根据规则M3，1×0=0，所以该式等于0+0。规则A3意味着0+0=0，于是我们的论证就完成了。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>向小孩解释减法和除法还有着更进一步的困难，那就是这两种计算并非总能够进行。例如，不可能从装有7只橘子的碗中拿走10只，11颗弹珠不可能平均分给3个小孩。但成人却能够计算7减去10和11除以3，分别得到-3和11/3。问题随之而来：-3和11/3这样的数实际上存在吗？如果存在它们又是什么呢？<div style="padding-bottom:1em;"></div>从抽象的角度看，处理这个问题的方式类似于之前对于零的处理方式：全都抛至脑后。关于-3，我们只需要知道它和3相加等于0即可；关于11/3，只需知道它乘以3等于11即可。这就是它们的运算规则。再与之前的规则相结合，我们就可以在更大的数系中进行算术运算。为什么我们希望照这样扩充数系呢？原因就是，这样得到的模型允许我们在其中求解x+a=b和ax=b这样的方程，无论a和b取何值——只要a在第二个方程中不为0。换句话说，这样得到的模型中，减法和除法总是能够进行的，只要除数不为0。（除数为0的问题我们会在本章稍后谈到。）<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>实数系包含了所有能够用十进制无穷小数表示的数字。这个概念看似简单，实则不易，其中的缘由我们会在第四章加以解释。而现在，让我们来讨论一下将有理数系扩充到实数系的原因。我要讲的是，这原因正与引入负数和分数的理由类似：它们使我们能够求解某些方程，缺少它们我们则无法求解。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>从具象的观点来看，我们会很快就摈弃-1的平方根：因为任何数的平方都是正的，-1根本就没有平方根，故事到此为止。然而，若采纳了抽象的观点，这种反对意见就显得软弱无力了。只要引入方程x2=-1的解并把它称作i就好了，为什么不继续单纯地把数系扩充下去呢？为什么偏偏它的引入就应该比之前的&lt;图&gt;更值得反对呢？<div style="padding-bottom:1em;"></div>一种回答大概是，&lt;图&gt;能够按十进制小数展开，（原则上）能够计算到任意精度，而i就与此不同了。但这说的只不过是我们已经知道的事情，即i不是实数——正如&lt;图&gt;不是有理数一样。这并不能阻挡我们扩充数系，在其中进行如下的运算：i和&lt;图&gt;之间最主要的区别就是我们被迫抽象地去思考i，而对于&lt;图&gt;我们则还有备选方案，可以将它具体地表示为1.4142…，或者看作单位正方形的对角线长度。要看出为什么i没有这样的表示方法，不妨问问自己这个问题：-1的两个平方根中，哪个是i哪个是-i呢？这个问题是没有意义的，因为我们对i所定义的唯一的性质就是平方等于-1。既然-i也有同样的性质，那么关于i成立的那些命题，如替换为关于-i的相应命题，必定依然成立。一旦领会了这一点，就很难再赞同i指示一个独立存在的实在的客体。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>这和一个著名的哲学难题有相似之处。你对红色所产生的感受与我对绿色产生的感受（交换亦可）有没有可能是相同的呢？一些哲学家很严肃地思考这个问题，并定义“感受性”一词来表示我们所拥有的绝对的内在体验，比如我们对色彩的体验。而另一些人并不相信感受性。在他们看来，“绿色”这样的词有更抽象的定义，那就是根据它在语言系统中所发挥的作用，也就是说，根据它与“草地”、“红色”等概念之间的关系。因此，就这个论题，要想从人们谈论色彩的方式来推断出他们的态度是不可能的，除非在哲学争论当中。类似地，在实践中，关于数和其他数学对象，重要的只是它们所遵循的规则。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>如果说为了使方程x2=-1有解我们引入i，那么其他类似的方程呢？比如x4=-3或者2x6+3x+17=0呢？值得注意的是，人们发现，所有这样的方程都可以在复数系中求解。也就是说，我们通过接受i作出小小的投资，结果得到了许多倍的回报。发现这个事实的历史过程有点复杂，但人们通常将它归功于高斯。这个事实被人们称为代数基本定理，它给我们提供了令人折服的证据，使我们相信i的确有合情合理、自然而然的地方。我们的确无法想象一个篮子里有i只苹果，车行途中经过了i个小时，银行账户透支了i英镑。但对数学家来说，复数系已经必不可少。对科学家和工程师同样也是。比如，量子力学的理论就高度依赖于复数。复数作为最佳的例证之一，向我们表明了一条概括性原则：一种抽象的数学构造若是充分自然的，则基本上必能作为模型找到它的用途。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>一旦我们学会抽象地思考，事情就会立刻变得令人愉悦，这个境况有点像突然能够骑自行车而不必去担心保持平衡。然而，我也并不希望使读者觉得抽象方法就好像是印钞许可证。我们可以来作一个有趣的对比，比较一下向数系中引入i与引入数字无穷大之间的区别。乍看起来，似乎没什么可以阻止我们的：无穷大应当用来表示1除以0之类的，所以，为什么不使∞成为一个抽象符号，用它来表示方程0x=1的解呢？<div style="padding-bottom:1em;"></div>但当我们想做算术时，这个想法的问题立刻就来了。我们在这里举个例子，利用乘法结合律M2和0×2=0的事实，就可以得到简单推论：<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>这个式子表明，方程0x=1的解若存在将会导致不相容性。这是否意味着无穷大不存在呢？并不是。这只说明，无穷大的自然概念与算术定律是不相容的。扩充数系以将符号∞包含进来，并且接受在新的系统下这些算术定律并非总是成立，这样做有时是有用处的。但是通常，人们还是希望保持算术定律，不考虑无穷大。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>对数是另一个抽象地来看会变得更加容易的概念。关于对数，我在本书中要说的不多。但如果它确实困扰你，那么你可以消除顾虑，只要了解它们遵循如下三条规则就足以使你去应用对数了。（如果你希望对数是以e为底而不是以10为底的，只需要在L1中把10替换为e即可。）<div style="padding-bottom:1em;"></div>L1 log（10）=1。<div style="padding-bottom:1em;"></div>L2 log（xy）=log（x）+log（y）。<div style="padding-bottom:1em;"></div>L3 若x＜y，则log（x）＜log（y）。<div style="padding-bottom:1em;"></div>例如，要得到log（30）小于3/2，可以应用L1和L2得出log（1000）=log（10）+log（100）=log（10）+log（10）+log（10）=3。而由L2得出2log（30）=log（30）+log（30）=log（900），又由L3得到log（900）＜log（1000）。因此2log（30）＜3，即得log（30）＜32。<div style="padding-bottom:1em;"></div>在这本书的后面，我还将讨论许多类似性质的概念。试图具体地理解它们会让你感到困惑，但当你放轻松些，不再担心它们是什么并且应用抽象的方法，那这些概念的神秘性就消失了。<div style="padding-bottom:1em;"></div>注: 但是这样就变成了纯粹的逻辑游戏了呀<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>上述几段内容说明了，数学论证中的每一步都可以分解成更小的，因而也更加清晰有据的子步骤。这些小步骤又可以进一步分解为子子步骤，等等。数学中有个根本性的重要事实，那就是这样的过程最终必然会终止。原则上，如果不断地将步骤分解为更小的步骤，你最终会得到一条非常长的论证，它以普遍接受的公理开始，仅通过最基本的逻辑原则（例如“若A为真且A蕴含B，则B为真”）一步步推进，最终得到想要求证的结论。<div style="padding-bottom:1em;"></div>上一段中我所说的远非显然：事实上，这正是20世纪早期的重要发现，很大程度上归功于弗雷格、罗素和怀特海（参见“延伸阅读”）。这一发现对数学产生了深远的影响，因为它意味着，任何关于数学证明有效性的争论总是能够解决的。而在19世纪，与此形成对比的是，的确存在着关于数学实体问题的真正分歧。譬如，现代集合论之父格奥尔格·康托尔，基于某个无穷集可能比另一个无穷集“更大”这样的思想提出了一些论点。今天人们已经接受了这些论点，但当时的人们却对此产生强烈的怀疑。如今，如果人们对于某个证明的正确性存在分歧，那要么是因为这个证明写得不够详细，要么是因为人们还没有付出足够努力来仔细地理解、检查这个证明。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>一部分读者可能会萌生这样的问题，我还未触及：为什么我们应该接受数学家提出的公理呢？比方说，如果有人反对数学归纳法原理，我们应当怎样回应呢？大多数数学家会给出如下的答复。首先，所有理解了归纳法的人应该都认为它是显然合理的。其次，公理系统的主要问题并不是公理的真实性，而是公理的自洽性和有用性。数学证明实际上所做的正是要表明，由特定前提——如数学归纳法，能够得到特定的结论——如&lt;图&gt;是无理数。这些前提假设是否正确则是与此完全无关的问题，我们可以安然地把它们留给哲学家。<div style="padding-bottom:1em;"></div>注: 公理不是为了和自然世界对应，而是为了保证公理体系的自洽<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>第二种论证有个值得瞩目的特征，它完全依赖于一种思想，这种思想虽出人意料，但一经理解便显得非常自然。人们经常很困惑，为什么数学家有时会用“优美”、“漂亮”甚至“绝妙”来形容一些证明。这样的例子就让我们对其含义有了一点理解。音乐也能够提供一个有用的类比：一段乐曲刚开始可能沿意想不到的和声方向行进，过后却感觉到非常完美恰当，或者一段管弦织体呈现出整体大于部分之和的境界，其方式我们还无法全然理解——每当这些时候我们就会为之陶醉。在数学证明中，有突如其来的启发，有出人意料却自然而然的思想，还有引人入胜、有待进一步发掘的暗示，这些都能够给我们带来类似的愉悦感。当然，数学的美不同于音乐的美，可音乐的美同样也不同于绘画的美、诗歌的美、姣好面容的美。<div style="padding-bottom:1em;"></div>注: 写代码时也会有这样的时刻<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>较高等的数学中，有一点让很多人感到费解：其中有一些定理看上去非常显然，简直无须证明。遇到这样的定理时，人们常常会问：“如果这都不算显然，那还有什么才算呢？”我一位先前的同事对此给了一个很好的回答：如果脑子里立刻就有证明，那么这条陈述才是显然的。在本章的剩余部分，我将给出三条陈述作为例子，它们看上去都是显然的，却无法通过这样的检验。<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>如果从特定的公理开始，遵循特定的规则，最后以有趣的数学陈述结束，那么这样的陈述就可以当作定理接受，否则就不能被视为定理。这种思想，即从少数几条公理出发演绎推导出许多复杂的定理，可以追溯到欧几里得。欧几里得只用了五条公理就建立起几何学的主要体系。（关于他的公理，我们将在第六章中讨论。）有人可能提出这样的问题：为什么直到20世纪，人们才认识到这样的思想可以应用于整个数学系统当中呢？<div style="padding-bottom:1em;"></div>主要的原因可以被归结为一个词：无穷。出于种种原因，无穷这一概念在数学中必不可少，但却很难严格化。在本章中，我将讨论三条陈述。其中每一条乍看起来都普普通通，但经过仔细的考察，会发现最终都涉及到无穷。随之就产生了困难，本章的主要内容就是如何处理这样的困难。<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>请注意，我所做的是“驯服”无穷，只是将涉及无穷的陈述单纯解读为一种生动的简化，其所指的乃是一条不涉及无穷的累赘得多的陈述。关于无穷的简洁陈述是“x是平方等于2的无穷小数”。可以大致翻译成：“有这样一种规则，对任意n，它能够切实地给出x的前n位数字。这使我们能够算出任意长的有限小数，它们的平方接近于2，只要算得足够长，想要有多接近就能有多接近。”<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>可以把陈述“汽车此刻的行驶速度是40英里每小时”转换成以下这条更复杂的、不涉及无穷的陈述：“如果你给定了允许的误差范围，那么只要t足够小（远小于1），我就可以测出汽车在t小时内走过的英里数，再除以t，得到的结果将很接近于40英里每小时，误差在你规定的范围之内。”<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>我们再一次把一条涉及无穷的陈述，视为对一条更复杂的、关于近似的命题的方便表达。另一个更具提示性的词语是“极限”。一个无穷小数是一列有限小数的极限，瞬时速度是通过测量越来越短的时间内走过的距离所得近似值的极限。数学家经常谈论“在极限时”或者“在无穷时”的情况如何，但他们都很明白，他们并没有把这种说法完全当真。如果强迫他们说出确切意思，他们就会转而谈论近似。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>表明能够赋予高维几何某种意义是一回事，但要表明这个问题为什么值得认真对待就是另一回事了。在这一章的前面部分，我曾经说它作为模型是很有用处的。但是，既然我们所居住的实际空间是三维空间，高维几何究竟有什么用处呢？<div style="padding-bottom:1em;"></div>这个问题的答案相当简单。第一章中我谈到，一个模型可以具有许多不同的功用。即使二维和三维几何也用于许多不同目的，而不仅仅是物理空间的直观模型。例如，我们表示物体的运动时，常常画一张图来记录它所走过的距离随时间的变化。这个图是平面上的一个曲线图，曲线的几何性质与物体运动的信息相对应。为什么二维几何适用于这个运动过程的模型化呢？因为在这里有两个我们关心的数——流逝的时间和走过的距离——如我所说过的，我们可以将二维空间看作所有成对的数的集合。这就提示了我们，为什么高维几何会有用处。宇宙中可能并没有潜藏着高维空间，但需要同时考虑好几个数的情形却有不少。我下面将简要描述两种情形，之后你很明显地可以发现还会有更多的类似情形。<div style="padding-bottom:1em;"></div>设想我要描述一把椅子的位置。如果是向上直立着的，它的位置就完全是由两条腿与地面接触的点来确定的。这两个点可以分别通过两个坐标来描述。于是四个数就可以用于描述椅子的位置。但这四个数是有联系的，因为椅子腿底端的相互距离是固定的。如果这个距离是d，地面上两条腿位于点（p，q）和（r，s），那么由毕达哥拉斯定理有（p－r）2+（q－s）2=d2。这就对p，q，r，s施加了约束，我们可以用几何语言来描述这种约束：四维空间中的点（p，q，r，s）被限制在某个特定的三维“曲面”上。更复杂的物理系统也可以用类似的方式来分析，维度也变得更高。<div style="padding-bottom:1em;"></div>高维几何在经济学中也很重要。例如，你如果正在犹豫买某个公司的股票是否明智，那么能帮助你进行决策的大多数信息都是以数字的形式出现的——劳动力规模、各种资产的价值、原材料的成本、利率，等等。作为一个序列，这些数可被看作某种高维空间中的一个点。通过分析许多类似的公司，你可能会确定出空间中的某个区域，认为购买此区域中的股票是不错的主意。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>在历史上，引起最多怀疑的——或者至少是最让人感到不放心的公理，就是平行公设。它比其他公理都复杂，并且其基础就涉及到了无穷。当我们证明三角形内角和等于180度时，我们必须依赖于空间最远处所发生的事情，这难道不奇怪吗？<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>引入球面几何的意义在于，它让我们可以从论证（1）、（2）、（3）、（5）中分离出某些假设，这些假设实际上是在说：“我们所做的几何不是球面几何。”你可能会奇怪，这有什么错呢：毕竟我们做的不是球面几何。你可能还会奇怪：如果平行公设确实不是从欧几里得的其他公理中得出，我们怎么才有希望表明这一点呢？说数个世纪以来的数学家努力推导它都以失败而告终是没用的。我们怎么能确定，两百年之内会不会有某位年轻的天才能用绝妙的新思想最终得出证明？<div style="padding-bottom:1em;"></div>这个问题有个漂亮的回答——至少是在原则上。欧几里得前四条公理的目的在于描述一种有限、平坦、二维空间的几何，但我们并不非要这样去解释它们——至少不是非得按照公理中那种平坦性去解释。如果我们可以将新的含义赋予“直线段”等短语，从而对公理进行重新解释（有人大概会说是“错误解释”），就像我们在球面几何中做的那样；如果我们这样做之后，发现前四条公理都是正确的但平行公设是错误的，那么我们就表明了，平行公设并非从其他公理中推出。<div style="padding-bottom:1em;"></div>为了看清其中原因，可以想象一种假想的证明，从前四条公理出发，经过一系列严格的逻辑步骤，最终得出平行公设。由于这些步骤都遵循逻辑，如果我们对其赋予新的解释，它们仍会保持有效。但在新的解释下，前四条公理都是正确的，而平行公设不正确，所以这样的论证必然是有错误的。<div style="padding-bottom:1em;"></div>为什么我们不能正好用球面几何来重新解释呢？原因是，很不幸欧几里得前四条公理在球面上并不全部成立。例如，球面上不能包含半径任意大的圆，所以第三公理不成立；而且从北极到南极不止有一条最短路径，所以第一公理也不成立。所以，尽管球面几何能够帮助我们理解某些尝试过的对平行公设的证明中的缺陷，但它仍然不能保证其他可能成立的证明不存在。因此，我要转向另一种新的解释，称为双曲几何。平行公设在这里再次不成立，但这一次第一到第四公理都是成立的。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>既然素数分布有零零散散、颇似随机的性质，而我们却能证明其如此多的特点，这足以令人十分惊讶。有意思的是，关于素数的定理通常都是通过利用这种看似随机的性质得到证明的。例如，维诺格拉多夫在1937年证明的一个著名定理认为，任意充分大的奇数都可以分解为三个素数之和。我无法在本书中解释他是怎样证明的，但他绝对没有找出将奇数表达为三素数之和的方法。这样的思路几乎注定会失败，因为即使是生成这些素数本身也非常困难。基于哈代和利特伍德之前的工作，他大体按照下述办法来论证。如果你能够按照和素数分布同样的密度来真正随机地选取一些数，那么概率论的某种初步理论就能够表明，你几乎一定能够将所有充分大的数表示为你所取的这些数中的三个之和。实际上，你能够以多种不同方式进行这一分解。因为素数是类似于随机的（证明中较难的部分就是要说明，“类似于随机”是什么意思，再加以严格证明），它们的行为就相仿于随机选取的序列，所以所有充分大的数都是三素数之和——同样也以多种方式。为了解释这种现象，这里我们以35为例，列出它分解为三素数之和的所有方式：<div style="padding-bottom:1em;"></div>35=2+2+31=3+3+29=3+13+19=5+7+23<div style="padding-bottom:1em;"></div>=5+11+19=5+13+17=7+11+17=11+11+13<div style="padding-bottom:1em;"></div>关于素数的很多研究都具有此类特点。你首先对素数设计一种概率模型，即假装告诉自己，它们是根据某种随机过程挑选出来的。接下来，在假设素数的确是随机产生的情况下，求证有哪些论断是正确的。这样可以使你猜测出很多问题的答案。最后，你努力表明，这个模型足够现实，能够保证你的猜测近似准确。要注意的是，如果强迫在论证中的每一步都给出精确答案，那这个思路就是不可能的。<div style="padding-bottom:1em;"></div>很有意思，概率模型不仅仅是物理现象的模型，还能成为另一数学分支的模型。尽管素数的真实分布是严格确定下来的，可某种程度上它们看起来也像是实验数据。一旦这样看待它们，我们就很想去设计对应的简化模型，来预测特定概率论问题的答案是什么样的。这种模型有时的确曾使人们得到对素数本身的有效证明。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>我们不常听到别人说他们从来不喜欢生物学，或者英国文学。毫无疑问，并不是所有人都会对这些学科感到兴奋，但是，那些没有热情的人往往完全理解那些有热情的人。相反，数学，以及其他内容高度数学化的学科，诸如物理，似乎不仅仅使人提不起兴趣，而且能激起反感。究竟是什么原因使他们一旦能够抛弃数学时就立刻抛弃，并且一生都对数学心有余悸？<div style="padding-bottom:1em;"></div>很可能并不是因为数学很无聊，而是数学课的经历很乏味。这一点更容易理解。因为数学总是持续在自身的基础上构建，所以学习时的步步跟进就显得很重要。比方说，如果你不太擅长两位数的乘法，那你很可能就不会对分配律（第二章中讨论过）有良好的直觉。没有这种直觉，你可能就会在计算打开括号（x+2）（x+3）时感到不适应，于是你接下来就不能很好地理解二次方程，因而也无法理解为什么黄金分割比是&lt;图&gt;<div style="padding-bottom:1em;"></div>类似这样的环环相扣还有很多，但是，学习数学时的步步跟进不仅仅是保持技术熟练度而已。数学中常常会引入重要的新思想，新思想会比旧思想更加复杂，每一个新思想的引入都有可能把我们甩在后面。一个很明显的例子就是用字母表示数，很多人对此糊里糊涂，但对某个层次以上的数学来讲这是基础性的。还有其他类似的例子，比如负数、三角函数、指数、对数以及初步的微积分。没有作好准备来进行必要的概念飞跃的人，一旦遇到这些新思想时，就会对其后建立在新思想基础上的一切数学感到并不牢靠。久而久之，他们就会习惯于对数学老师所说的东西仅仅一知半解，日后再错过几次飞跃，恐怕连一知半解也做不到了。同时他们又看到班上其他同学能够轻而易举地跟上课程。因此就不难理解，为什么对许多人来讲数学课成为了一种煎熬。<div style="padding-bottom:1em;"></div>情况一定是这样的吗？有没有人天生注定就会在学校里厌恶数学，还是说，有可能找出一种不同的数学教学方法，使得排斥数学的人能够大大减少？我相信，小孩子如果在早期接受到热情的好老师一对一教学，长大之后就会喜欢上数学。当然，这并不能直接成为一种可行的教育政策，不过至少告诉我们，数学的教育方法可能有改进空间。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>从我在本书中所强调的思想出发，我可以给出一条建议。在上面，我间接地将技术的熟练度与对较难概念的理解作了一番比较，但实际情况似乎是，凡是擅长其中一个方面的必然两个方面都擅长。况且，如果说理解数学对象，大体上就是要学习数学对象所遵从的规则，而非把握其本质，那么我们完全可以预期：技术的熟练度与数学理解力之间并不像我们想象得那样泾渭分明。<div style="padding-bottom:1em;"></div>这又会对课堂实践产生什么影响呢？我并不赞成革命性的改进——数学教育已经深受其累，我所赞同的是小幅度的改变，有所侧重的小幅变化将会是有益的。比方说，一个小学生犯了个常见错误，觉得xa+b=xa+xb。强调表达式xa内在含义的老师会指出，xa+b的含义是a+b个x相乘，显然与a个x相乘再乘以b个x相乘的结果相等。不幸的是，很多孩子觉得这样的论证过于复杂、难以领会，何况一旦a和b不是正整数，这样的说法就无效了。<div style="padding-bottom:1em;"></div>如果使用更抽象的办法，那么这些孩子可能会从中获益。正如我在第二章中所指出的，关于指数我们需要了解的一切，都能从几条很简单的规则中推导出来，其中最重要的一条就是xa+b=xaxb。如果这条规则得到了强调，那么上面的这种错误可能出现的机会就减少了，一旦出现了也很容易纠正：我们只需要提醒犯错的人没有使用正确的规则就行了。当然，熟悉x3等于x乘以x乘以x这样的基本事实也很重要，但这样的事实可以当作规则的推论出现，而不是当作规则的论据。<div style="padding-bottom:1em;"></div>我并不是想说，我们应该向孩子们解释什么是抽象方法，我只是想指，教师们应当对抽象方法的隐含意义有所认识。这些隐含意义中最主要的一个就是，即使并不能确切地了解数学概念的含义，我们也很有可能学会正确地使用它们。这听起来似乎是个坏主意，但是用法总是容易教，而对意义的深层理解——倘若在用途之上的确有某种意义的话——常常会自然而然地随之而来。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>有没有著名数学问题被业余爱好者解决过？<div style="padding-bottom:1em;"></div>坦率地讲，没有——这就是对这个问题最简单的回答，也是最不具有误导性的回答。专业数学家能够很快地意识到，他们就著名问题所产生的几乎任何思想，都已经有许多前辈想到过了。一种思想要想成为全新的，就必须具备某种特征能够说明为何前人从来没有考虑过它。可能仅仅是这种想法极具原创性，出人意料，但这种情况十分罕见：总体而言，某种思想的诞生会有充足的理由，而不会是凭空冒出来的。如果你有了这种想法，那凭什么别人就不曾有过呢？一种更加合理的理由是，这个想法和别的某种思想相关，那种思想的知名度并不高，而你已经不畏艰难地去学习并且吸收那种思想。这样至少降低了别人在你之前已经有过同样想法的概率，虽然还是没有降到零。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41336199/#comments">回应</a>&nbsp;&nbsp;
+                  2017-01-19 18:47
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36683736">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foxjoan/"><img src="https://img3.doubanio.com/icon/u1525124-882.jpg" alt="雷托" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36683736/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36683736/" class="">5</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foxjoan/" class=" " title="雷托">雷托</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36683736">
+              <div class="short">
+                
+                  <span class="">数学中（以及物理学中）听起来最自相矛盾的短语之一就是“弯曲空间”。我们都知道线或面被弯曲是什么意思，但空间自身就是自在之物。即便我们能够在一定程度上对三维空间弯曲的概念赋予意义，与曲面的类比还是揭示出，我们自己不可能观察到空间是否弯曲，除非跳到第四维中去观察。在那里也许我们会发现宇宙是一个四维球体的表面，这个球面至少听起来是弯曲的。
+
+当然，这些都是不可能的。因为我们不知道如何能站到宇宙之外——这...</span>
+                <p class="pl">
+                  <span class="">2015-12-02 11:55</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>数学中（以及物理学中）听起来最自相矛盾的短语之一就是“弯曲空间”。我们都知道线或面被弯曲是什么意思，但空间自身就是自在之物。即便我们能够在一定程度上对三维空间弯曲的概念赋予意义，与曲面的类比还是揭示出，我们自己不可能观察到空间是否弯曲，除非跳到第四维中去观察。在那里也许我们会发现宇宙是一个四维球体的表面，这个球面至少听起来是弯曲的。
+
+当然，这些都是不可能的。因为我们不知道如何能站到宇宙之外——这种想法几乎在措辞上就是矛盾的——我们能够用的证据只能来自于宇宙之内。那么，什么样的证据有可能说服我们空间是弯曲的呢？
+
+如果我们采取抽象方法，这个问题就变得简单些了。不去做艰深的思维体操以试图理解弯曲空间的本性，让我们仅仅遵循扩展数学概念的寻常程序。我们理解“弯曲”一词用在二维表面时的意思。为了把它用在不太熟悉的情形中，即用到三维上，我们必须努力找到曲面表面易于扩展的性质。
+
+闭曲面是指没有边界的二维形状。球面就是个不错的例子，环面也是。
+
+曲面虽存在于三维空间之中，但若脱离开三维空间的参照来思考曲面，可能会很有益。如果我们要将闭曲面的概念扩展到高维空间，这样的想法就更加重要了。
+
+多数情况下，我们不得不满足于大致的估计。
+
+比起其他学科来，数学需要一个人更加专注。
+
+
+
+
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36683736/#comments">回应</a>&nbsp;&nbsp;
+                  2015-12-02 11:55
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36487777">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foxjoan/"><img src="https://img3.doubanio.com/icon/u1525124-882.jpg" alt="雷托" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36487777/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36487777/" class="">3</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foxjoan/" class=" " title="雷托">雷托</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36487777">
+              <div class="short">
+                
+                  <span class="">在象棋中，黑色国王是什么呢？这是个奇怪的问题。最令人满意的处理方式似乎是，回避这个问题。除了指着棋盘，说明游戏的规则，我们还能做些什么呢？也许在这么做的同时会对黑色国王给予特别的关注？真正重要的问题并不是黑色国王的存在性或者它的本质属性，而是它在游戏中所发挥的作用。
+
+如果不去小心地证明你所说的话，那你就有说错的危险。一个更积极一点的寓意是，如果确实努力去证明一个陈述，那你将能以全然不同而且更有意...</span>
+                <p class="pl">
+                  <span class="">2015-11-03 22:42</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>在象棋中，黑色国王是什么呢？这是个奇怪的问题。最令人满意的处理方式似乎是，回避这个问题。除了指着棋盘，说明游戏的规则，我们还能做些什么呢？也许在这么做的同时会对黑色国王给予特别的关注？真正重要的问题并不是黑色国王的存在性或者它的本质属性，而是它在游戏中所发挥的作用。
+
+如果不去小心地证明你所说的话，那你就有说错的危险。一个更积极一点的寓意是，如果确实努力去证明一个陈述，那你将能以全然不同而且更有意思的方式理解它。
+
+1.如果矩形的边长比事黄金分割比，那么我们可以一直从中切掉正方形，没有尽头。2.如果矩形的边长比是某对整数P和q的比值p/q，那么就不能永不停止地从中切掉正方形。 于是我们可以得到，比值p/q不是黄金分割比，无论p和q取什么值。换言之，黄金分割比是无理数。
+
+在数学证明中，有突如其来的启发，有出人意料却自然而然的思想，还有引人入胜、有待进一步发掘的暗示，这些都能够给我们带来类似的愉悦感。当然，数学的美不同于音乐的美，可音乐的美同样也不同于绘画的美、诗歌的美、姣好面容的美。
+
+任何解开结的努力似乎都难以避免地会使得整个结更为繁复。然而，要把这样的直觉转换为有效的证明确实很难的。所谓显然，只不过是没有简单的方法解开这个结。难点在于需要排除所有的可能性，说明先把结变复杂再最终解开它也是不可能的。应当承认，这看起来不太可能，但是，数学中的确存在这样的现象。
+
+投身于数学研究所能得到的乐趣之一就是，随着专业领域的经验越来越丰富，你能够发现自己“仅仅观察”就能得到越来越多问题的答案，不一定非得是几何问题，而这些问题你以前可能要艰难思考上一两个小时。
+
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36487777/#comments">回应</a>&nbsp;&nbsp;
+                  2015-11-03 22:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36452580">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foxjoan/"><img src="https://img3.doubanio.com/icon/u1525124-882.jpg" alt="雷托" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36452580/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36452580/" class="">基本规则</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foxjoan/" class=" " title="雷托">雷托</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36452580">
+              <div class="short">
+                
+                  <span class="">
+
+A1 加法交换律 a+b=b+a
+A2 加法结合律 a+(b+c)=(a+b)+c
+A3 0是加法单元 0+a=a
+A4 加法逆元 -b   a+b=0
+A5 加法消去律 对任意三个数 ab和c 若a+b=a+c 则 b=c
+
+M1 乘法交换律 ab=ba
+M2 乘法结合律 a(bc)=(ab)c
+M3 1是乘法单位元 对任意数a 有1a=a
+M4 乘法逆元 对任意不为0的数a 总存在一个数c ac=1
+M5 乘法消去律 对任意三个数abc 若ab=ac 且a不为0  则b=c
+
+D分配律 （a+b)c=ac+bc
+
+E1 对任意实数a， a^1=a
+E2 对...</span>
+                <p class="pl">
+                  <span class="">2015-10-29 17:47</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>
+
+A1 加法交换律 a+b=b+a
+A2 加法结合律 a+(b+c)=(a+b)+c
+A3 0是加法单元 0+a=a
+A4 加法逆元 -b   a+b=0
+A5 加法消去律 对任意三个数 ab和c 若a+b=a+c 则 b=c
+
+M1 乘法交换律 ab=ba
+M2 乘法结合律 a(bc)=(ab)c
+M3 1是乘法单位元 对任意数a 有1a=a
+M4 乘法逆元 对任意不为0的数a 总存在一个数c ac=1
+M5 乘法消去律 对任意三个数abc 若ab=ac 且a不为0  则b=c
+
+D分配律 （a+b)c=ac+bc
+
+E1 对任意实数a， a^1=a
+E2 对任意实数a和任意一对自然数m、n，有a^(m+n)=a^m×a^n
+E3 如果a&gt;0且b是实数，那么a^b为正数
+
+L1 log(10)=1
+L2 log(xy)=log(x)+log(y)
+L3 若x&lt;y，则log(x)&lt;log(y)
+
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36452580/#comments">回应</a>&nbsp;&nbsp;
+                  2015-10-29 17:47
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="41336199">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lovedzc/"><img src="https://img1.doubanio.com/icon/u1000999-69.jpg" alt="丁丁虫" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41336199/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41336199/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lovedzc/" class=" " title="丁丁虫">丁丁虫</a>
+                (2/10 15/31)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="41336199">
+              <div class="short">
+                
+                  <span class="">《牛津通识读本：数学（中文版）》的笔记（作者:【英】蒂莫西·高尔斯）
+牛津通识读本：数学（中文版）
+
+【英】蒂莫西·高尔斯
+ 2016-11-20
+人们所谓的数学中的抽象方法，正是我们采取类似态度来对待数学对象的结果。这种态度能够用这样一句话涵盖：数学对象是其所做。
+ 2016-11-20
+A1 加法交换律：对任意两个数a和b，有a+b=b+a。
+A2 加法结合律：对任意三个数a、b和c，有a+（b+c）=（a+b）+c。
+M1 乘法交换律：对任意两..</span>
+                <p class="pl">
+                  <span class="">2017-01-19 18:47</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《牛津通识读本：数学（中文版）》的笔记（作者:【英】蒂莫西·高尔斯）<div style="padding-bottom:1em;"></div>牛津通识读本：数学（中文版）<div style="padding-bottom:1em;"></div>【英】蒂莫西·高尔斯<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>人们所谓的数学中的抽象方法，正是我们采取类似态度来对待数学对象的结果。这种态度能够用这样一句话涵盖：数学对象是其所做。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>A1 加法交换律：对任意两个数a和b，有a+b=b+a。<div style="padding-bottom:1em;"></div>A2 加法结合律：对任意三个数a、b和c，有a+（b+c）=（a+b）+c。<div style="padding-bottom:1em;"></div>M1 乘法交换律：对任意两个数a和b，有ab=ba。<div style="padding-bottom:1em;"></div>M2 乘法结合律：对任意三个数a、b和c，有a（bc）=（ab）c。<div style="padding-bottom:1em;"></div>M3 1是乘法单位元：对任意数a，有1a=a。<div style="padding-bottom:1em;"></div>D 分配律：对任意三个数a、b和c，有（a+b）c=ac+bc。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>A3 0是加法单位元：对任意数a，有0+a=a。<div style="padding-bottom:1em;"></div>这就是关于0你所需要知道的一切了。无关它意味着什么，只是一条小规则告诉你它做什么。<div style="padding-bottom:1em;"></div>那关于数字0的其他性质呢，比方说0乘以任何数都等于0的性质？我并没有列出这条规则，因为我们可以从性质A3及之前的其他规则把它推导出来。例如，我们已经将2定义为1+1，那要怎样来表明0×2=0呢？首先，根据规则M1有0×2=2×0。然后，由规则D得到（1+1）×0=1×0+1×0。但根据规则M3，1×0=0，所以该式等于0+0。规则A3意味着0+0=0，于是我们的论证就完成了。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>向小孩解释减法和除法还有着更进一步的困难，那就是这两种计算并非总能够进行。例如，不可能从装有7只橘子的碗中拿走10只，11颗弹珠不可能平均分给3个小孩。但成人却能够计算7减去10和11除以3，分别得到-3和11/3。问题随之而来：-3和11/3这样的数实际上存在吗？如果存在它们又是什么呢？<div style="padding-bottom:1em;"></div>从抽象的角度看，处理这个问题的方式类似于之前对于零的处理方式：全都抛至脑后。关于-3，我们只需要知道它和3相加等于0即可；关于11/3，只需知道它乘以3等于11即可。这就是它们的运算规则。再与之前的规则相结合，我们就可以在更大的数系中进行算术运算。为什么我们希望照这样扩充数系呢？原因就是，这样得到的模型允许我们在其中求解x+a=b和ax=b这样的方程，无论a和b取何值——只要a在第二个方程中不为0。换句话说，这样得到的模型中，减法和除法总是能够进行的，只要除数不为0。（除数为0的问题我们会在本章稍后谈到。）<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>实数系包含了所有能够用十进制无穷小数表示的数字。这个概念看似简单，实则不易，其中的缘由我们会在第四章加以解释。而现在，让我们来讨论一下将有理数系扩充到实数系的原因。我要讲的是，这原因正与引入负数和分数的理由类似：它们使我们能够求解某些方程，缺少它们我们则无法求解。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>从具象的观点来看，我们会很快就摈弃-1的平方根：因为任何数的平方都是正的，-1根本就没有平方根，故事到此为止。然而，若采纳了抽象的观点，这种反对意见就显得软弱无力了。只要引入方程x2=-1的解并把它称作i就好了，为什么不继续单纯地把数系扩充下去呢？为什么偏偏它的引入就应该比之前的&lt;图&gt;更值得反对呢？<div style="padding-bottom:1em;"></div>一种回答大概是，&lt;图&gt;能够按十进制小数展开，（原则上）能够计算到任意精度，而i就与此不同了。但这说的只不过是我们已经知道的事情，即i不是实数——正如&lt;图&gt;不是有理数一样。这并不能阻挡我们扩充数系，在其中进行如下的运算：i和&lt;图&gt;之间最主要的区别就是我们被迫抽象地去思考i，而对于&lt;图&gt;我们则还有备选方案，可以将它具体地表示为1.4142…，或者看作单位正方形的对角线长度。要看出为什么i没有这样的表示方法，不妨问问自己这个问题：-1的两个平方根中，哪个是i哪个是-i呢？这个问题是没有意义的，因为我们对i所定义的唯一的性质就是平方等于-1。既然-i也有同样的性质，那么关于i成立的那些命题，如替换为关于-i的相应命题，必定依然成立。一旦领会了这一点，就很难再赞同i指示一个独立存在的实在的客体。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>这和一个著名的哲学难题有相似之处。你对红色所产生的感受与我对绿色产生的感受（交换亦可）有没有可能是相同的呢？一些哲学家很严肃地思考这个问题，并定义“感受性”一词来表示我们所拥有的绝对的内在体验，比如我们对色彩的体验。而另一些人并不相信感受性。在他们看来，“绿色”这样的词有更抽象的定义，那就是根据它在语言系统中所发挥的作用，也就是说，根据它与“草地”、“红色”等概念之间的关系。因此，就这个论题，要想从人们谈论色彩的方式来推断出他们的态度是不可能的，除非在哲学争论当中。类似地，在实践中，关于数和其他数学对象，重要的只是它们所遵循的规则。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>如果说为了使方程x2=-1有解我们引入i，那么其他类似的方程呢？比如x4=-3或者2x6+3x+17=0呢？值得注意的是，人们发现，所有这样的方程都可以在复数系中求解。也就是说，我们通过接受i作出小小的投资，结果得到了许多倍的回报。发现这个事实的历史过程有点复杂，但人们通常将它归功于高斯。这个事实被人们称为代数基本定理，它给我们提供了令人折服的证据，使我们相信i的确有合情合理、自然而然的地方。我们的确无法想象一个篮子里有i只苹果，车行途中经过了i个小时，银行账户透支了i英镑。但对数学家来说，复数系已经必不可少。对科学家和工程师同样也是。比如，量子力学的理论就高度依赖于复数。复数作为最佳的例证之一，向我们表明了一条概括性原则：一种抽象的数学构造若是充分自然的，则基本上必能作为模型找到它的用途。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>一旦我们学会抽象地思考，事情就会立刻变得令人愉悦，这个境况有点像突然能够骑自行车而不必去担心保持平衡。然而，我也并不希望使读者觉得抽象方法就好像是印钞许可证。我们可以来作一个有趣的对比，比较一下向数系中引入i与引入数字无穷大之间的区别。乍看起来，似乎没什么可以阻止我们的：无穷大应当用来表示1除以0之类的，所以，为什么不使∞成为一个抽象符号，用它来表示方程0x=1的解呢？<div style="padding-bottom:1em;"></div>但当我们想做算术时，这个想法的问题立刻就来了。我们在这里举个例子，利用乘法结合律M2和0×2=0的事实，就可以得到简单推论：<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>这个式子表明，方程0x=1的解若存在将会导致不相容性。这是否意味着无穷大不存在呢？并不是。这只说明，无穷大的自然概念与算术定律是不相容的。扩充数系以将符号∞包含进来，并且接受在新的系统下这些算术定律并非总是成立，这样做有时是有用处的。但是通常，人们还是希望保持算术定律，不考虑无穷大。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>对数是另一个抽象地来看会变得更加容易的概念。关于对数，我在本书中要说的不多。但如果它确实困扰你，那么你可以消除顾虑，只要了解它们遵循如下三条规则就足以使你去应用对数了。（如果你希望对数是以e为底而不是以10为底的，只需要在L1中把10替换为e即可。）<div style="padding-bottom:1em;"></div>L1 log（10）=1。<div style="padding-bottom:1em;"></div>L2 log（xy）=log（x）+log（y）。<div style="padding-bottom:1em;"></div>L3 若x＜y，则log（x）＜log（y）。<div style="padding-bottom:1em;"></div>例如，要得到log（30）小于3/2，可以应用L1和L2得出log（1000）=log（10）+log（100）=log（10）+log（10）+log（10）=3。而由L2得出2log（30）=log（30）+log（30）=log（900），又由L3得到log（900）＜log（1000）。因此2log（30）＜3，即得log（30）＜32。<div style="padding-bottom:1em;"></div>在这本书的后面，我还将讨论许多类似性质的概念。试图具体地理解它们会让你感到困惑，但当你放轻松些，不再担心它们是什么并且应用抽象的方法，那这些概念的神秘性就消失了。<div style="padding-bottom:1em;"></div>注: 但是这样就变成了纯粹的逻辑游戏了呀<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>上述几段内容说明了，数学论证中的每一步都可以分解成更小的，因而也更加清晰有据的子步骤。这些小步骤又可以进一步分解为子子步骤，等等。数学中有个根本性的重要事实，那就是这样的过程最终必然会终止。原则上，如果不断地将步骤分解为更小的步骤，你最终会得到一条非常长的论证，它以普遍接受的公理开始，仅通过最基本的逻辑原则（例如“若A为真且A蕴含B，则B为真”）一步步推进，最终得到想要求证的结论。<div style="padding-bottom:1em;"></div>上一段中我所说的远非显然：事实上，这正是20世纪早期的重要发现，很大程度上归功于弗雷格、罗素和怀特海（参见“延伸阅读”）。这一发现对数学产生了深远的影响，因为它意味着，任何关于数学证明有效性的争论总是能够解决的。而在19世纪，与此形成对比的是，的确存在着关于数学实体问题的真正分歧。譬如，现代集合论之父格奥尔格·康托尔，基于某个无穷集可能比另一个无穷集“更大”这样的思想提出了一些论点。今天人们已经接受了这些论点，但当时的人们却对此产生强烈的怀疑。如今，如果人们对于某个证明的正确性存在分歧，那要么是因为这个证明写得不够详细，要么是因为人们还没有付出足够努力来仔细地理解、检查这个证明。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>一部分读者可能会萌生这样的问题，我还未触及：为什么我们应该接受数学家提出的公理呢？比方说，如果有人反对数学归纳法原理，我们应当怎样回应呢？大多数数学家会给出如下的答复。首先，所有理解了归纳法的人应该都认为它是显然合理的。其次，公理系统的主要问题并不是公理的真实性，而是公理的自洽性和有用性。数学证明实际上所做的正是要表明，由特定前提——如数学归纳法，能够得到特定的结论——如&lt;图&gt;是无理数。这些前提假设是否正确则是与此完全无关的问题，我们可以安然地把它们留给哲学家。<div style="padding-bottom:1em;"></div>注: 公理不是为了和自然世界对应，而是为了保证公理体系的自洽<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>第二种论证有个值得瞩目的特征，它完全依赖于一种思想，这种思想虽出人意料，但一经理解便显得非常自然。人们经常很困惑，为什么数学家有时会用“优美”、“漂亮”甚至“绝妙”来形容一些证明。这样的例子就让我们对其含义有了一点理解。音乐也能够提供一个有用的类比：一段乐曲刚开始可能沿意想不到的和声方向行进，过后却感觉到非常完美恰当，或者一段管弦织体呈现出整体大于部分之和的境界，其方式我们还无法全然理解——每当这些时候我们就会为之陶醉。在数学证明中，有突如其来的启发，有出人意料却自然而然的思想，还有引人入胜、有待进一步发掘的暗示，这些都能够给我们带来类似的愉悦感。当然，数学的美不同于音乐的美，可音乐的美同样也不同于绘画的美、诗歌的美、姣好面容的美。<div style="padding-bottom:1em;"></div>注: 写代码时也会有这样的时刻<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>较高等的数学中，有一点让很多人感到费解：其中有一些定理看上去非常显然，简直无须证明。遇到这样的定理时，人们常常会问：“如果这都不算显然，那还有什么才算呢？”我一位先前的同事对此给了一个很好的回答：如果脑子里立刻就有证明，那么这条陈述才是显然的。在本章的剩余部分，我将给出三条陈述作为例子，它们看上去都是显然的，却无法通过这样的检验。<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>如果从特定的公理开始，遵循特定的规则，最后以有趣的数学陈述结束，那么这样的陈述就可以当作定理接受，否则就不能被视为定理。这种思想，即从少数几条公理出发演绎推导出许多复杂的定理，可以追溯到欧几里得。欧几里得只用了五条公理就建立起几何学的主要体系。（关于他的公理，我们将在第六章中讨论。）有人可能提出这样的问题：为什么直到20世纪，人们才认识到这样的思想可以应用于整个数学系统当中呢？<div style="padding-bottom:1em;"></div>主要的原因可以被归结为一个词：无穷。出于种种原因，无穷这一概念在数学中必不可少，但却很难严格化。在本章中，我将讨论三条陈述。其中每一条乍看起来都普普通通，但经过仔细的考察，会发现最终都涉及到无穷。随之就产生了困难，本章的主要内容就是如何处理这样的困难。<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>请注意，我所做的是“驯服”无穷，只是将涉及无穷的陈述单纯解读为一种生动的简化，其所指的乃是一条不涉及无穷的累赘得多的陈述。关于无穷的简洁陈述是“x是平方等于2的无穷小数”。可以大致翻译成：“有这样一种规则，对任意n，它能够切实地给出x的前n位数字。这使我们能够算出任意长的有限小数，它们的平方接近于2，只要算得足够长，想要有多接近就能有多接近。”<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>可以把陈述“汽车此刻的行驶速度是40英里每小时”转换成以下这条更复杂的、不涉及无穷的陈述：“如果你给定了允许的误差范围，那么只要t足够小（远小于1），我就可以测出汽车在t小时内走过的英里数，再除以t，得到的结果将很接近于40英里每小时，误差在你规定的范围之内。”<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>我们再一次把一条涉及无穷的陈述，视为对一条更复杂的、关于近似的命题的方便表达。另一个更具提示性的词语是“极限”。一个无穷小数是一列有限小数的极限，瞬时速度是通过测量越来越短的时间内走过的距离所得近似值的极限。数学家经常谈论“在极限时”或者“在无穷时”的情况如何，但他们都很明白，他们并没有把这种说法完全当真。如果强迫他们说出确切意思，他们就会转而谈论近似。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>表明能够赋予高维几何某种意义是一回事，但要表明这个问题为什么值得认真对待就是另一回事了。在这一章的前面部分，我曾经说它作为模型是很有用处的。但是，既然我们所居住的实际空间是三维空间，高维几何究竟有什么用处呢？<div style="padding-bottom:1em;"></div>这个问题的答案相当简单。第一章中我谈到，一个模型可以具有许多不同的功用。即使二维和三维几何也用于许多不同目的，而不仅仅是物理空间的直观模型。例如，我们表示物体的运动时，常常画一张图来记录它所走过的距离随时间的变化。这个图是平面上的一个曲线图，曲线的几何性质与物体运动的信息相对应。为什么二维几何适用于这个运动过程的模型化呢？因为在这里有两个我们关心的数——流逝的时间和走过的距离——如我所说过的，我们可以将二维空间看作所有成对的数的集合。这就提示了我们，为什么高维几何会有用处。宇宙中可能并没有潜藏着高维空间，但需要同时考虑好几个数的情形却有不少。我下面将简要描述两种情形，之后你很明显地可以发现还会有更多的类似情形。<div style="padding-bottom:1em;"></div>设想我要描述一把椅子的位置。如果是向上直立着的，它的位置就完全是由两条腿与地面接触的点来确定的。这两个点可以分别通过两个坐标来描述。于是四个数就可以用于描述椅子的位置。但这四个数是有联系的，因为椅子腿底端的相互距离是固定的。如果这个距离是d，地面上两条腿位于点（p，q）和（r，s），那么由毕达哥拉斯定理有（p－r）2+（q－s）2=d2。这就对p，q，r，s施加了约束，我们可以用几何语言来描述这种约束：四维空间中的点（p，q，r，s）被限制在某个特定的三维“曲面”上。更复杂的物理系统也可以用类似的方式来分析，维度也变得更高。<div style="padding-bottom:1em;"></div>高维几何在经济学中也很重要。例如，你如果正在犹豫买某个公司的股票是否明智，那么能帮助你进行决策的大多数信息都是以数字的形式出现的——劳动力规模、各种资产的价值、原材料的成本、利率，等等。作为一个序列，这些数可被看作某种高维空间中的一个点。通过分析许多类似的公司，你可能会确定出空间中的某个区域，认为购买此区域中的股票是不错的主意。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>在历史上，引起最多怀疑的——或者至少是最让人感到不放心的公理，就是平行公设。它比其他公理都复杂，并且其基础就涉及到了无穷。当我们证明三角形内角和等于180度时，我们必须依赖于空间最远处所发生的事情，这难道不奇怪吗？<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>引入球面几何的意义在于，它让我们可以从论证（1）、（2）、（3）、（5）中分离出某些假设，这些假设实际上是在说：“我们所做的几何不是球面几何。”你可能会奇怪，这有什么错呢：毕竟我们做的不是球面几何。你可能还会奇怪：如果平行公设确实不是从欧几里得的其他公理中得出，我们怎么才有希望表明这一点呢？说数个世纪以来的数学家努力推导它都以失败而告终是没用的。我们怎么能确定，两百年之内会不会有某位年轻的天才能用绝妙的新思想最终得出证明？<div style="padding-bottom:1em;"></div>这个问题有个漂亮的回答——至少是在原则上。欧几里得前四条公理的目的在于描述一种有限、平坦、二维空间的几何，但我们并不非要这样去解释它们——至少不是非得按照公理中那种平坦性去解释。如果我们可以将新的含义赋予“直线段”等短语，从而对公理进行重新解释（有人大概会说是“错误解释”），就像我们在球面几何中做的那样；如果我们这样做之后，发现前四条公理都是正确的但平行公设是错误的，那么我们就表明了，平行公设并非从其他公理中推出。<div style="padding-bottom:1em;"></div>为了看清其中原因，可以想象一种假想的证明，从前四条公理出发，经过一系列严格的逻辑步骤，最终得出平行公设。由于这些步骤都遵循逻辑，如果我们对其赋予新的解释，它们仍会保持有效。但在新的解释下，前四条公理都是正确的，而平行公设不正确，所以这样的论证必然是有错误的。<div style="padding-bottom:1em;"></div>为什么我们不能正好用球面几何来重新解释呢？原因是，很不幸欧几里得前四条公理在球面上并不全部成立。例如，球面上不能包含半径任意大的圆，所以第三公理不成立；而且从北极到南极不止有一条最短路径，所以第一公理也不成立。所以，尽管球面几何能够帮助我们理解某些尝试过的对平行公设的证明中的缺陷，但它仍然不能保证其他可能成立的证明不存在。因此，我要转向另一种新的解释，称为双曲几何。平行公设在这里再次不成立，但这一次第一到第四公理都是成立的。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>既然素数分布有零零散散、颇似随机的性质，而我们却能证明其如此多的特点，这足以令人十分惊讶。有意思的是，关于素数的定理通常都是通过利用这种看似随机的性质得到证明的。例如，维诺格拉多夫在1937年证明的一个著名定理认为，任意充分大的奇数都可以分解为三个素数之和。我无法在本书中解释他是怎样证明的，但他绝对没有找出将奇数表达为三素数之和的方法。这样的思路几乎注定会失败，因为即使是生成这些素数本身也非常困难。基于哈代和利特伍德之前的工作，他大体按照下述办法来论证。如果你能够按照和素数分布同样的密度来真正随机地选取一些数，那么概率论的某种初步理论就能够表明，你几乎一定能够将所有充分大的数表示为你所取的这些数中的三个之和。实际上，你能够以多种不同方式进行这一分解。因为素数是类似于随机的（证明中较难的部分就是要说明，“类似于随机”是什么意思，再加以严格证明），它们的行为就相仿于随机选取的序列，所以所有充分大的数都是三素数之和——同样也以多种方式。为了解释这种现象，这里我们以35为例，列出它分解为三素数之和的所有方式：<div style="padding-bottom:1em;"></div>35=2+2+31=3+3+29=3+13+19=5+7+23<div style="padding-bottom:1em;"></div>=5+11+19=5+13+17=7+11+17=11+11+13<div style="padding-bottom:1em;"></div>关于素数的很多研究都具有此类特点。你首先对素数设计一种概率模型，即假装告诉自己，它们是根据某种随机过程挑选出来的。接下来，在假设素数的确是随机产生的情况下，求证有哪些论断是正确的。这样可以使你猜测出很多问题的答案。最后，你努力表明，这个模型足够现实，能够保证你的猜测近似准确。要注意的是，如果强迫在论证中的每一步都给出精确答案，那这个思路就是不可能的。<div style="padding-bottom:1em;"></div>很有意思，概率模型不仅仅是物理现象的模型，还能成为另一数学分支的模型。尽管素数的真实分布是严格确定下来的，可某种程度上它们看起来也像是实验数据。一旦这样看待它们，我们就很想去设计对应的简化模型，来预测特定概率论问题的答案是什么样的。这种模型有时的确曾使人们得到对素数本身的有效证明。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>我们不常听到别人说他们从来不喜欢生物学，或者英国文学。毫无疑问，并不是所有人都会对这些学科感到兴奋，但是，那些没有热情的人往往完全理解那些有热情的人。相反，数学，以及其他内容高度数学化的学科，诸如物理，似乎不仅仅使人提不起兴趣，而且能激起反感。究竟是什么原因使他们一旦能够抛弃数学时就立刻抛弃，并且一生都对数学心有余悸？<div style="padding-bottom:1em;"></div>很可能并不是因为数学很无聊，而是数学课的经历很乏味。这一点更容易理解。因为数学总是持续在自身的基础上构建，所以学习时的步步跟进就显得很重要。比方说，如果你不太擅长两位数的乘法，那你很可能就不会对分配律（第二章中讨论过）有良好的直觉。没有这种直觉，你可能就会在计算打开括号（x+2）（x+3）时感到不适应，于是你接下来就不能很好地理解二次方程，因而也无法理解为什么黄金分割比是&lt;图&gt;<div style="padding-bottom:1em;"></div>类似这样的环环相扣还有很多，但是，学习数学时的步步跟进不仅仅是保持技术熟练度而已。数学中常常会引入重要的新思想，新思想会比旧思想更加复杂，每一个新思想的引入都有可能把我们甩在后面。一个很明显的例子就是用字母表示数，很多人对此糊里糊涂，但对某个层次以上的数学来讲这是基础性的。还有其他类似的例子，比如负数、三角函数、指数、对数以及初步的微积分。没有作好准备来进行必要的概念飞跃的人，一旦遇到这些新思想时，就会对其后建立在新思想基础上的一切数学感到并不牢靠。久而久之，他们就会习惯于对数学老师所说的东西仅仅一知半解，日后再错过几次飞跃，恐怕连一知半解也做不到了。同时他们又看到班上其他同学能够轻而易举地跟上课程。因此就不难理解，为什么对许多人来讲数学课成为了一种煎熬。<div style="padding-bottom:1em;"></div>情况一定是这样的吗？有没有人天生注定就会在学校里厌恶数学，还是说，有可能找出一种不同的数学教学方法，使得排斥数学的人能够大大减少？我相信，小孩子如果在早期接受到热情的好老师一对一教学，长大之后就会喜欢上数学。当然，这并不能直接成为一种可行的教育政策，不过至少告诉我们，数学的教育方法可能有改进空间。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>从我在本书中所强调的思想出发，我可以给出一条建议。在上面，我间接地将技术的熟练度与对较难概念的理解作了一番比较，但实际情况似乎是，凡是擅长其中一个方面的必然两个方面都擅长。况且，如果说理解数学对象，大体上就是要学习数学对象所遵从的规则，而非把握其本质，那么我们完全可以预期：技术的熟练度与数学理解力之间并不像我们想象得那样泾渭分明。<div style="padding-bottom:1em;"></div>这又会对课堂实践产生什么影响呢？我并不赞成革命性的改进——数学教育已经深受其累，我所赞同的是小幅度的改变，有所侧重的小幅变化将会是有益的。比方说，一个小学生犯了个常见错误，觉得xa+b=xa+xb。强调表达式xa内在含义的老师会指出，xa+b的含义是a+b个x相乘，显然与a个x相乘再乘以b个x相乘的结果相等。不幸的是，很多孩子觉得这样的论证过于复杂、难以领会，何况一旦a和b不是正整数，这样的说法就无效了。<div style="padding-bottom:1em;"></div>如果使用更抽象的办法，那么这些孩子可能会从中获益。正如我在第二章中所指出的，关于指数我们需要了解的一切，都能从几条很简单的规则中推导出来，其中最重要的一条就是xa+b=xaxb。如果这条规则得到了强调，那么上面的这种错误可能出现的机会就减少了，一旦出现了也很容易纠正：我们只需要提醒犯错的人没有使用正确的规则就行了。当然，熟悉x3等于x乘以x乘以x这样的基本事实也很重要，但这样的事实可以当作规则的推论出现，而不是当作规则的论据。<div style="padding-bottom:1em;"></div>我并不是想说，我们应该向孩子们解释什么是抽象方法，我只是想指，教师们应当对抽象方法的隐含意义有所认识。这些隐含意义中最主要的一个就是，即使并不能确切地了解数学概念的含义，我们也很有可能学会正确地使用它们。这听起来似乎是个坏主意，但是用法总是容易教，而对意义的深层理解——倘若在用途之上的确有某种意义的话——常常会自然而然地随之而来。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>有没有著名数学问题被业余爱好者解决过？<div style="padding-bottom:1em;"></div>坦率地讲，没有——这就是对这个问题最简单的回答，也是最不具有误导性的回答。专业数学家能够很快地意识到，他们就著名问题所产生的几乎任何思想，都已经有许多前辈想到过了。一种思想要想成为全新的，就必须具备某种特征能够说明为何前人从来没有考虑过它。可能仅仅是这种想法极具原创性，出人意料，但这种情况十分罕见：总体而言，某种思想的诞生会有充足的理由，而不会是凭空冒出来的。如果你有了这种想法，那凭什么别人就不曾有过呢？一种更加合理的理由是，这个想法和别的某种思想相关，那种思想的知名度并不高，而你已经不畏艰难地去学习并且吸收那种思想。这样至少降低了别人在你之前已经有过同样想法的概率，虽然还是没有降到零。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41336199/#comments">回应</a>&nbsp;&nbsp;
+                  2017-01-19 18:47
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36084907">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/dykb/"><img src="https://img3.doubanio.com/icon/u3034693-16.jpg" alt="柏艾伦" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36084907/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36084907/" class="">第2页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/dykb/" class=" " title="柏艾伦">柏艾伦</a>
+                (All boundaries are conventions)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="36084907">
+              <div class="short">
+                
+                  <span class="">首先决定你需要达到什么样的精确度，然后用尽可能简单的办法达到它。</span>
+                <p class="pl">
+                  <span class="">2015-09-09 21:46</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>首先决定你需要达到什么样的精确度，然后用尽可能简单的办法达到它。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36084907/#comments">回应</a>&nbsp;&nbsp;
+                  2015-09-09 21:46
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33035542">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/shakespark/"><img src="https://img3.doubanio.com/icon/u1021981-1.jpg" alt="太常引" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33035542/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33035542/" class="">第10页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/shakespark/" class=" " title="太常引">太常引</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="33035542">
+              <div class="short">
+                
+                  <span class="">#第一章：模型
+举了几个模型的例子
+
+#第二章：数与抽象
+从自然数、有理数、实数的扩充中说明数其实只是符合规则的对象。不要管某个数学概念究竟是什么，而是知道它是怎么被运用的
+
+#第三章：证明
+看的晕
+
+#第四章：极限与无穷
+用2的平方根和瞬时速度的例子说明极限和无穷的概念：只要给定误差范围，就可保证结果必然在某个范围内
+
+#第五章：维度
+这章很有意思。
+高维几何是不能在头脑中具体化的，但是我们只需要应用其性质。如果所...</span>
+                <p class="pl">
+                  <span class="">2014-10-04 10:17</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                #第一章：模型<div style="padding-bottom:1em;"></div>举了几个模型的例子<div style="padding-bottom:1em;"></div>#第二章：数与抽象<div style="padding-bottom:1em;"></div>从自然数、有理数、实数的扩充中说明数其实只是符合规则的对象。不要管某个数学概念究竟是什么，而是知道它是怎么被运用的<div style="padding-bottom:1em;"></div>#第三章：证明<div style="padding-bottom:1em;"></div>看的晕<div style="padding-bottom:1em;"></div>#第四章：极限与无穷<div style="padding-bottom:1em;"></div>用2的平方根和瞬时速度的例子说明极限和无穷的概念：只要给定误差范围，就可保证结果必然在某个范围内<div style="padding-bottom:1em;"></div>#第五章：维度<div style="padding-bottom:1em;"></div>这章很有意思。<div style="padding-bottom:1em;"></div>高维几何是不能在头脑中具体化的，但是我们只需要应用其性质。如果所有的性质是逻辑自洽的，那么定义的模型就是有用的。
+<blockquote><q>
+投身于数学研究所能得到的乐趣之一就是,随着专业领域的经验越来越丰富,你能够发现自己仅仅观察就能得到越来越多问题的答案,不一定非得是几何问题,而这些问题你以前可能要艰难思考上一两个小时。
+既然我们所居住的实际空间是三维空间，高维几何究竟有什么用处呢？...一个模型可以具有许多不同的功用。...宇宙中可能并没有潜藏着高维空间，但需要同时考虑好几个数的情形却有不少。
+</q></blockquote>
+#第六章：几何<div style="padding-bottom:1em;"></div>球面几何、流形。看不懂<div style="padding-bottom:1em;"></div>#第七章：估计与近似
+<blockquote><q>
+通常是一个简单的公式。而继续学习大学阶段数学的人，尤其是那些专门研究数学的人，很快就发现这样的想法实在是大错特错。对于很多问题来说，如果有人能够找到解答的精确公式，那简直完全出人意料，如同奇迹一般。多数情况下，我们不得不满足于大致的估计。在你对此感到习以为常之前，这些估计总是看似很丑陋，难以令人满意。
+</q></blockquote>
+这章值得看<div style="padding-bottom:1em;"></div>#第八章：常见问题<div style="padding-bottom:1em;"></div>一些对数学家常见的误解、偏见、问题。这章是饭后甜点，与具体数学研究无关，可以随意阅读<div style="padding-bottom:1em;"></div><blockquote><q>
+理解数学对象，大体上就是要学习数学对象所遵从的规则，而非把握其本质
+教师们应当对抽象方法的隐含意义有所认识。这些隐含意义中最主要的一个就是，即使并不能确切地了解数学概念的含义，我们也很有可能学会正确地使用它们。这听起来似乎是个坏主意，但是用法总是容易教，而对意义的深层理解 —— 倘若在用途之上的确有某种意义的话 —— 常常会自然而然地随之而来。
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33035542/#comments">回应</a>&nbsp;&nbsp;
+                  2014-10-04 10:17
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36084926">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/dykb/"><img src="https://img3.doubanio.com/icon/u3034693-16.jpg" alt="柏艾伦" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36084926/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36084926/" class="">第17页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/dykb/" class=" " title="柏艾伦">柏艾伦</a>
+                (All boundaries are conventions)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="36084926">
+              <div class="short">
+                
+                  <span class="">数学对象是其所做。</span>
+                <p class="pl">
+                  <span class="">2015-09-09 21:48</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>数学对象是其所做。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36084926/#comments">回应</a>&nbsp;&nbsp;
+                  2015-09-09 21:48
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="41336199">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lovedzc/"><img src="https://img1.doubanio.com/icon/u1000999-69.jpg" alt="丁丁虫" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41336199/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41336199/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lovedzc/" class=" " title="丁丁虫">丁丁虫</a>
+                (2/10 15/31)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="41336199">
+              <div class="short">
+                
+                  <span class="">《牛津通识读本：数学（中文版）》的笔记（作者:【英】蒂莫西·高尔斯）
+牛津通识读本：数学（中文版）
+
+【英】蒂莫西·高尔斯
+ 2016-11-20
+人们所谓的数学中的抽象方法，正是我们采取类似态度来对待数学对象的结果。这种态度能够用这样一句话涵盖：数学对象是其所做。
+ 2016-11-20
+A1 加法交换律：对任意两个数a和b，有a+b=b+a。
+A2 加法结合律：对任意三个数a、b和c，有a+（b+c）=（a+b）+c。
+M1 乘法交换律：对任意两..</span>
+                <p class="pl">
+                  <span class="">2017-01-19 18:47</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《牛津通识读本：数学（中文版）》的笔记（作者:【英】蒂莫西·高尔斯）<div style="padding-bottom:1em;"></div>牛津通识读本：数学（中文版）<div style="padding-bottom:1em;"></div>【英】蒂莫西·高尔斯<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>人们所谓的数学中的抽象方法，正是我们采取类似态度来对待数学对象的结果。这种态度能够用这样一句话涵盖：数学对象是其所做。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>A1 加法交换律：对任意两个数a和b，有a+b=b+a。<div style="padding-bottom:1em;"></div>A2 加法结合律：对任意三个数a、b和c，有a+（b+c）=（a+b）+c。<div style="padding-bottom:1em;"></div>M1 乘法交换律：对任意两个数a和b，有ab=ba。<div style="padding-bottom:1em;"></div>M2 乘法结合律：对任意三个数a、b和c，有a（bc）=（ab）c。<div style="padding-bottom:1em;"></div>M3 1是乘法单位元：对任意数a，有1a=a。<div style="padding-bottom:1em;"></div>D 分配律：对任意三个数a、b和c，有（a+b）c=ac+bc。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>A3 0是加法单位元：对任意数a，有0+a=a。<div style="padding-bottom:1em;"></div>这就是关于0你所需要知道的一切了。无关它意味着什么，只是一条小规则告诉你它做什么。<div style="padding-bottom:1em;"></div>那关于数字0的其他性质呢，比方说0乘以任何数都等于0的性质？我并没有列出这条规则，因为我们可以从性质A3及之前的其他规则把它推导出来。例如，我们已经将2定义为1+1，那要怎样来表明0×2=0呢？首先，根据规则M1有0×2=2×0。然后，由规则D得到（1+1）×0=1×0+1×0。但根据规则M3，1×0=0，所以该式等于0+0。规则A3意味着0+0=0，于是我们的论证就完成了。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>向小孩解释减法和除法还有着更进一步的困难，那就是这两种计算并非总能够进行。例如，不可能从装有7只橘子的碗中拿走10只，11颗弹珠不可能平均分给3个小孩。但成人却能够计算7减去10和11除以3，分别得到-3和11/3。问题随之而来：-3和11/3这样的数实际上存在吗？如果存在它们又是什么呢？<div style="padding-bottom:1em;"></div>从抽象的角度看，处理这个问题的方式类似于之前对于零的处理方式：全都抛至脑后。关于-3，我们只需要知道它和3相加等于0即可；关于11/3，只需知道它乘以3等于11即可。这就是它们的运算规则。再与之前的规则相结合，我们就可以在更大的数系中进行算术运算。为什么我们希望照这样扩充数系呢？原因就是，这样得到的模型允许我们在其中求解x+a=b和ax=b这样的方程，无论a和b取何值——只要a在第二个方程中不为0。换句话说，这样得到的模型中，减法和除法总是能够进行的，只要除数不为0。（除数为0的问题我们会在本章稍后谈到。）<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>实数系包含了所有能够用十进制无穷小数表示的数字。这个概念看似简单，实则不易，其中的缘由我们会在第四章加以解释。而现在，让我们来讨论一下将有理数系扩充到实数系的原因。我要讲的是，这原因正与引入负数和分数的理由类似：它们使我们能够求解某些方程，缺少它们我们则无法求解。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>从具象的观点来看，我们会很快就摈弃-1的平方根：因为任何数的平方都是正的，-1根本就没有平方根，故事到此为止。然而，若采纳了抽象的观点，这种反对意见就显得软弱无力了。只要引入方程x2=-1的解并把它称作i就好了，为什么不继续单纯地把数系扩充下去呢？为什么偏偏它的引入就应该比之前的&lt;图&gt;更值得反对呢？<div style="padding-bottom:1em;"></div>一种回答大概是，&lt;图&gt;能够按十进制小数展开，（原则上）能够计算到任意精度，而i就与此不同了。但这说的只不过是我们已经知道的事情，即i不是实数——正如&lt;图&gt;不是有理数一样。这并不能阻挡我们扩充数系，在其中进行如下的运算：i和&lt;图&gt;之间最主要的区别就是我们被迫抽象地去思考i，而对于&lt;图&gt;我们则还有备选方案，可以将它具体地表示为1.4142…，或者看作单位正方形的对角线长度。要看出为什么i没有这样的表示方法，不妨问问自己这个问题：-1的两个平方根中，哪个是i哪个是-i呢？这个问题是没有意义的，因为我们对i所定义的唯一的性质就是平方等于-1。既然-i也有同样的性质，那么关于i成立的那些命题，如替换为关于-i的相应命题，必定依然成立。一旦领会了这一点，就很难再赞同i指示一个独立存在的实在的客体。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>这和一个著名的哲学难题有相似之处。你对红色所产生的感受与我对绿色产生的感受（交换亦可）有没有可能是相同的呢？一些哲学家很严肃地思考这个问题，并定义“感受性”一词来表示我们所拥有的绝对的内在体验，比如我们对色彩的体验。而另一些人并不相信感受性。在他们看来，“绿色”这样的词有更抽象的定义，那就是根据它在语言系统中所发挥的作用，也就是说，根据它与“草地”、“红色”等概念之间的关系。因此，就这个论题，要想从人们谈论色彩的方式来推断出他们的态度是不可能的，除非在哲学争论当中。类似地，在实践中，关于数和其他数学对象，重要的只是它们所遵循的规则。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>如果说为了使方程x2=-1有解我们引入i，那么其他类似的方程呢？比如x4=-3或者2x6+3x+17=0呢？值得注意的是，人们发现，所有这样的方程都可以在复数系中求解。也就是说，我们通过接受i作出小小的投资，结果得到了许多倍的回报。发现这个事实的历史过程有点复杂，但人们通常将它归功于高斯。这个事实被人们称为代数基本定理，它给我们提供了令人折服的证据，使我们相信i的确有合情合理、自然而然的地方。我们的确无法想象一个篮子里有i只苹果，车行途中经过了i个小时，银行账户透支了i英镑。但对数学家来说，复数系已经必不可少。对科学家和工程师同样也是。比如，量子力学的理论就高度依赖于复数。复数作为最佳的例证之一，向我们表明了一条概括性原则：一种抽象的数学构造若是充分自然的，则基本上必能作为模型找到它的用途。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>一旦我们学会抽象地思考，事情就会立刻变得令人愉悦，这个境况有点像突然能够骑自行车而不必去担心保持平衡。然而，我也并不希望使读者觉得抽象方法就好像是印钞许可证。我们可以来作一个有趣的对比，比较一下向数系中引入i与引入数字无穷大之间的区别。乍看起来，似乎没什么可以阻止我们的：无穷大应当用来表示1除以0之类的，所以，为什么不使∞成为一个抽象符号，用它来表示方程0x=1的解呢？<div style="padding-bottom:1em;"></div>但当我们想做算术时，这个想法的问题立刻就来了。我们在这里举个例子，利用乘法结合律M2和0×2=0的事实，就可以得到简单推论：<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>这个式子表明，方程0x=1的解若存在将会导致不相容性。这是否意味着无穷大不存在呢？并不是。这只说明，无穷大的自然概念与算术定律是不相容的。扩充数系以将符号∞包含进来，并且接受在新的系统下这些算术定律并非总是成立，这样做有时是有用处的。但是通常，人们还是希望保持算术定律，不考虑无穷大。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>对数是另一个抽象地来看会变得更加容易的概念。关于对数，我在本书中要说的不多。但如果它确实困扰你，那么你可以消除顾虑，只要了解它们遵循如下三条规则就足以使你去应用对数了。（如果你希望对数是以e为底而不是以10为底的，只需要在L1中把10替换为e即可。）<div style="padding-bottom:1em;"></div>L1 log（10）=1。<div style="padding-bottom:1em;"></div>L2 log（xy）=log（x）+log（y）。<div style="padding-bottom:1em;"></div>L3 若x＜y，则log（x）＜log（y）。<div style="padding-bottom:1em;"></div>例如，要得到log（30）小于3/2，可以应用L1和L2得出log（1000）=log（10）+log（100）=log（10）+log（10）+log（10）=3。而由L2得出2log（30）=log（30）+log（30）=log（900），又由L3得到log（900）＜log（1000）。因此2log（30）＜3，即得log（30）＜32。<div style="padding-bottom:1em;"></div>在这本书的后面，我还将讨论许多类似性质的概念。试图具体地理解它们会让你感到困惑，但当你放轻松些，不再担心它们是什么并且应用抽象的方法，那这些概念的神秘性就消失了。<div style="padding-bottom:1em;"></div>注: 但是这样就变成了纯粹的逻辑游戏了呀<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>上述几段内容说明了，数学论证中的每一步都可以分解成更小的，因而也更加清晰有据的子步骤。这些小步骤又可以进一步分解为子子步骤，等等。数学中有个根本性的重要事实，那就是这样的过程最终必然会终止。原则上，如果不断地将步骤分解为更小的步骤，你最终会得到一条非常长的论证，它以普遍接受的公理开始，仅通过最基本的逻辑原则（例如“若A为真且A蕴含B，则B为真”）一步步推进，最终得到想要求证的结论。<div style="padding-bottom:1em;"></div>上一段中我所说的远非显然：事实上，这正是20世纪早期的重要发现，很大程度上归功于弗雷格、罗素和怀特海（参见“延伸阅读”）。这一发现对数学产生了深远的影响，因为它意味着，任何关于数学证明有效性的争论总是能够解决的。而在19世纪，与此形成对比的是，的确存在着关于数学实体问题的真正分歧。譬如，现代集合论之父格奥尔格·康托尔，基于某个无穷集可能比另一个无穷集“更大”这样的思想提出了一些论点。今天人们已经接受了这些论点，但当时的人们却对此产生强烈的怀疑。如今，如果人们对于某个证明的正确性存在分歧，那要么是因为这个证明写得不够详细，要么是因为人们还没有付出足够努力来仔细地理解、检查这个证明。<div style="padding-bottom:1em;"></div> 2016-11-20<div style="padding-bottom:1em;"></div>一部分读者可能会萌生这样的问题，我还未触及：为什么我们应该接受数学家提出的公理呢？比方说，如果有人反对数学归纳法原理，我们应当怎样回应呢？大多数数学家会给出如下的答复。首先，所有理解了归纳法的人应该都认为它是显然合理的。其次，公理系统的主要问题并不是公理的真实性，而是公理的自洽性和有用性。数学证明实际上所做的正是要表明，由特定前提——如数学归纳法，能够得到特定的结论——如&lt;图&gt;是无理数。这些前提假设是否正确则是与此完全无关的问题，我们可以安然地把它们留给哲学家。<div style="padding-bottom:1em;"></div>注: 公理不是为了和自然世界对应，而是为了保证公理体系的自洽<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>第二种论证有个值得瞩目的特征，它完全依赖于一种思想，这种思想虽出人意料，但一经理解便显得非常自然。人们经常很困惑，为什么数学家有时会用“优美”、“漂亮”甚至“绝妙”来形容一些证明。这样的例子就让我们对其含义有了一点理解。音乐也能够提供一个有用的类比：一段乐曲刚开始可能沿意想不到的和声方向行进，过后却感觉到非常完美恰当，或者一段管弦织体呈现出整体大于部分之和的境界，其方式我们还无法全然理解——每当这些时候我们就会为之陶醉。在数学证明中，有突如其来的启发，有出人意料却自然而然的思想，还有引人入胜、有待进一步发掘的暗示，这些都能够给我们带来类似的愉悦感。当然，数学的美不同于音乐的美，可音乐的美同样也不同于绘画的美、诗歌的美、姣好面容的美。<div style="padding-bottom:1em;"></div>注: 写代码时也会有这样的时刻<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>较高等的数学中，有一点让很多人感到费解：其中有一些定理看上去非常显然，简直无须证明。遇到这样的定理时，人们常常会问：“如果这都不算显然，那还有什么才算呢？”我一位先前的同事对此给了一个很好的回答：如果脑子里立刻就有证明，那么这条陈述才是显然的。在本章的剩余部分，我将给出三条陈述作为例子，它们看上去都是显然的，却无法通过这样的检验。<div style="padding-bottom:1em;"></div> 2016-11-24<div style="padding-bottom:1em;"></div>如果从特定的公理开始，遵循特定的规则，最后以有趣的数学陈述结束，那么这样的陈述就可以当作定理接受，否则就不能被视为定理。这种思想，即从少数几条公理出发演绎推导出许多复杂的定理，可以追溯到欧几里得。欧几里得只用了五条公理就建立起几何学的主要体系。（关于他的公理，我们将在第六章中讨论。）有人可能提出这样的问题：为什么直到20世纪，人们才认识到这样的思想可以应用于整个数学系统当中呢？<div style="padding-bottom:1em;"></div>主要的原因可以被归结为一个词：无穷。出于种种原因，无穷这一概念在数学中必不可少，但却很难严格化。在本章中，我将讨论三条陈述。其中每一条乍看起来都普普通通，但经过仔细的考察，会发现最终都涉及到无穷。随之就产生了困难，本章的主要内容就是如何处理这样的困难。<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>请注意，我所做的是“驯服”无穷，只是将涉及无穷的陈述单纯解读为一种生动的简化，其所指的乃是一条不涉及无穷的累赘得多的陈述。关于无穷的简洁陈述是“x是平方等于2的无穷小数”。可以大致翻译成：“有这样一种规则，对任意n，它能够切实地给出x的前n位数字。这使我们能够算出任意长的有限小数，它们的平方接近于2，只要算得足够长，想要有多接近就能有多接近。”<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>可以把陈述“汽车此刻的行驶速度是40英里每小时”转换成以下这条更复杂的、不涉及无穷的陈述：“如果你给定了允许的误差范围，那么只要t足够小（远小于1），我就可以测出汽车在t小时内走过的英里数，再除以t，得到的结果将很接近于40英里每小时，误差在你规定的范围之内。”<div style="padding-bottom:1em;"></div> 2016-12-01<div style="padding-bottom:1em;"></div>我们再一次把一条涉及无穷的陈述，视为对一条更复杂的、关于近似的命题的方便表达。另一个更具提示性的词语是“极限”。一个无穷小数是一列有限小数的极限，瞬时速度是通过测量越来越短的时间内走过的距离所得近似值的极限。数学家经常谈论“在极限时”或者“在无穷时”的情况如何，但他们都很明白，他们并没有把这种说法完全当真。如果强迫他们说出确切意思，他们就会转而谈论近似。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>表明能够赋予高维几何某种意义是一回事，但要表明这个问题为什么值得认真对待就是另一回事了。在这一章的前面部分，我曾经说它作为模型是很有用处的。但是，既然我们所居住的实际空间是三维空间，高维几何究竟有什么用处呢？<div style="padding-bottom:1em;"></div>这个问题的答案相当简单。第一章中我谈到，一个模型可以具有许多不同的功用。即使二维和三维几何也用于许多不同目的，而不仅仅是物理空间的直观模型。例如，我们表示物体的运动时，常常画一张图来记录它所走过的距离随时间的变化。这个图是平面上的一个曲线图，曲线的几何性质与物体运动的信息相对应。为什么二维几何适用于这个运动过程的模型化呢？因为在这里有两个我们关心的数——流逝的时间和走过的距离——如我所说过的，我们可以将二维空间看作所有成对的数的集合。这就提示了我们，为什么高维几何会有用处。宇宙中可能并没有潜藏着高维空间，但需要同时考虑好几个数的情形却有不少。我下面将简要描述两种情形，之后你很明显地可以发现还会有更多的类似情形。<div style="padding-bottom:1em;"></div>设想我要描述一把椅子的位置。如果是向上直立着的，它的位置就完全是由两条腿与地面接触的点来确定的。这两个点可以分别通过两个坐标来描述。于是四个数就可以用于描述椅子的位置。但这四个数是有联系的，因为椅子腿底端的相互距离是固定的。如果这个距离是d，地面上两条腿位于点（p，q）和（r，s），那么由毕达哥拉斯定理有（p－r）2+（q－s）2=d2。这就对p，q，r，s施加了约束，我们可以用几何语言来描述这种约束：四维空间中的点（p，q，r，s）被限制在某个特定的三维“曲面”上。更复杂的物理系统也可以用类似的方式来分析，维度也变得更高。<div style="padding-bottom:1em;"></div>高维几何在经济学中也很重要。例如，你如果正在犹豫买某个公司的股票是否明智，那么能帮助你进行决策的大多数信息都是以数字的形式出现的——劳动力规模、各种资产的价值、原材料的成本、利率，等等。作为一个序列，这些数可被看作某种高维空间中的一个点。通过分析许多类似的公司，你可能会确定出空间中的某个区域，认为购买此区域中的股票是不错的主意。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>在历史上，引起最多怀疑的——或者至少是最让人感到不放心的公理，就是平行公设。它比其他公理都复杂，并且其基础就涉及到了无穷。当我们证明三角形内角和等于180度时，我们必须依赖于空间最远处所发生的事情，这难道不奇怪吗？<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>引入球面几何的意义在于，它让我们可以从论证（1）、（2）、（3）、（5）中分离出某些假设，这些假设实际上是在说：“我们所做的几何不是球面几何。”你可能会奇怪，这有什么错呢：毕竟我们做的不是球面几何。你可能还会奇怪：如果平行公设确实不是从欧几里得的其他公理中得出，我们怎么才有希望表明这一点呢？说数个世纪以来的数学家努力推导它都以失败而告终是没用的。我们怎么能确定，两百年之内会不会有某位年轻的天才能用绝妙的新思想最终得出证明？<div style="padding-bottom:1em;"></div>这个问题有个漂亮的回答——至少是在原则上。欧几里得前四条公理的目的在于描述一种有限、平坦、二维空间的几何，但我们并不非要这样去解释它们——至少不是非得按照公理中那种平坦性去解释。如果我们可以将新的含义赋予“直线段”等短语，从而对公理进行重新解释（有人大概会说是“错误解释”），就像我们在球面几何中做的那样；如果我们这样做之后，发现前四条公理都是正确的但平行公设是错误的，那么我们就表明了，平行公设并非从其他公理中推出。<div style="padding-bottom:1em;"></div>为了看清其中原因，可以想象一种假想的证明，从前四条公理出发，经过一系列严格的逻辑步骤，最终得出平行公设。由于这些步骤都遵循逻辑，如果我们对其赋予新的解释，它们仍会保持有效。但在新的解释下，前四条公理都是正确的，而平行公设不正确，所以这样的论证必然是有错误的。<div style="padding-bottom:1em;"></div>为什么我们不能正好用球面几何来重新解释呢？原因是，很不幸欧几里得前四条公理在球面上并不全部成立。例如，球面上不能包含半径任意大的圆，所以第三公理不成立；而且从北极到南极不止有一条最短路径，所以第一公理也不成立。所以，尽管球面几何能够帮助我们理解某些尝试过的对平行公设的证明中的缺陷，但它仍然不能保证其他可能成立的证明不存在。因此，我要转向另一种新的解释，称为双曲几何。平行公设在这里再次不成立，但这一次第一到第四公理都是成立的。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>既然素数分布有零零散散、颇似随机的性质，而我们却能证明其如此多的特点，这足以令人十分惊讶。有意思的是，关于素数的定理通常都是通过利用这种看似随机的性质得到证明的。例如，维诺格拉多夫在1937年证明的一个著名定理认为，任意充分大的奇数都可以分解为三个素数之和。我无法在本书中解释他是怎样证明的，但他绝对没有找出将奇数表达为三素数之和的方法。这样的思路几乎注定会失败，因为即使是生成这些素数本身也非常困难。基于哈代和利特伍德之前的工作，他大体按照下述办法来论证。如果你能够按照和素数分布同样的密度来真正随机地选取一些数，那么概率论的某种初步理论就能够表明，你几乎一定能够将所有充分大的数表示为你所取的这些数中的三个之和。实际上，你能够以多种不同方式进行这一分解。因为素数是类似于随机的（证明中较难的部分就是要说明，“类似于随机”是什么意思，再加以严格证明），它们的行为就相仿于随机选取的序列，所以所有充分大的数都是三素数之和——同样也以多种方式。为了解释这种现象，这里我们以35为例，列出它分解为三素数之和的所有方式：<div style="padding-bottom:1em;"></div>35=2+2+31=3+3+29=3+13+19=5+7+23<div style="padding-bottom:1em;"></div>=5+11+19=5+13+17=7+11+17=11+11+13<div style="padding-bottom:1em;"></div>关于素数的很多研究都具有此类特点。你首先对素数设计一种概率模型，即假装告诉自己，它们是根据某种随机过程挑选出来的。接下来，在假设素数的确是随机产生的情况下，求证有哪些论断是正确的。这样可以使你猜测出很多问题的答案。最后，你努力表明，这个模型足够现实，能够保证你的猜测近似准确。要注意的是，如果强迫在论证中的每一步都给出精确答案，那这个思路就是不可能的。<div style="padding-bottom:1em;"></div>很有意思，概率模型不仅仅是物理现象的模型，还能成为另一数学分支的模型。尽管素数的真实分布是严格确定下来的，可某种程度上它们看起来也像是实验数据。一旦这样看待它们，我们就很想去设计对应的简化模型，来预测特定概率论问题的答案是什么样的。这种模型有时的确曾使人们得到对素数本身的有效证明。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>我们不常听到别人说他们从来不喜欢生物学，或者英国文学。毫无疑问，并不是所有人都会对这些学科感到兴奋，但是，那些没有热情的人往往完全理解那些有热情的人。相反，数学，以及其他内容高度数学化的学科，诸如物理，似乎不仅仅使人提不起兴趣，而且能激起反感。究竟是什么原因使他们一旦能够抛弃数学时就立刻抛弃，并且一生都对数学心有余悸？<div style="padding-bottom:1em;"></div>很可能并不是因为数学很无聊，而是数学课的经历很乏味。这一点更容易理解。因为数学总是持续在自身的基础上构建，所以学习时的步步跟进就显得很重要。比方说，如果你不太擅长两位数的乘法，那你很可能就不会对分配律（第二章中讨论过）有良好的直觉。没有这种直觉，你可能就会在计算打开括号（x+2）（x+3）时感到不适应，于是你接下来就不能很好地理解二次方程，因而也无法理解为什么黄金分割比是&lt;图&gt;<div style="padding-bottom:1em;"></div>类似这样的环环相扣还有很多，但是，学习数学时的步步跟进不仅仅是保持技术熟练度而已。数学中常常会引入重要的新思想，新思想会比旧思想更加复杂，每一个新思想的引入都有可能把我们甩在后面。一个很明显的例子就是用字母表示数，很多人对此糊里糊涂，但对某个层次以上的数学来讲这是基础性的。还有其他类似的例子，比如负数、三角函数、指数、对数以及初步的微积分。没有作好准备来进行必要的概念飞跃的人，一旦遇到这些新思想时，就会对其后建立在新思想基础上的一切数学感到并不牢靠。久而久之，他们就会习惯于对数学老师所说的东西仅仅一知半解，日后再错过几次飞跃，恐怕连一知半解也做不到了。同时他们又看到班上其他同学能够轻而易举地跟上课程。因此就不难理解，为什么对许多人来讲数学课成为了一种煎熬。<div style="padding-bottom:1em;"></div>情况一定是这样的吗？有没有人天生注定就会在学校里厌恶数学，还是说，有可能找出一种不同的数学教学方法，使得排斥数学的人能够大大减少？我相信，小孩子如果在早期接受到热情的好老师一对一教学，长大之后就会喜欢上数学。当然，这并不能直接成为一种可行的教育政策，不过至少告诉我们，数学的教育方法可能有改进空间。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>从我在本书中所强调的思想出发，我可以给出一条建议。在上面，我间接地将技术的熟练度与对较难概念的理解作了一番比较，但实际情况似乎是，凡是擅长其中一个方面的必然两个方面都擅长。况且，如果说理解数学对象，大体上就是要学习数学对象所遵从的规则，而非把握其本质，那么我们完全可以预期：技术的熟练度与数学理解力之间并不像我们想象得那样泾渭分明。<div style="padding-bottom:1em;"></div>这又会对课堂实践产生什么影响呢？我并不赞成革命性的改进——数学教育已经深受其累，我所赞同的是小幅度的改变，有所侧重的小幅变化将会是有益的。比方说，一个小学生犯了个常见错误，觉得xa+b=xa+xb。强调表达式xa内在含义的老师会指出，xa+b的含义是a+b个x相乘，显然与a个x相乘再乘以b个x相乘的结果相等。不幸的是，很多孩子觉得这样的论证过于复杂、难以领会，何况一旦a和b不是正整数，这样的说法就无效了。<div style="padding-bottom:1em;"></div>如果使用更抽象的办法，那么这些孩子可能会从中获益。正如我在第二章中所指出的，关于指数我们需要了解的一切，都能从几条很简单的规则中推导出来，其中最重要的一条就是xa+b=xaxb。如果这条规则得到了强调，那么上面的这种错误可能出现的机会就减少了，一旦出现了也很容易纠正：我们只需要提醒犯错的人没有使用正确的规则就行了。当然，熟悉x3等于x乘以x乘以x这样的基本事实也很重要，但这样的事实可以当作规则的推论出现，而不是当作规则的论据。<div style="padding-bottom:1em;"></div>我并不是想说，我们应该向孩子们解释什么是抽象方法，我只是想指，教师们应当对抽象方法的隐含意义有所认识。这些隐含意义中最主要的一个就是，即使并不能确切地了解数学概念的含义，我们也很有可能学会正确地使用它们。这听起来似乎是个坏主意，但是用法总是容易教，而对意义的深层理解——倘若在用途之上的确有某种意义的话——常常会自然而然地随之而来。<div style="padding-bottom:1em;"></div> 2016-12-02<div style="padding-bottom:1em;"></div>有没有著名数学问题被业余爱好者解决过？<div style="padding-bottom:1em;"></div>坦率地讲，没有——这就是对这个问题最简单的回答，也是最不具有误导性的回答。专业数学家能够很快地意识到，他们就著名问题所产生的几乎任何思想，都已经有许多前辈想到过了。一种思想要想成为全新的，就必须具备某种特征能够说明为何前人从来没有考虑过它。可能仅仅是这种想法极具原创性，出人意料，但这种情况十分罕见：总体而言，某种思想的诞生会有充足的理由，而不会是凭空冒出来的。如果你有了这种想法，那凭什么别人就不曾有过呢？一种更加合理的理由是，这个想法和别的某种思想相关，那种思想的知名度并不高，而你已经不畏艰难地去学习并且吸收那种思想。这样至少降低了别人在你之前已经有过同样想法的概率，虽然还是没有降到零。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41336199/#comments">回应</a>&nbsp;&nbsp;
+                  2017-01-19 18:47
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36690478">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foxjoan/"><img src="https://img3.doubanio.com/icon/u1525124-882.jpg" alt="雷托" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36690478/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36690478/" class="">6</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foxjoan/" class=" " title="雷托">雷托</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36690478">
+              <div class="short">
+                
+                  <span class="">很可能并不是因为数学很无聊，而是数学课的经历很乏味。这一点很容易理解。因为数学总是持续在自身的基础上构建，所以学习时的步步跟进就显得很重要。
+
+学习数学时的步步跟进不仅仅是保持技术熟练而已。数学中常常会引入重要的新思想，新思想会比旧思想更加复杂，每一个新思想的引入都有可能把我们甩在后面。
+
+一个很明显的例子就是用字母表示数，很多人对此糊里糊涂，但对某个层次以上的数学来讲这是基础性的。还有其他类似的...</span>
+                <p class="pl">
+                  <span class="">2015-12-03 12:13</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>很可能并不是因为数学很无聊，而是数学课的经历很乏味。这一点很容易理解。因为数学总是持续在自身的基础上构建，所以学习时的步步跟进就显得很重要。
+
+学习数学时的步步跟进不仅仅是保持技术熟练而已。数学中常常会引入重要的新思想，新思想会比旧思想更加复杂，每一个新思想的引入都有可能把我们甩在后面。
+
+一个很明显的例子就是用字母表示数，很多人对此糊里糊涂，但对某个层次以上的数学来讲这是基础性的。还有其他类似的例子，比如负数、三角函数、指数、对数以及初步的微积分。没有作好准备来进行必要的概念飞跃的人，一旦遇到这些新思想时，就会对其后建立在新思想基础上的一切数学感到并不牢靠。久而久之，他们就会习惯于对数学老师所说的东西仅仅一知半解，日后再错过几次飞跃，恐怕连一知半解也做不到了。
+
+如果说理解数学对象，大体上就是要学习数学对象所遵从的规则，而非把握其本质，那么我们完全可以预期：技术的熟练度与数学理解力之间并不像我们想象那样泾渭分明。
+
+即使并不能确切地了解数学概念的含义，我们也很有可能学会正确地使用它们。这听起来似乎是个坏主意，但是用法总是容易教，而对意义的深层理解——倘若在用途之上的确有某种意义的话——常常会自然而然地随之而来。
+
+如果说数学研究中有什么比较神秘的话，那并不是困难问题的存在——实际上，要创造出奇难无比的问题很容易——而是居然有足够的问题恰好有相当的难度，从而钓住数以千计的数学家。要实现这一点，这些问题必然得有挑战性，但同时也必须让人们看到有可能解决的一线希望。
+
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36690478/#comments">回应</a>&nbsp;&nbsp;
+                  2015-12-03 12:13
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36683736">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foxjoan/"><img src="https://img3.doubanio.com/icon/u1525124-882.jpg" alt="雷托" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36683736/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36683736/" class="">5</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foxjoan/" class=" " title="雷托">雷托</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36683736">
+              <div class="short">
+                
+                  <span class="">数学中（以及物理学中）听起来最自相矛盾的短语之一就是“弯曲空间”。我们都知道线或面被弯曲是什么意思，但空间自身就是自在之物。即便我们能够在一定程度上对三维空间弯曲的概念赋予意义，与曲面的类比还是揭示出，我们自己不可能观察到空间是否弯曲，除非跳到第四维中去观察。在那里也许我们会发现宇宙是一个四维球体的表面，这个球面至少听起来是弯曲的。
+
+当然，这些都是不可能的。因为我们不知道如何能站到宇宙之外——这...</span>
+                <p class="pl">
+                  <span class="">2015-12-02 11:55</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>数学中（以及物理学中）听起来最自相矛盾的短语之一就是“弯曲空间”。我们都知道线或面被弯曲是什么意思，但空间自身就是自在之物。即便我们能够在一定程度上对三维空间弯曲的概念赋予意义，与曲面的类比还是揭示出，我们自己不可能观察到空间是否弯曲，除非跳到第四维中去观察。在那里也许我们会发现宇宙是一个四维球体的表面，这个球面至少听起来是弯曲的。
+
+当然，这些都是不可能的。因为我们不知道如何能站到宇宙之外——这种想法几乎在措辞上就是矛盾的——我们能够用的证据只能来自于宇宙之内。那么，什么样的证据有可能说服我们空间是弯曲的呢？
+
+如果我们采取抽象方法，这个问题就变得简单些了。不去做艰深的思维体操以试图理解弯曲空间的本性，让我们仅仅遵循扩展数学概念的寻常程序。我们理解“弯曲”一词用在二维表面时的意思。为了把它用在不太熟悉的情形中，即用到三维上，我们必须努力找到曲面表面易于扩展的性质。
+
+闭曲面是指没有边界的二维形状。球面就是个不错的例子，环面也是。
+
+曲面虽存在于三维空间之中，但若脱离开三维空间的参照来思考曲面，可能会很有益。如果我们要将闭曲面的概念扩展到高维空间，这样的想法就更加重要了。
+
+多数情况下，我们不得不满足于大致的估计。
+
+比起其他学科来，数学需要一个人更加专注。
+
+
+
+
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36683736/#comments">回应</a>&nbsp;&nbsp;
+                  2015-12-02 11:55
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36624840">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foxjoan/"><img src="https://img3.doubanio.com/icon/u1525124-882.jpg" alt="雷托" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36624840/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36624840/" class="">4</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foxjoan/" class=" " title="雷托">雷托</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="36624840">
+              <div class="short">
+                
+                  <span class="">算术基本定理的内容是，每个自然数有且仅有一种被写为素数乘积的方式，不考虑先后顺序。
+
+原则上，数学证明如何可以完全形式化。如果从特定的公理开始，遵循特定的规则，最后以有趣的数学陈述结束，那么这样的陈述就可以当作定理接受，否则就不能被视为定理。这种思想，即从少数几条公理出发演绎推导出许多复杂的定理，可以追溯到欧几里得。欧几里得只用了五条公理就建立起几何学的主要体系。
+
+数学家经常谈论“在极限时”或者...</span>
+                <p class="pl">
+                  <span class="">2015-11-23 18:14</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>算术基本定理的内容是，每个自然数有且仅有一种被写为素数乘积的方式，不考虑先后顺序。
+
+原则上，数学证明如何可以完全形式化。如果从特定的公理开始，遵循特定的规则，最后以有趣的数学陈述结束，那么这样的陈述就可以当作定理接受，否则就不能被视为定理。这种思想，即从少数几条公理出发演绎推导出许多复杂的定理，可以追溯到欧几里得。欧几里得只用了五条公理就建立起几何学的主要体系。
+
+数学家经常谈论“在极限时”或者“在无穷时”的情况如何，但他们都很明白，他们并没有把这种说法完全当真。如果强迫他们说出确切意思，他们就会转而谈论近似。
+
+Ar1 移动图形，图形面积不变。（更正式的说法：两个全等的图形面积相等。）
+Ar2 如果一个图形完全包含于另一个之内，那么第一个的面积不大于第二个。
+Ar3 矩形的面积通过它的长宽相乘得到。
+Ar4 将图形切成若干部分，则各部分面积之和等于原图形的面积。
+Ar5 图形向个方向扩张为原来的2倍，则图形面积变为原来的4倍。
+
+我们会期待二十六维空间有什么样的性质呢？最明显的一种，即使它成其为二十六维的性质，是它通过二十六个数来确定一点，就像两个数确定二维空间中一点、三个数确定三维空间中一点一样。另一个性质是，如果你取一个二十六维形体，使它在各个方向上都扩张两倍，那它的“体积”——假设我们能够使这个词有意义——应当乘以2＾26。此外还有其他一些性质。
+
+把几何转化为代数，通过坐标系来把几何概念翻译为等价的但只涉及数之间关系的概念。尽管我们不能直接对几何进行拓展，但我们可以对代数进行拓展，而且将这种拓展称为高维几何似乎是合情合理的。
+
+对于抽象化和一般化这两个孪生的过程，要将一个概念一般化，我们应当先找出与其相联系的一些性质，再将这些性质进行一般化。这样做通常只有一种自然的方式，但有时，不同的性质组合会导致不同的一般化，而多种一般化方法有时会硕果累累。
+
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36624840/#comments">回应</a>&nbsp;&nbsp;
+                  2015-11-23 18:14
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/25829287/annotation">更多读书笔记（共28篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25829287/discussion/56726841/" title="不知翻译的如何？" class="">不知翻译的如何？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/kyoxma/">林枫寒</a></td>
+            <td class="pl"><span class="">19 回应</span></td>
+            <td class="pl"><span class="">2014-05-21</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25829287/discussion/57139009/" title="最后的 延伸阅读 没有翻译？" class="">最后的 延伸阅读 没有翻译？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/57409980/">且徐行</a></td>
+            <td class="pl"><span class="">8 回应</span></td>
+            <td class="pl"><span class="">2014-03-30</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 20.00元</span>
+        <span class="price"> <del>25.00元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=115804&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/3392105/?dcs=subject-buylink&amp;dcm=douban&amp;dct=25829287" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/3392105/?dcs=subject-buylink&amp;dcm=douban&amp;dct=25829287" class="">
+          <span class="buylink-price">
+            
+            <span class="">7.99 元</span>
+          </span>
+        </a>
+      </li>
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B00JP6LGB22736048/?asin=B00JP6LGB2&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B00JP6LGB2&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">5.00 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1560&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=1880&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgJVGFMWACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIXB1YTWBcdS0IJRmtXZhR8PU0dEWJrQyN6DHB6SXQeYTl1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBtcEgIVAlUrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVBxIEXRhZCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=25829287&amp;type=bkbuy&amp;subject=25829287" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1560&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=1880&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgJVGFMWACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIXB1YTWBcdS0IJRmtXZhR8PU0dEWJrQyN6DHB6SXQeYTl1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBtcEgIVAlUrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVBxIEXRhZCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=25829287&amp;type=bkbuy&amp;subject=25829287" class="buylink-price ">
+                      <span class="">
+                        18.80 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1560&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=1560&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25829287%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23428306&amp;cntvendor=3&amp;srcsubj=25829287&amp;type=bkbuy&amp;subject=25829287" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1560&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=1560&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25829287%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23428306&amp;cntvendor=3&amp;srcsubj=25829287&amp;type=bkbuy&amp;subject=25829287" class="buylink-price ">
+                      <span class="">
+                        15.60 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1560&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=1880&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6505016.htm&amp;cntvendor=3&amp;link2key=5f14091937&amp;srcsubj=25829287&amp;type=bkbuy&amp;subject=25829287" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1560&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=1880&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6505016.htm&amp;cntvendor=3&amp;link2key=5f14091937&amp;srcsubj=25829287&amp;type=bkbuy&amp;subject=25829287" class="buylink-price ">
+                      <span class="">
+                        18.80 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/25829287/buylinks">
+              &gt; 查看3家网店价格
+                (15.60 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1048859">全部2</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/2871215/">Oxford Paperbacks版</a>
+          2002-10 / 49人读过 / 有售
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/25829287/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/611251/" target="_blank">牛津通识读本（已出）</a>
+                <span class="pl">(胡伍玄)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/116362/" target="_blank">Kogorou推荐的数学科普读物</a>
+                <span class="pl">(Kogorou)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/200103/" target="_blank">牛津通识读本系列</a>
+                <span class="pl">(休小谟)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/276123/" target="_blank">豆瓣评星很高很强大【科学】</a>
+                <span class="pl">(爱玛·包法利)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/66883/" target="_blank">推荐科普读物</a>
+                <span class="pl">(wizard)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/52564296/"><img src="https://img3.doubanio.com/icon/u52564296-1.jpg" class="pil" alt="避枷锁" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/52564296/">避枷锁</a><br/>
+      <div class="pl ll">          今天凌晨          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/135768593/"><img src="https://img3.doubanio.com/icon/u135768593-1.jpg" class="pil" alt="早" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/135768593/">早</a><br/>
+      <div class="pl ll">          昨天          读过      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+
+          <span class="">如何证明自己数学水平低于初中平均水平，看这本书好了。</span> <br/>
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/amooooo/"><img src="https://img3.doubanio.com/icon/u4203792-26.jpg" class="pil" alt="阿蘑" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/amooooo/">阿蘑</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/126785351/"><img src="https://img1.doubanio.com/icon/u126785351-7.jpg" class="pil" alt="leslietse" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/126785351/">leslietse</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25829287/doings">89人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25829287/collections">470人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25829287/wishes">1633人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有1633人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于数学的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/25829287/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'MaZJ0VrOTLA',
+            criteria = '7:数学|7:牛津通识读本|7:科普|7:蒂莫西·高尔斯|7:英国|7:科学|7:*译林·牛津通识读本*|7:数学周边|7:世界观|7:文化|3:/subject/25829287/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar15a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

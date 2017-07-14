@@ -1,0 +1,2666 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>社交商 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1964207/">
+<meta name="keywords" content="社交商,(美)丹尼尔.戈尔曼(Daniel Goleman),中信出版社,2007-01-01,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书社交商 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1964207/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">社交商</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img1.doubanio.com/lpic/s1993697.jpg" title="社交商">
+    <img src="https://img1.doubanio.com/lpic/s1993697.jpg" title="点击看大图" alt="社交商"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E4%B8%B9%E5%B0%BC%E5%B0%94.%E6%88%88%E5%B0%94%E6%9B%BC">(美)丹尼尔.戈尔曼(Daniel Goleman)</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 中信出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 什么是“最重要的事”？对这个问题的回答，决定了一个人的基本的价值取向和行为方式，也最终决定其生活质量和人一生最终的“投入产出”<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E9%AD%8F%E5%B9%B3">魏平</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2007-01-01<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 281<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 38.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787508607818<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 7.5 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">265</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:39px"></div>
+
+            <span class="rating_per">23.8%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">38.5%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:53px"></div>
+
+            <span class="rating_per">32.5%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:6px"></div>
+
+            <span class="rating_per">3.8%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:2px"></div>
+
+            <span class="rating_per">1.5%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1964207-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1964207-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1964207-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964207-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964207-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964207-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964207-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1964207-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1964207">
+        <a href="#" data-url="https://book.douban.com/subject/1964207/" data-desc="" data-title="书籍《社交商》 (来自豆瓣) " data-pic="https://img1.doubanio.com/lpic/s1993697.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1964207"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>丹尼尔·戈尔曼提出的情商概念，颠覆了智力天生的理念，给人类社会带来了极大的冲击，《情商》一书也高居纽约时报排行榜达一年之久，在全球共销售500多万册，在《社交商》一书中，戈尔曼阐述了他的最新发现，一项同样具有划时代意义的发现——我们与他人的关系也影响着我们的智力，并对我们生活的方方面面施加着影响。</p>    <p>我们绝对没有意识到，我们在日常中所遭遇的人——父母、配偶、朋友、老板，甚至是萍水相逢的陌生人，都可能改变我们的大脑的运作方式，使我们的行为方式发生迥异的变化。</p>    <p>戈尔曼发现我们的大脑需要与他人交流，我们大脑的实质就是社交性的大脑。</p>    <p>我们如何对待他人，他人如何看待我们以及如何回应？人际互动对人类的影响超出了我们的想象，在这个过程中我们会分泌各类激素，调节着我们体内从心脏到免疫系统的活动，以至于我们会像感染感冒一样感染他人的情绪，而与世隔绝和无情的社会压力也会导...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>丹尼尔·戈尔曼提出的情商概念，颠覆了智力天生的理念，给人类社会带来了极大的冲击，《情商》一书也高居纽约时报排行榜达一年之久，在全球共销售500多万册，在《社交商》一书中，戈尔曼阐述了他的最新发现，一项同样具有划时代意义的发现——我们与他人的关系也影响着我们的智力，并对我们生活的方方面面施加着影响。</p>    <p>我们绝对没有意识到，我们在日常中所遭遇的人——父母、配偶、朋友、老板，甚至是萍水相逢的陌生人，都可能改变我们的大脑的运作方式，使我们的行为方式发生迥异的变化。</p>    <p>戈尔曼发现我们的大脑需要与他人交流，我们大脑的实质就是社交性的大脑。</p>    <p>我们如何对待他人，他人如何看待我们以及如何回应？人际互动对人类的影响超出了我们的想象，在这个过程中我们会分泌各类激素，调节着我们体内从心脏到免疫系统的活动，以至于我们会像感染感冒一样感染他人的情绪，而与世隔绝和无情的社会压力也会导致我们的寿命缩短。</p>    <p>我们怎样才能使我们的孩子快乐成长？婚姻关系如何美满幸福？企业高管如何调动下属的斗志？办公室政治让我们疲于应付？为何我们总是对某些人拥有莫名的好感？别人无意间的一句话却让我们方寸大乱？</p>    <p>在书中这些让我们颇费思量的问题戈尔曼都做了详细解释，并进一步指出社交商已成为衡量我们生存能力的一项基本指标，将决定我们的心智表现，并决定我们将来的走向与可能取得的成就。如果说在职场中有“智商决定是否录用，情商决定是否升迁”的说法，那么社交商则决定着你在职场内外的生活质量。</p>    <p>以下是章节简介：</p>    <p>第一部分 社交商的影响力</p>    <p>第一章 情感的力量</p>    <p>为什么会有那么多女人对维利奥托如此痴迷呢？从对他的审判中，人们看出了一些端倪。加德纳承认，这个爱情骗子吸引她的一点就是所谓的“诚实的表现”。比如说，即使他在撒谎的时候，也会微笑着直视她的眼睛。</p>    <p>第二章 和谐人际关系的良方</p>    <p>和谐的关系存在于人们之间。在交流中，如果我们感到愉快，全神贯注，那么我们就觉得交流是和谐的。但是和谐的作用不仅仅体现在这些短暂的瞬间。当人际关系和谐的时候，人们会更有创造性，而且能更快地做出决策。</p>    <p>第三章 模仿的天性</p>    <p>微笑比其他任何表情都有优势，因为人类的大脑偏爱笑脸。在所有表情中，大脑识别笑脸最快，也最容易，我们把这种现象称为“笑脸优势”。一些神经学家认为，大脑中产生乐观情绪的神经系统随时都准备启动，使人们乐观的时候要比消极的时候多，因此会产生乐观的生活态度。</p>    <p>第四章 利他本能</p>    <p>大都市的人在街上不怎么会关注、问候或者帮助别人，这一点全世界都一样。人们把这种现象称为“都市恍惚症”。社会学家认为在熙熙攘攘的大街上，人们往往会陷入这种完全自我的状态，有时仅仅是因为要应对周围嘈杂的环境里过多的信息。这不可避免地会带来这样的后果：在我们忽略周围无关信息的同时，也会忽视周围需要帮助的人。</p>    <p>第五章 一吻定江山</p>    <p>凭直觉判断我们是否喜欢某个初次见面的人也就是在推测我们是否能与他建立和谐关系，或者至少顺利相处下去。但是在潜在朋友、商业伙伴或者配偶中，我们是根据什么来决定究竟是亲近还是疏远他们呢？</p>    <p>第六章 何为社交商</p>    <p>令人惊奇的是，许多杰出的销售员和客户经理在谈话中计划性都不是很强。对这些领域的佼佼者进行研究后发现，他们接待顾客或者客户的时候并没有打定主意一定要把东西卖出去，而是把自己定位为咨询师。所以他们的任务首先就是倾听，了解客户的需要，然后再根据客户的需要向客户推荐合适的产品。</p>    <p>第二部分 深受其害的社交商</p>    <p>第七章 心有戚戚焉</p>    <p>就像弗洛伊德很久以前说的那样，人们之间的任何重要共同之处都会引起“同伴感觉”，比如说成功地和自己心仪的对象搭上话，打电话给陌生人向他推销，或者在漫长的飞行旅途中和旁边旅客聊天打发时间的时候，都是如此。但是在这种表面联系之外，弗洛伊德还发现它可以带来强烈的同感，一种觉得别人和自己极为相似的感觉。</p>    <p>第八章 自恋型领导者</p>    <p>在冷酷的现代商业社会中，这种雄心勃勃并且自信的领导肯定能够得心应手。他们中最杰出的人会成为富有创造力的天才战略家，他们可以掌控大局，从容应对危机四伏的挑战。他们不仅自信，而且还愿意接受批评，至少他们会听从知心好友的意见。</p>    <p>第九章 男女大不同</p>    <p>极端的男性大脑对于心智直观比较迟钝，它们负责移情的神经系统不太发达。尽管存在这种缺陷，但是另一方面这种人往往拥有超群的智力，比如说有些专家在解决计算问题等方面甚至可以与计算机媲美，这真是匪夷所思。尽管这种极端的男性大脑洞察力较弱，但是却具备理解复杂系统的天赋，比如洞悉股票市场、软件原理和量子物理学等。</p>    <p>第三部分 社交商的培养</p>    <p>第十章 基因≠命运</p>    <p>孩子生活中重要的人，比如父母、兄弟姐妹、祖父母、老师和朋友等营造出来的社交和情感环境会影响他们大脑神经系统的发展。孩子的大脑就像一株植物一样，而周围的环境，特别是生命中最重要的人们所形成的情感环境，就像土壤一样，可能肥沃，也可能贫瘠。</p>    <p>第十一章 安全的港湾</p>    <p>从宝宝出生的第一天起，他们与妈妈的一致性就产生了。一致性越强烈，他们之间的交流就会越温馨幸福。但是，如果无法达到一致的话，宝宝就会感到生气、沮丧或者厌烦。如果宝宝长期缺少一致，因而承受孤独的痛苦的话，他就会寻求一切可能的方式来安慰自己。有些宝宝似乎会放弃寻求外部帮助，尝试自我安慰。</p>    <p>第十二章 快乐的起点</p>    <p>玩耍也是对孩子自我控制力的一种很好的治疗和纠正。玩耍中出现的所有情况都是对现实的一种模拟，而许多又是在现实中无法实现的。比如，玩耍可以帮助孩子学会控制他们对于与父母分离或者被父母抛弃的恐惧，为他们提供自主和自我发现的机会。同样，在现实生活中因为危险而无法实现的愿望和冲动，在游戏过程中也可以毫无阻力地实现。</p>    <p>第四部分 社交商与爱</p>    <p>第十三章 小孩子脾气</p>    <p>当然，恋爱中也会出现狂风暴雨，就像小孩子会发脾气一样。婴儿总是以自我为中心的，恋人们有时候也是这样。由于刺激或者其他不安全因素而在一起的情侣，比如战争时期的恋人、违背道德的风流韵事，或者爱上“危险男人”的女士都是如此。这也许就是为什么有人认为爱情更像吸毒，而不是儿时的挑逗的原因。</p>    <p>第十四章 欲望：他的和她的</p>    <p>不管原因是什么，这就是人类大脑精妙的生理机制：男人被女人的容貌与身材所吸引，女人则会爱上男人的气味。</p>    <p>第十五章 夫妻相</p>    <p>为什么夫妻可能会越长越像，而且还发现他们脸部的相似程度与婚姻的美满程度成正比？</p>    <p>第十六章 灼伤心灵的打击</p>    <p>和人际交往范围广的人相比，那些极少与人进行亲密交流的人患感冒的概率要高4.2倍，因此孤独比抽烟更可怕。</p>    <p>第十七章 缺失的另一半</p>    <p>为什么人们在配偶去世之后患病或者死亡的危险会大大提升？</p>    <p>第十八章 勇敢的员工</p>    <p>那些认为老板能够使自己产生安全感的员工一般都更加勇于探索，勇于冒险，创新意识强，并且愿意接受新挑战。这种安全感同样会带来一定的商业效益，因为如果赢得了员工们的信任，那么即使老板严肃批评他们，他们也能心平气和地接受，并且还会认真反思自己。</p>    <p>第十九章 偏见的消失</p>    <p>“我们和它们”这个短语“把整个世界分成了两类：阳光普照的孩子和黑暗世界中的孩子，绵羊和山羊，上帝的选民和被诅咒的人”。</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1964207/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>丹尼尔·戈尔曼，哈佛大学心理学博士，现为美国科学促进协会(AAAS)研究员，曾四度荣获美国心理协会(APA)最高荣誉奖项，20世纪80年代即获得心理学终生成就奖，并曾两次获得普利策奖提名。此外还曾任职《纽约时报》12年，负责大脑与行为科学方面的报道；他的文章散见全球各主流媒体。畅销著作有：《情商》、《工作情商》等。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1964207_short">
+        序言 一项新发现.<br/>
+        第一部分 社交商的影响力<br/>
+        第一章 情感的力量<br/>
+        第二章 和谐人际关系的良方<br/>
+        第三章 模仿的天性<br/>
+        第四章 利他本能<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1964207_short').hide();$('#dir_1964207_full').show();$.get('/j/subject/j_dir_count',{id:1964207});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1964207_full" style="display:none">
+        序言 一项新发现.<br/>
+        第一部分 社交商的影响力<br/>
+        第一章 情感的力量<br/>
+        第二章 和谐人际关系的良方<br/>
+        第三章 模仿的天性<br/>
+        第四章 利他本能<br/>
+        第五章 一吻定江山<br/>
+        第六章 何为社交商<br/>
+        第二部分 深受其害的社交商<br/>
+        第七章 心有戚戚焉<br/>
+        第八章 自恋型领导者<br/>
+        第九章 男女大不同<br/>
+        第三部分 社交商的培养..<br/>
+        第十章 基因≠命运<br/>
+        第十一章 安全的港湾<br/>
+        第十二章 快乐的起点<br/>
+        第四部分 社交商与爱<br/>
+        第十三章 小孩子脾气<br/>
+        第十四章 欲望：他的和她的<br/>
+        第十五章 夫妻相<br/>
+        .第五部分 社交商与人际关系<br/>
+        第十六章 灼伤心灵的打击<br/>
+        第十七章 缺失的另一半<br/>
+        第六部分 如何提高社交商<br/>
+        第十八章 勇敢的员工<br/>
+        第十九章 偏见的消失<br/>
+        后记 最重要的事情<br/>
+        附录 反思社交商<br/>
+        致谢<br/>
+        找到“幸福感的源泉”...<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1964207_full').hide();$('#dir_1964207_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共181个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/心理学">心理学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社交商">社交商</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社交">社交</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/情商">情商</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/沟通">沟通</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/心理">心理</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/丹尼尔·戈尔曼">丹尼尔·戈尔曼</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社会学">社会学</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;社交商&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1311748/" onclick="moreurl(this, {'total': 10, 'clicked': '1311748', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1321308.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1311748/" onclick="moreurl(this, {'total': 10, 'clicked': '1311748', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            EQⅡ
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1282122/" onclick="moreurl(this, {'total': 10, 'clicked': '1282122', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4184238.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1282122/" onclick="moreurl(this, {'total': 10, 'clicked': '1282122', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            情感智商
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2033945/" onclick="moreurl(this, {'total': 10, 'clicked': '2033945', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2346613.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2033945/" onclick="moreurl(this, {'total': 10, 'clicked': '2033945', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            定见
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3337500/" onclick="moreurl(this, {'total': 10, 'clicked': '3337500', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s23110644.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3337500/" onclick="moreurl(this, {'total': 10, 'clicked': '3337500', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            身体语言的力量
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2297026/" onclick="moreurl(this, {'total': 10, 'clicked': '2297026', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2755182.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2297026/" onclick="moreurl(this, {'total': 10, 'clicked': '2297026', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            说话的力量
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4885183/" onclick="moreurl(this, {'total': 10, 'clicked': '4885183', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4419589.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4885183/" onclick="moreurl(this, {'total': 10, 'clicked': '4885183', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            型男笔记本
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1255236/" onclick="moreurl(this, {'total': 10, 'clicked': '1255236', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1219418.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1255236/" onclick="moreurl(this, {'total': 10, 'clicked': '1255236', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            咨询的7C模式
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1320545/" onclick="moreurl(this, {'total': 10, 'clicked': '1320545', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s5668828.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1320545/" onclick="moreurl(this, {'total': 10, 'clicked': '1320545', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            潜智
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1895439/" onclick="moreurl(this, {'total': 10, 'clicked': '1895439', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s8823012.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1895439/" onclick="moreurl(this, {'total': 10, 'clicked': '1895439', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            倾听技能
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1919363/" onclick="moreurl(this, {'total': 10, 'clicked': '1919363', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s26008528.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1919363/" onclick="moreurl(this, {'total': 10, 'clicked': '1919363', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            顾客要买什么
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1964207/comments/">全部 55 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="87591733">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-87591733" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-87591733" class="j a_show_login" data-cid="87591733">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/3195806/">水滴</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2009-01-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">对招聘、认识自己很有帮助</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="613213476">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-613213476" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-613213476" class="j a_show_login" data-cid="613213476">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Thomas.Xie/">蝉</a>
+                    <span>2013-11-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">: 	
+C912.1/5026-1</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="114850789">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-114850789" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-114850789" class="j a_show_login" data-cid="114850789">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/vanwoo/">van woo</a>
+                        <span class="user-stars allstar10 rating" title="很差"></span>
+                    <span>2009-04-28</span>
+                </span>
+            </h3>
+            <p class="comment-content">育儿宝典...</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="407507890">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-407507890" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-407507890" class="j a_show_login" data-cid="407507890">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/1571951/">麦虫</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2011-06-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">社交需要移情</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="91668829">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-91668829" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-91668829" class="j a_show_login" data-cid="91668829">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/kevingchan/">玛格丽特*YEAR</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2010-09-19</span>
+                </span>
+            </h3>
+            <p class="comment-content">很人性化的一本书。受益匪浅。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1206411789">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1206411789" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1206411789" class="j a_show_login" data-cid="1206411789">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/79499859/">臆</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-06-23</span>
+                </span>
+            </h3>
+            <p class="comment-content">还行</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1152047760">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1152047760" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1152047760" class="j a_show_login" data-cid="1152047760">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/145936542/">昙花一现</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-02-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">语言平实，流畅，对改善人际关系，育儿确实有帮助</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1063529164">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1063529164" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1063529164" class="j a_show_login" data-cid="1063529164">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/140756691/">weihu</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-07-18</span>
+                </span>
+            </h3>
+            <p class="comment-content">看看</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="978725732">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-978725732" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-978725732" class="j a_show_login" data-cid="978725732">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/shizitoutou/">师子头</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-02-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">还不错，前面把神经系统与人际关系写的非常流畅，是比人际关系深又不学术，看起来正好</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="931894767">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-931894767" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-931894767" class="j a_show_login" data-cid="931894767">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/56384614/">留白</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2015-06-16</span>
+                </span>
+            </h3>
+            <p class="comment-content">本来是希望读到一本指导类的书</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1964207/comments/">更多短评 55 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1964207/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            社交商的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 16 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5224703">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5224703/" class="title-link">把包装打开以后，就不顾核心了</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5224703"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/jiadunzhenji/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u40773489-34.jpg"></a>
+    <a href="https://www.douban.com/people/jiadunzhenji/" class="author">
+      <span property="v:reviewer">白起</span>
+    </a>    <span property="v:rating" class="allstar20 main-title-rating" title="较差"></span>
+  <span property="v:dtreviewed" content="2011-12-21"
+      class="main-meta">2011-12-21 23:52:23</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5224703_short" class="review-short">
+            <div class="short-content">
+                  在豆瓣开了一个专栏，主要写投资自我管理方面，欢迎关注：http://read.douban.com/column/93927/  这本书读来令人无奈，这本书主要的作用就是说清楚了，社交商这个概念是多么多么的有根据，就完了。至于如何提高社交商，没写。作为我主题阅读的一本，还是把评论摘下来吧:  1.要...
+
+                    <a class="pl" href="https://book.douban.com/review/5224703/#comments">(2回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">14有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5224703_full" class="hidden">
+            <div id="review_5224703_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1207055">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1207055/" class="title-link">利己主义主导下的社交该如何展开？</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1207055"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/zongxireview/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/zongxireview/" class="author">
+      <span property="v:reviewer">[已注销]</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2007-09-12"
+      class="main-meta">2007-09-12 17:28:21</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1207055_short" class="review-short">
+            <div class="short-content">
+                       最近读了一些书，每读完一本书，都要在豆瓣看看别人的评论。发现了一个很有趣的现象，几乎每一本书都有大量的批评声，尽管，更多的是赞扬声。面对同样的东西，为什么会有截然不同的评价？     我怀疑这种分歧主要源于不同的知识背景、信息需求，乃至价值观念。用经济学上...
+
+                    <a class="pl" href="https://book.douban.com/review/1207055/#comments">(8回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">15有用 / 2没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1207055_full" class="hidden">
+            <div id="review_1207055_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5011950">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5011950/" class="title-link">我们天生具有移情的能力</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5011950"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/timesongs/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u48464083-18.jpg"></a>
+    <a href="https://www.douban.com/people/timesongs/" class="author">
+      <span property="v:reviewer">[已注销]</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2011-07-05"
+      class="main-meta">2011-07-05 10:34:51</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5011950_short" class="review-short">
+            <div class="short-content">
+                  刚初生没多久的婴儿，只要看到或者听到其他婴儿苦恼的哭泣声，他们也会放声大哭，好像自己也很难过一样。但是他们听到自己的哭声时却没有反应。大约14个月后，婴儿们不仅听到其他婴儿的哭泣自己也会放生大哭，而且还会设法减轻对方的痛苦。而后，随着年龄的成长，遇到同样的情...
+
+                    <a class="pl" href="https://book.douban.com/review/5011950/#comments">(2回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">6有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5011950_full" class="hidden">
+            <div id="review_5011950_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1454710">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1454710/" class="title-link">情商和社交商</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1454710"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/pansin/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1013920-1.jpg"></a>
+    <a href="https://www.douban.com/people/pansin/" class="author">
+      <span property="v:reviewer">pansin</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2008-07-29"
+      class="main-meta">2008-07-29 09:22:37</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1454710_short" class="review-short">
+            <div class="short-content">
+                  高情商是每个人渴望但未必拥有的，那么，是什么原因呢？  《社交商》不是一本东拼西凑，闭门造车充满臆想的社交指南。也别期望读过之后个人的社交技巧和个人情商能达到飞跃。这本书值得观看是因为里面介绍的是神经心理学对人的大脑的解读，追本溯源，了解情商和社交商差异产生...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">3有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1454710_full" class="hidden">
+            <div id="review_1454710_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5837375">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5837375/" class="title-link">买书是浪费金钱，读这书是践踏生命，不过读到我...</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5837375"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/mikefox/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1141090-1.jpg"></a>
+    <a href="https://www.douban.com/people/mikefox/" class="author">
+      <span property="v:reviewer">mikefox</span>
+    </a>    <span property="v:rating" class="allstar10 main-title-rating" title="很差"></span>
+  <span property="v:dtreviewed" content="2013-04-08"
+      class="main-meta">2013-04-08 02:28:36</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5837375_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-5837375-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5837375_full" class="hidden">
+            <div id="review_5837375_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评16篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+      
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="22666381">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zenkii/"><img src="https://img3.doubanio.com/icon/u2751743-132.jpg" alt="明月清风与你" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22666381/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22666381/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zenkii/" class=" " title="明月清风与你">明月清风与你</a>
+                (与谁同坐？明月清风我。)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="22666381">
+              <div class="short">
+                
+                  <span class="">一、情绪很强的感染，和熟人打招呼。
+    可以有意的通过改变面部表情来转变自己的情绪来转变自己的情绪。
+    撒谎者的注意力集中在如何编制好谎言上，较少注意自己的面部表情，动作。如果一个人的反应时间较长，可能因为紧张也可能是在说谎。
+    直视眼睛是衡量一个人是否诚实（悲伤会垂下目光，厌恶会移开目光，愧疚或羞耻则可能垂下目光或者避开它）
+
+二、（a）相互的注意（直视眼睛、移情、默契的目光交流）
+   越紧张...</span>
+                <p class="pl">
+                  <span class="">2012-11-22 22:42</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一、情绪很强的感染，和熟人打招呼。<div style="padding-bottom:1em;"></div>    可以有意的通过改变面部表情来转变自己的情绪来转变自己的情绪。<div style="padding-bottom:1em;"></div>    撒谎者的注意力集中在如何编制好谎言上，较少注意自己的面部表情，动作。如果一个人的反应时间较长，可能因为紧张也可能是在说谎。<div style="padding-bottom:1em;"></div>    直视眼睛是衡量一个人是否诚实（悲伤会垂下目光，厌恶会移开目光，愧疚或羞耻则可能垂下目光或者避开它）<div style="padding-bottom:1em;"></div>二、（a）相互的注意（直视眼睛、移情、默契的目光交流）<div style="padding-bottom:1em;"></div>   越紧张就越难产生移情<div style="padding-bottom:1em;"></div>  （b）共同的积极情绪（语调和脸部表情，非语言比语言更有效，别拍是批评，依然是愉快）<div style="padding-bottom:1em;"></div>   所谈论的话题必须是他们都感兴趣的<div style="padding-bottom:1em;"></div>  （c）语调一致性或同步性（交流的节奏和身体运动、语速接近、与别人情绪一致会取得人际交往的成功、双方下意识动作和习惯一致、自发潜意识）<div style="padding-bottom:1em;"></div>   不断打断对方，话不投机，会不自在。<div style="padding-bottom:1em;"></div>三、大脑偏爱笑脸<div style="padding-bottom:1em;"></div>   讲笑话掌握好说话时机，才能取得好的效果。所有笑话都包含对现实的两种矛盾的看法。<div style="padding-bottom:1em;"></div>四、善举-升华 <div style="padding-bottom:1em;"></div>    变化的是自己，当我们感觉不自在或者自我封闭的时候，根本无法注意别人表达的友好信号，如热情的目光，善意的微笑，温和的语调。<div style="padding-bottom:1em;"></div>    当我们以自我为中心的时，遇到的问题会越来越多，自我封闭就会越来越严重，我们的世界就会越来越小，而当我们关注他人时，世界就会丰富多彩，自己的问题就会显得渺小，而我们的交往能力可以得到加强，而引发对别人的善举。<div style="padding-bottom:1em;"></div>    同情和帮助别人是自然冲动，是利己主义的心里起作用。<div style="padding-bottom:1em;"></div>    情绪会随着认知而改变，痛苦不是由事件本身，而是由你对待他的态度所导致的，因此你可以随时消除它。<div style="padding-bottom:1em;"></div>五、社交能力：<div style="padding-bottom:1em;"></div>  （a）意识。初步移情：体会别人的感受，理解非语言情感信息。<div style="padding-bottom:1em;"></div>            适应：专心致志倾听，适应别人  <div style="padding-bottom:1em;"></div>            精确移情：理解别人的思想感觉和意图。<div style="padding-bottom:1em;"></div>            社交认知：清楚社交活动的规则<div style="padding-bottom:1em;"></div>  （b）技能。一致性：非语言层面上的交流顺畅。 <div style="padding-bottom:1em;"></div>            自我表达：清晰的表达自己。 <div style="padding-bottom:1em;"></div>            影响力：影响社交活动效果的能力。<div style="padding-bottom:1em;"></div>            关心：关心别人的需求并采取相应的行动<div style="padding-bottom:1em;"></div>        自控力来调整冲动，移情了解对象，从而确定最少权力，用社交知识来了解特定场合的社交规范。<div style="padding-bottom:1em;"></div>       “反社会性人格障碍”他人仅仅是“它”自己愚弄的对象，是实现自己目的的工具，没有利用价值后就会一脚踢开。应该懊悔和羞愧（黑三类，感受不到或者程度很轻）<div style="padding-bottom:1em;"></div>        别人心理的理解和社交的礼物的掌握是纯粹的智力因素，应该加上关心。 <div style="padding-bottom:1em;"></div>心智直观不会把极端情况作为行为基准，学会在经历了挫折和痛苦后尽快恢复平静。<div style="padding-bottom:1em;"></div>六、如何提高社交商<div style="padding-bottom:1em;"></div>      越是感到厌倦，紧张，大脑的认知能力遇到的障碍也越大，压力处于中等水平时效率最高。<div style="padding-bottom:1em;"></div>      当人们处于愉快，欢乐的高度活跃状态可以增强人们的思维能力，忧伤苦恼会扼杀学习能力.<div style="padding-bottom:1em;"></div>      情感流向，社会地位较高的人传递到较低。<div style="padding-bottom:1em;"></div>      具有高明社交商的领导者首先要全神贯注地倾听并且与员工达成情绪上的一致，在集中注意力后，社交商其他方面才能施展，比如洞察对方感受并且猜测原因，与他们进行顺畅的交流从而将对方的情绪提升到积极的状态。<div style="padding-bottom:1em;"></div>      宽恕能让自己从痛苦中解脱出来，减轻我们的痛苦和抑郁，并非和解。<div style="padding-bottom:1em;"></div>      经济人的假设只是简化的、单向度的人。社会和个人成就感和幸福感被精确的量化，存量变得无关紧要，关键是增量，已有的东西的价值被迅速清零，无法刺激起人的成就感和幸福感。<div style="padding-bottom:1em;"></div>      遗漏的非显性信息是能深切沟通和交往。<div style="padding-bottom:1em;"></div>      依恋（索取）、照料（给予）、性（爱的三个方面）<div style="padding-bottom:1em;"></div>      回避型，对爱人的过度依赖和捕风捉影可能真的会促使自己的爱人离开（友谊中也是）担心会被抛弃或某些方面的缺陷，保持高度警惕忧虑可以使人提前做好准备，而杞人忧天只会损害周围的人际关系，<div style="padding-bottom:1em;"></div>      权利、财富、善良<div style="padding-bottom:1em;"></div>      男人汗液的气味会使女人心情愉快，身心放松。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22666381/#comments">回应</a>&nbsp;&nbsp;
+                  2012-11-22 22:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="45169211">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/79499859/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="臆" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/45169211/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/45169211/" class="">第11页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/79499859/" class=" " title="臆">臆</a>
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="45169211">
+              <div class="short">
+                
+                  <span class="">男性是视觉动物，寻找足以证明其成就感的证据。女性是听觉动物，快乐感直接与身体感受相关。 学校的使命是提高可以量化的智力，即把握信息做出反应并获得快乐的能力。 找到幸福感的源泉才是最重要的事情。 电视看得越多越孤独。 人际关系影响很大。两个人的交往中，通常权力较小的人会更多地调整自己的情绪。夫妻关系中，权力可以通过实际情况来衡量，比如谁对对方情绪影响力更大、谁决定日常家庭生活、谁掌握财政大权。 周围人...</span>
+                <p class="pl">
+                  <span class="">2017-06-23 14:48</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>男性是视觉动物，寻找足以证明其成就感的证据。女性是听觉动物，快乐感直接与身体感受相关。</p><p>学校的使命是提高可以量化的智力，即把握信息做出反应并获得快乐的能力。</p><p>找到幸福感的源泉才是最重要的事情。</p><p>电视看得越多越孤独。</p><p>人际关系影响很大。两个人的交往中，通常权力较小的人会更多地调整自己的情绪。夫妻关系中，权力可以通过实际情况来衡量，比如谁对对方情绪影响力更大、谁决定日常家庭生活、谁掌握财政大权。</p><p>周围人细微的情绪变化会影响到我们。银幕上的情绪也是可以传染的。</p><p>与他人情绪一致会取得人际交往的成功。但是有意一致并没有什么效果。</p><p>笑脸优势。大脑偏爱微笑。</p><p>有影响力的思想，影响力很大的。群体性传染，比如演奏者可以调节观众情绪。如果没有地位差异，则情绪最强烈的人决定了整体氛围。</p><p>焦虑会使注意力负担加重。越紧张越难产生同理心。以自我为中心时，我们遇到的问题就会越来越多，自我封闭就会越来越严重，我们的世界就会越来越小。而当我们关注他人时，我们的世界就会越来越丰富多彩，我们自己的问题就会显得渺小。</p><p>在帮助别人时往往有利己主义的心理在起作用。因为有同理心，所以自己也感觉到痛苦，帮助别人可以减轻这种痛苦。</p><p>遭遇不良情绪时，要避免情绪侵害，保护自己。</p><p>如果在恐惧的时候找到减轻恐惧的方法，那么再次经历时就会减弱它对我的影响力。</p><p>认真倾听的作用是根据对方的反应和感受来调节自己的对话。</p><p>经历过自己可以控制的压力或者威胁，能够增强我们的恢复力。</p><p>爱情中的三种：安全型、回避型、忧虑型</p><p>越善于保持距离，他们的关系就会越亲密</p><p>社交性越强，对感冒的免疫力越强。因为社交活动可以提高我们的好心情</p><p>对于工作的认同感和满意感大部分都来自工作时和上司、同事或者客户之间的日常交流。</p><p>在美满稳定的婚姻生活中，夫妻双方所经历的快乐时光与矛盾时刻的比例是5：1。</p><p>远离不舒服的社交关系。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/45169211/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-23 14:48
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="22666381">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zenkii/"><img src="https://img3.doubanio.com/icon/u2751743-132.jpg" alt="明月清风与你" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22666381/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22666381/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zenkii/" class=" " title="明月清风与你">明月清风与你</a>
+                (与谁同坐？明月清风我。)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="22666381">
+              <div class="short">
+                
+                  <span class="">一、情绪很强的感染，和熟人打招呼。
+    可以有意的通过改变面部表情来转变自己的情绪来转变自己的情绪。
+    撒谎者的注意力集中在如何编制好谎言上，较少注意自己的面部表情，动作。如果一个人的反应时间较长，可能因为紧张也可能是在说谎。
+    直视眼睛是衡量一个人是否诚实（悲伤会垂下目光，厌恶会移开目光，愧疚或羞耻则可能垂下目光或者避开它）
+
+二、（a）相互的注意（直视眼睛、移情、默契的目光交流）
+   越紧张...</span>
+                <p class="pl">
+                  <span class="">2012-11-22 22:42</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一、情绪很强的感染，和熟人打招呼。<div style="padding-bottom:1em;"></div>    可以有意的通过改变面部表情来转变自己的情绪来转变自己的情绪。<div style="padding-bottom:1em;"></div>    撒谎者的注意力集中在如何编制好谎言上，较少注意自己的面部表情，动作。如果一个人的反应时间较长，可能因为紧张也可能是在说谎。<div style="padding-bottom:1em;"></div>    直视眼睛是衡量一个人是否诚实（悲伤会垂下目光，厌恶会移开目光，愧疚或羞耻则可能垂下目光或者避开它）<div style="padding-bottom:1em;"></div>二、（a）相互的注意（直视眼睛、移情、默契的目光交流）<div style="padding-bottom:1em;"></div>   越紧张就越难产生移情<div style="padding-bottom:1em;"></div>  （b）共同的积极情绪（语调和脸部表情，非语言比语言更有效，别拍是批评，依然是愉快）<div style="padding-bottom:1em;"></div>   所谈论的话题必须是他们都感兴趣的<div style="padding-bottom:1em;"></div>  （c）语调一致性或同步性（交流的节奏和身体运动、语速接近、与别人情绪一致会取得人际交往的成功、双方下意识动作和习惯一致、自发潜意识）<div style="padding-bottom:1em;"></div>   不断打断对方，话不投机，会不自在。<div style="padding-bottom:1em;"></div>三、大脑偏爱笑脸<div style="padding-bottom:1em;"></div>   讲笑话掌握好说话时机，才能取得好的效果。所有笑话都包含对现实的两种矛盾的看法。<div style="padding-bottom:1em;"></div>四、善举-升华 <div style="padding-bottom:1em;"></div>    变化的是自己，当我们感觉不自在或者自我封闭的时候，根本无法注意别人表达的友好信号，如热情的目光，善意的微笑，温和的语调。<div style="padding-bottom:1em;"></div>    当我们以自我为中心的时，遇到的问题会越来越多，自我封闭就会越来越严重，我们的世界就会越来越小，而当我们关注他人时，世界就会丰富多彩，自己的问题就会显得渺小，而我们的交往能力可以得到加强，而引发对别人的善举。<div style="padding-bottom:1em;"></div>    同情和帮助别人是自然冲动，是利己主义的心里起作用。<div style="padding-bottom:1em;"></div>    情绪会随着认知而改变，痛苦不是由事件本身，而是由你对待他的态度所导致的，因此你可以随时消除它。<div style="padding-bottom:1em;"></div>五、社交能力：<div style="padding-bottom:1em;"></div>  （a）意识。初步移情：体会别人的感受，理解非语言情感信息。<div style="padding-bottom:1em;"></div>            适应：专心致志倾听，适应别人  <div style="padding-bottom:1em;"></div>            精确移情：理解别人的思想感觉和意图。<div style="padding-bottom:1em;"></div>            社交认知：清楚社交活动的规则<div style="padding-bottom:1em;"></div>  （b）技能。一致性：非语言层面上的交流顺畅。 <div style="padding-bottom:1em;"></div>            自我表达：清晰的表达自己。 <div style="padding-bottom:1em;"></div>            影响力：影响社交活动效果的能力。<div style="padding-bottom:1em;"></div>            关心：关心别人的需求并采取相应的行动<div style="padding-bottom:1em;"></div>        自控力来调整冲动，移情了解对象，从而确定最少权力，用社交知识来了解特定场合的社交规范。<div style="padding-bottom:1em;"></div>       “反社会性人格障碍”他人仅仅是“它”自己愚弄的对象，是实现自己目的的工具，没有利用价值后就会一脚踢开。应该懊悔和羞愧（黑三类，感受不到或者程度很轻）<div style="padding-bottom:1em;"></div>        别人心理的理解和社交的礼物的掌握是纯粹的智力因素，应该加上关心。 <div style="padding-bottom:1em;"></div>心智直观不会把极端情况作为行为基准，学会在经历了挫折和痛苦后尽快恢复平静。<div style="padding-bottom:1em;"></div>六、如何提高社交商<div style="padding-bottom:1em;"></div>      越是感到厌倦，紧张，大脑的认知能力遇到的障碍也越大，压力处于中等水平时效率最高。<div style="padding-bottom:1em;"></div>      当人们处于愉快，欢乐的高度活跃状态可以增强人们的思维能力，忧伤苦恼会扼杀学习能力.<div style="padding-bottom:1em;"></div>      情感流向，社会地位较高的人传递到较低。<div style="padding-bottom:1em;"></div>      具有高明社交商的领导者首先要全神贯注地倾听并且与员工达成情绪上的一致，在集中注意力后，社交商其他方面才能施展，比如洞察对方感受并且猜测原因，与他们进行顺畅的交流从而将对方的情绪提升到积极的状态。<div style="padding-bottom:1em;"></div>      宽恕能让自己从痛苦中解脱出来，减轻我们的痛苦和抑郁，并非和解。<div style="padding-bottom:1em;"></div>      经济人的假设只是简化的、单向度的人。社会和个人成就感和幸福感被精确的量化，存量变得无关紧要，关键是增量，已有的东西的价值被迅速清零，无法刺激起人的成就感和幸福感。<div style="padding-bottom:1em;"></div>      遗漏的非显性信息是能深切沟通和交往。<div style="padding-bottom:1em;"></div>      依恋（索取）、照料（给予）、性（爱的三个方面）<div style="padding-bottom:1em;"></div>      回避型，对爱人的过度依赖和捕风捉影可能真的会促使自己的爱人离开（友谊中也是）担心会被抛弃或某些方面的缺陷，保持高度警惕忧虑可以使人提前做好准备，而杞人忧天只会损害周围的人际关系，<div style="padding-bottom:1em;"></div>      权利、财富、善良<div style="padding-bottom:1em;"></div>      男人汗液的气味会使女人心情愉快，身心放松。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22666381/#comments">回应</a>&nbsp;&nbsp;
+                  2012-11-22 22:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="45169211">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/79499859/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="臆" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/45169211/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/45169211/" class="">第11页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/79499859/" class=" " title="臆">臆</a>
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="45169211">
+              <div class="short">
+                
+                  <span class="">男性是视觉动物，寻找足以证明其成就感的证据。女性是听觉动物，快乐感直接与身体感受相关。 学校的使命是提高可以量化的智力，即把握信息做出反应并获得快乐的能力。 找到幸福感的源泉才是最重要的事情。 电视看得越多越孤独。 人际关系影响很大。两个人的交往中，通常权力较小的人会更多地调整自己的情绪。夫妻关系中，权力可以通过实际情况来衡量，比如谁对对方情绪影响力更大、谁决定日常家庭生活、谁掌握财政大权。 周围人...</span>
+                <p class="pl">
+                  <span class="">2017-06-23 14:48</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>男性是视觉动物，寻找足以证明其成就感的证据。女性是听觉动物，快乐感直接与身体感受相关。</p><p>学校的使命是提高可以量化的智力，即把握信息做出反应并获得快乐的能力。</p><p>找到幸福感的源泉才是最重要的事情。</p><p>电视看得越多越孤独。</p><p>人际关系影响很大。两个人的交往中，通常权力较小的人会更多地调整自己的情绪。夫妻关系中，权力可以通过实际情况来衡量，比如谁对对方情绪影响力更大、谁决定日常家庭生活、谁掌握财政大权。</p><p>周围人细微的情绪变化会影响到我们。银幕上的情绪也是可以传染的。</p><p>与他人情绪一致会取得人际交往的成功。但是有意一致并没有什么效果。</p><p>笑脸优势。大脑偏爱微笑。</p><p>有影响力的思想，影响力很大的。群体性传染，比如演奏者可以调节观众情绪。如果没有地位差异，则情绪最强烈的人决定了整体氛围。</p><p>焦虑会使注意力负担加重。越紧张越难产生同理心。以自我为中心时，我们遇到的问题就会越来越多，自我封闭就会越来越严重，我们的世界就会越来越小。而当我们关注他人时，我们的世界就会越来越丰富多彩，我们自己的问题就会显得渺小。</p><p>在帮助别人时往往有利己主义的心理在起作用。因为有同理心，所以自己也感觉到痛苦，帮助别人可以减轻这种痛苦。</p><p>遭遇不良情绪时，要避免情绪侵害，保护自己。</p><p>如果在恐惧的时候找到减轻恐惧的方法，那么再次经历时就会减弱它对我的影响力。</p><p>认真倾听的作用是根据对方的反应和感受来调节自己的对话。</p><p>经历过自己可以控制的压力或者威胁，能够增强我们的恢复力。</p><p>爱情中的三种：安全型、回避型、忧虑型</p><p>越善于保持距离，他们的关系就会越亲密</p><p>社交性越强，对感冒的免疫力越强。因为社交活动可以提高我们的好心情</p><p>对于工作的认同感和满意感大部分都来自工作时和上司、同事或者客户之间的日常交流。</p><p>在美满稳定的婚姻生活中，夫妻双方所经历的快乐时光与矛盾时刻的比例是5：1。</p><p>远离不舒服的社交关系。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/45169211/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-23 14:48
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="45169211">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/79499859/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="臆" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/45169211/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/45169211/" class="">第11页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/79499859/" class=" " title="臆">臆</a>
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="45169211">
+              <div class="short">
+                
+                  <span class="">男性是视觉动物，寻找足以证明其成就感的证据。女性是听觉动物，快乐感直接与身体感受相关。 学校的使命是提高可以量化的智力，即把握信息做出反应并获得快乐的能力。 找到幸福感的源泉才是最重要的事情。 电视看得越多越孤独。 人际关系影响很大。两个人的交往中，通常权力较小的人会更多地调整自己的情绪。夫妻关系中，权力可以通过实际情况来衡量，比如谁对对方情绪影响力更大、谁决定日常家庭生活、谁掌握财政大权。 周围人...</span>
+                <p class="pl">
+                  <span class="">2017-06-23 14:48</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>男性是视觉动物，寻找足以证明其成就感的证据。女性是听觉动物，快乐感直接与身体感受相关。</p><p>学校的使命是提高可以量化的智力，即把握信息做出反应并获得快乐的能力。</p><p>找到幸福感的源泉才是最重要的事情。</p><p>电视看得越多越孤独。</p><p>人际关系影响很大。两个人的交往中，通常权力较小的人会更多地调整自己的情绪。夫妻关系中，权力可以通过实际情况来衡量，比如谁对对方情绪影响力更大、谁决定日常家庭生活、谁掌握财政大权。</p><p>周围人细微的情绪变化会影响到我们。银幕上的情绪也是可以传染的。</p><p>与他人情绪一致会取得人际交往的成功。但是有意一致并没有什么效果。</p><p>笑脸优势。大脑偏爱微笑。</p><p>有影响力的思想，影响力很大的。群体性传染，比如演奏者可以调节观众情绪。如果没有地位差异，则情绪最强烈的人决定了整体氛围。</p><p>焦虑会使注意力负担加重。越紧张越难产生同理心。以自我为中心时，我们遇到的问题就会越来越多，自我封闭就会越来越严重，我们的世界就会越来越小。而当我们关注他人时，我们的世界就会越来越丰富多彩，我们自己的问题就会显得渺小。</p><p>在帮助别人时往往有利己主义的心理在起作用。因为有同理心，所以自己也感觉到痛苦，帮助别人可以减轻这种痛苦。</p><p>遭遇不良情绪时，要避免情绪侵害，保护自己。</p><p>如果在恐惧的时候找到减轻恐惧的方法，那么再次经历时就会减弱它对我的影响力。</p><p>认真倾听的作用是根据对方的反应和感受来调节自己的对话。</p><p>经历过自己可以控制的压力或者威胁，能够增强我们的恢复力。</p><p>爱情中的三种：安全型、回避型、忧虑型</p><p>越善于保持距离，他们的关系就会越亲密</p><p>社交性越强，对感冒的免疫力越强。因为社交活动可以提高我们的好心情</p><p>对于工作的认同感和满意感大部分都来自工作时和上司、同事或者客户之间的日常交流。</p><p>在美满稳定的婚姻生活中，夫妻双方所经历的快乐时光与矛盾时刻的比例是5：1。</p><p>远离不舒服的社交关系。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/45169211/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-23 14:48
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="22666381">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zenkii/"><img src="https://img3.doubanio.com/icon/u2751743-132.jpg" alt="明月清风与你" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22666381/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22666381/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zenkii/" class=" " title="明月清风与你">明月清风与你</a>
+                (与谁同坐？明月清风我。)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="22666381">
+              <div class="short">
+                
+                  <span class="">一、情绪很强的感染，和熟人打招呼。
+    可以有意的通过改变面部表情来转变自己的情绪来转变自己的情绪。
+    撒谎者的注意力集中在如何编制好谎言上，较少注意自己的面部表情，动作。如果一个人的反应时间较长，可能因为紧张也可能是在说谎。
+    直视眼睛是衡量一个人是否诚实（悲伤会垂下目光，厌恶会移开目光，愧疚或羞耻则可能垂下目光或者避开它）
+
+二、（a）相互的注意（直视眼睛、移情、默契的目光交流）
+   越紧张...</span>
+                <p class="pl">
+                  <span class="">2012-11-22 22:42</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一、情绪很强的感染，和熟人打招呼。<div style="padding-bottom:1em;"></div>    可以有意的通过改变面部表情来转变自己的情绪来转变自己的情绪。<div style="padding-bottom:1em;"></div>    撒谎者的注意力集中在如何编制好谎言上，较少注意自己的面部表情，动作。如果一个人的反应时间较长，可能因为紧张也可能是在说谎。<div style="padding-bottom:1em;"></div>    直视眼睛是衡量一个人是否诚实（悲伤会垂下目光，厌恶会移开目光，愧疚或羞耻则可能垂下目光或者避开它）<div style="padding-bottom:1em;"></div>二、（a）相互的注意（直视眼睛、移情、默契的目光交流）<div style="padding-bottom:1em;"></div>   越紧张就越难产生移情<div style="padding-bottom:1em;"></div>  （b）共同的积极情绪（语调和脸部表情，非语言比语言更有效，别拍是批评，依然是愉快）<div style="padding-bottom:1em;"></div>   所谈论的话题必须是他们都感兴趣的<div style="padding-bottom:1em;"></div>  （c）语调一致性或同步性（交流的节奏和身体运动、语速接近、与别人情绪一致会取得人际交往的成功、双方下意识动作和习惯一致、自发潜意识）<div style="padding-bottom:1em;"></div>   不断打断对方，话不投机，会不自在。<div style="padding-bottom:1em;"></div>三、大脑偏爱笑脸<div style="padding-bottom:1em;"></div>   讲笑话掌握好说话时机，才能取得好的效果。所有笑话都包含对现实的两种矛盾的看法。<div style="padding-bottom:1em;"></div>四、善举-升华 <div style="padding-bottom:1em;"></div>    变化的是自己，当我们感觉不自在或者自我封闭的时候，根本无法注意别人表达的友好信号，如热情的目光，善意的微笑，温和的语调。<div style="padding-bottom:1em;"></div>    当我们以自我为中心的时，遇到的问题会越来越多，自我封闭就会越来越严重，我们的世界就会越来越小，而当我们关注他人时，世界就会丰富多彩，自己的问题就会显得渺小，而我们的交往能力可以得到加强，而引发对别人的善举。<div style="padding-bottom:1em;"></div>    同情和帮助别人是自然冲动，是利己主义的心里起作用。<div style="padding-bottom:1em;"></div>    情绪会随着认知而改变，痛苦不是由事件本身，而是由你对待他的态度所导致的，因此你可以随时消除它。<div style="padding-bottom:1em;"></div>五、社交能力：<div style="padding-bottom:1em;"></div>  （a）意识。初步移情：体会别人的感受，理解非语言情感信息。<div style="padding-bottom:1em;"></div>            适应：专心致志倾听，适应别人  <div style="padding-bottom:1em;"></div>            精确移情：理解别人的思想感觉和意图。<div style="padding-bottom:1em;"></div>            社交认知：清楚社交活动的规则<div style="padding-bottom:1em;"></div>  （b）技能。一致性：非语言层面上的交流顺畅。 <div style="padding-bottom:1em;"></div>            自我表达：清晰的表达自己。 <div style="padding-bottom:1em;"></div>            影响力：影响社交活动效果的能力。<div style="padding-bottom:1em;"></div>            关心：关心别人的需求并采取相应的行动<div style="padding-bottom:1em;"></div>        自控力来调整冲动，移情了解对象，从而确定最少权力，用社交知识来了解特定场合的社交规范。<div style="padding-bottom:1em;"></div>       “反社会性人格障碍”他人仅仅是“它”自己愚弄的对象，是实现自己目的的工具，没有利用价值后就会一脚踢开。应该懊悔和羞愧（黑三类，感受不到或者程度很轻）<div style="padding-bottom:1em;"></div>        别人心理的理解和社交的礼物的掌握是纯粹的智力因素，应该加上关心。 <div style="padding-bottom:1em;"></div>心智直观不会把极端情况作为行为基准，学会在经历了挫折和痛苦后尽快恢复平静。<div style="padding-bottom:1em;"></div>六、如何提高社交商<div style="padding-bottom:1em;"></div>      越是感到厌倦，紧张，大脑的认知能力遇到的障碍也越大，压力处于中等水平时效率最高。<div style="padding-bottom:1em;"></div>      当人们处于愉快，欢乐的高度活跃状态可以增强人们的思维能力，忧伤苦恼会扼杀学习能力.<div style="padding-bottom:1em;"></div>      情感流向，社会地位较高的人传递到较低。<div style="padding-bottom:1em;"></div>      具有高明社交商的领导者首先要全神贯注地倾听并且与员工达成情绪上的一致，在集中注意力后，社交商其他方面才能施展，比如洞察对方感受并且猜测原因，与他们进行顺畅的交流从而将对方的情绪提升到积极的状态。<div style="padding-bottom:1em;"></div>      宽恕能让自己从痛苦中解脱出来，减轻我们的痛苦和抑郁，并非和解。<div style="padding-bottom:1em;"></div>      经济人的假设只是简化的、单向度的人。社会和个人成就感和幸福感被精确的量化，存量变得无关紧要，关键是增量，已有的东西的价值被迅速清零，无法刺激起人的成就感和幸福感。<div style="padding-bottom:1em;"></div>      遗漏的非显性信息是能深切沟通和交往。<div style="padding-bottom:1em;"></div>      依恋（索取）、照料（给予）、性（爱的三个方面）<div style="padding-bottom:1em;"></div>      回避型，对爱人的过度依赖和捕风捉影可能真的会促使自己的爱人离开（友谊中也是）担心会被抛弃或某些方面的缺陷，保持高度警惕忧虑可以使人提前做好准备，而杞人忧天只会损害周围的人际关系，<div style="padding-bottom:1em;"></div>      权利、财富、善良<div style="padding-bottom:1em;"></div>      男人汗液的气味会使女人心情愉快，身心放松。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22666381/#comments">回应</a>&nbsp;&nbsp;
+                  2012-11-22 22:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964207/discussion/24674594/" title="这本书实际怎么样？" class="">这本书实际怎么样？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/scallet/">Scallet</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2010-06-22</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964207/discussion/1363207/" title="一句话评论（此书觉得很一般嘛）" class="">一句话评论（此书觉得很一般嘛）</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/1668827/">梨子/淡定淡定</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2008-09-04</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964207/discussion/15925640/" title="奶爸奶妈建议读一读" class="">奶爸奶妈建议读一读</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/2541172/">焖烧</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2009-05-04</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964207/discussion/1054374/" title="一句" class="">一句</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/mckincy/">Mc</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2007-04-21</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1964207/discussion/1050490/" title="it seems good" class="">it seems good</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/westnort/">Lucifer</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2007-02-02</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D978-7-5086-0781-8&amp;subject=7508607813&amp;type=borrow&amp;library=10007&amp;link2key=c65cd50e19" target="_blank">北京市公共图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787508607818&amp;subject=7508607813&amp;type=borrow&amp;library=10012&amp;link2key=c65cd50e19" target="_blank">上海市中心图书馆(13)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D9787508607818%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7508607813&amp;type=borrow&amp;library=10023&amp;link2key=c65cd50e19" target="_blank">广州其他馆藏(3)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D9787508607818%26strSearchType%3Disbn&amp;subject=7508607813&amp;type=borrow&amp;library=10002&amp;link2key=c65cd50e19" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F58.154.49.3%3A8080%2Fopac%2Fopenlink.php%3FhistoryCount%3D1%26strText%3D978-7-5086-0781-8%26doctype%3DALL%26strSearchType%3Disbn%26match_flag%3Dforward%26displaypg%3D20%26sort%3DCATA_DATE%26orderby%3Ddesc%26showmode%3Dlist%26location%3DALL&amp;subject=7508607813&amp;type=borrow&amp;library=10010&amp;link2key=c65cd50e19" target="_blank">沈阳师范大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac3.wzlib.cn%2Fopac%2Fsearch%3FsearchWay%3Disbn%26q%3D978-7-5086-0781-8%26booktype%3D%26marcformat%3D%26sortWay%3Dscore%26sortOrder%3Ddesc%26startPubdate%3D%26endPubdate%3D%26rows%3D10&amp;subject=7508607813&amp;type=borrow&amp;library=10020&amp;link2key=c65cd50e19" target="_blank">温州市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D9787508607818%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7508607813&amp;type=borrow&amp;library=10021&amp;link2key=c65cd50e19" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1964207/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/36940/" target="_blank">十件你应该在学校就学到的事情</a>
+                <span class="pl">(YorkCheung)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/410157/" target="_blank">软技能（沟通/演示/协调）</a>
+                <span class="pl">(Divine)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/107789/" target="_blank">信息时代/社会网络/互联网购书单</a>
+                <span class="pl">(肥马渡河)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/226554/" target="_blank">[Book] Personal Development</a>
+                <span class="pl">(最爱cheesecake)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/543293/" target="_blank">好书收集</a>
+                <span class="pl">(feitian)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/37145622/"><img src="https://img3.doubanio.com/icon/u37145622-11.jpg" class="pil" alt="美牙" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/37145622/">美牙</a><br/>
+      <div class="pl ll">          6月22日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/4166610/"><img src="https://img1.doubanio.com/icon/u4166610-9.jpg" class="pil" alt="PASL" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/4166610/">PASL</a><br/>
+      <div class="pl ll">          6月12日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/120960353/"><img src="https://img3.doubanio.com/icon/u120960353-4.jpg" class="pil" alt="灵居Soulhome" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/120960353/">灵居Soulhome</a><br/>
+      <div class="pl ll">          6月6日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1964207/doings">84人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1964207/collections">377人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1964207/wishes">1477人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1964207/offers">7本二手书欲转让</a>
+          <span class="">
+            (1.00
+                至 60.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有1477人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于社交商的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1964207/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'uRgxthgNQpQ',
+            criteria = '7:心理学|7:社交商|7:社交|7:情商|7:沟通|7:心理|7:丹尼尔·戈尔曼|7:社会学|7:管理|7:方法论|3:/subject/1964207/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar16a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

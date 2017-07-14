@@ -1,0 +1,3216 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>理解媒介 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1087547/">
+<meta name="keywords" content="理解媒介,[加拿大] 马歇尔·麦克卢汉 (Mcluhan.M.),商务印书馆,2000-10-01,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书理解媒介 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1087547/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">理解媒介</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s1473403.jpg" title="理解媒介">
+    <img src="https://img3.doubanio.com/lpic/s1473403.jpg" title="点击看大图" alt="理解媒介"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E9%A9%AC%E6%AD%87%E5%B0%94%C2%B7%E9%BA%A6%E5%85%8B%E5%8D%A2%E6%B1%89">[加拿大] 马歇尔·麦克卢汉 (Mcluhan.M.)</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 商务印书馆<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 论人的延伸<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E4%BD%95%E9%81%93%E5%AE%BD">何道宽</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2000-10-01<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 447<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 28.00<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/124">文化和传播译丛</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787100030311<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.5 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">1207</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">43.4%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:60px"></div>
+
+            <span class="rating_per">41.2%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:19px"></div>
+
+            <span class="rating_per">13.3%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:2px"></div>
+
+            <span class="rating_per">1.6%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.5%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1087547-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1087547-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1087547-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1087547-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1087547-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1087547-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1087547-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1087547-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1087547">
+        <a href="#" data-url="https://book.douban.com/subject/1087547/" data-desc="" data-title="书籍《理解媒介》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s1473403.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1087547"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>本书是一部媒介文化研究的经典著作。作者认为，电话、电报、广播、电视等电子媒介的广泛使用，塑造了一个新的文化形态和传播方式。通过对不同媒介的比较，以及与种种文化现象的关联，作者勾画了一种电子媒介文化社会的图景，并对其发展趋向作出了某些预言</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1087547/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>赫伯特·马歇尔·麦克卢汉 (Herbert Marshall McLuhan，1911—1980)，加拿大传播理论家，多伦多大学英语教授，著有《古腾堡星系》(1962)、《媒介即信息》(1967)、《文化是我们的事业》(1970)等。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1087547_short">
+        麻省理工学院版序 　作者第一版序 　作者第二版序 　第一部<br/>
+        1.媒介即是讯息<br/>
+        2.热媒介和冷媒介<br/>
+        3.过热媒介的逆转<br/>
+        4.小玩意爱好者－－麻木性自恋<br/>
+        5.杂交能量－－危险的关系<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1087547_short').hide();$('#dir_1087547_full').show();$.get('/j/subject/j_dir_count',{id:1087547});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1087547_full" style="display:none">
+        麻省理工学院版序 　作者第一版序 　作者第二版序 　第一部<br/>
+        1.媒介即是讯息<br/>
+        2.热媒介和冷媒介<br/>
+        3.过热媒介的逆转<br/>
+        4.小玩意爱好者－－麻木性自恋<br/>
+        5.杂交能量－－危险的关系<br/>
+        6.作为转换器的媒介<br/>
+        7.挑战与崩溃－－创造力的报复 　第二部<br/>
+        8.口语词－－邪恶之花？<br/>
+        9.书面语－－以眼睛代替耳朵<br/>
+        10.道路与纸路<br/>
+        11.数字－－集群的侧面像<br/>
+        12.<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1087547_full').hide();$('#dir_1087547_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共400个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/传播学">传播学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/麦克卢汉">麦克卢汉</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/媒介">媒介</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/传播">传播</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/传媒">传媒</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/经典">经典</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/文化">文化</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/新闻传播">新闻传播</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/124">文化和传播译丛 (共24册)</a>,
+这套丛书还有
+《理解视觉文化的方法》,《通俗文化理论导论》,《媒体文化》,《表征》,《媒体文化》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;理解媒介&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/6584/?dcs=subject-rec&amp;dcm=douban&amp;dct=1087547" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/6584.jpg?v=1395396097.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/6584/" target="_blank">鼓捣社</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/6011661/?dcs=subject-rec&amp;dcm=douban&amp;dct=1087547" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/6011661.jpg?v=1412657933.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/6011661/" target="_blank">现代社会想象</a>
+          </div>
+          <div class="price">
+              9.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/407627/?dcs=subject-rec&amp;dcm=douban&amp;dct=1087547" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/407627.jpg?v=1395395826.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/407627/" target="_blank">创客</a>
+          </div>
+          <div class="price">
+              6.75元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/314773/?dcs=subject-rec&amp;dcm=douban&amp;dct=1087547" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/314773.jpg?v=1395395913.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/314773/" target="_blank">面对疾病</a>
+          </div>
+          <div class="price">
+              14.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/917331/?dcs=subject-rec&amp;dcm=douban&amp;dct=1087547" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/917331.jpg?v=1395395210.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/917331/" target="_blank">学做工</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;理解媒介&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1193658/" onclick="moreurl(this, {'total': 10, 'clicked': '1193658', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4259335.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1193658/" onclick="moreurl(this, {'total': 10, 'clicked': '1193658', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            机器新娘
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1130519/" onclick="moreurl(this, {'total': 10, 'clicked': '1130519', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1442241.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1130519/" onclick="moreurl(this, {'total': 10, 'clicked': '1130519', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            麦克卢汉精粹
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1109545/" onclick="moreurl(this, {'total': 10, 'clicked': '1109545', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s9794538.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1109545/" onclick="moreurl(this, {'total': 10, 'clicked': '1109545', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            帝国与传播
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1427457/" onclick="moreurl(this, {'total': 10, 'clicked': '1427457', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1444489.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1427457/" onclick="moreurl(this, {'total': 10, 'clicked': '1427457', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            传播学史
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1809150/" onclick="moreurl(this, {'total': 10, 'clicked': '1809150', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1775274.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1809150/" onclick="moreurl(this, {'total': 10, 'clicked': '1809150', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            公众舆论
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1127776/" onclick="moreurl(this, {'total': 10, 'clicked': '1127776', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s16125723.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1127776/" onclick="moreurl(this, {'total': 10, 'clicked': '1127776', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            交流的无奈
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1089142/" onclick="moreurl(this, {'total': 10, 'clicked': '1089142', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1662445.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1089142/" onclick="moreurl(this, {'total': 10, 'clicked': '1089142', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            消费社会
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1005325/" onclick="moreurl(this, {'total': 10, 'clicked': '1005325', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1003382.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1005325/" onclick="moreurl(this, {'total': 10, 'clicked': '1005325', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            童年的消逝
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1062193/" onclick="moreurl(this, {'total': 10, 'clicked': '1062193', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6776106.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1062193/" onclick="moreurl(this, {'total': 10, 'clicked': '1062193', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            娱乐至死
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1878240/" onclick="moreurl(this, {'total': 10, 'clicked': '1878240', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2169804.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1878240/" onclick="moreurl(this, {'total': 10, 'clicked': '1878240', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            大众媒介与社会
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1087547/comments/">全部 291 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="444953932">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-444953932" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-444953932" class="j a_show_login" data-cid="444953932">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/FrankWasabi/">芥末蘸酱</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2011-10-10</span>
+                </span>
+            </h3>
+            <p class="comment-content">天才般的设想,如今一一应验.</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="457790766">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-457790766" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-457790766" class="j a_show_login" data-cid="457790766">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Thomas.Xie/">蝉</a>
+                    <span>2014-04-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">: 	
+G206.2/5242</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="352419891">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-352419891" class="vote-count">7</span>
+                        <a href="javascript:;" id="btn-352419891" class="j a_show_login" data-cid="352419891">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/cloudys/">godannar</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2011-02-23</span>
+                </span>
+            </h3>
+            <p class="comment-content">把一个英语教授往经济预言家的方向上绑架显然是愚蠢的，因为此书无疑是一本在微观史基础上构建的哲学书。过去的哲学建立在业已牢固的印刷术上，而麦克卢汉的哲学则建立在一个不断变化的新世界上。他唯一比别人了不起的地方，是他对人类思考方式进化的大胆推测。我们亦无需特意去批评他的逻辑缺失，因为没有人能预知这场新传播方式革命的终点究竟在何处。像麦克卢汉这样的适度乐观，又或者赫胥黎那样的极大悲观，都是不必要的，因为这全是历史的一部分，而不是后者要抛弃前者的态势。事实上，中国人已经犯过这种错了。如果一个人能在他的童年同时受到两个时代的召唤，那无疑是幸福的。至少于我而言，这样的童年让我能够更好地去理解所谓的90后现象。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="372176933">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-372176933" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-372176933" class="j a_show_login" data-cid="372176933">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Gawiel/">Gawiel</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2011-04-03</span>
+                </span>
+            </h3>
+            <p class="comment-content">翻译得不是很好，第一章洛克那里把unified consciousness翻译成“统一的无意识”了……man dignity翻译成“大丈夫的尊严”，有点太抒情了吧</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="53250744">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-53250744" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-53250744" class="j a_show_login" data-cid="53250744">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/mokanights/">MochaTong</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2009-04-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">课程要求，课程要求，我个人对麦氏学术不是很感冒。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1193051936">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1193051936" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1193051936" class="j a_show_login" data-cid="1193051936">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/childchild_/">childchild</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">想象力永不过时</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1189454138">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1189454138" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-1189454138" class="j a_show_login" data-cid="1189454138">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/90816987/">老而弥狂的涛哥</a>
+                    <span>2017-05-12</span>
+                </span>
+            </h3>
+            <p class="comment-content">影响力在中国被严重高估的一本书，其原因可能很简单，简单到你都想不通：被较早的译介并被几个大佬提及。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1184747341">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1184747341" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1184747341" class="j a_show_login" data-cid="1184747341">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/98878975/">支枕听河流</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">读过、要再读</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1177525787">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1177525787" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1177525787" class="j a_show_login" data-cid="1177525787">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/46011382/">喵斯基</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">五六十年代那时去评价电视广播这类媒体的观点放到今天来看的确是有点不太适合，但是前面的思维方式还是很厉害啊，能成为经典总是有原因的，受我一拜</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1173592964">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1173592964" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1173592964" class="j a_show_login" data-cid="1173592964">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/65585379/">弗里茨维尔</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-04</span>
+                </span>
+            </h3>
+            <p class="comment-content">读《报纸》</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1087547/comments/">更多短评 291 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1087547/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            理解媒介的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 79 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="2487454">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/2487454/" class="title-link">理解《理解媒介》</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-2487454"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/guanyutang/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1871031-11.jpg"></a>
+    <a href="https://www.douban.com/people/guanyutang/" class="author">
+      <span property="v:reviewer">纳纳子</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2009-10-10"
+      class="main-meta">2009-10-10 15:32:54</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_2487454_short" class="review-short">
+            <div class="short-content">
+                       《理解媒介》书如其名，关注的是媒介，是媒介自古至今的变化，以及这种新旧更替的变化引起的环境的更迭对人类产生的全面性的影响。所以说，可以将《理解媒介》称之为媒介专门史，如果再宽泛一点说，它还是一部人类文明史。因为在麦克卢汉的理解里，媒介不仅仅是新闻传播意...
+
+                    <a class="pl" href="https://book.douban.com/review/2487454/#comments">(36回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">146有用 / 4没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_2487454_full" class="hidden">
+            <div id="review_2487454_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1434140">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1434140/" class="title-link">麦克老汉论媒介</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1434140"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/berlinf/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1084948-1.jpg"></a>
+    <a href="https://www.douban.com/people/berlinf/" class="author">
+      <span property="v:reviewer">南桥</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2008-07-10"
+      class="main-meta">2008-07-10 08:15:46</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1434140_short" class="review-short">
+            <div class="short-content">
+                  麦克这位老汉是加拿大埃德蒙顿人。不知道是不是因为那里太冷了，麦克卢汉连媒体也分为冷热。热媒体是高清晰度的媒体，如照片。冷媒体则是低清晰度的媒体，如漫画。有趣的是，反倒是冷媒体，受众的参与更多。如今的存储空间越来越大，处理手段越来越多，清晰程度越来越高，从文...
+
+                    <a class="pl" href="https://book.douban.com/review/1434140/#comments">(13回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">24有用 / 2没用</span>
+                        <span class="publisher left">
+                            Signet版</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1434140_full" class="hidden">
+            <div id="review_1434140_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1092031">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1092031/" class="title-link">《理解媒介》里一些不统一的译名</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1092031"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/woniu3/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1036966-96.jpg"></a>
+    <a href="https://www.douban.com/people/woniu3/" class="author">
+      <span property="v:reviewer">hval</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2006-11-19"
+      class="main-meta">2006-11-19 22:43:18</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1092031_short" class="review-short">
+            <div class="short-content">
+                  本人能力范围内发现的有：  E.H.Gombrich，39页译作戈姆布里克，239页译作E.H.贡布里希； David Hume，38页译作休姆，122页译作大卫·休谟； Elias Canetti，92页译作埃利亚斯·加内蒂，120页译作伊利亚斯·卡内蒂，145页译作埃利亚斯·卡内蒂，173页又译作埃利亚斯·加内蒂； ...
+
+                    <a class="pl" href="https://book.douban.com/review/1092031/#comments">(8回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">53有用 / 5没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1092031_full" class="hidden">
+            <div id="review_1092031_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3733892">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3733892/" class="title-link">试图读懂 “没有围墙的妓院”</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3733892"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/3510942/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u3510942-14.jpg"></a>
+    <a href="https://www.douban.com/people/3510942/" class="author">
+      <span property="v:reviewer">sara</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2010-09-25"
+      class="main-meta">2010-09-25 20:46:19</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3733892_short" class="review-short">
+            <div class="short-content">
+                  仅仅是自己阅读这一章的读书笔记……恳请指正……  ————————————————————————————    他在本章多次提到 《时尚》杂志的例子：         例【1】在文章第二段，他提到这个例子以说明照片的渗透力以及显示事物相互关系的力量：     照相机无处不在的...
+
+                    <a class="pl" href="https://book.douban.com/review/3733892/#comments">(3回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">11有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3733892_full" class="hidden">
+            <div id="review_3733892_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1127502">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1127502/" class="title-link">理解《理解媒介》</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1127502"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/zolatemur/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1283394-1.jpg"></a>
+    <a href="https://www.douban.com/people/zolatemur/" class="author">
+      <span property="v:reviewer">zolatemur</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2007-02-26"
+      class="main-meta">2007-02-26 01:08:12</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1127502_short" class="review-short">
+            <div class="short-content">
+                   作为理性至上的印刷时代的抱怨者，麦克卢汉显然比前辈伊尼斯作出了进一步的抱怨行动，即以非理性主义的、个人整体性的文风写作和表述思想。虽然其承接伊尼斯的宏大叙事使其不被归入片断化的后现代理论，但是他的文学研究背景使得他使用一种非理性非逻辑的文学语言，从而拒绝将...
+
+                    <a class="pl" href="https://book.douban.com/review/1127502/#comments">(7回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">29有用 / 4没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1127502_full" class="hidden">
+            <div id="review_1127502_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评79篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1087547/annotation">共<span property="v:count">79</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="18536514">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/46354029/"><img src="https://img3.doubanio.com/icon/u46354029-12.jpg" alt="胡萝卜馆长" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18536514/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18536514/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/46354029/" class=" " title="胡萝卜馆长">胡萝卜馆长</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="18536514">
+              <div class="short">
+                
+                  <span class="">《理解媒介：论人的延伸》
+
+[加拿大]马歇尔•麦克卢汉著，初版于1964年。该书的中译本入选“改革开放30年最具影响力的300本书”。 
+一、作者简介
+马歇尔•麦克卢汉（Marshall McLuhan，1911~1980），加拿大哲学家、教育学家、文学批评家、传播学家，传播学媒介环境学派一代宗师。 他被誉为20世纪的“先知”、“圣人”，以“地球村”、“媒介即讯息”等论断名震全球。在“互联网”一词尚未出现时，他已经预言了互联网的诞生...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/18536514/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-05-27 10:42</span>
+                  
+                    &nbsp;&nbsp;<span class="">12人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《理解媒介：论人的延伸》<div style="padding-bottom:1em;"></div>[加拿大]马歇尔•麦克卢汉著，初版于1964年。该书的中译本入选“改革开放30年最具影响力的300本书”。 <div style="padding-bottom:1em;"></div>一、作者简介<div style="padding-bottom:1em;"></div>马歇尔•麦克卢汉（Marshall McLuhan，1911~1980），加拿大哲学家、教育学家、文学批评家、传播学家，传播学媒介环境学派一代宗师。 他被誉为20世纪的“先知”、“圣人”，以“地球村”、“媒介即讯息”等论断名震全球。在“互联网”一词尚未出现时，他已经预言了互联网的诞生。代表作有《机器新娘》（1951）、《谷登堡星汉》（1962）、《理解媒介》（1964）、《媒介定律》（1969）等，其中，麦克卢汉的大部分观点集中在其《理解媒介》一书中，也正因为本书，使其声名鹊起。<div style="padding-bottom:1em;"></div>1、家庭背景<div style="padding-bottom:1em;"></div>他的父亲是一名商人；他的母亲接受过大学教育，热爱英国文学，是一名小有名气的演员。<div style="padding-bottom:1em;"></div>他的父母从三个方面深刻影响了他后来的发展：<div style="padding-bottom:1em;"></div>①首先是虔诚坚定的宗教信仰。造成麦克卢汉比较保守；<div style="padding-bottom:1em;"></div>②其次是对英国文学的热爱。这是他后来会选择从事文学批评的一个重要原因；<div style="padding-bottom:1em;"></div>③最后是喜欢辩论。在成名之后，他不再直接写作，而是雇了一堆秘书帮他记录整理谈话。<div style="padding-bottom:1em;"></div>2、学习经历<div style="padding-bottom:1em;"></div>1911年，麦克卢汉出生于加拿大。<div style="padding-bottom:1em;"></div>17岁他考入曼尼托巴大学学习工程专业，后来改学文学，毕业时获得英文和哲学的双学位。<div style="padding-bottom:1em;"></div>26岁至31岁，在英国剑桥大学重新从本科读到博士，研究方向是英国文学。<div style="padding-bottom:1em;"></div>此后，他曾在威斯康星大学、圣路易斯大学、圣麦克尔学院任教。<div style="padding-bottom:1em;"></div>1946年，麦克卢汉成为多伦多大学的文学教授<div style="padding-bottom:1em;"></div>二、传播学三大学派<div style="padding-bottom:1em;"></div>世界范围内，传播学学界大体分为三派：经验学派、批判学派和媒介环境学派<div style="padding-bottom:1em;"></div>①经验学派。由拉扎斯菲尔德、勒温、拉斯韦尔与霍夫兰等四位先驱开拓，战后由“传播学之父”威尔伯•施拉姆集大成。 <div style="padding-bottom:1em;"></div>②批判学派。法兰克福学派是西方马克思主义的突出代表，对美国传播学产生影响的代表人物有霍克海默、阿多诺、马尔库塞、席勒、本雅明等<div style="padding-bottom:1em;"></div>③媒介环境学派。该理论学派从麦克卢汉的“媒介即讯息”出发，研究媒介在社会中的作用。代表人物：麦克卢汉、尼尔•波斯曼、保罗•莱文森、林文刚（美籍华人）。<div style="padding-bottom:1em;"></div>    总体来说：经验学派埋头实用问题和短期效应；批判学派固守意识形态批判；媒介环境学着重媒介的长效影响，偏重宏观的分析、描绘和批评，缺少微观的务实和个案研究。经验学派一派独大，批判学派在欧洲有市场，在美国“水土不服”， 媒介环境学派长期在美国受经验学派排斥。<div style="padding-bottom:1em;"></div>三、三次麦克卢汉热<div style="padding-bottom:1em;"></div>第一波的麦克卢汉热兴起于20世纪60年代，遍及全球.<div style="padding-bottom:1em;"></div>第二波的麦克卢汉热兴起于20世纪90年代。 <div style="padding-bottom:1em;"></div>第三波的麦克卢汉热兴起于21世纪。 <div style="padding-bottom:1em;"></div>　　　　<div style="padding-bottom:1em;"></div>四、本书主要内容、观点<div style="padding-bottom:1em;"></div>　　本文分为两部分。第一部分，他用了七章的内容，来提出了著名的三论：“媒介即讯息，媒介即人的延伸，冷热媒介”，这三论惊世骇俗，贯穿全书，意图颠覆以前的所有传播理论，而建立一个新的理论王国；第二部份就是运用这三论来分析麦克卢汉自己能想到的一切文化、政治、社会现象，并将这些重大现象统统划拉到媒介的巨大影响之下。 <div style="padding-bottom:1em;"></div>1，媒介是人体的延伸<div style="padding-bottom:1em;"></div>《理解媒介》的副标题为“论人的延伸”，在麦克卢汉看来，一切传播媒介都是人类感官的延伸，印刷品是眼睛的延伸，收音机是耳朵的延伸，起重机和车轮是手臂和腿的延伸，而电子媒介则是“人类中枢神经系统的延伸”。 <div style="padding-bottom:1em;"></div>麦克卢汉在第二部份分析了人类的三种延伸，一是身体器官的延伸；二是某种感官的延伸；三是中枢神经系统的延伸。<div style="padding-bottom:1em;"></div>每一种新的媒介的巨大刺激都会使人类产生麻木感，而电力时代尤甚，因为它会造成中枢神经系统的麻木。因此，我们需要做的是“从自恋和麻木状态中惊醒过来”。只有清醒的认识到媒介的影响，人类才能按照自己的意愿去决定媒介的发展方向，就像他在序言中说的：“本书的宗旨是探索技术所反映的人的延伸的轮廓，弄懂它们可以使之井井有条地为人民服务。” <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>2，媒介即讯息<div style="padding-bottom:1em;"></div> “媒介即讯息”，这是麦克卢汉对传播媒介在人类社会发展中的地位和作用的一种高度概括，其含义是：媒介本身才是真正有意义的讯息。换个容易理解的说法，即人类有了某种媒介才有可能从事与之相适应的传播和其他社会活动，因此，从漫长的人类社会发展过程来看，真正有意义的、有价值的“讯息”不是各个时代的传播内容，而是这个时代所使用的传播工具的性质、它所开创的可能性以及带来的社会变革。<div style="padding-bottom:1em;"></div>麦克卢汉认为，媒介是社会发展的基本动力，每一种新的媒介的产生，都开创了人类感知和认识世界的方式，传播中的变革改变了人类的感觉，也改变了人与人之间的关系，并创造出新的社会行为类型。因此，媒介又是区分不同社会形态的标志。<div style="padding-bottom:1em;"></div>3，冷媒介与热媒介<div style="padding-bottom:1em;"></div>“冷媒介”和“热媒介”是麦克卢汉就媒介分类提出的两个著名概念。其分类的标准是以“清晰度”的高低为标准的。麦克卢汉所谓的“高清晰度”是电子技术里的行话，其意思是界定清晰、鲜明、实在、详细，正如他所说，“高清晰度是充满数据的状态”。相反，低清晰度就是信息不充分，需要调动其他感官来弥补信息的缺乏。<div style="padding-bottom:1em;"></div>“热媒介”传递的信息比较清晰明确，接受者不需要动员更多的感官和联想活动就能够理解，他本身是“热”的，人们在进行信息处理时不需进行“热身运动”；而“冷媒介”则相反，它传达的信息含量少而模糊，在理解时需要动员多种感官的配合和丰富的想象力。例如，一张照片是清晰的，一目了然；而一幅漫画中的形象比较模糊，需要人进行联想和思考。前者属于“热媒介”，后者属于“冷媒介”。<div style="padding-bottom:1em;"></div>热媒介	冷媒介<div style="padding-bottom:1em;"></div>书籍	漫画<div style="padding-bottom:1em;"></div>报刊	有声电影<div style="padding-bottom:1em;"></div>广播	电视<div style="padding-bottom:1em;"></div>无声电影	<div style="padding-bottom:1em;"></div>照片	<div style="padding-bottom:1em;"></div>五、观点评价<div style="padding-bottom:1em;"></div>1，积极<div style="padding-bottom:1em;"></div>麦克卢汉以上观点的意义在于，它开拓了从媒介技术出发观察人类社会发展的视角，并强调了媒介技术的社会历史作用。此外，麦克卢汉关于“媒介即人的延伸”的观点对我们理解不同媒介的作用机制富有启迪意义。他关于“地球村”的预言，也是符合当代世界的发展趋势的。<div style="padding-bottom:1em;"></div>2，局限<div style="padding-bottom:1em;"></div>①本书采用了英美文学的论说文文体，修辞优美，论辩精彩，但是，论证问题不严密，逻辑线条不清晰，不能清晰明确地定义所要呈现的新思想。<div style="padding-bottom:1em;"></div>“我不解释，我只探索（I don’t explain, I explore）；你如果不喜欢这个观点，那我还有别的。”<div style="padding-bottom:1em;"></div>②关于冷热媒介。麦克卢汉没有通过严密的逻辑论证，而是通过形而上的演绎推理得出冷热媒介的分类。这个核心概念是很脆弱以致得不到人们的广泛承认。特别是将电视归为冷媒介就被历史证明为错误，因为电视的可以让人深度卷入，让人能够方便快捷地获取更大空间性的更多更快的信息，是典型的共时的空间性媒介。特别是在清晰度大大提高的当代，个体体验的可能性的大大提高，而非清晰度下降。这也可能是麦克卢汉所处时代的局限决定的。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18536514/#comments">1回应</a>&nbsp;&nbsp;
+                  2012-05-27 10:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="14497883">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/43994195/"><img src="https://img3.doubanio.com/icon/u43994195-4.jpg" alt="阿呆说" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/14497883/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/14497883/" class="">31.电视——羞怯的巨人</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/43994195/" class=" " title="阿呆说">阿呆说</a>
+                (当我还是风，阳光，和水的时候)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="14497883">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/14497883/"><img src="https://img3.doubanio.com/view/page_note/small/public/p14497883-1.jpg"></a>
+                  </div>
+                  <span class="">第一部分 结构笔记
+
+
+第二部分 摘录与批示
+
+1.“有人觉得，作为一种冷媒介，电视给政体注入了一种僵硬的机制。观众参与电视媒介异常之高的程度，正好能理解它不能对付棘手问题的性质。”
+《理解媒介》P381
+
+【唐乐水批注：麦克卢汉认为电视作为一种冷媒介，受众无法深度介入其中。这里的“参与程度之高”指的是对于电视影像的表面的参与，而不是对其内容的真正介入。类似台湾总统大选时全面狂欢性质的助选热情，更多是倾入...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/14497883/">(<span class="">5回应</span>)</a>
+                <p class="pl">
+                  <span class="">2011-09-13 19:39</span>
+                  
+                    &nbsp;&nbsp;<span class="">40人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                第一部分 结构笔记
+<div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p14497883-1.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>第二部分 摘录与批示<div style="padding-bottom:1em;"></div>1.“有人觉得，作为一种冷媒介，电视给政体注入了一种僵硬的机制。观众参与电视媒介异常之高的程度，正好能理解它不能对付棘手问题的性质。”<div style="padding-bottom:1em;"></div>《理解媒介》P381<div style="padding-bottom:1em;"></div>【唐乐水批注：麦克卢汉认为电视作为一种冷媒介，受众无法深度介入其中。这里的“参与程度之高”指的是对于电视影像的表面的参与，而不是对其内容的真正介入。类似台湾总统大选时全面狂欢性质的助选热情，更多是倾入了对于时局以外的私人情绪。】<div style="padding-bottom:1em;"></div>2.“电视来临之后，方言被认为能提供深刻的社会纽带。”<div style="padding-bottom:1em;"></div>《理解媒介》P382<div style="padding-bottom:1em;"></div>【唐乐水批注：方言新闻可以使受众更方便的介入，调动私人情绪，在一定地理范围之内引起共鸣。】<div style="padding-bottom:1em;"></div>3.“每个人经验过的东西大大超过他理解的东西。然而，影响行为的是经验，而不是理解”<div style="padding-bottom:1em;"></div>《理解媒介》P397<div style="padding-bottom:1em;"></div>【唐乐水批注：用《公众舆论》中的一句话来总结再好不过了：很多时候我们是先定位再理解，而不是先理解再定位。】<div style="padding-bottom:1em;"></div>4.“电视马赛克形态的力量把单纯的美国人转换成老成世故的人，而不论电视的“内容”如何。”<div style="padding-bottom:1em;"></div>《理解媒介》P398<div style="padding-bottom:1em;"></div>【唐乐水批注：因为在电视中间接得到的“拟态经验”，很多时候在第一次做某件事的时候我们已经感觉做过无数次了。】<div style="padding-bottom:1em;"></div>5.“凡是明白显示自己在生活中的角色和地位的外貌，都不适合电视媒介。任何人，只要他同时像教师、医生、企业家或十来种其他职业的人，就是适合电视媒介的人。”<div style="padding-bottom:1em;"></div>《理解媒介》P407<div style="padding-bottom:1em;"></div>【唐乐水批注：电视讲坛上风华正茂的“知道分子”正是符合这种要求。】<div style="padding-bottom:1em;"></div>第三部分 问题与思考<div style="padding-bottom:1em;"></div>问题：现代很多新的媒介终端融合了多种媒介的特征，参与者也调动了多种感官去介入，如何再用“冷”“热”去区分？<div style="padding-bottom:1em;"></div>思考：很多研究者都说过，麦克卢汉学说的理论性不强，但对于分析问题有奇效。对于“冷”“热”媒介的划分总带有个人呓语的味道，不是特别严谨。<div style="padding-bottom:1em;"></div>归纳文中麦克卢汉列举的“冷媒介”有：电话、电视、漫画、座谈、足球、艾森豪威尔、肯尼迪。“热媒介”有：报纸、印刷品、广播、电影、图片、绘画、演讲、棒球、希特勒、尼克松。综合而言，麦克卢汉的观点侧重于媒介技术对人的感觉中枢的影响上。<div style="padding-bottom:1em;"></div>在新时代背景下，以iphone和ipad 为代表的新媒体终端深刻改变着我们感知世界的方式。新的媒介终端集代表了媒介融合的一种趋势，使受者在使用时调动了视觉听觉以及触觉等多种感官，受者在使用的过程中像是深刻介入，但又常是随心所欲的，既有主动参与也有被动接受。这时的媒介还可以用“冷”“热”去区分吗？<div style="padding-bottom:1em;"></div>第四部分 课堂讨论所得<div style="padding-bottom:1em;"></div>1.	冷热媒介的划分标准<div style="padding-bottom:1em;"></div>麦克卢汉提出的对于冷媒介与热媒介的划分标准并不是绝对的。他在举例说明这一问题的时候常常是两两作对，在比较中区分冷热媒介。比如电影和电视相比，电视（麦克卢汉时代的电视）清晰度低，受众介入度高，所以电视是热媒介。又比如手稿和印刷稿比较，前者为热媒介。<div style="padding-bottom:1em;"></div>但这不是绝对的，冷热媒介没有一个清晰的定义，也不需要清晰的定义，否则会失掉其中的复杂性与丰富性。<div style="padding-bottom:1em;"></div>对于同一个媒介而言，冷热也是不同的。比如读学术书籍和网络小说，介入度是不同的，又或者在电视看肥皂剧与读学术书籍，这时相较而言，书籍相对电视就成了更热的媒介。不同场景中的教学也可以看做是不同的媒介<div style="padding-bottom:1em;"></div>2.	今天对于冷热媒介的讨论有什么现实意义<div style="padding-bottom:1em;"></div>既然无法准确区分冷热媒介，那么我们在现今探讨冷热媒介还有什么意义呢？<div style="padding-bottom:1em;"></div>需要注意到得是，在麦克卢汉之前，没有人认真的关注过媒介的形式问题。麦克卢汉的贡献在于他扩展了“媒介”的外延，他提出了一种传播研究的新思路：研究新媒介出现对于原有媒介格局的影响，对人，对人的精神，对社会的影响。我们对于冷热媒介的关注应当融入我们对于一种媒介形式特点的观察之上，运用这种研究的思路而不是为了划分而强作划分。<div style="padding-bottom:1em;"></div>3.	电视与方言的复兴<div style="padding-bottom:1em;"></div>方言作为人的第一母语，相对于文字而言承载了更多的地方文化与情感。人和语言有着类似触觉的关系，语言环境相对于人来说类似于空气。一个人可以很熟悉一个国家的文化，语言，习俗，但即使这样的熟悉，不是故乡的话仍旧不能拥有那种不可替代的归属感，所谓乡音难得。<div style="padding-bottom:1em;"></div>我们可以把各种媒介的表述看做是，用或文字或影像或声音或其它触觉的方式模拟现实，但唯有电视出现后，才是用影像的方式模拟现实再用影像的方式呈现出来，所以在当时来看这是最接近于现实的媒介方式，回归了人们在真实世界中的触觉，统觉的感受方式。所以唯有电视，会带来方言的复兴。<div style="padding-bottom:1em;"></div>4.	现实与拟态世界<div style="padding-bottom:1em;"></div>我们常常在电视新闻或公益广告中看到发生在世界某些角落的悲惨或不公的事件。在感官读取这些讯息的时候，我们是全情投入的，甚至于会感动，会流泪。而在现实中再遇到类似的事情时，因为我们的情感已经在电视中得到过宣泄，我们可能对于苦难的忍耐程度或者对恶性事件的口味变重了，不再那么容易动容。<div style="padding-bottom:1em;"></div>与之类似的是我们在看过预告片之后就不想再看电影，或看过旅游宣传片之后就对某个景点不再有探究的乐趣。媒介构筑的拟态世界，某种程度之上消耗着我们的好奇心与情感。<div style="padding-bottom:1em;"></div>小说中有一种“净化论”，认为人们在小说的阅读中起到净化情感的作用，在精神宣泄之后对情感的需索减少。（如家庭主妇在韩剧中补偿现实无法得到新鲜恋爱的感觉）<div style="padding-bottom:1em;"></div>以及，一些左倾激进或是民族启蒙类地博客，曝露分析社会的不公与阴暗面，也是一种社会宣泄的渠道。理性的政府允许部分这种管道的存在，让群众的怨气可以像高压锅里的蒸汽一样慢慢地放掉而不是被捂到一天直接爆发。<div style="padding-bottom:1em;"></div>宣传片与景点照片有时会消耗人们对于景区的最本真的感觉，我们会不自觉的进入拍摄者提供的观看角度，受到其视角的影响。于是感慨，没有相机但是有回忆的时代的旅行不再。当然，宣传片也有可能因此引起受众兴趣并作出积极反应。<div style="padding-bottom:1em;"></div>5.	围观者的社会效益<div style="padding-bottom:1em;"></div>围观者也不是没有社会效益的，不改变别人只改变自己也是对于世界的一种改变。我们要相信，脑海中的信息图景会逐渐改变现实中的行动。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/14497883/#comments">5回应</a>&nbsp;&nbsp;
+                  2011-09-13 19:39
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="20455309">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/taoxaoyao/"><img src="https://img3.doubanio.com/icon/u50025511-5.jpg" alt="粉红小妖" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/20455309/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/20455309/" class="">第一 二章 </a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/taoxaoyao/" class=" " title="粉红小妖">粉红小妖</a>
+                (Devil&#39;s Advocate)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="20455309">
+              <div class="short">
+                
+                  <span class="">媒介本身具有的形式就可以改变人们的生活方式和大众心理。冷媒介给感官降温，让人亲身参与，形成整体印象，使分门别类的文化被打破。热媒介变现出线性思维和强烈的逻辑，使文化趋向专业化，使社会被某种具有统治性的符号占领。人的核心价值具有自我保护机制，冷媒介与自我的认知强烈碰撞，引导人的认知走向一致，冷媒介与自我的交互性很强，让自我的元素充分显现。</span>
+                <p class="pl">
+                  <span class="">2012-08-18 11:46</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                媒介本身具有的形式就可以改变人们的生活方式和大众心理。冷媒介给感官降温，让人亲身参与，形成整体印象，使分门别类的文化被打破。热媒介变现出线性思维和强烈的逻辑，使文化趋向专业化，使社会被某种具有统治性的符号占领。人的核心价值具有自我保护机制，冷媒介与自我的认知强烈碰撞，引导人的认知走向一致，冷媒介与自我的交互性很强，让自我的元素充分显现。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/20455309/#comments">回应</a>&nbsp;&nbsp;
+                  2012-08-18 11:46
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="22400343">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/yiningz/"><img src="https://img3.doubanio.com/icon/u1368364-20.jpg" alt="伊瓦" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22400343/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22400343/" class="">第48页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/yiningz/" class=" " title="伊瓦">伊瓦</a>
+                (大渡海)
+              
+            </p>
+            <div class="reading-note" data-cid="22400343">
+              <div class="short">
+                
+                  <span class="">法国人贝尔纳·拉姆在《说话之艺术》中写道：上帝造人，意在使之幸福。凡有益于人之会话（会话乃人之生活方式）者，均于人相宜……因为凡食物者，倘有营养，均宜品味；反之，其他食物，若不能为我吸收、不能成为我血肉之躯者，则索然无味、味同嚼蜡也。说话者难以应付之谈话，不能使听话者感到愉悦；听话者不感到高兴之谈话，说话人也难以做到伶牙俐齿。</span>
+                <p class="pl">
+                  <span class="">2012-11-12 07:23</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>法国人贝尔纳·拉姆在《说话之艺术》中写道：上帝造人，意在使之幸福。凡有益于人之会话（会话乃人之生活方式）者，均于人相宜……因为凡食物者，倘有营养，均宜品味；反之，其他食物，若不能为我吸收、不能成为我血肉之躯者，则索然无味、味同嚼蜡也。说话者难以应付之谈话，不能使听话者感到愉悦；听话者不感到高兴之谈话，说话人也难以做到伶牙俐齿。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22400343/#comments">回应</a>&nbsp;&nbsp;
+                  2012-11-12 07:23
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="14797686">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zhugeshiji/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="Eason" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/14797686/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/14797686/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zhugeshiji/" class=" " title="Eason">Eason</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="14797686">
+              <div class="short">
+                
+                  <span class="">   看了麦克卢汉 -如是说，一开始抱着学习和膜拜的态度去书中涉猎，看了几篇后不是很明白，印象还只是从豆瓣的评论中留下的，它是数字媒体的大师；
+  但是当我看到他在与人对话中谈到“电视机”这个媒介的时候，他从电视带给那代人的影响中说明了传播媒介是使两代人有代沟的真正原因，由于新媒介的出现，我们接收的信息慢慢的变得不连续，不统一，这样的信息形式与以前我们大脑接受连贯，统一的信息是不一样，大脑器官（感觉）发..</span>
+                <p class="pl">
+                  <span class="">2011-10-08 15:40</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                   看了麦克卢汉 -如是说，一开始抱着学习和膜拜的态度去书中涉猎，看了几篇后不是很明白，印象还只是从豆瓣的评论中留下的，它是数字媒体的大师；<div style="padding-bottom:1em;"></div>  但是当我看到他在与人对话中谈到“电视机”这个媒介的时候，他从电视带给那代人的影响中说明了传播媒介是使两代人有代沟的真正原因，由于新媒介的出现，我们接收的信息慢慢的变得不连续，不统一，这样的信息形式与以前我们大脑接受连贯，统一的信息是不一样，大脑器官（感觉）发生改变，，我们越来越习惯接收新的信息传播形式，信息的缔造者也在关注受众的习惯变化，他们越来越要求他们的内容应该适应这种载体的特点，这样才能扩大他们信息的价值和影响<div style="padding-bottom:1em;"></div>   我们要越来越关注媒介的特点和他所带来的影响，它正在改变我们的生活
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/14797686/#comments">回应</a>&nbsp;&nbsp;
+                  2011-10-08 15:40
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="18536514">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/46354029/"><img src="https://img3.doubanio.com/icon/u46354029-12.jpg" alt="胡萝卜馆长" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18536514/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18536514/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/46354029/" class=" " title="胡萝卜馆长">胡萝卜馆长</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="18536514">
+              <div class="short">
+                
+                  <span class="">《理解媒介：论人的延伸》
+
+[加拿大]马歇尔•麦克卢汉著，初版于1964年。该书的中译本入选“改革开放30年最具影响力的300本书”。 
+一、作者简介
+马歇尔•麦克卢汉（Marshall McLuhan，1911~1980），加拿大哲学家、教育学家、文学批评家、传播学家，传播学媒介环境学派一代宗师。 他被誉为20世纪的“先知”、“圣人”，以“地球村”、“媒介即讯息”等论断名震全球。在“互联网”一词尚未出现时，他已经预言了互联网的诞生...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/18536514/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-05-27 10:42</span>
+                  
+                    &nbsp;&nbsp;<span class="">12人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《理解媒介：论人的延伸》<div style="padding-bottom:1em;"></div>[加拿大]马歇尔•麦克卢汉著，初版于1964年。该书的中译本入选“改革开放30年最具影响力的300本书”。 <div style="padding-bottom:1em;"></div>一、作者简介<div style="padding-bottom:1em;"></div>马歇尔•麦克卢汉（Marshall McLuhan，1911~1980），加拿大哲学家、教育学家、文学批评家、传播学家，传播学媒介环境学派一代宗师。 他被誉为20世纪的“先知”、“圣人”，以“地球村”、“媒介即讯息”等论断名震全球。在“互联网”一词尚未出现时，他已经预言了互联网的诞生。代表作有《机器新娘》（1951）、《谷登堡星汉》（1962）、《理解媒介》（1964）、《媒介定律》（1969）等，其中，麦克卢汉的大部分观点集中在其《理解媒介》一书中，也正因为本书，使其声名鹊起。<div style="padding-bottom:1em;"></div>1、家庭背景<div style="padding-bottom:1em;"></div>他的父亲是一名商人；他的母亲接受过大学教育，热爱英国文学，是一名小有名气的演员。<div style="padding-bottom:1em;"></div>他的父母从三个方面深刻影响了他后来的发展：<div style="padding-bottom:1em;"></div>①首先是虔诚坚定的宗教信仰。造成麦克卢汉比较保守；<div style="padding-bottom:1em;"></div>②其次是对英国文学的热爱。这是他后来会选择从事文学批评的一个重要原因；<div style="padding-bottom:1em;"></div>③最后是喜欢辩论。在成名之后，他不再直接写作，而是雇了一堆秘书帮他记录整理谈话。<div style="padding-bottom:1em;"></div>2、学习经历<div style="padding-bottom:1em;"></div>1911年，麦克卢汉出生于加拿大。<div style="padding-bottom:1em;"></div>17岁他考入曼尼托巴大学学习工程专业，后来改学文学，毕业时获得英文和哲学的双学位。<div style="padding-bottom:1em;"></div>26岁至31岁，在英国剑桥大学重新从本科读到博士，研究方向是英国文学。<div style="padding-bottom:1em;"></div>此后，他曾在威斯康星大学、圣路易斯大学、圣麦克尔学院任教。<div style="padding-bottom:1em;"></div>1946年，麦克卢汉成为多伦多大学的文学教授<div style="padding-bottom:1em;"></div>二、传播学三大学派<div style="padding-bottom:1em;"></div>世界范围内，传播学学界大体分为三派：经验学派、批判学派和媒介环境学派<div style="padding-bottom:1em;"></div>①经验学派。由拉扎斯菲尔德、勒温、拉斯韦尔与霍夫兰等四位先驱开拓，战后由“传播学之父”威尔伯•施拉姆集大成。 <div style="padding-bottom:1em;"></div>②批判学派。法兰克福学派是西方马克思主义的突出代表，对美国传播学产生影响的代表人物有霍克海默、阿多诺、马尔库塞、席勒、本雅明等<div style="padding-bottom:1em;"></div>③媒介环境学派。该理论学派从麦克卢汉的“媒介即讯息”出发，研究媒介在社会中的作用。代表人物：麦克卢汉、尼尔•波斯曼、保罗•莱文森、林文刚（美籍华人）。<div style="padding-bottom:1em;"></div>    总体来说：经验学派埋头实用问题和短期效应；批判学派固守意识形态批判；媒介环境学着重媒介的长效影响，偏重宏观的分析、描绘和批评，缺少微观的务实和个案研究。经验学派一派独大，批判学派在欧洲有市场，在美国“水土不服”， 媒介环境学派长期在美国受经验学派排斥。<div style="padding-bottom:1em;"></div>三、三次麦克卢汉热<div style="padding-bottom:1em;"></div>第一波的麦克卢汉热兴起于20世纪60年代，遍及全球.<div style="padding-bottom:1em;"></div>第二波的麦克卢汉热兴起于20世纪90年代。 <div style="padding-bottom:1em;"></div>第三波的麦克卢汉热兴起于21世纪。 <div style="padding-bottom:1em;"></div>　　　　<div style="padding-bottom:1em;"></div>四、本书主要内容、观点<div style="padding-bottom:1em;"></div>　　本文分为两部分。第一部分，他用了七章的内容，来提出了著名的三论：“媒介即讯息，媒介即人的延伸，冷热媒介”，这三论惊世骇俗，贯穿全书，意图颠覆以前的所有传播理论，而建立一个新的理论王国；第二部份就是运用这三论来分析麦克卢汉自己能想到的一切文化、政治、社会现象，并将这些重大现象统统划拉到媒介的巨大影响之下。 <div style="padding-bottom:1em;"></div>1，媒介是人体的延伸<div style="padding-bottom:1em;"></div>《理解媒介》的副标题为“论人的延伸”，在麦克卢汉看来，一切传播媒介都是人类感官的延伸，印刷品是眼睛的延伸，收音机是耳朵的延伸，起重机和车轮是手臂和腿的延伸，而电子媒介则是“人类中枢神经系统的延伸”。 <div style="padding-bottom:1em;"></div>麦克卢汉在第二部份分析了人类的三种延伸，一是身体器官的延伸；二是某种感官的延伸；三是中枢神经系统的延伸。<div style="padding-bottom:1em;"></div>每一种新的媒介的巨大刺激都会使人类产生麻木感，而电力时代尤甚，因为它会造成中枢神经系统的麻木。因此，我们需要做的是“从自恋和麻木状态中惊醒过来”。只有清醒的认识到媒介的影响，人类才能按照自己的意愿去决定媒介的发展方向，就像他在序言中说的：“本书的宗旨是探索技术所反映的人的延伸的轮廓，弄懂它们可以使之井井有条地为人民服务。” <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>2，媒介即讯息<div style="padding-bottom:1em;"></div> “媒介即讯息”，这是麦克卢汉对传播媒介在人类社会发展中的地位和作用的一种高度概括，其含义是：媒介本身才是真正有意义的讯息。换个容易理解的说法，即人类有了某种媒介才有可能从事与之相适应的传播和其他社会活动，因此，从漫长的人类社会发展过程来看，真正有意义的、有价值的“讯息”不是各个时代的传播内容，而是这个时代所使用的传播工具的性质、它所开创的可能性以及带来的社会变革。<div style="padding-bottom:1em;"></div>麦克卢汉认为，媒介是社会发展的基本动力，每一种新的媒介的产生，都开创了人类感知和认识世界的方式，传播中的变革改变了人类的感觉，也改变了人与人之间的关系，并创造出新的社会行为类型。因此，媒介又是区分不同社会形态的标志。<div style="padding-bottom:1em;"></div>3，冷媒介与热媒介<div style="padding-bottom:1em;"></div>“冷媒介”和“热媒介”是麦克卢汉就媒介分类提出的两个著名概念。其分类的标准是以“清晰度”的高低为标准的。麦克卢汉所谓的“高清晰度”是电子技术里的行话，其意思是界定清晰、鲜明、实在、详细，正如他所说，“高清晰度是充满数据的状态”。相反，低清晰度就是信息不充分，需要调动其他感官来弥补信息的缺乏。<div style="padding-bottom:1em;"></div>“热媒介”传递的信息比较清晰明确，接受者不需要动员更多的感官和联想活动就能够理解，他本身是“热”的，人们在进行信息处理时不需进行“热身运动”；而“冷媒介”则相反，它传达的信息含量少而模糊，在理解时需要动员多种感官的配合和丰富的想象力。例如，一张照片是清晰的，一目了然；而一幅漫画中的形象比较模糊，需要人进行联想和思考。前者属于“热媒介”，后者属于“冷媒介”。<div style="padding-bottom:1em;"></div>热媒介	冷媒介<div style="padding-bottom:1em;"></div>书籍	漫画<div style="padding-bottom:1em;"></div>报刊	有声电影<div style="padding-bottom:1em;"></div>广播	电视<div style="padding-bottom:1em;"></div>无声电影	<div style="padding-bottom:1em;"></div>照片	<div style="padding-bottom:1em;"></div>五、观点评价<div style="padding-bottom:1em;"></div>1，积极<div style="padding-bottom:1em;"></div>麦克卢汉以上观点的意义在于，它开拓了从媒介技术出发观察人类社会发展的视角，并强调了媒介技术的社会历史作用。此外，麦克卢汉关于“媒介即人的延伸”的观点对我们理解不同媒介的作用机制富有启迪意义。他关于“地球村”的预言，也是符合当代世界的发展趋势的。<div style="padding-bottom:1em;"></div>2，局限<div style="padding-bottom:1em;"></div>①本书采用了英美文学的论说文文体，修辞优美，论辩精彩，但是，论证问题不严密，逻辑线条不清晰，不能清晰明确地定义所要呈现的新思想。<div style="padding-bottom:1em;"></div>“我不解释，我只探索（I don’t explain, I explore）；你如果不喜欢这个观点，那我还有别的。”<div style="padding-bottom:1em;"></div>②关于冷热媒介。麦克卢汉没有通过严密的逻辑论证，而是通过形而上的演绎推理得出冷热媒介的分类。这个核心概念是很脆弱以致得不到人们的广泛承认。特别是将电视归为冷媒介就被历史证明为错误，因为电视的可以让人深度卷入，让人能够方便快捷地获取更大空间性的更多更快的信息，是典型的共时的空间性媒介。特别是在清晰度大大提高的当代，个体体验的可能性的大大提高，而非清晰度下降。这也可能是麦克卢汉所处时代的局限决定的。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18536514/#comments">1回应</a>&nbsp;&nbsp;
+                  2012-05-27 10:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="21684270">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/55596812/"><img src="https://img3.doubanio.com/icon/u55596812-2.jpg" alt="yosay" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/21684270/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/21684270/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/55596812/" class=" " title="yosay">yosay</a>
+                (单反，背包，旅行--费城。)
+              
+            </p>
+            <div class="reading-note" data-cid="21684270">
+              <div class="short">
+                
+                  <span class="">三论惊世骇俗，颠覆历史所有传播理论，建立新的王国。</span>
+                <p class="pl">
+                  <span class="">2012-10-12 16:57</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                三论惊世骇俗，颠覆历史所有传播理论，建立新的王国。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/21684270/#comments">回应</a>&nbsp;&nbsp;
+                  2012-10-12 16:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="22495713">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/saluzi1987/"><img src="https://img3.doubanio.com/icon/u45774932-25.jpg" alt="Eco" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22495713/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22495713/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/saluzi1987/" class=" " title="Eco">Eco</a>
+                (我只是来做个标记)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="22495713">
+              <div class="short">
+                
+                  <span class="">《理解媒介》－论人的延伸  麦克卢汉  周宪 许钧主编  何道宽译 
+商务印书馆 2003年
+该书分两部分。第一部分理论篇，展开论述了以下四个观点：
+1，地球已成为一个小小的&quot;环球村&quot;（global village）。
+2，&quot;媒介既讯息&quot;。一般人认为媒介仅仅是形式，仅是信息，知识，内容的载体，它是空洞的，消极的，静态的。可是麦氏认为媒介对信息，知识，内容有强烈的反作用，它是积极的，能动的，对讯息有重大影响，它..</span>
+                <p class="pl">
+                  <span class="">2012-11-15 23:04</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《理解媒介》－论人的延伸  麦克卢汉  周宪 许钧主编  何道宽译 <div style="padding-bottom:1em;"></div>商务印书馆 2003年<div style="padding-bottom:1em;"></div>该书分两部分。第一部分理论篇，展开论述了以下四个观点：<div style="padding-bottom:1em;"></div>1，地球已成为一个小小的&quot;环球村&quot;（global village）。<div style="padding-bottom:1em;"></div>2，&quot;媒介既讯息&quot;。一般人认为媒介仅仅是形式，仅是信息，知识，内容的载体，它是空洞的，消极的，静态的。可是麦氏认为媒介对信息，知识，内容有强烈的反作用，它是积极的，能动的，对讯息有重大影响，它决定着信息的清晰度何结构方式。<div style="padding-bottom:1em;"></div>3，&quot;媒介是人的延伸&quot;。媒介与人的关系是相对独立的，反过来对于人的感知有强烈的影响，不同的媒介对不同的感官起作用。书面媒介影响视觉，使人的感知成线状结构；视听媒介影响触觉，使人的的感知成三位结构。<div style="padding-bottom:1em;"></div>4，&quot;冷媒介何热媒介&quot;。低清晰度的媒介叫&quot;冷&quot;媒介。因为它们的清晰度低，所以它们要求人深刻参与，深度卷入。反之，&quot;高&quot;清晰度的媒介叫&quot;热&quot;媒介，拼音文字，印刷品，广播，电影等。它们给受众提供了充分而清晰的信息，所以受众被剥夺了深刻参与的机会，被剥夺了再创造的用武之地。<div style="padding-bottom:1em;"></div>第二部分是应用篇，以第一部分的理论为基础分析了从古到今的26种媒介。<div style="padding-bottom:1em;"></div>Ｐ33<div style="padding-bottom:1em;"></div>所谓媒介既是讯息只不过是说：任何媒介（即人的任何延伸）对个人何社会的任何影响，都是由于新的尺度产生的；我们的任何一种延伸，都要在我们的事务中引进一种新的尺度。<div style="padding-bottom:1em;"></div>Ｐ34<div style="padding-bottom:1em;"></div>任何媒介的&quot;内容&quot;都是另一种媒介。文字的内容是言语，正如文字是印刷的内容，印刷又是电报的内容一样。如果要问&quot;言语的内容是什么？&quot;，那就需要这样回答：&quot;是实际的思维过程，而这一过程本身却又是非言语的东西。&quot;<div style="padding-bottom:1em;"></div>Ｐ42<div style="padding-bottom:1em;"></div>媒介的魔力在人们接触媒介的瞬间就会产生，正如旋律的魔力在旋律的头几节就会释放出来一样。<div style="padding-bottom:1em;"></div>Ｐ43<div style="padding-bottom:1em;"></div>我们在新鲜的电子世界中的麻木状态，与土著人卷入我们的文字和机械文化时所表现出来的麻木状态，实际上是一样的。<div style="padding-bottom:1em;"></div>P46<div style="padding-bottom:1em;"></div>媒介的影响之所以非常强烈，恰恰时另一种媒介变成了它的&quot;内容&quot;。一部电影的内容是一本小说，一个剧本或一场歌剧。电影这个形式与它的节目内容没有关系。文字或印刷的&quot;内容&quot;是言语，但是读者几乎完全没有意识到这个媒介形式，也没有意识到言语这个媒介。<div style="padding-bottom:1em;"></div>Ｐ51<div style="padding-bottom:1em;"></div>热媒介只延伸一种感觉，并使之具有&quot;高清晰度&quot;。<div style="padding-bottom:1em;"></div>热媒介要求的参与程度低；冷媒介要求的参与程度高，要求接受者完成的信息多。<div style="padding-bottom:1em;"></div>Ｐ55<div style="padding-bottom:1em;"></div>我们生活在深化之中，可是我们的思维依然是支离破碎的，依然紧紧在一个平面上展开。<div style="padding-bottom:1em;"></div>Ｐ59<div style="padding-bottom:1em;"></div>芒福德在《历史名城》中，始终偏爱低清晰度的，结构松散的城市，不喜欢高清晰度的，塞得满满的城市。<div style="padding-bottom:1em;"></div>Ｐ63<div style="padding-bottom:1em;"></div>被动消遣的读书人要的是内容充实的一揽子文章。然而，意在追求知识，探究原因的人，确需要向格言警句请教。其原因正是：格言警句言犹未尽，需要读者深入地参与其间。<div style="padding-bottom:1em;"></div>Ｐ74<div style="padding-bottom:1em;"></div>人们对自己在任何材料中的延伸会立即产生迷恋。<div style="padding-bottom:1em;"></div>Ｐ81<div style="padding-bottom:1em;"></div>在电子时代，我们身披全人类，人类就是我们的肌肤我们身披全人类，人类就是我们的肌肤我们身披全人类，人类就是我们的皮肤。（这货脑子坏掉了啊）<div style="padding-bottom:1em;"></div>Ｐ91<div style="padding-bottom:1em;"></div>两种媒介杂交或交汇的时刻，是发现真理和给人启示的时刻，由此而产生新的媒介形势。因为两种媒介的相似性，使我们停留在两种媒介的边界上。这使我们从自恋的麻木状态中惊醒过来。媒介交汇的时刻，是我们从平常的状态的恍惚和麻木状态中获得自由解放的时刻，这种恍惚麻木状态是感知强加在我们身上的。<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22495713/#comments">回应</a>&nbsp;&nbsp;
+                  2012-11-15 23:04
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="42741275">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/72636429/"><img src="https://img3.doubanio.com/icon/u72636429-1.jpg" alt="咩咩" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42741275/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42741275/" class="">第125页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/72636429/" class=" " title="咩咩">咩咩</a>
+                (不是发嗲是无力)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="42741275">
+              <div class="short">
+                
+                  <span class="">由于使用字母表，西方人的内在敏感性经历了很大的分裂，但是他同时又赢得了从家族和家庭中分裂出去的自由。</span>
+                <p class="pl">
+                  <span class="">2017-03-30 17:32</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>由于使用字母表，西方人的内在敏感性经历了很大的分裂，但是他同时又赢得了从家族和家庭中分裂出去的自由。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42741275/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-30 17:32
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42741176">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/72636429/"><img src="https://img3.doubanio.com/icon/u72636429-1.jpg" alt="咩咩" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42741176/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42741176/" class="">第122页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/72636429/" class=" " title="咩咩">咩咩</a>
+                (不是发嗲是无力)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="42741176">
+              <div class="short">
+                
+                  <span class="">当然，拼音文字使理性生活呈现出线性结构，使我们卷入一整套相互铰结的、整齐划一的现象之中。…………………………西方的拼音字母，在使汉语和中国文化的中枢听觉特征转换中，正在发挥作用，以使中国也产生西方那种线性模式和视觉模式。</span>
+                <p class="pl">
+                  <span class="">2017-03-30 17:29</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>当然，拼音文字使理性生活呈现出线性结构，使我们卷入一整套相互铰结的、整齐划一的现象之中。…………………………西方的拼音字母，在使汉语和中国文化的中枢听觉特征转换中，正在发挥作用，以使中国也产生西方那种线性模式和视觉模式。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42741176/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-30 17:29
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42740935">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/72636429/"><img src="https://img3.doubanio.com/icon/u72636429-1.jpg" alt="咩咩" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42740935/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42740935/" class="">第121页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/72636429/" class=" " title="咩咩">咩咩</a>
+                (不是发嗲是无力)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="42740935">
+              <div class="short">
+                
+                  <span class="">作为视觉功能的强化和延伸，拼音字母在任何有文字的社会中，都要削弱其他官能（声觉、触觉和味觉）的作用。这一情况没有发生在诸如中国这样的文化中，因为它们使用的是非拼音文字，这一事实使它们在经验深度上保留着丰富的、包容宽泛的知觉。这种包容一切的知觉，在拼音文字的发达文化中要受到侵蚀。会意文字是一种内涵丰富的完形，它不像拼音文字那样使感觉和功能分离。</span>
+                <p class="pl">
+                  <span class="">2017-03-30 17:23</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>作为视觉功能的强化和延伸，拼音字母在任何有文字的社会中，都要削弱其他官能（声觉、触觉和味觉）的作用。这一情况没有发生在诸如中国这样的文化中，因为它们使用的是非拼音文字，这一事实使它们在经验深度上保留着丰富的、包容宽泛的知觉。这种包容一切的知觉，在拼音文字的发达文化中要受到侵蚀。会意文字是一种内涵丰富的完形，它不像拼音文字那样使感觉和功能分离。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42740935/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-30 17:23
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42739583">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/72636429/"><img src="https://img3.doubanio.com/icon/u72636429-1.jpg" alt="咩咩" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42739583/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42739583/" class="">第101页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/72636429/" class=" " title="咩咩">咩咩</a>
+                (不是发嗲是无力)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="42739583">
+              <div class="short">
+                
+                  <span class="">福楼拜说:“倘使人们读过我的《情感教育》，1870年的战争就绝不会打起来了。”</span>
+                <p class="pl">
+                  <span class="">2017-03-30 16:49</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>福楼拜说:“倘使人们读过我的《情感教育》，1870年的战争就绝不会打起来了。”</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42739583/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-30 16:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1087547/annotation">更多读书笔记（共79篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1087547/discussion/53726512/" title="我能说我可以拿到何道宽老师的签名么" class="">我能说我可以拿到何道宽老师的签名么</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/Final./">Missyouriris</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2015-06-03</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1087547/discussion/1133930/" title="赶快做点笔记" class="">赶快做点笔记</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/fuyunff/">王秋秋</a></td>
+            <td class="pl"><span class="">15 回应</span></td>
+            <td class="pl"><span class="">2015-12-03</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1087547/discussion/28028703/" title="“小玩意儿爱好者”" class="">“小玩意儿爱好者”</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/1828185/">cheesefly</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2010-10-07</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1087547/discussion/10392537/" title="这本书我有英文版谁要" class="">这本书我有英文版谁要</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/limeiying/">小美</a></td>
+            <td class="pl"><span class="">49 回应</span></td>
+            <td class="pl"><span class="">2014-10-20</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1087547/discussion/40074017/" title="理解媒介何时到货  急煞吾了！" class="">理解媒介何时到货  急煞吾了！</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/godblessyou_man/">[已注销]</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2011-06-19</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/1087547/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-printed" class="no-border">
+        
+  
+
+  <h2>
+    <span class="">其他版本有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline">
+            
+              <li class="">
+                  
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=3040&amp;pos=1&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1087547%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D20733720&amp;srcsubj=1087547&amp;type=bkbuy&amp;subject=6391212">
+                    当当网
+                  </a>
+                  <a class="buylink-price" target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=3040&amp;pos=1&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1087547%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D20733720&amp;srcsubj=1087547&amp;type=bkbuy&amp;subject=6391212">
+                    <span class=""> 30.40 元</span>
+                  </a>
+                  <p class="publish">
+                    <a href="https://book.douban.com/subject/6391212/" onclick="moreurl(this,{buylink:'other'})"
+                    class=" ">译林出版社版</a>
+                  </p>
+                </li>
+            
+              <li class="">
+                  
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=17280&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCGgRQH1gVACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQoRAlEYWxcdS0IJRmtieE13CE0YEWdkR0tkAhIKE0MtGClTDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDURxfFwUVA1IrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsdARcDVhtZCltXWwg%253D&amp;srcsubj=1087547&amp;type=bkbuy&amp;subject=1762354">
+                    京东商城
+                  </a>
+                  <a class="buylink-price" target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=17280&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCGgRQH1gVACJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQoRAlEYWxcdS0IJRmtieE13CE0YEWdkR0tkAhIKE0MtGClTDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDURxfFwUVA1IrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsdARcDVhtZCltXWwg%253D&amp;srcsubj=1087547&amp;type=bkbuy&amp;subject=1762354">
+                    <span class=""> 172.80 元</span>
+                  </a>
+                  <p class="publish">
+                    <a href="https://book.douban.com/subject/1762354/" onclick="moreurl(this,{buylink:'other'})"
+                    class=" ">Routledge版</a>
+                  </p>
+                </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787100030311&amp;subject=7100030315&amp;type=borrow&amp;library=10001&amp;link2key=e333a5620a" target="_blank">上海图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D7-100-03031-5%26strSearchType%3Disbn&amp;subject=7100030315&amp;type=borrow&amp;library=10002&amp;link2key=e333a5620a" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Finterlib.jylib.cn%2Fopac%2Fwebsearch%2FbookSearch%3Ffilter%3D%2528isbn%253A7100030315%2529%26cmdACT%3Dlist%26xsl%3DBOOK_list.xsl%26col1%3Disbn%26val1%3D7100030315&amp;subject=7100030315&amp;type=borrow&amp;library=10003&amp;link2key=e333a5620a" target="_blank">江阴市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D7100030315%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7100030315&amp;type=borrow&amp;library=10021&amp;link2key=e333a5620a" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1024258">全部11</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/6391212/">译林出版社版</a>
+          2011-7 / 748人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1440602/">Signet版</a>
+          01 June, 1969 / 79人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/3305362/">Routledge版</a>
+          2001-05-18 / 40人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/2294594/">Gingko Press版</a>
+          2003-11-1 / 14人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1087547/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/217511/" target="_blank">推荐给你的大学读书单：那些值得关注的观念</a>
+                <span class="pl">(jiaon)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/409710/" target="_blank">自我通识教育</a>
+                <span class="pl">(我)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/21472/" target="_blank">哪几本书影响了我的世界观?</a>
+                <span class="pl">(jiaon)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/80963/" target="_blank">社会学研究书单-1</a>
+                <span class="pl">(DM)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/207857/" target="_blank">传播学100本推荐</a>
+                <span class="pl">(Helena)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/60365893/"><img src="https://img3.doubanio.com/icon/u60365893-3.jpg" class="pil" alt="YF" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/60365893/">YF</a><br/>
+      <div class="pl ll">          35分钟前          在读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/46702887/"><img src="https://img1.doubanio.com/icon/u46702887-19.jpg" class="pil" alt="夜間飛行" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/46702887/">夜間飛行</a><br/>
+      <div class="pl ll">          今天凌晨          读过      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/148561195/"><img src="https://img3.doubanio.com/icon/u148561195-1.jpg" class="pil" alt="yoyo" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/148561195/">yoyo</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/xialiang2016/"><img src="https://img3.doubanio.com/icon/u102859480-5.jpg" class="pil" alt="夏凉" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/xialiang2016/">夏凉</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:互联网（产品运营文案设计）</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1087547/doings">510人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1087547/collections">1691人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1087547/wishes">4553人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1087547/offers">5本二手书欲转让</a>
+          <span class="">
+            (1.99
+                至 40.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有4553人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于理解媒介的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1087547/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'wv9SVACu7Q0',
+            criteria = '7:传播学|7:麦克卢汉|7:媒介|7:传播|7:传媒|7:经典|7:文化|7:新闻传播|7:媒体|7:理论|3:/subject/1087547/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar16a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

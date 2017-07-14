@@ -1,0 +1,3044 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>实现自由 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/6920096/">
+<meta name="keywords" content="实现自由,[美]  汤姆•G.帕尔默（Tom G.Palmer） 著,法律出版社,2011-10,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书实现自由 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/6920096/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">实现自由</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img1.doubanio.com/lpic/s6977867.jpg" title="实现自由">
+    <img src="https://img1.doubanio.com/lpic/s6977867.jpg" title="点击看大图" alt="实现自由"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E6%B1%A4%E5%A7%86%E2%80%A2G.%E5%B8%95%E5%B0%94%E9%BB%98%20%E8%91%97">[美]  汤姆•G.帕尔默（Tom G.Palmer） 著</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 法律出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 自由意志主义的理论、历史与实践<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> Realizing Freedom：Libertarian Theory，History and Practice<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E6%99%AF%E6%9C%9D%E4%BA%AE">景朝亮</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2011-10<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 404<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 36.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787511824493<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.5 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">41</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">41.5%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:60px"></div>
+
+            <span class="rating_per">39.0%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:22px"></div>
+
+            <span class="rating_per">14.6%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:3px"></div>
+
+            <span class="rating_per">2.4%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:3px"></div>
+
+            <span class="rating_per">2.4%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-6920096-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-6920096-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-6920096-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6920096-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6920096-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6920096-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6920096-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6920096-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-6920096">
+        <a href="#" data-url="https://book.douban.com/subject/6920096/" data-desc="" data-title="书籍《实现自由》 (来自豆瓣) " data-pic="https://img1.doubanio.com/lpic/s6977867.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_6920096"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>自由是什么？正义、法律、财产、和平以及繁荣和自由之间存在何种关联？汤姆•帕尔默作为学者、教师和记者用其一生来探究和回答这些问题。他最好的文章都被集入了这本《实现自由：自由意志主义的理论、历史与实践》，覆盖正义理论、多元文化、民主和有限政府、全球化、知识产权的法律与经济分析等多个领域。</p>    <p>个人自治的自由意志主义者的概念常常被批评为，狭隘的和自私的个人主义，不关心周围的世界。汤姆•帕尔默的这本著作最大的贡献在于消除以上的错误概念。他论证了个人自治的力量可以促进交流和合作，有益于整个社会。他再次提醒我们个人自由是我们这个社会里最宝贵的财富。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/6920096/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>汤姆•G•帕尔默（Tom G.Palmer）</p>    <p>牛津大学政治学博士，加图研究所高级研究员，在多家学术刊物上发表关于政治和道德的评论与文章，这些刊物包括《哈佛法律与公共政策杂志》《伦理学》《批评评论》和《宪政政治经济学》，此外，他的作品也常常发表于《国家》《华尔街日报》《纽约时报》《华盛顿邮报》，伦敦的《观察家》，以及德国的《世界报》等报刊出版物上。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_6920096_short">
+        第1篇  引言第一部分：理论第2篇  自由正解第3篇  对个人主义的曲解第4篇  辨析权利理论第5篇  “不许退出”引起的正义问题第6篇  评论G.A.柯亨关于自我所有权、财产权和平等的观点第7篇  关于市场的二十个误区第8篇  为自由意志论正名第9篇  制度和法律在经济发展中的作用第二部分：历史第10篇  古典自由主义与公民社会第11篇  伟大的遗产第12篇  千年来争取自由的标志性事件第三部分：实践第13篇  全球化与文化：同质性、多样性、同一性、自由第四部分：书作与观念第14篇  平等主义就是精英主义第15篇  评《关于国家主义》第16篇  批评者眼中的自由意志论第17篇  对约翰·洛克的篡改：“左派自由意志论者”的怪论<br/>
+</div>
+
+<div class="indent" id="dir_6920096_full" style="display:none">
+        第1篇  引言第一部分：理论第2篇  自由正解第3篇  对个人主义的曲解第4篇  辨析权利理论第5篇  “不许退出”引起的正义问题第6篇  评论G.A.柯亨关于自我所有权、财产权和平等的观点第7篇  关于市场的二十个误区第8篇  为自由意志论正名第9篇  制度和法律在经济发展中的作用第二部分：历史第10篇  古典自由主义与公民社会第11篇  伟大的遗产第12篇  千年来争取自由的标志性事件第三部分：实践第13篇  全球化与文化：同质性、多样性、同一性、自由第四部分：书作与观念第14篇  平等主义就是精英主义第15篇  评《关于国家主义》第16篇  批评者眼中的自由意志论第17篇  对约翰·洛克的篡改：“左派自由意志论者”的怪论<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_6920096_full').hide();$('#dir_6920096_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共42个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/自由主义">自由主义</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/政治哲学">政治哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/哲学">哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/政治">政治</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/自由">自由</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/汤姆·帕尔默">汤姆·帕尔默</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/实现自由">实现自由</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/法理学">法理学</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;实现自由&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/10791779/?dcs=subject-rec&amp;dcm=douban&amp;dct=6920096" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/10791779.jpg?v=1435722984.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/10791779/" target="_blank">市场没有失败</a>
+          </div>
+          <div class="price">
+              10.35元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/442617/?dcs=subject-rec&amp;dcm=douban&amp;dct=6920096" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/442617.jpg?v=1395395793.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/442617/" target="_blank">苏联行为的根源</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/3824776/?dcs=subject-rec&amp;dcm=douban&amp;dct=6920096" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/3824776.jpg?v=1400814662.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/3824776/" target="_blank">专制与民主的社会起源</a>
+          </div>
+          <div class="price">
+              15.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/141187/?dcs=subject-rec&amp;dcm=douban&amp;dct=6920096" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/141187.jpg?v=1395396038.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/141187/" target="_blank">爱德蒙·柏克的“自由圣殿”</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/3648891/?dcs=subject-rec&amp;dcm=douban&amp;dct=6920096" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/3648891.jpg?v=1399216839.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/3648891/" target="_blank">被禁锢的头脑</a>
+          </div>
+          <div class="price">
+              9.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;实现自由&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6891798/" onclick="moreurl(this, {'total': 10, 'clicked': '6891798', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s7411699.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6891798/" onclick="moreurl(this, {'total': 10, 'clicked': '6891798', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            解析社会福利运动
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/19976125/" onclick="moreurl(this, {'total': 10, 'clicked': '19976125', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s22718092.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/19976125/" onclick="moreurl(this, {'total': 10, 'clicked': '19976125', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            大改革
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5347809/" onclick="moreurl(this, {'total': 10, 'clicked': '5347809', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4601815.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5347809/" onclick="moreurl(this, {'total': 10, 'clicked': '5347809', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            社会主义：经济计算与企业家才能
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3050714/" onclick="moreurl(this, {'total': 10, 'clicked': '3050714', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s7045039.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3050714/" onclick="moreurl(this, {'total': 10, 'clicked': '3050714', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            经济大师谈市场
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1331510/" onclick="moreurl(this, {'total': 10, 'clicked': '1331510', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s9964545.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1331510/" onclick="moreurl(this, {'total': 10, 'clicked': '1331510', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            经济思想的力量
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6793798/" onclick="moreurl(this, {'total': 10, 'clicked': '6793798', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6870865.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6793798/" onclick="moreurl(this, {'total': 10, 'clicked': '6793798', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            残留的战争
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1444196/" onclick="moreurl(this, {'total': 10, 'clicked': '1444196', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s10402325.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1444196/" onclick="moreurl(this, {'total': 10, 'clicked': '1444196', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            宪政、理性与历史
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5950387/" onclick="moreurl(this, {'total': 10, 'clicked': '5950387', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6280940.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5950387/" onclick="moreurl(this, {'total': 10, 'clicked': '5950387', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            精神科学中历史世界的建构
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26743885/" onclick="moreurl(this, {'total': 10, 'clicked': '26743885', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s28604519.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26743885/" onclick="moreurl(this, {'total': 10, 'clicked': '26743885', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            我们的敌人
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10583783/" onclick="moreurl(this, {'total': 10, 'clicked': '10583783', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s10433118.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10583783/" onclick="moreurl(this, {'total': 10, 'clicked': '10583783', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            不平等的民主
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/6920096/comments/">全部 11 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="600404249">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-600404249" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-600404249" class="j a_show_login" data-cid="600404249">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/58092102/">朝圣山兰</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2012-12-20</span>
+                </span>
+            </h3>
+            <p class="comment-content">重推！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1079922400">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1079922400" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1079922400" class="j a_show_login" data-cid="1079922400">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/140756691/">weihu</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-09-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">看看</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="480871555">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-480871555" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-480871555" class="j a_show_login" data-cid="480871555">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/gojin/">吴主任</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-02-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">太复杂太罗嗦了</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="666083522">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-666083522" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-666083522" class="j a_show_login" data-cid="666083522">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/lizziexiu/">liz</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2013-12-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">我今天非要推荐这本书，不推简直对不起我这辈子对自由的渴望。最近与人赋人权论的交涉和争论，让我再次梳理了一下自然权利正当性的哲学思想。这个正当性，绝不是人赋人权法律实证主义者要求的那种“被其他人认可才是正当的”。我打算把这本书拿出来搞精读。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1109763925">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1109763925" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1109763925" class="j a_show_login" data-cid="1109763925">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/144876086/">治松千夜</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2016-11-16</span>
+                </span>
+            </h3>
+            <p class="comment-content">略</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1109763925">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1109763925" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1109763925" class="j a_show_login" data-cid="1109763925">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/144876086/">治松千夜</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2016-11-16</span>
+                </span>
+            </h3>
+            <p class="comment-content">略</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1079922400">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1079922400" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1079922400" class="j a_show_login" data-cid="1079922400">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/140756691/">weihu</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-09-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">看看</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="938217893">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-938217893" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-938217893" class="j a_show_login" data-cid="938217893">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/MrsYu/">李叔浅</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2015-07-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">加图研究所的人果然都是些蛮狂热的自由主义分子。 在看过意识形态那本书之后，我发觉看这部书简单、舒服得多了。 第一篇，自由正解实际上就是巴斯夏、伯林的消极自由的一再解释~ 找到古代柏拉图对于自由的辩论，得出了消极自由的比较含混的解释。 结合美国的宪法，可以看到，消极自由解释起来实在是太简单了。 搞IT的都知道，什么叫做黑名单和白名单。 </p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="751971886">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-751971886" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-751971886" class="j a_show_login" data-cid="751971886">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/49177836/">布拉格扔出窗外</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-04-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">还行，表达不够精炼。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="666083522">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-666083522" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-666083522" class="j a_show_login" data-cid="666083522">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/lizziexiu/">liz</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2013-12-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">我今天非要推荐这本书，不推简直对不起我这辈子对自由的渴望。最近与人赋人权论的交涉和争论，让我再次梳理了一下自然权利正当性的哲学思想。这个正当性，绝不是人赋人权法律实证主义者要求的那种“被其他人认可才是正当的”。我打算把这本书拿出来搞精读。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/6920096/comments/">更多短评 11 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/6920096/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            实现自由的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 3 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5158874">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5158874/" class="title-link">哈维尔推荐</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5158874"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/manchun/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1269240-15.jpg"></a>
+    <a href="https://www.douban.com/people/manchun/" class="author">
+      <span property="v:reviewer">满春</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2011-11-07"
+      class="main-meta">2011-11-07 21:04:50</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5158874_short" class="review-short">
+            <div class="short-content">
+                  既然肉身无法自由，就让我们的影子，灵魂，思想获得自由。   封面的寓意在于世界五彩缤纷，我们的自由如幻影。  这是是汤姆•帕尔默最好的一本书，最好的文章都在里面，在20世纪80年代末、90年代初，他曾将图书、复印机、传真机私运到苏联及其卫星国家、不断为自由思想传播尽...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">4有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5158874_full" class="hidden">
+            <div id="review_5158874_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5186528">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5186528/" class="title-link">人为什么要自由</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5186528"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/36771726/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u36771726-14.jpg"></a>
+    <a href="https://www.douban.com/people/36771726/" class="author">
+      <span property="v:reviewer">唐山</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2011-11-26"
+      class="main-meta">2011-11-26 04:57:02</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5186528_short" class="review-short">
+            <div class="short-content">
+                  生命的历史有多久，自由的历史就有多久。毛泽东曾写下“万类霜天竞自由”，尽显豪迈气概。  然而，面对自由，人们又充满困惑。在很多人看来，自由就是散漫，就是自私和缺乏集体主义精神，而这，会不会对人类社会造成伤害呢？经常有人嘲讽道：难道我们应该追求被饿死的自由吗？ ...
+
+                    <a class="pl" href="https://book.douban.com/review/5186528/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">3有用 / 2没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5186528_full" class="hidden">
+            <div id="review_5186528_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6452477">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6452477/" class="title-link">人赋人权，通往奴役之路</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6452477"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/lizziexiu/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u33379360-174.jpg"></a>
+    <a href="https://www.douban.com/people/lizziexiu/" class="author">
+      <span property="v:reviewer">liz</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2013-12-07"
+      class="main-meta">2013-12-07 22:28:59</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6452477_short" class="review-short">
+            <div class="short-content">
+                  政府作为维护基本元规则的一个措施机构，是横空出世的吗？显然，当我们对政府的起源稍作了解便知，权利被不断试错而发现的过程与政府起源的演变是不可分离的。  在霍尔姆斯和桑斯坦的合著《权利的成本：为什么自由依赖于税收》中，他们将消极权利与积极权利的界限模糊了。两位...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">0有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6452477_full" class="hidden">
+            <div id="review_6452477_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评3篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/6920096/annotation">共<span property="v:count">9</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="16297439">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zuogy/"><img src="https://img3.doubanio.com/icon/u1019831-33.jpg" alt="左思" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16297439/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16297439/" class="">第13篇</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zuogy/" class=" " title="左思">左思</a>
+                (http://www.weibo.com/zuogy)
+              
+            </p>
+            <div class="reading-note" data-cid="16297439">
+              <div class="short">
+                
+                  <span class="">1、宋朝的市场经济（P330）：宋高宗就曾办举商业，说道：“市舶之利最厚，若措置得宜，所得动以百万计，岂不胜取之于民？”宋朝都城杭州有句民间俗语说：“东方的菜，西方的水，南方的柴，北方的米。”
+
+2、伏尔泰（Francois-Marie Arouet）哲学通信与《国富论》类似的话（P332）：倘若步入比很多宫庭还要庄严的伦敦交易所，你就会看到各国代表为追求人类利益而聚在一起。在这里，犹太人、伊斯兰教徒和基督徒互相打交道，好像他..</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/16297439/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-01-18 14:57</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                1、宋朝的市场经济（P330）：<blockquote><q>宋高宗就曾办举商业，说道：“市舶之利最厚，若措置得宜，所得动以百万计，岂不胜取之于民？”宋朝都城杭州有句民间俗语说：“东方的菜，西方的水，南方的柴，北方的米。”</q></blockquote><div style="padding-bottom:1em;"></div>2、伏尔泰（Francois-Marie Arouet）哲学通信与《国富论》类似的话（P332）：<blockquote><q>倘若步入比很多宫庭还要庄严的伦敦交易所，你就会看到各国代表为追求人类利益而聚在一起。在这里，犹太人、伊斯兰教徒和基督徒互相打交道，好像他们信奉着同一宗教，在他们眼中，唯有那些破产者才被看做异教徒。在交易所中，长老会教徒会信赖再洗礼派教徒，而英国圣公会信徒也会相信贵格会教徒的许诺。而一旦离开这些和平而自由的集会，参会者中有些人人前往犹太教堂，而其他人也许会找酒喝；这位可能要以圣父、圣子、圣灵名义在圣盆中接受洗礼；那位可能要请人为他儿子行割礼，并为小孩儿含糊地诵读些让他都听不懂的希伯莱经文；而还有些人则戴着帽子赶往教堂，静候上帝的灵感；所有这些人都是心满意足的。</q></blockquote><div style="padding-bottom:1em;"></div>备份：<div style="padding-bottom:1em;"></div>首先强烈推荐这本书中的一篇文章：Twenty Myths about Markets，这是我至今读到的有关市场作用最全面、浅显的表述：<a rel="nofollow" href="http://tomgpalmer.com/wp-content/uploads/papers/myths_about_markets_ii.pdf" target="_blank">http://tomgpalmer.com/wp-content/uploads/papers/myths_about_markets_ii.pdf</a>
+亚马逊美国的评论“Palmer's exposition of ideas is well-researched, cleverly presented, unpretentious, and well balanced. His prose is amazing, articulate, concise, and humorous. For example, the chapter &quot;Twenty Myths about Markets&quot; is a model of a straightforward and persuasive writing. ”<div style="padding-bottom:1em;"></div>这本书删节比较厉害，译者应该交代一下。<div style="padding-bottom:1em;"></div>和Kindle版对照，中文译本缺少kindle版的以下内容。<div style="padding-bottom:1em;"></div>第一部分“理论”，没有删节<div style="padding-bottom:1em;"></div>第二部分“历史”，删除了两篇文章<div style="padding-bottom:1em;"></div>1）11篇：Classical liberalism, Marxism, and the conflict of classes: the classical liberal theory of class conflict<div style="padding-bottom:1em;"></div>2）14篇，why socialism collapsed in eastern Europe:<a rel="nofollow" href="http://www.cato.org/special/berlinwall/palmer1990.html" target="_blank">http://www.cato.org/special/berlinwall/palmer1990.html</a><div style="padding-bottom:1em;"></div>第三部分“实践”部分删得只剩下一篇文章，删除的文章如下<div style="padding-bottom:1em;"></div>1）15篇：Madison and Multiculturalism: Group representation, group rights, and consitutionalism<a rel="nofollow" href="http://tomgpalmer.com/wp-content/uploads/papers/madison-and-multiculturalism.pdf" target="_blank">http://tomgpalmer.com/wp-content/uploads/papers/madison-and-multiculturalism.pdf</a><div style="padding-bottom:1em;"></div>2）17篇：Infrastructure: public or private?<div style="padding-bottom:1em;"></div>3）18篇：future schlock: government planning for tomorrow<div style="padding-bottom:1em;"></div>4) 19篇：against taxes<div style="padding-bottom:1em;"></div>5）20篇：Hothouse of hate<div style="padding-bottom:1em;"></div>6）21篇：Census 2000: You may already be a winner!<div style="padding-bottom:1em;"></div>7）22篇：The Egyptian Judiciary blazing the path to democracy and economic development<div style="padding-bottom:1em;"></div>8）23篇：The &quot;crime&quot; of blogging in Egypt<div style="padding-bottom:1em;"></div>9）24篇：Six facts about Iraq<div style="padding-bottom:1em;"></div>10）25篇：Moscow's pride and prejudice<div style="padding-bottom:1em;"></div>11）26篇：Chanllenges of democratization<div style="padding-bottom:1em;"></div>第四部分：书与观念<div style="padding-bottom:1em;"></div>1）27篇：The literature of liberty<div style="padding-bottom:1em;"></div>2）28篇：With friends like this: review of Wealth and Poverty<div style="padding-bottom:1em;"></div>3）33篇：Liberal flagship turns 70, Burning the midnight oil
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16297439/#comments">1回应</a>&nbsp;&nbsp;
+                  2012-01-18 14:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="29641998">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lizziexiu/"><img src="https://img3.doubanio.com/icon/u33379360-174.jpg" alt="liz" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29641998/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29641998/" class="">第32页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lizziexiu/" class=" " title="liz">liz</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="29641998">
+              <div class="short">
+                
+                  <span class="">作为西方社会之政法特色的自由概念，并不是随着古代文献的重新发现而产生，其实它形成于欧洲公社中市民自由的实践。在那些公社中，欧洲人不得不另行设计一套法律与政治制度。欧洲城邦筑有高墙，以保护其不受暴力和盗贼的侵扰，在高墙内形成了自由组织起来的生产贸易区。作为设防地——城堡——使得“堡中居民”的自由成为可能。欧洲的新兴城市一般是商贸中心，而不是大帝国的行政中心、宗教中心或剥削者管理属下农民的统治中心。公...</span>
+                <p class="pl">
+                  <span class="">2013-12-05 23:11</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                作为西方社会之政法特色的自由概念，并不是随着古代文献的重新发现而产生，其实它形成于欧洲公社中市民自由的实践。在那些公社中，欧洲人不得不另行设计一套法律与政治制度。欧洲城邦筑有高墙，以保护其不受暴力和盗贼的侵扰，在高墙内形成了自由组织起来的生产贸易区。作为设防地——城堡——使得“堡中居民”的自由成为可能。欧洲的新兴城市一般是商贸中心，而不是大帝国的行政中心、宗教中心或剥削者管理属下农民的统治中心。公社代表着新生事物，公社的创立人往往是那些在乡下封建秩序中没有地位的人——封建秩序一般包括战士、牧师和工人。而城邦的建设者和居住者基本上都是些游商走贩、逃逸奴仆、机械师、手工业者或者其他封建法律秩序中地位低下的人。正是在这样的城邦中，他们寻找到了自由。特别是意大利北部地区、低地国家、莱茵区以及易北河东岸的日耳曼地区，公社是通过成文宪章——或宪法——来治理的，这些宪章确保居民的自由。例如，中世纪的德国有句谚语“城市的空气让人自由”，其实是个法律问题：当时被视为卢贝克城的一项特权，在1188年得到了皇帝费里德里克一世的完全认可。“农奴在自治城市中住满一年零一天，就取得自由民身份”，这一法律原则自从12世纪以来就为多数城市所接纳，成为其公民自由的鲜明特征。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29641998/#comments">回应</a>&nbsp;&nbsp;
+                  2013-12-05 23:11
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16360968">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lemonhall2012/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="[已注销]" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16360968/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16360968/" class="">第一篇</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lemonhall2012/" class=" " title="[已注销]">[已注销]</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="16360968">
+              <div class="short">
+                
+                  <span class="">【自由正解】
+
+加图研究所的人果然都是些蛮狂热的自由主义分子。
+
+在看过意识形态那本书之后，我发觉看这部书简单、舒服得多了。
+
+第一篇，自由正解实际上就是巴斯夏、伯林的消极自由的一再解释~
+
+找到古代柏拉图对于自由的辩论，得出了消极自由的比较含混的解释。
+
+结合美国的宪法，可以看到，消极自由解释起来实在是太简单了。
+
+搞IT的都知道，什么叫做黑名单和白名单。
+
+洛克和诸多的消极自由主张者主张，除了人..</span>
+                <p class="pl">
+                  <span class="">2012-01-23 14:07</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                【自由正解】<div style="padding-bottom:1em;"></div>加图研究所的人果然都是些蛮狂热的自由主义分子。<div style="padding-bottom:1em;"></div>在看过意识形态那本书之后，我发觉看这部书简单、舒服得多了。<div style="padding-bottom:1em;"></div>第一篇，自由正解实际上就是巴斯夏、伯林的消极自由的一再解释~<div style="padding-bottom:1em;"></div>找到古代柏拉图对于自由的辩论，得出了消极自由的比较含混的解释。<div style="padding-bottom:1em;"></div>结合美国的宪法，可以看到，消极自由解释起来实在是太简单了。<div style="padding-bottom:1em;"></div>搞IT的都知道，什么叫做黑名单和白名单。<div style="padding-bottom:1em;"></div>洛克和诸多的消极自由主张者主张，除了人身、财产、健康这三个不可侵犯的自由权以外，凡是未列入黑名单里不能侵犯的自由权以外，都是可以尝试的。而且政府不得以何种方式去任意侵犯~<div style="padding-bottom:1em;"></div>和防火墙做过斗争或者设置过防火墙的人都知道<div style="padding-bottom:1em;"></div>黑名单的作用往往是很有限的，它只能限制一部分的网站。所以还有一种更加强力的手段，即【白名单】，在上面列明了你只能访问这些东西，凡是不再白名单上的，都是错误的404<div style="padding-bottom:1em;"></div>这就比较恐怖了<div style="padding-bottom:1em;"></div>因为政府是至高无上的存在，从管理角度来说，白名单+黑名单制度可以将很多东西封杀到得很彻底。<div style="padding-bottom:1em;"></div>可是，从自由的角度来看，这样的宪法表述，本身就妨碍了很多实际操作上的困难，比如会出现权力之间互相冲突的情况。（德沃金）<div style="padding-bottom:1em;"></div>作者主要列举了美国的第四宪法修正案以及联合国的宪法之间的异同。<div style="padding-bottom:1em;"></div>很明显，联合国的宪法是一部黑名单+白名单的妥协产品，而美国的第四修正案则是极为纯粹的一部洛克式宪法~~<div style="padding-bottom:1em;"></div>作者将自有分成了古代自由和现代自由，与意识形态一书一样，解析了几种自由之间激烈的辩论。<div style="padding-bottom:1em;"></div>理清楚这些东西，再回头看伯林的书，估计会清晰许多~~~<div style="padding-bottom:1em;"></div>感觉又升了一小级
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16360968/#comments">回应</a>&nbsp;&nbsp;
+                  2012-01-23 14:07
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16296918">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zuogy/"><img src="https://img3.doubanio.com/icon/u1019831-33.jpg" alt="左思" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16296918/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16296918/" class="">第367页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zuogy/" class=" " title="左思">左思</a>
+                (http://www.weibo.com/zuogy)
+              
+            </p>
+            <div class="reading-note" data-cid="16296918">
+              <div class="short">
+                
+                  <span class="">因果机制是马克思和期密的核心：马克思（与亚当·斯密、卡尔·门格尔、米塞斯、哈耶克以及罗斯巴德等人一样）在理解社会现实时，用Thomas Sowell的话来说：“都以人们相互约束的复杂关系为根据，这种关系的结果之形成，未必要与任何当事伯目的有什么瓜葛”。</span>
+                <p class="pl">
+                  <span class="">2012-01-18 14:22</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                因果机制是马克思和期密的核心：<blockquote><q>马克思（与亚当·斯密、卡尔·门格尔、米塞斯、哈耶克以及罗斯巴德等人一样）在理解社会现实时，用Thomas Sowell的话来说：“都以人们相互约束的复杂关系为根据，这种关系的结果之形成，未必要与任何当事伯目的有什么瓜葛”。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16296918/#comments">回应</a>&nbsp;&nbsp;
+                  2012-01-18 14:22
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="29641998">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lizziexiu/"><img src="https://img3.doubanio.com/icon/u33379360-174.jpg" alt="liz" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29641998/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29641998/" class="">第32页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lizziexiu/" class=" " title="liz">liz</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="29641998">
+              <div class="short">
+                
+                  <span class="">作为西方社会之政法特色的自由概念，并不是随着古代文献的重新发现而产生，其实它形成于欧洲公社中市民自由的实践。在那些公社中，欧洲人不得不另行设计一套法律与政治制度。欧洲城邦筑有高墙，以保护其不受暴力和盗贼的侵扰，在高墙内形成了自由组织起来的生产贸易区。作为设防地——城堡——使得“堡中居民”的自由成为可能。欧洲的新兴城市一般是商贸中心，而不是大帝国的行政中心、宗教中心或剥削者管理属下农民的统治中心。公...</span>
+                <p class="pl">
+                  <span class="">2013-12-05 23:11</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                作为西方社会之政法特色的自由概念，并不是随着古代文献的重新发现而产生，其实它形成于欧洲公社中市民自由的实践。在那些公社中，欧洲人不得不另行设计一套法律与政治制度。欧洲城邦筑有高墙，以保护其不受暴力和盗贼的侵扰，在高墙内形成了自由组织起来的生产贸易区。作为设防地——城堡——使得“堡中居民”的自由成为可能。欧洲的新兴城市一般是商贸中心，而不是大帝国的行政中心、宗教中心或剥削者管理属下农民的统治中心。公社代表着新生事物，公社的创立人往往是那些在乡下封建秩序中没有地位的人——封建秩序一般包括战士、牧师和工人。而城邦的建设者和居住者基本上都是些游商走贩、逃逸奴仆、机械师、手工业者或者其他封建法律秩序中地位低下的人。正是在这样的城邦中，他们寻找到了自由。特别是意大利北部地区、低地国家、莱茵区以及易北河东岸的日耳曼地区，公社是通过成文宪章——或宪法——来治理的，这些宪章确保居民的自由。例如，中世纪的德国有句谚语“城市的空气让人自由”，其实是个法律问题：当时被视为卢贝克城的一项特权，在1188年得到了皇帝费里德里克一世的完全认可。“农奴在自治城市中住满一年零一天，就取得自由民身份”，这一法律原则自从12世纪以来就为多数城市所接纳，成为其公民自由的鲜明特征。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29641998/#comments">回应</a>&nbsp;&nbsp;
+                  2013-12-05 23:11
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="15564123">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/manchun/"><img src="https://img3.doubanio.com/icon/u1269240-15.jpg" alt="满春" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/15564123/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/15564123/" class="">第259页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/manchun/" class=" " title="满春">满春</a>
+                (人生如棋，你必须落子)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="15564123">
+              <div class="short">
+                
+                  <span class="">最后一行“我国香港地区”应为“中国香港地区”。</span>
+                <p class="pl">
+                  <span class="">2011-11-28 14:42</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                最后一行“我国香港地区”应为“中国香港地区”。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/15564123/#comments">回应</a>&nbsp;&nbsp;
+                  2011-11-28 14:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16296150">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zuogy/"><img src="https://img3.doubanio.com/icon/u1019831-33.jpg" alt="左思" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16296150/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16296150/" class="">第312页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zuogy/" class=" " title="左思">左思</a>
+                (http://www.weibo.com/zuogy)
+              
+            </p>
+            <div class="reading-note" data-cid="16296150">
+              <div class="short">
+                
+                  <span class="">
+历史向我们昭示，人类组织与个人都很容易受到暴政精神的影响。
+
+
+A SUMMARY VIEW OF THE RIGHTS OF BRITISH AMERICA
+http://libertyonline.hypermall.com/Jefferson/Summaryview.html
+
+</span>
+                <p class="pl">
+                  <span class="">2012-01-18 13:33</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                
+<blockquote><q>历史向我们昭示，人类组织与个人都很容易受到暴政精神的影响。</q></blockquote><div style="padding-bottom:1em;"></div>A SUMMARY VIEW OF THE RIGHTS OF BRITISH AMERICA
+<a rel="nofollow" href="http://libertyonline.hypermall.com/Jefferson/Summaryview.html" target="_blank">http://libertyonline.hypermall.com/Jefferson/Summaryview.html</a><div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16296150/#comments">回应</a>&nbsp;&nbsp;
+                  2012-01-18 13:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16296614">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zuogy/"><img src="https://img3.doubanio.com/icon/u1019831-33.jpg" alt="左思" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16296614/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16296614/" class="">第345页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zuogy/" class=" " title="左思">左思</a>
+                (http://www.weibo.com/zuogy)
+              
+            </p>
+            <div class="reading-note" data-cid="16296614">
+              <div class="short">
+                
+                  <span class="">这位朋友说，在那些抱怨的游客中，他从没有听到一位游客愿意仔细地问问玛雅妇女，究竟为什么不愿意像她们的母亲或祖母那样着装。这位朋友由于能说各种玛雅方言，也是位真正的社人学家，便问了一下这个问题。结果得到的回答无一例外地都是基于这样的考虑，说传统服装变得“太贵”了。接下来我们可以问个问题，即人工制作的服务（几乎总是由妇女做的）变得太贵意味着什么呢？那就意味着玛雅族妇女的劳动价值变得更高。那也意味着她如...</span>
+                <p class="pl">
+                  <span class="">2012-01-18 13:57</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>这位朋友说，在那些抱怨的游客中，他从没有听到一位游客愿意仔细地问问玛雅妇女，究竟为什么不愿意像她们的母亲或祖母那样着装。这位朋友由于能说各种玛雅方言，也是位真正的社人学家，便问了一下这个问题。结果得到的回答无一例外地都是基于这样的考虑，说传统服装变得“太贵”了。接下来我们可以问个问题，即人工制作的服务（几乎总是由妇女做的）变得太贵意味着什么呢？那就意味着玛雅族妇女的劳动价值变得更高。那也意味着她如果要制作一条裙子穿，就得在手摇纺织机上花费很多工夫（纺织机常常跟树捆绑在一起；我自己曾试着操作过，发现用起来非常吃力）；或者她可以做好裙子后中，卖给巴黎、纽约或者罗马的哪位阔太太；而换成钱后，她就可以用它买到好几套服装、太阳镜，或收音机，或治疗登革热的药品，或给她的孩子们买些图书什么的。可见，玛雅族妇女并没有遭到损失；反而更富有了。不管那些更有钱的外国游客对这种现象如何抱怨，但从她自己的眼光看，似乎并不是件坏事。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16296614/#comments">回应</a>&nbsp;&nbsp;
+                  2012-01-18 13:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="29641998">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lizziexiu/"><img src="https://img3.doubanio.com/icon/u33379360-174.jpg" alt="liz" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29641998/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29641998/" class="">第32页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lizziexiu/" class=" " title="liz">liz</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="29641998">
+              <div class="short">
+                
+                  <span class="">作为西方社会之政法特色的自由概念，并不是随着古代文献的重新发现而产生，其实它形成于欧洲公社中市民自由的实践。在那些公社中，欧洲人不得不另行设计一套法律与政治制度。欧洲城邦筑有高墙，以保护其不受暴力和盗贼的侵扰，在高墙内形成了自由组织起来的生产贸易区。作为设防地——城堡——使得“堡中居民”的自由成为可能。欧洲的新兴城市一般是商贸中心，而不是大帝国的行政中心、宗教中心或剥削者管理属下农民的统治中心。公...</span>
+                <p class="pl">
+                  <span class="">2013-12-05 23:11</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                作为西方社会之政法特色的自由概念，并不是随着古代文献的重新发现而产生，其实它形成于欧洲公社中市民自由的实践。在那些公社中，欧洲人不得不另行设计一套法律与政治制度。欧洲城邦筑有高墙，以保护其不受暴力和盗贼的侵扰，在高墙内形成了自由组织起来的生产贸易区。作为设防地——城堡——使得“堡中居民”的自由成为可能。欧洲的新兴城市一般是商贸中心，而不是大帝国的行政中心、宗教中心或剥削者管理属下农民的统治中心。公社代表着新生事物，公社的创立人往往是那些在乡下封建秩序中没有地位的人——封建秩序一般包括战士、牧师和工人。而城邦的建设者和居住者基本上都是些游商走贩、逃逸奴仆、机械师、手工业者或者其他封建法律秩序中地位低下的人。正是在这样的城邦中，他们寻找到了自由。特别是意大利北部地区、低地国家、莱茵区以及易北河东岸的日耳曼地区，公社是通过成文宪章——或宪法——来治理的，这些宪章确保居民的自由。例如，中世纪的德国有句谚语“城市的空气让人自由”，其实是个法律问题：当时被视为卢贝克城的一项特权，在1188年得到了皇帝费里德里克一世的完全认可。“农奴在自治城市中住满一年零一天，就取得自由民身份”，这一法律原则自从12世纪以来就为多数城市所接纳，成为其公民自由的鲜明特征。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29641998/#comments">回应</a>&nbsp;&nbsp;
+                  2013-12-05 23:11
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16360968">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lemonhall2012/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="[已注销]" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16360968/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16360968/" class="">第一篇</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lemonhall2012/" class=" " title="[已注销]">[已注销]</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="16360968">
+              <div class="short">
+                
+                  <span class="">【自由正解】
+
+加图研究所的人果然都是些蛮狂热的自由主义分子。
+
+在看过意识形态那本书之后，我发觉看这部书简单、舒服得多了。
+
+第一篇，自由正解实际上就是巴斯夏、伯林的消极自由的一再解释~
+
+找到古代柏拉图对于自由的辩论，得出了消极自由的比较含混的解释。
+
+结合美国的宪法，可以看到，消极自由解释起来实在是太简单了。
+
+搞IT的都知道，什么叫做黑名单和白名单。
+
+洛克和诸多的消极自由主张者主张，除了人..</span>
+                <p class="pl">
+                  <span class="">2012-01-23 14:07</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                【自由正解】<div style="padding-bottom:1em;"></div>加图研究所的人果然都是些蛮狂热的自由主义分子。<div style="padding-bottom:1em;"></div>在看过意识形态那本书之后，我发觉看这部书简单、舒服得多了。<div style="padding-bottom:1em;"></div>第一篇，自由正解实际上就是巴斯夏、伯林的消极自由的一再解释~<div style="padding-bottom:1em;"></div>找到古代柏拉图对于自由的辩论，得出了消极自由的比较含混的解释。<div style="padding-bottom:1em;"></div>结合美国的宪法，可以看到，消极自由解释起来实在是太简单了。<div style="padding-bottom:1em;"></div>搞IT的都知道，什么叫做黑名单和白名单。<div style="padding-bottom:1em;"></div>洛克和诸多的消极自由主张者主张，除了人身、财产、健康这三个不可侵犯的自由权以外，凡是未列入黑名单里不能侵犯的自由权以外，都是可以尝试的。而且政府不得以何种方式去任意侵犯~<div style="padding-bottom:1em;"></div>和防火墙做过斗争或者设置过防火墙的人都知道<div style="padding-bottom:1em;"></div>黑名单的作用往往是很有限的，它只能限制一部分的网站。所以还有一种更加强力的手段，即【白名单】，在上面列明了你只能访问这些东西，凡是不再白名单上的，都是错误的404<div style="padding-bottom:1em;"></div>这就比较恐怖了<div style="padding-bottom:1em;"></div>因为政府是至高无上的存在，从管理角度来说，白名单+黑名单制度可以将很多东西封杀到得很彻底。<div style="padding-bottom:1em;"></div>可是，从自由的角度来看，这样的宪法表述，本身就妨碍了很多实际操作上的困难，比如会出现权力之间互相冲突的情况。（德沃金）<div style="padding-bottom:1em;"></div>作者主要列举了美国的第四宪法修正案以及联合国的宪法之间的异同。<div style="padding-bottom:1em;"></div>很明显，联合国的宪法是一部黑名单+白名单的妥协产品，而美国的第四修正案则是极为纯粹的一部洛克式宪法~~<div style="padding-bottom:1em;"></div>作者将自有分成了古代自由和现代自由，与意识形态一书一样，解析了几种自由之间激烈的辩论。<div style="padding-bottom:1em;"></div>理清楚这些东西，再回头看伯林的书，估计会清晰许多~~~<div style="padding-bottom:1em;"></div>感觉又升了一小级
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16360968/#comments">回应</a>&nbsp;&nbsp;
+                  2012-01-23 14:07
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16297439">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zuogy/"><img src="https://img3.doubanio.com/icon/u1019831-33.jpg" alt="左思" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16297439/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16297439/" class="">第13篇</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zuogy/" class=" " title="左思">左思</a>
+                (http://www.weibo.com/zuogy)
+              
+            </p>
+            <div class="reading-note" data-cid="16297439">
+              <div class="short">
+                
+                  <span class="">1、宋朝的市场经济（P330）：宋高宗就曾办举商业，说道：“市舶之利最厚，若措置得宜，所得动以百万计，岂不胜取之于民？”宋朝都城杭州有句民间俗语说：“东方的菜，西方的水，南方的柴，北方的米。”
+
+2、伏尔泰（Francois-Marie Arouet）哲学通信与《国富论》类似的话（P332）：倘若步入比很多宫庭还要庄严的伦敦交易所，你就会看到各国代表为追求人类利益而聚在一起。在这里，犹太人、伊斯兰教徒和基督徒互相打交道，好像他..</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/16297439/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-01-18 14:57</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                1、宋朝的市场经济（P330）：<blockquote><q>宋高宗就曾办举商业，说道：“市舶之利最厚，若措置得宜，所得动以百万计，岂不胜取之于民？”宋朝都城杭州有句民间俗语说：“东方的菜，西方的水，南方的柴，北方的米。”</q></blockquote><div style="padding-bottom:1em;"></div>2、伏尔泰（Francois-Marie Arouet）哲学通信与《国富论》类似的话（P332）：<blockquote><q>倘若步入比很多宫庭还要庄严的伦敦交易所，你就会看到各国代表为追求人类利益而聚在一起。在这里，犹太人、伊斯兰教徒和基督徒互相打交道，好像他们信奉着同一宗教，在他们眼中，唯有那些破产者才被看做异教徒。在交易所中，长老会教徒会信赖再洗礼派教徒，而英国圣公会信徒也会相信贵格会教徒的许诺。而一旦离开这些和平而自由的集会，参会者中有些人人前往犹太教堂，而其他人也许会找酒喝；这位可能要以圣父、圣子、圣灵名义在圣盆中接受洗礼；那位可能要请人为他儿子行割礼，并为小孩儿含糊地诵读些让他都听不懂的希伯莱经文；而还有些人则戴着帽子赶往教堂，静候上帝的灵感；所有这些人都是心满意足的。</q></blockquote><div style="padding-bottom:1em;"></div>备份：<div style="padding-bottom:1em;"></div>首先强烈推荐这本书中的一篇文章：Twenty Myths about Markets，这是我至今读到的有关市场作用最全面、浅显的表述：<a rel="nofollow" href="http://tomgpalmer.com/wp-content/uploads/papers/myths_about_markets_ii.pdf" target="_blank">http://tomgpalmer.com/wp-content/uploads/papers/myths_about_markets_ii.pdf</a>
+亚马逊美国的评论“Palmer's exposition of ideas is well-researched, cleverly presented, unpretentious, and well balanced. His prose is amazing, articulate, concise, and humorous. For example, the chapter &quot;Twenty Myths about Markets&quot; is a model of a straightforward and persuasive writing. ”<div style="padding-bottom:1em;"></div>这本书删节比较厉害，译者应该交代一下。<div style="padding-bottom:1em;"></div>和Kindle版对照，中文译本缺少kindle版的以下内容。<div style="padding-bottom:1em;"></div>第一部分“理论”，没有删节<div style="padding-bottom:1em;"></div>第二部分“历史”，删除了两篇文章<div style="padding-bottom:1em;"></div>1）11篇：Classical liberalism, Marxism, and the conflict of classes: the classical liberal theory of class conflict<div style="padding-bottom:1em;"></div>2）14篇，why socialism collapsed in eastern Europe:<a rel="nofollow" href="http://www.cato.org/special/berlinwall/palmer1990.html" target="_blank">http://www.cato.org/special/berlinwall/palmer1990.html</a><div style="padding-bottom:1em;"></div>第三部分“实践”部分删得只剩下一篇文章，删除的文章如下<div style="padding-bottom:1em;"></div>1）15篇：Madison and Multiculturalism: Group representation, group rights, and consitutionalism<a rel="nofollow" href="http://tomgpalmer.com/wp-content/uploads/papers/madison-and-multiculturalism.pdf" target="_blank">http://tomgpalmer.com/wp-content/uploads/papers/madison-and-multiculturalism.pdf</a><div style="padding-bottom:1em;"></div>2）17篇：Infrastructure: public or private?<div style="padding-bottom:1em;"></div>3）18篇：future schlock: government planning for tomorrow<div style="padding-bottom:1em;"></div>4) 19篇：against taxes<div style="padding-bottom:1em;"></div>5）20篇：Hothouse of hate<div style="padding-bottom:1em;"></div>6）21篇：Census 2000: You may already be a winner!<div style="padding-bottom:1em;"></div>7）22篇：The Egyptian Judiciary blazing the path to democracy and economic development<div style="padding-bottom:1em;"></div>8）23篇：The &quot;crime&quot; of blogging in Egypt<div style="padding-bottom:1em;"></div>9）24篇：Six facts about Iraq<div style="padding-bottom:1em;"></div>10）25篇：Moscow's pride and prejudice<div style="padding-bottom:1em;"></div>11）26篇：Chanllenges of democratization<div style="padding-bottom:1em;"></div>第四部分：书与观念<div style="padding-bottom:1em;"></div>1）27篇：The literature of liberty<div style="padding-bottom:1em;"></div>2）28篇：With friends like this: review of Wealth and Poverty<div style="padding-bottom:1em;"></div>3）33篇：Liberal flagship turns 70, Burning the midnight oil
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16297439/#comments">1回应</a>&nbsp;&nbsp;
+                  2012-01-18 14:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16296918">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/zuogy/"><img src="https://img3.doubanio.com/icon/u1019831-33.jpg" alt="左思" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16296918/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16296918/" class="">第367页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/zuogy/" class=" " title="左思">左思</a>
+                (http://www.weibo.com/zuogy)
+              
+            </p>
+            <div class="reading-note" data-cid="16296918">
+              <div class="short">
+                
+                  <span class="">因果机制是马克思和期密的核心：马克思（与亚当·斯密、卡尔·门格尔、米塞斯、哈耶克以及罗斯巴德等人一样）在理解社会现实时，用Thomas Sowell的话来说：“都以人们相互约束的复杂关系为根据，这种关系的结果之形成，未必要与任何当事伯目的有什么瓜葛”。</span>
+                <p class="pl">
+                  <span class="">2012-01-18 14:22</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                因果机制是马克思和期密的核心：<blockquote><q>马克思（与亚当·斯密、卡尔·门格尔、米塞斯、哈耶克以及罗斯巴德等人一样）在理解社会现实时，用Thomas Sowell的话来说：“都以人们相互约束的复杂关系为根据，这种关系的结果之形成，未必要与任何当事伯目的有什么瓜葛”。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16296918/#comments">回应</a>&nbsp;&nbsp;
+                  2012-01-18 14:22
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/6920096/annotation">更多读书笔记（共9篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/6920096/discussion/45310883/" title="刘军宁：自我所有权是天下第一所有权" class="">刘军宁：自我所有权是天下第一所有权</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/pudoudou/">heicuo</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2012-04-09</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/6920096/discussion/42681593/" title="市场" class="">市场</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/56041447/">EMLIGHT</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2011-11-15</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=2590&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=3040&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEw5TGFwRCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMbAVYcXx0dS0IJRmt%252BeUhvSxsSbGFgHVBuBFBxbw8eHBJ1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBpdEgoTD10rXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsUCxQEUh9TCltXWwg%253D&amp;cntvendor=2&amp;srcsubj=6920096&amp;type=bkbuy&amp;subject=6920096" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=2590&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=3040&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEw5TGFwRCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMbAVYcXx0dS0IJRmt%252BeUhvSxsSbGFgHVBuBFBxbw8eHBJ1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBpdEgoTD10rXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsUCxQEUh9TCltXWwg%253D&amp;cntvendor=2&amp;srcsubj=6920096&amp;type=bkbuy&amp;subject=6920096" class="buylink-price ">
+                      <span class="">
+                        30.40 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=2590&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=2590&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s6920096%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D22534239&amp;cntvendor=2&amp;srcsubj=6920096&amp;type=bkbuy&amp;subject=6920096" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=2590&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=2590&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s6920096%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D22534239&amp;cntvendor=2&amp;srcsubj=6920096&amp;type=bkbuy&amp;subject=6920096" class="buylink-price ">
+                      <span class="">
+                        25.90 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/6920096/buylinks">
+              &gt; 查看2家网店价格
+                (25.90 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787511824493&amp;subject=7511824498&amp;type=borrow&amp;library=10012&amp;link2key=493dacf0ed" target="_blank">上海市中心图书馆(3)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D9787511824493%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7511824498&amp;type=borrow&amp;library=10022&amp;link2key=493dacf0ed" target="_blank">广州图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Flaohu.sx.zj.cn%2Fweb%2Fwebsearch.asp%3FWCI%3DBookListH%26taab%3D7511824498&amp;subject=7511824498&amp;type=borrow&amp;library=10025&amp;link2key=493dacf0ed" target="_blank">绍兴图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1026748">全部3</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/4362397/">Cato Institute版</a>
+          2009-7-16 / 1人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/26256270/">Cato Institute版</a>
+          2014-4-7
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/6920096/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/180870/" target="_blank">博士读书记录</a>
+                <span class="pl">(左思)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/193406/" target="_blank">自由何以然</a>
+                <span class="pl">(岁月的泡沫)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/3639171/" target="_blank">我的政治学及政治哲学藏书</a>
+                <span class="pl">(叙拉古之惑)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1644441/" target="_blank">2012年最有价值的政治经济学书</a>
+                <span class="pl">([已注销])</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1740721/" target="_blank">未完之章</a>
+                <span class="pl">(大风)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/2490356/"><img src="https://img3.doubanio.com/icon/u2490356-4.jpg" class="pil" alt="BADZ" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/2490356/">BADZ</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/135341515/"><img src="https://img3.doubanio.com/icon/u135341515-6.jpg" class="pil" alt="plusetreseul" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/135341515/">plusetreseul</a><br/>
+      <div class="pl ll">          6月20日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/108345480/"><img src="https://img3.doubanio.com/icon/u108345480-6.jpg" class="pil" alt="酥哥拉笛" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/108345480/">酥哥拉笛</a><br/>
+      <div class="pl ll">          6月4日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/6920096/doings">21人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/6920096/collections">43人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/6920096/wishes">453人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有453人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于实现自由的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/6920096/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'kFWl3MyPhps',
+            criteria = '7:自由主义|7:政治哲学|7:哲学|7:政治|7:自由|7:汤姆·帕尔默|7:实现自由|7:法理学|7:自由意志主义|7:经济|3:/subject/6920096/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- hador13-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3653 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>技术的本质 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/25846075/">
+<meta name="keywords" content="技术的本质,布莱恩•阿瑟（Brian Arthur）,浙江人民出版社,2014-4-1,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书技术的本质 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/25846075/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">技术的本质</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s27237790.jpg" title="技术的本质">
+    <img src="https://img3.doubanio.com/lpic/s27237790.jpg" title="点击看大图" alt="技术的本质"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E5%B8%83%E8%8E%B1%E6%81%A9%E2%80%A2%E9%98%BF%E7%91%9F">布莱恩•阿瑟（Brian Arthur）</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 浙江人民出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 技术是什么，它是如何进化的<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> THE NATURE OF TECHNOLOGY：What it is and how it evolves<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E6%9B%B9%E4%B8%9C%E6%BA%9F">曹东溟</a>
+        
+           /
+        
+        <a class="" href="/search/%E7%8E%8B%E5%81%A5">王健</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2014-4-1<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 260<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 62.90<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/6293">湛庐文化·财富汇</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787213059988<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.1 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">345</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:63px"></div>
+
+            <span class="rating_per">35.9%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">36.2%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:32px"></div>
+
+            <span class="rating_per">18.6%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:13px"></div>
+
+            <span class="rating_per">7.8%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:2px"></div>
+
+            <span class="rating_per">1.4%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25846075-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25846075-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-25846075-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25846075-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25846075-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25846075-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25846075-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-25846075-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-25846075">
+        <a href="#" data-url="https://book.douban.com/subject/25846075/" data-desc="" data-title="书籍《技术的本质》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s27237790.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_25846075"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>★《技术的本质》是复杂性科学奠基人、首屈一指的技术思想家、“熊彼特奖”得主布莱恩•阿瑟所创建的一套关于技术产生和进化的系统性理论，本书是打开“技术黑箱”的钥匙，它用平实的语言将技术最本质的思想娓娓道来。</p>    <p>★技术，是一个异常美丽的主题，它不动声色地创造了我们的财富，成就了经济的繁荣，改变了我们存在的方式。尽管技术如此重要，却少有人在快节奏的生活中停下来深入思考技术。我们了解技术的原理，却不知道它们从何而来。我们深思技术的意义，追问技术到底能否决定人类的历史，但是关于“技术”到底是什么，它是如何形成的，我们并没有达成共识。</p>    <p>★布莱恩•阿瑟对上述问题进行了解答，作者构建了关于技术的理论体系，阐明了技术的本质及其进化机制。《技术的本质》是技术思想领域的开创性作品，它不同于一般的流行读物或学术著作，对于商业创新和经济发展而言都有非凡的意义。布莱恩•阿瑟的思想是...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>★《技术的本质》是复杂性科学奠基人、首屈一指的技术思想家、“熊彼特奖”得主布莱恩•阿瑟所创建的一套关于技术产生和进化的系统性理论，本书是打开“技术黑箱”的钥匙，它用平实的语言将技术最本质的思想娓娓道来。</p>    <p>★技术，是一个异常美丽的主题，它不动声色地创造了我们的财富，成就了经济的繁荣，改变了我们存在的方式。尽管技术如此重要，却少有人在快节奏的生活中停下来深入思考技术。我们了解技术的原理，却不知道它们从何而来。我们深思技术的意义，追问技术到底能否决定人类的历史，但是关于“技术”到底是什么，它是如何形成的，我们并没有达成共识。</p>    <p>★布莱恩•阿瑟对上述问题进行了解答，作者构建了关于技术的理论体系，阐明了技术的本质及其进化机制。《技术的本质》是技术思想领域的开创性作品，它不同于一般的流行读物或学术著作，对于商业创新和经济发展而言都有非凡的意义。布莱恩•阿瑟的思想是硅谷亿万资金运行的基础，如果能够真正读懂本书，不论是普通读者、商业领袖还是学术研究者，都将受益匪浅。</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/25846075/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>布莱恩•阿瑟（Brian Arthur）</p>    <p>	复杂性科学的重要奠基人。拥有加州大学伯克利分校经济学博士学位，37 岁就成为斯坦福大学最年轻的经济学教授。</p>    <p>	圣塔菲研究所元老级人物。投身于复杂性科学领域研究，在圣塔菲研究所“科学委员会”任职时间长达18 年，在“理事会”任职10 年。</p>    <p>	研究正反馈机制的先驱，以“收益递增规律”为基础形成了自己的新经济思想。</p>    <p>	荣获复杂性科学领域的首届拉格朗日奖。</p>    <p>	1990 年荣获熊彼特奖。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_25846075_short">
+        赞誉<br/>
+        推荐序一 路径依赖性：人口、经济、技术<br/>
+        北京大学教授<br/>
+        汪丁丁<br/>
+        推荐序二 打开“技术黑箱”的一个新尝试<br/>
+        东北大学哲学系教授<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_25846075_short').hide();$('#dir_25846075_full').show();$.get('/j/subject/j_dir_count',{id:25846075});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_25846075_full" style="display:none">
+        赞誉<br/>
+        推荐序一 路径依赖性：人口、经济、技术<br/>
+        北京大学教授<br/>
+        汪丁丁<br/>
+        推荐序二 打开“技术黑箱”的一个新尝试<br/>
+        东北大学哲学系教授<br/>
+        包国光<br/>
+        前言 技术的追问<br/>
+        第1 章 问题<br/>
+        技术给我们带来了舒适的生活和无尽的财富，也成就了经济的繁荣。一句话，我们的世界因技术而改变。但是，技术的本质究竟是什么呢？它从何而来，又是如何进化的呢？缺失了本质的技术<br/>
+        技术的进化<br/>
+        组合进化<br/>
+        本书的主题<br/>
+        第2 章 组合与结构<br/>
+        新技术都是在现有技术的基础上发展起来的，现有技术又来源于先前的技术。将技术进行功能性分组，可以大大简化设计过程，这是技术“模块化”（modularity）的首要原因。技术的“组合”和“递归”特征，将彻底改变我们对技术本质的认识。<br/>
+        技术结构的形成<br/>
+        为什么要模块化<br/>
+        递归性及其作用<br/>
+        第3 章 现象<br/>
+        无论是简单还是复杂的技术，都是在应用一种或几种现象之后乔装打扮出来的。技术就是那些被捕获并使用的现象，是对现象有目的的编程。我们一直以为技术是科学的应用，但实际上却是技术引领着科学的发展。<br/>
+        技术的本质<br/>
+        有目的的系统<br/>
+        捕捉现象<br/>
+        技术与科学<br/>
+        第4 章 域<br/>
+        为了共享现象族群和共同目标，或者为了分享同一个理论，个体技术就会聚集成群。这种集群就形成了“域”。工程设计是从选择某个域开始的，这个自动和下意识的选择过程叫作“域定”。设计工作就像是用某种语言所进行的写作或表达。<br/>
+        域定<br/>
+        设计就如同语言表达<br/>
+        参与的世界<br/>
+        第5 章 工程和对应的解决方案<br/>
+        几乎所有的设计都是某个已知技术的新版本，只有在必要的情况下，才需要一项全新的设计。工程师在寻找解决方案的过程中，把适宜的构件选择出来，让它们组合在一起工作。设计就是选择，组合只不过是工程的副产品。工程的解决方案，又成为发展新技术的新构件。<br/>
+        标准工程<br/>
+        解决问题的工程<br/>
+        组合与解决方案<br/>
+        未来的技术构件<br/>
+        第6 章 技术的起源<br/>
+        新技术可以是根据某个目的或需要发现一个可以实现的原理，也可以从某一新现象出发，找到如何使用这种现象的办法。原理可以借用，也可以是先前概念的组合，或者由理论而来。只有将概念转化为现实，一项新技术才真正诞生。科学和数学中的原创，与技术没什么两样，因为它们同属“目的性系统”。<br/>
+        什么样的技术才算新技术<br/>
+        找到一个基本原理<br/>
+        概念的物化<br/>
+        基于现象的发明<br/>
+        什么是发明的核心<br/>
+        因果性金字塔<br/>
+        科学与数学中的发明<br/>
+        发明与新的构件<br/>
+        第7 章 结构深化<br/>
+        技术一旦走上发展之路，各种各样的版本就会随之出现。通过“内部替换”，开发人员可以用更好的部件（子技术）更换某一形成阻碍的部件。开发人员还可以通过寻找更好的部件或材料，或者加入新组件进行结构深化。旧设计和旧原理一经锁定，就会产生新用途。<br/>
+        内部替换<br/>
+        结构深化<br/>
+        锁定与适应性延伸<br/>
+        第8 章 颠覆性改变与重新域定<br/>
+        域并不是若干单体技术的简单相加，它们是连贯的整体，对经济的影响也更大。任何新域，都产生于一个已存在的域——母域，而且参与者开始很少能意识到会发生&#34; 颠覆性改变&#34;。但随着理解的深化和实践的固化，新域会慢慢忘记它的母域而横空出世，甚至会极大地提升国家竞争力。<br/>
+        “域”是如何进化的<br/>
+        经济的重新域定<br/>
+        经济中的时间<br/>
+        创新与国家竞争力<br/>
+        第9 章 进化机制<br/>
+        组合是新技术的潜在来源。 组合的威力，在于它的指数级增长。如果新技术会带来更多的新技术，那么一旦元素数目超过一定阈值，可能的组合数就会爆炸性增长。此外，机会利基也在呼唤着新技术。技术就如同生命体一样，它的进化与生物进化也没什么本质差异。<br/>
+        组合<br/>
+        机会利基<br/>
+        核心机制<br/>
+        关于进化的一个思想实验<br/>
+        技术进化与生物进化的比较<br/>
+        第10 章 技术进化所引发的经济进化<br/>
+        众多的技术集合在一起，创造了一种我们称之为“经济”的东西。经济从它的技术中浮现，不断从它的技术中创造自己，并且决定哪种新技术将会进入其中。每一个以新技术形式体现的解决方案，都会带来新的问题，这些问题又迫切需要进一步得到解决。经济是技术的一种表达，并随这些技术的进化而进化。<br/>
+        经济就是技术的一种表达<br/>
+        结构性变化<br/>
+        解决方案带来的新问题<br/>
+        第11 章 我们的立场是什么<br/>
+        随着基因组研究和纳米技术的发展，生物正在变成技术。与此同时，从技术进化的角度看，技术也正在变为生物。两者已经开始相互接近并纠缠在一起了。我们需要和自然融为一体。如果技术将我们与自然分离，它带给我们的就是死亡。如果技术加强了我们和自然的联系，那就是它对生命和人性的厚爱。<br/>
+        技术具有生物属性，反之亦然<br/>
+        繁衍性经济<br/>
+        纯秩序与混质活力<br/>
+        我们应该怎样看待技术<br/>
+        注 释<br/>
+        译者后记<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_25846075_full').hide();$('#dir_25846075_short').show();void(0);">收起</a>)
+</div>
+
+    
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">&#34;技术的本质&#34;试读</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent">
+<p>人在十几二十岁的时候，常会碰到一些没办法解答的问题，它们可能就此盘踞于心，很久都无法释怀。我是17 岁开始接受电气工程本科教育的，我很快就意识到，其实我并没有真正理解我所学的东西的本质，即什么是技术真正的本质？尽管那时我可以得到很高的分数，但我认为那只是因为我的数学还不错。教授们解释道：技术是科学的应用；技术是经济中关于机制和方法的研究；技术是工业过程中的社会..</p>
+<ul class="col2-list clearfix">
+
+<li>
+    <a href="https://book.douban.com/reading/31284456/">技术的追问</a>
+</li>
+</ul>
+<div align="right">  · · · · · ·    (<a href="https://book.douban.com/subject/25846075/reading/">查看全部试读</a>)</div>
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共190个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/技术">技术</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/科普">科普</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/技术思想">技术思想</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/思维">思维</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/哲学">哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/技术创新">技术创新</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/经济学">经济学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/湛庐文化">湛庐文化</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/6293">湛庐文化·财富汇 (共39册)</a>,
+这套丛书还有
+《塞氏企业》,《稀缺》,《如何创造思维》,《超级合作者》,《企鹅与怪兽》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;技术的本质&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/803847/?dcs=subject-rec&amp;dcm=douban&amp;dct=25846075" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/803847.jpg?v=1395395353.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/803847/" target="_blank">技术元素</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/9074056/?dcs=subject-rec&amp;dcm=douban&amp;dct=25846075" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/9074056.jpg?v=1427860813.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/9074056/" target="_blank">知识的边界</a>
+          </div>
+          <div class="price">
+              6.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1829611/?dcs=subject-rec&amp;dcm=douban&amp;dct=25846075" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1829611.jpg?v=1395394188.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1829611/" target="_blank">有限与无限的游戏</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/31734974/?dcs=subject-rec&amp;dcm=douban&amp;dct=25846075" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/31734974.jpg?v=1489557773.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/31734974/" target="_blank">伟大创意的诞生：创新自然史</a>
+          </div>
+          <div class="price">
+              29.59元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/31806205/?dcs=subject-rec&amp;dcm=douban&amp;dct=25846075" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/31806205.jpg?v=1489739349.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/31806205/" target="_blank">企鹅与怪兽</a>
+          </div>
+          <div class="price">
+              36.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;技术的本质&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25849758/" onclick="moreurl(this, {'total': 10, 'clicked': '25849758', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27249636.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25849758/" onclick="moreurl(this, {'total': 10, 'clicked': '25849758', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            富足
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/11528220/" onclick="moreurl(this, {'total': 10, 'clicked': '11528220', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s11430191.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/11528220/" onclick="moreurl(this, {'total': 10, 'clicked': '11528220', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            系统之美
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25780470/" onclick="moreurl(this, {'total': 10, 'clicked': '25780470', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27174090.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25780470/" onclick="moreurl(this, {'total': 10, 'clicked': '25780470', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            如何创造思维
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25720885/" onclick="moreurl(this, {'total': 10, 'clicked': '25720885', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27057185.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25720885/" onclick="moreurl(this, {'total': 10, 'clicked': '25720885', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            超级合作者
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25923753/" onclick="moreurl(this, {'total': 10, 'clicked': '25923753', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27320301.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25923753/" onclick="moreurl(this, {'total': 10, 'clicked': '25923753', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            谷歌化的反思
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/21325149/" onclick="moreurl(this, {'total': 10, 'clicked': '21325149', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s24960870.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/21325149/" onclick="moreurl(this, {'total': 10, 'clicked': '21325149', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            共同合作
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26315800/" onclick="moreurl(this, {'total': 10, 'clicked': '26315800', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s28017339.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26315800/" onclick="moreurl(this, {'total': 10, 'clicked': '26315800', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            智慧社会
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/11599407/" onclick="moreurl(this, {'total': 10, 'clicked': '11599407', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s11180398.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/11599407/" onclick="moreurl(this, {'total': 10, 'clicked': '11599407', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            人人时代
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25905681/" onclick="moreurl(this, {'total': 10, 'clicked': '25905681', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27303175.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25905681/" onclick="moreurl(this, {'total': 10, 'clicked': '25905681', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            系统思维
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/20388034/" onclick="moreurl(this, {'total': 10, 'clicked': '20388034', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s24519741.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/20388034/" onclick="moreurl(this, {'total': 10, 'clicked': '20388034', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            大连接
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/25846075/comments/">全部 144 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="817753208">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-817753208" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-817753208" class="j a_show_login" data-cid="817753208">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/madaxiang/">马大象</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2014-08-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">能进年度前五的好书~</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1007705932">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1007705932" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1007705932" class="j a_show_login" data-cid="1007705932">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/foru17/">罗磊</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-02-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">把技术当成一个进化的有生物来看待。需要静下心来读，一开始还有点云里雾里，后来越来越有意思，尤其是结合自己的工作，很多思维和现象都很亲切。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1185060869">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1185060869" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1185060869" class="j a_show_login" data-cid="1185060869">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/nwwfewx/">伊卡洛斯</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-05-02</span>
+                </span>
+            </h3>
+            <p class="comment-content">技术是实现人的目的的一种手段，是实践和组件（components）的集成（assemble），是在某种文化中得以运用的装置和工程实践的整合。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="787286398">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-787286398" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-787286398" class="j a_show_login" data-cid="787286398">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/renju/">穿疯衣的猫</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2014-09-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">居然有人黑这本书。应与《时间中的政治》参读。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="953224112">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-953224112" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-953224112" class="j a_show_login" data-cid="953224112">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/tin/">Solder</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-08-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">第10章是精华。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1207249514">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1207249514" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1207249514" class="j a_show_login" data-cid="1207249514">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/35354220/">一身冷月</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">如果看过KK再看看这个吧</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1204156142">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1204156142" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1204156142" class="j a_show_login" data-cid="1204156142">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/54738717/">Alein</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-06-18</span>
+                </span>
+            </h3>
+            <p class="comment-content">根本就没论证收益递增，感觉被骗了。看最后一章就行，当年读书会读完《生命是什么》，隐隐约约感受到了这个话题。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1191848842">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1191848842" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1191848842" class="j a_show_login" data-cid="1191848842">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/82466250/">Zzzcccb</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">技术是对对象的有目的的编程。技术由技术元素组成，原自对现象的捕获对现实的需求，表现在经济中。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1185060869">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1185060869" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1185060869" class="j a_show_login" data-cid="1185060869">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/nwwfewx/">伊卡洛斯</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-05-02</span>
+                </span>
+            </h3>
+            <p class="comment-content">技术是实现人的目的的一种手段，是实践和组件（components）的集成（assemble），是在某种文化中得以运用的装置和工程实践的整合。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1180320098">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1180320098" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1180320098" class="j a_show_login" data-cid="1180320098">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/doomsayer/">浓浓</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-20</span>
+                </span>
+            </h3>
+            <p class="comment-content">对于新技术产生的过程是怎么样的，达尔文机制和科学范式从完美到发生换代是否合适应用于谈论技术——这两个问题，都讲的不清楚，或者说我没看明白。前半部写的很好，后面有些拖拉。第三章和第五章，敲黑板，科学始终与技术以共生的方式进化着的。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/25846075/comments/">更多短评 144 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/25846075/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            技术的本质的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 17 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7319206">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7319206/" class="title-link">大师级开创性著作</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7319206"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/1071268/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1071268-4.jpg"></a>
+    <a href="https://www.douban.com/people/1071268/" class="author">
+      <span property="v:reviewer">Junyi</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2015-01-04"
+      class="main-meta">2015-01-04 15:34:12</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7319206_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-7319206-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7319206_full" class="hidden">
+            <div id="review_7319206_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6826200">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6826200/" class="title-link">人人都是发明家</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6826200"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/51925256/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u51925256-3.jpg"></a>
+    <a href="https://www.douban.com/people/51925256/" class="author">
+      <span property="v:reviewer">memoto</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2014-08-16"
+      class="main-meta">2014-08-16 17:28:29</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6826200_short" class="review-short">
+            <div class="short-content">
+                  人人都是发明家，只要你不是无欲无求，并且能够观察现象，然后加一点联想力和想象力。  技术的本质是一种对原有技术的结构化、递归式的新组合，它一头连着各种现象（包括物理现象和组织行为现象），一头连着各种现实需求（包括解决问题，美好的向往等等）。  任何技术都是原有...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">9有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6826200_full" class="hidden">
+            <div id="review_6826200_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6816541">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6816541/" class="title-link">人类已成为技术的奴隶</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6816541"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/Mabledu/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u4136413-5.jpg"></a>
+    <a href="https://www.douban.com/people/Mabledu/" class="author">
+      <span property="v:reviewer">涤心</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2014-08-12"
+      class="main-meta">2014-08-12 07:26:56</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6816541_short" class="review-short">
+            <div class="short-content">
+                  如果我们从电脑桌前站起来看看我们居住的房子，会发现一个让你大吃一惊的事实，那就是，在这座房子里，那些自行其是在工作着的机器的数量已经远远大于静悄悄的家具。从体积巨大的冰箱、空调，到小小的手机、电动牙刷。而且，如果让你在这中间舍弃任何一样，你都会觉得生活变得...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6816541_full" class="hidden">
+            <div id="review_6816541_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7781803">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7781803/" class="title-link">解构技术</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7781803"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/75288890/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u75288890-3.jpg"></a>
+    <a href="https://www.douban.com/people/75288890/" class="author">
+      <span property="v:reviewer">龙画符</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2016-02-20"
+      class="main-meta">2016-02-20 13:53:27</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7781803_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-7781803-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7781803_full" class="hidden">
+            <div id="review_7781803_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7563984">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7563984/" class="title-link">解释技术的通识读物</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7563984"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/everlasting_v/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/everlasting_v/" class="author">
+      <span property="v:reviewer">[已注销]</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2015-08-09"
+      class="main-meta">2015-08-09 00:44:03</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7563984_short" class="review-short">
+            <div class="short-content">
+                  　　顺藤摸瓜式的读书总是能带给人惊喜。以前喜欢村上春树，就看了他书里常提到的作家，比如雷蒙德卡佛和菲茨杰拉德，有一种找到一条寻宝路线的欣喜和踏实感。 　　《技术的本质》这本书是在看《第二次机器革命》的时候发现的，作者在书里多次提到并且引用书里的观点。读学术性...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7563984_full" class="hidden">
+            <div id="review_7563984_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评17篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/25846075/annotation">共<span property="v:count">59</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="43146317">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/fleure/"><img src="https://img3.doubanio.com/icon/u9336092-25.jpg" alt="红色有角F叔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43146317/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43146317/" class="">技术与科学</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/fleure/" class=" " title="红色有角F叔">红色有角F叔</a>
+                (祖传老db 专治dba)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="43146317">
+              <div class="short">
+                
+                  <span class="">科学是一种观念，即自然在本质上是可知的，可以被探索、被究因的。如果以高度控制的方式对现象及其背后的含义进行探索，就可以获得对自然的理解；科学是一套实践和思维方式，包括理论化、想象和猜测；科学史一系列认识（knowings），一系列由过去的观察与思考积累起来的理解；科学是一种文化，一种关于信仰与实践、友谊与思想交流、观点与确证、竞争与互助的文化。 技术是对现象的驾驭，而这很大程度上是由科学揭示的。同样，科...</span>
+                <p class="pl">
+                  <span class="">2017-04-16 15:59</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>科学是一种观念，即自然在本质上是可知的，可以被探索、被究因的。如果以高度控制的方式对现象及其背后的含义进行探索，就可以获得对自然的理解；科学是一套实践和思维方式，包括理论化、想象和猜测；科学史一系列认识（knowings），一系列由过去的观察与思考积累起来的理解；科学是一种文化，一种关于信仰与实践、友谊与思想交流、观点与确证、竞争与互助的文化。</blockquote><p></p><blockquote>技术是对现象的驾驭，而这很大程度上是由科学揭示的。同样，科学也构建与（builds from）技术，或者说，科学是从它的技术中形成的，从哪些要使用技术的仪器、方法和实验中形成的。</blockquote><p></p><blockquote>断言技术只是科学的“应用”是幼稚的，毋宁说技术是从科学和自己的经验两个方面建立起来的。</blockquote><p></p><blockquote>技术是对现象有目的的编程。</blockquote><p></p><blockquote>现象只是简单的自然效应，因此独立于人类和技术而存在，现象本身并没有什么“使用”（use）与之相连。相比之下，原理是为达成某个目的而利用某个现象的理念（idea），它广泛存在于人类及“使用”的边界。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43146317/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-16 15:59
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37230199">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/75288890/"><img src="https://img3.doubanio.com/icon/u75288890-3.jpg" alt="龙画符" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37230199/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37230199/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/75288890/" class=" " title="龙画符">龙画符</a>
+                (知到极处便是行，行到极处便是知)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="37230199">
+              <div class="short">
+                
+                  <span class="">全文脉络：
+第一章 问题
+       技术已经彻底的改变了我们的生活。亦或者可以说，“我们是如此彻底地改造了我们的环境，以致我们现在必须改造自己，才能在这个新环境中生存下去。我们再也不能生活在旧环境中了。”技术就像生活中的空气，寻常但又必不可少。然而空气不会像技术一样，在被人使用的时候给人带来担忧。我们有必要去追问有关技术深层次的问题，因为在我们这个时代，技术所展示的不仅是繁荣，还有被技术异化的生活方式...</span>
+                <p class="pl">
+                  <span class="">2016-02-21 17:26</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                全文脉络：<div style="padding-bottom:1em;"></div>第一章 问题<div style="padding-bottom:1em;"></div>       技术已经彻底的改变了我们的生活。亦或者可以说，“我们是如此彻底地改造了我们的环境，以致我们现在必须改造自己，才能在这个新环境中生存下去。我们再也不能生活在旧环境中了。”技术就像生活中的空气，寻常但又必不可少。然而空气不会像技术一样，在被人使用的时候给人带来担忧。我们有必要去追问有关技术深层次的问题，因为在我们这个时代，技术所展示的不仅是繁荣，还有被技术异化的生活方式——但人类喜欢自然。<div style="padding-bottom:1em;"></div>       关于技术，我们了解多少？概括来说，我们了解许多关于技术的“术”，但对其中的“道”知之甚少。这里缺失的是某一个一般性法则，它可以赋予主义一个逻辑框架，一个有助于填补这鸿沟的框架。之所以我们会缺失关于技术的“学”，可能是因为两个原因：一个是因为技术一直处于科学的阴影之中，另一个是那些认真思考技术的人大多数都是社会学家和哲学家（他们把技术看成一种客体，一个黑箱，缺少一种技术的内部视角）<div style="padding-bottom:1em;"></div>       关于技术，它的核心问题是“技术是如何进化的”。为什么进化这么重要？因为如果没有进化，没有一种常见意义的关联性，技术看起来就好像是自己独自产生发展而来的，挖掘框架的工作只是徒劳，另外弄清楚”进化“有助于我们理解“创新”的本质。那么，技术是如何进化的呢？作者认为主要有三个原理统摄了技术进化的过程：一、所有技术都是某种组合；二、技术的每个组件自身也是微缩的技术；三、所有的技术都是利用或开发某些效应或现象。<div style="padding-bottom:1em;"></div>       本书观察技术进化的视角，赋予技术以生命的意味，不仅因为技术内部有着“DNA”般的美丽联系，也因为技术自我创造、无中生有。这种视角的转换不是只是抽象的，还是技术角色大变换的真实反映——现代技术不仅是稍具独立的生产方式的集合，而且已经进化成创造经济结构与功能的语言。慢慢的，我们从生产固定的物理产品的技术转变到成为了新的目的可以进行无限的组合和装配的技术。经济学，也会因此而大为变化。<div style="padding-bottom:1em;"></div>       综上，本书的目的是要建立一个关于技术的理论——“一组连贯的一般命题”，并希望借此能够提供一个帮助我们理解“技术以及技术怎样在这个世界存在”的框架。<div style="padding-bottom:1em;"></div>第二章 组合与结构<div style="padding-bottom:1em;"></div>       在谈论技术之前，我们需要界定概念的范畴。这里，作者运用三原理中的第一原理，给出了技术的三个定义：一、技术是实现人的目的的一种手段；二、技术是实践和元器件的集合；三、技术是在某种文化中得以运用的装置和工程实践的集合。<div style="padding-bottom:1em;"></div>       之所以给出了三个定义，是因为它们是从不同角度理解技术的，并各自属于不同的范畴。每个范畴下的技术的形成和进化都不同。第一个定义作为单数意义上的技术——例如蒸汽机，是作为一个新的概念而产生的，并通过修正它的内部结构得以发展；作为一项复数意义上的技术——例如电，则往往通过围绕某些现象和器件建构起来，并通过改变它的构件和实践而得以发展；而作为一般意义的技术——所有过去和现存技术的总和，则产生于对自然现象的应用，并随着旧要素组合而成的新要素，有机地成长起来。<div style="padding-bottom:1em;"></div>       在本书中，作者将更多地涉及第二和第三个技术范畴，特别是关于技术的集合是怎样进化的问题。但在本章，先集中讨论第一个技术范畴，注意下面的逻辑是环环相扣的。<div style="padding-bottom:1em;"></div>       从单数角度思考技术，这些单数形式的技术真的有共通的逻辑吗？有。凡是单数逻辑的技术，都拥有两个特征：一、技术是实现目的的一种手段，它是一种装置、一种方法或一个流程；二、技术提供功能，功能指技术要执行的某一类任务。       既然各种技术之间有共通的逻辑，那么是不是因为它们在组成方式上有相同的结构呢？是的。技术的最基本结构，包含一个用来执行基本功能的主集成和一套支持这一集成的次集成。        那为什么技术会是以这样的结构（模块化结构)演化的呢？将技术的构件模块化可以更好地预防不可预知的变动，同时还简化了设计过程。但只有当模块被反复使用且使用的次数足够多时，才值得付出代价将技术分割为功能单元。       技术模块化的结构能给我们带来什么启示？一、技术具有层级结构：整体的技术是树干，主集成是枝干，次级集成是枝条，最基本的零件是更小的分枝；二、技术具有递归性：结构中包含某种程度的自相似组件，也就是说，技术由不同等级的技术建构而成。       技术的递归性有什么寓意么？一个寓意是指技术是高度可重构的，它们是流动的东西，永远不会静止，永远不会完结；另一个寓意是技术的组合必须是高秩序性的过程。<div style="padding-bottom:1em;"></div>      本章主要讨论技术之间共通的逻辑，但需要引起注意的是，技术之间差异非常之大。切莫因为有一点点共同点，而认为技术之间差不多。<div style="padding-bottom:1em;"></div>第三章 现象<div style="padding-bottom:1em;"></div>      无论是简单还是复杂的技术，它们都应用了某一种或几种现象。现象是技术赖以产生的必不可少的源泉。认识到这一点，我们就可以回答“技术的本质到底是什么？”——从本质上看，技术是被捕获并加以利用的现象的集合，或者说，技术是对现象有目的的编程。<div style="padding-bottom:1em;"></div>      在前面，技术被定义为实现目的的手段。但是除了技术，还有许多可以被定义为实现目的的手段，但完全不像是技术的事情，比如商业组织、司法系统、货币系统等。这里通过对技术本质的认识来进行辨析：人们一般意义上认为的技术，是基于物理现象之上的；而像商业组织之类的目的系统，是基于非物理现象之上的，就比如货币系统利用了“只要我们相信其他人会相信一种交易媒介是有价值的，而且何种信任会在未来持续下去，我们就会相信这个系统”的非物理性现象。需要注意的是，对于这两种技术，本书都有所讨论，这里是为了明确后续讨论的范围。<div style="padding-bottom:1em;"></div>     既然技术的本质隐藏在为达成目的而去组织、协调现象的过程中，接下来的问题就是：在最初，我们是怎样揭示并驾驭现象的呢？作者认为，现象是隐秘的，如果不去发现或发掘，现象是不能显现的。当然它们也不是随机散乱分布分，而是相互关联、成群聚居的，它们会依据使用效果而形成“矿层”、“矿脉”。在漫长的时间中，现象族群的成员一个一个被缓慢地、偶然地开采出来。有些浅层的现象，比如人类早期掌握的木头摩擦可以产热并生火的现象，是意外事件或偶然开发的结果；有些深层现象，比如由早期炼丹术士发现的化学现象，则需要系统、深入的调查研究；对于隐藏更深的现象，比如属于量子效应的核磁共振、隧道效应或受激辐射等，则需要知识的积累和现代技术来揭示了。它们的发现需要现代性的发现或再现的方法，换句话说，它们需要现代科学的帮助。<div style="padding-bottom:1em;"></div>    科学与现象之间的是怎样一种关系？科学提供观察现象的手段、科学提供与现象打交道时所需的知识、科学提供预测现象如何作用额理论、科学提供俘获现象、为我所用的方法。                 于是，这里就碰到了“科学是如何揭示新现象的呢？”大致有三条途径：一、重新关注在实验过程中被忽略的细节；二、通过理论与推理寻找现象的蛛丝马迹；三、某种尝试的副产品。         <div style="padding-bottom:1em;"></div>    科学和技术之间又是什么关系？关系很复杂。过去很多技术的诞生几乎与科学毫无关系。直到19世纪中期，技术才开始大规模地向科学进行“借贷”。科学之所以在这个时候链接到技术，不仅是因为它能对结果提供更多的洞见和更好的预测，还因为一些新的现象家族开拓被开发了。比如，电学和化学的现象家族，而它们处于一个如果不借助科学的方法和仪器就无法直接观察到的尺度或世界之中。因此，技术之所以应用科学，是因为这是去理解深层现象的工作机理的唯一方式。时光流转，科学（主要是科学思想）的会有机的成为技术的一部分，被深深地织入技术。而技术也同样地被深深地织入科学，科学通过观察和推理获得洞察力，但观察和推理又需要方法和设备。科学很大程度上是通过仪器和方法，即通过技术对自然进行探索的，比如望远镜、云室等，没有上述技术，现代科学根本不可能存在。由此可见，科学不仅利用技术，而且是从技术当中建构自身。综上，科学和技术是两个不同的概念。科学建构与技术，而技术是从科学和自身经验两个方面建立起来的。科学和技术以一种共生的方式进化着，每一方面都参与了与另一方的创造，一方接受、吸收、使用着另一方。两者混杂在一起，不可分离，彼此依赖。<div style="padding-bottom:1em;"></div>第四章 域<div style="padding-bottom:1em;"></div>       当现象族群被开发并加以利用以后，就自然而然地引起了技术的聚集。之所以个体技术要聚集成群，是因为它们分享了现象的族群和共同的目标、同一个理论。就像电以及电现象相关的设备和方法会自然而然聚集到电学中来，要素集聚成群，进而为形成可用的次级构件服务。作者将这种族群称之为域。个体技术和域之间差异很大，一项技术是要完成一项工作、达成一个目标，而且这个目标经常非常特殊；而一个域则不需要完成工作，仅仅作为一个工具箱存在。因此，个体技术对于技术体来说就如同程序对于程序语言一样。<div style="padding-bottom:1em;"></div>       工程设计是从选择一个域开始的，也就是要选择一组适合建构一个装置的元器件，这个选择过程，我们称之为“域定”。针对给定目的的“域”的选择是随着时间的推移而变化的。重新域定，是指以一套不同的内容来表达既定的目的。重新域定不仅提供了一套新的、更有效的实现目的的方法，还提供了新的可能性。这意味着技术的颠覆性改变。重新域定的力量是强大的，不仅仅在于它们提供了一套新的、更有效的实现目的的方法，更在于它们提供了新的可能性。可以说，域内发生的某些变化是技术进步的主要方式。实际上，域不仅定义可能性，而且可能定义一个时期的风格。时代创造着技术，技术同时创造着时代，可以说，技术比任何其他东西更能定义它们所描述的时代。<div style="padding-bottom:1em;"></div>       一个新的设备或方法是由一个域中适用的零部件，或者也可以说是适当的词汇聚集而成。从这个意义上来看，一个域构成了一种语言，但某个域在产生一件新的艺术品时，就相当于这个域在以某种语言进行表达。语言的组织必须依据语言规则，设计的建构也要根据域允许的组合规则进行，这种规则就是语法。一个域的语法决定它的元素如何被组装在一起，以及在什么情况下它们会结合在一起。它决定什么东西再起作用。这个意义上，我们有了电子学、水利学的语法，对应更精细的域，还会有次级语法和次次级语法。这样的语法从何而来？当然，毫无疑问，它最终一定是来源于自然。语法在很大程度上反映了我们对“特定域中自然是如何工作的”这个问题的理解。这种理解不仅来自于理论，也来自于经验积累。<div style="padding-bottom:1em;"></div>      对于域世界来说，每个域的所能都是独特的。某些域世界提供了特别丰富的可能性，另一些域世界则很有限，在所能方面会有限制。单一域的力量所在通常是那些最容易完成的部分，即不同域世界提供各自擅长的，互不相同的可能性。域反映着它们创造的那个世界的力量，但它们也同时反映着它的局限。在这个世界中，没有什么是静止的，待完成的东西随着域的演进及其基本现象边界的扩展而不断变化着。这暗示着创新不是发明以及对其的应用，而是在新的可能的世界中，将旧任务不断进行重新表达或者再域定的过程。<div style="padding-bottom:1em;"></div>第五章 工程和应对的解决方法<div style="padding-bottom:1em;"></div>       到目前为止，我们探究了技术的本质，它的工作原理以及它最深层的含义等问题。在此基础上，我们形成了一套关于技术的逻辑和框架，用以说明技术在世界上是如何被建构和操作的。现在，已经不再将技术看作是作为整体的一块铁板了，而是将其看成具有内部解剖结构的事物。这样一个内部视角，能否使我们从与以往不同的角度去看待技术这个问题呢？作者认为至少会有两个新见解产生。一是关于技术在其生命周期中如何进行自我修正，从外部看，技术的生命周期可能表现为从一个版本到下一个版本的变化，从内部看，我们会看到某一技术的内部组件一直都在变化；二是关于我们如何看待技术的可能性，从外部看，每项技术看起来都是在完成某个目标，从内部看，会发现技术不仅是为了提供某种特定功能存在的，它实际上还提供了一个组合或编程的词汇表，从而开启一个可能的新世界。<div style="padding-bottom:1em;"></div>      一个好的问题可能是成功的开始，为此我们需要一个关键的、足可以引领我们本章和下一章探讨的问题来开始进一步的探究。进化的发生源自于新技术的不断形成，它们通过将已有技术作为组件来形成新面貌的方式，表明它们是脱胎于此的。那么，这种“形成”到底是怎样发生的？新技术的产生机制是什么？一个显而易见的答案是，它是通过某种根本性创新过程来实现的。但新的组件也来自于日常性的标准工程。根本性创新与日常标准工程放在一起，初看会令人感到有些诧异，因此值得挖掘一下其中的演化过程。<div style="padding-bottom:1em;"></div>       在这一章，将要讨论标准过程。标准工程是执行一个新项目时，在已知可接受的原则下聚集方法和设备的过程，是对已有技术的新的计划、试制和集成过程。标准工程大致有三个阶段——先从一个总体概念出发，然后细化可以完成这个概念的集成件，最后实行制造或建造。设计过程在沿着层级向下演进的同时，也会从需求特点或者需求物向外演进。目的本身决定总体概念的样式，总体概念又决定着需要什么样的核心集成件，核心集成件又决定需要何种次级集成件来支撑它们，次级集成件又决定它们所需的组件，但每个层次必须相互匹配。因此可以预想，这个过程并非一帆风顺，需要对理念、集成件和单元组件进行测试和平衡，并不断克服不断出现的困难。<div style="padding-bottom:1em;"></div>      那么关于问题的解决方案是如何被建构起来的呢？设计师先对某事产生意向，为了表达着这个意向而去挑选一个工具箱或语言，为了将这个存在于“想像”中的意向呈现出来而去预想出概念和功能，然后找出合适的组件去组合，从而最终表达那个想法。所以，设计即表达，标准工程也就是一个认识过程。<div style="padding-bottom:1em;"></div>      这种建构又是如何与组合关联起来的呢？当一个解决方案如果被使用的次数足够多，它就成为一个模块，并因作为适用于标准用途的模块而具有包容性，它自己也成为一项技术。当然，解决方案模块化并不意味着技术中最好或最合适的解决方案总会存活下来。可以肯定的说，流行的技术更趋于获得进一步的优势，继而被锁定，所以在技术“选择”中，存在一个正反馈的过程。<div style="padding-bottom:1em;"></div>第六章 技术的起源<div style="padding-bottom:1em;"></div>      这章我们将讨论新技术是如何诞生的。新技术是针对现有目的而采用一个新的或不同的原理来实现的技术。<div style="padding-bottom:1em;"></div>      新技术是概念当中或实际形态当中，将特定的需求与可开发的现象链接起来的过程。新技术（发明）应该应用新原理，因此，发明有两大模式：一、肇始于链条的一端，源于一个给定的目的或需求，然后发现一个可以实现的原理；二、发轫于链条的另一端，从一个现象或效应开始，然后逐步嵌入一些如何使用它的原理。无论发明过程有多么变化多端，最终我们都可以将它们归为两大模式。<div style="padding-bottom:1em;"></div>      将上面的模式拓展开来，我们会发现科学和数学中德原创和技术中德原创没有根本性的不同。这种对应不是因为科学、数学和技术是一样的，而在于三者都是目的性系统。广泛来说，也可视为达到目的的手段，因此需要遵循同样的逻辑。三者的构成都始于形式或原理：对于技术，是源于概念性的方法；对于科学，是源于解释性的结构；对于数学，则源于真理和基本的公理结构。因此，技术、科学和数学的产生都是通过类似的试探启发过程——基本上是通过存在于问题和满足它的形式之间的一个链接来完成的。<div style="padding-bottom:1em;"></div>      因此，所有的发明都是目的与完成目的的原理之间的链接，并且所有发明都必须将原理转译成工作元件。<div style="padding-bottom:1em;"></div>第七章 结构深化<div style="padding-bottom:1em;"></div>      虽然我们已经大致清楚新技术的起源，但对于个体技术还没有完整的解释。一项新技术会发展变化，那么技术的发展及其背后又隐藏着什么呢？<div style="padding-bottom:1em;"></div>      通常来讲，一项新技术的最初版本都是粗糙的。技术一旦走上发展之路，各种各样的版本就会随之出现。通过“内部替换”，开发人员可以用更好的部件更换某一形成障碍的部件。开发人员还可以通过寻找更好的部件或材料，或者加入新组件进行结构深化。<div style="padding-bottom:1em;"></div>      当调换部件和结构深化都不能再为提高性能做什么的时候，技术就成熟了。这时候，如果要想取得进一步的发展，则需要一个全新的原理。但新原理不能说出现就出现，即使出现了，它想要取代旧原理也不是那么容易。旧设计、旧原理往往已经被锁定了。这是为什么呢？一个原因在于，经过精致、繁复的过程之后，已经成熟的旧技术会表现得比它的新对手好；另一个原因是经济领域问题，即使新的原理发展得很好，表现得也比旧原理好，但是采用它可能意味着改变周围的结构和组织，这样做的成本过高，因而可能不会被实现；最后一个原因是心理上，旧原理可以持续下去是因为从业者不认可这个新原理带来的愿景和承诺。这样，新技术被非常成功的旧技术所阻碍，技术上的转换既不容易也不顺畅，这种对旧有的成功原理的锁定所引起的现象，我们称之为自适应延伸。当一个新的情况出现或要求在其他领域应用时，人们更容易想到用旧技术或旧有的基本原理加以解决，并且会通过“拉伸”它来涵盖新的环境。<div style="padding-bottom:1em;"></div>     上面的过程是一个循环过程。一个新的原理出现、开始发展陷入局限、其结构不断被精致化。环境结构和专业熟悉度被锁定在原理及基础技术当中。新的目的和变化的环境出现时，它们通过延伸锁定技术进行适应，从而产生了进一步的精致化。最后，已被高度精致化的旧原理已经超出它能承受的极限，因此将让位于新的原理。新的基本原理可能更简单，但在适当的时候，它会自己变得精致化，这个周期循环往复。<div style="padding-bottom:1em;"></div>     上述过程和库恩的科学哲学理论十分相似。之所以会这样，只是由于科学的理论体系是目的性的，因此它们遵循同样的逻辑，科学也会发展，碰到局限性，进行精致化，并在恰当的时候寻求替换。因此无论是科学还是技术，其发展变化的逻辑是相似的。<div style="padding-bottom:1em;"></div>第八章 颠覆性改变与重新域定<div style="padding-bottom:1em;"></div>       域并不是若干单体技术的简单相加，它们是连贯的整体，对经济的影响也更大。任何新域，都产生于一个已存在的域——母域，而且参与者开始很少能意识到会发生“颠覆性改变”。但随着理解的深化和实践的固化，新域会慢慢忘记它的母域而横空出世，甚至会极大地提升国家竞争力。本章的主题是，域究竟是如何形成并发展的呢？<div style="padding-bottom:1em;"></div>      域的形成有两种模式：一是围绕核心技术联合而成的，一是从一个现象家族中建构起来的。<div style="padding-bottom:1em;"></div>      域有其生命周期：诞生-解决母域中特定的问题，在理解和实践中固化、发展；青春期-解决发展中的阻碍，产生可行的技术并应用于市场；成熟期-市场由狂热走向冷静，新的域以自己的方式深入地影响经济，进入稳定成长阶段；晚年-鲜有重要理念产生，有些域会被取代，但大多数还得以存在并服务人类。并不是所有域都能完成整个循环。一些域每隔几年就会通过重构自身（改变它们的特性）打破周期，即当一个域的关键技术发生根本改变时，它就会发生变异。变异分很多情况，比如变体再比如产生新的次级域。这一切都意味着，域，以及任何暗示技术体的东西，从来不能被条理清晰地定义。<div style="padding-bottom:1em;"></div>     技术体的出现于发展，会对经济有什么影响呢？我们可以说，如同个体技术一样，技术体也引起了经济模式的扩展性调整。但这样的回答过于简略与不完整。这个过程可以被扩展描述，我们将新的技术体看作是它的方法、设备、理解和实践的总体，然后将一个具体产业看作是它的各组织机构和商业过程的组合，以及它的生产方法和物理设备的组合。它们都属于我们先前定义的广义的技术。这两个技术一个来自新的域，另一个来自某个特定的行业，它们聚集起来并相互遭遇，其结果是产生了新的组合。事实上，如果以这种方式形成的新的组合足够强大，它们就可以创建一个新的产业，或者至少一个次级产业。<div style="padding-bottom:1em;"></div>     不过我们需要注意的是，技术之间的契合是需要调整，类似于第七章所描述的过程，域和经济互助式地进行共适应和共创新。我们将这样的共变和共创过程称为“颠覆性改变”。经济领域中的每个时代都是某种模式，是在商业、工业以及社会中能够达到逻辑自洽的一套结构，这套结构是由在当时占领主导地位的域来确定的。当新的技术体，如铁路、电气化、大规模生产、信息技术等渗透到经济当中时，旧结构可能崩溃，新结构便取代了它的位置。一度被认为理所当然的产业被废弃了，新的产业诞生了。旧的工作方式、古老的惯例、旧的行业开始显得古怪，工作和社会中的制度安排开始重构。<div style="padding-bottom:1em;"></div>     所有这些新技术的展开、经济的调试，都需要大量时间。之所以有一定延迟，是因为域和经济之间不是一个简单的采用过程，而是一个更大的、互相采用的过程。对于一场颠覆性改变来说，只有基础技术的改变还是不够的。一场颠覆性改变的完全展开需要等我们对那些围绕着新技术的活动（企业或商业流程）进行组织，并且直到这些技术也开始适应我们之后才算真正完成。为了实现这一切，新的域必须积累信徒和声誉，必须找到目的和用途；其核心技术必须能够解决障碍，并且填补组件之间的裂缺；它必须发展它的支撑技术，并且将它和使用它的技术桥接起来；它必须理解它的现象基础以及借由这些而发展起来的理论。<div style="padding-bottom:1em;"></div>     关于新技术体的建构非常引人注目的一件事是，它们的发展前沿通常会高度集中在一个或最多几个国家或地区。为什么会是这样？如果技术来自于知识，即关于即关于技术和科学的信息，那么，原则上讲，任何一个拥有工程师和科学家的国家都应该和其他国家一样具有创新性。毕竟，大多数国家应用的是同样的科学，同样的学术期刊，同样的知识、事实、真理、理念和信息。但真正前沿的技术，那些处于边缘的复杂技术并不是源于知识，而是源于别的东西，我将它们称之为“深奥的手艺”。深奥的手艺不只是知识，体是一套认知体系，来自于某种无法言明的文化。这样的认知根植于地方性微观文化中，一旦一个地区或国家因为行业秘密在技术提中领先了，这个地区就会处于更领先的地位，成功会接踵而至，形成对技术的地方性聚集作出的积极反馈或者收益递增效应。这就是为什么新的技术体会在一个或两个特殊区域聚集起来，并且很难被挑战的原因。因此，如果一个国家希望能够引领先进技术，它需要的不是投资更多的工业园区或含糊地培养所谓的“创新”，它需要建立其基础学科，而且不带有任何商业目的。<div style="padding-bottom:1em;"></div>    接下来总结一下本书对于“创新”的看法。我们可以将前面四章看成是关于创新的详细解释。这里没有单一的机制，而是大约4个相互独立的机制。创新存在于新的解决方案转变为标准工程的过程中，其间包含着许许多多微小的进步和修正，它们积累在一起共同推动着实践前进；创新存在于由发明引发的根本性新技术产生的过程中；创新存在于这些新技术在改变内部组件或者结构深化时，因增加组件而获得发展的过程中；创新还存在于技术体从出现到随时间而发展，最后创造性地改变了那些与之遭遇的产业的过程中。<div style="padding-bottom:1em;"></div>    这里谈的每类创新都很重要。并且它们中的每一种都摸得着、看得见，创新不是什么神秘的事。它的发生不是模糊地求助于所谓“创造性”。创新实际上只是另辟蹊径地完成经济的任务。面对我研究的案例，我一次又一次地强烈意识到，创新总是出现在人们面临问题的时候，尤其是在面对那些非常清晰的问题时。创新总是作为解决的方案出现，那些方案是由那些对组合手段或功能着迷的人想出来的。事实上，创新有两个主要的主题。一个是如何不断在现有工具箱里的零部件及实践中去发现或组合新的解决方案；另一个是产业如何不断将它们的实践过程同那些来自新的工具箱的功能组合起来。第二个主题与第一个类似，也是关于新的过程和制度安排的创造，是实现目的的新手段，但是它更为重要。这是因为重要的新领域遭遇到的是经济中所有的产业。当这一切发生的时候，域将它们所能提供的解决方案与许多工业领域内部原有的制度安排方式结合起来。结果是，新工艺、制度安排、做事的新方式不仅仅是在一个地区内被使用，而是贯穿到整个经济中。<div style="padding-bottom:1em;"></div>第九章 进化机制<div style="padding-bottom:1em;"></div>    组合是新技术的潜在来源。组合的威力，在于它的指数级增长。如果新技术会带来更多的新技术，那么一旦元素数目超过一定阈值，可能的组合数就会爆炸性增长。技术就如同生命体一样，它的进化与生物进化也没什么本质区别。这一章，主题就是探究“技术是如何进化的”。<div style="padding-bottom:1em;"></div>    前面，作者一直在讲技术是从原有技术中被创造出来的，之所以会这样，深层原因在于，任何目的性系统的新组件，都只有通过使用已有的方法和组件才能使其在现实中实现。也就是说，所有技术产生于已有技术，已有技术的组合使新技术成为可能。当然，说技术诞生于原有技术并不意味着技术是有意识的，或能以某种阴险的方式利用人类为它们自身的目的服务。技术集合通过人类发明家这个中介实现自身建构，很像珊瑚礁通过微小生物自己建构自己一样。所以，假如我们把人类活动总括为一类，并把它看成是给定的，我们就可以说，技术体式自我创生的。失去了这个前提，技术体只是珊瑚礁一样的有机存在。<div style="padding-bottom:1em;"></div>   自创生告诉了我们更多的东西。它告诉我们，历史是重要的：如果技术由于某种偶然以不同的序列出现，建立在这些技术之上的技术也会不同。自创生还给人一种感觉：技术是通过扩展延伸到未来的，也给连为我们一种去思考人类历史中的技术的方式。上述是主导技术发展的更大力量，接下来我们将把镜头推向更具体、更细节的机制。其中一股力量当然是组合，我们可以将它视为现有的技术体“供给”新技术的能力，无论是将现有的零部件进行总成，还是用它们捕获现象。另一股力量是需求，对要完成目的的手段的需求，还有对新技术的需求。将这些供给和需求整合在一起，就产生了新元素。<div style="padding-bottom:1em;"></div>   技术的进化机制就是“组合进化”。所有技术都是从已存在的技术中被创造出来的。如果新的技术会带来更多的新技术，那么一旦元素的数目超过一定的阈值，可能的组合机会的数量就会爆炸性地增长。有些技术甚至以指数模式增长。<div style="padding-bottom:1em;"></div>   即使已有技术的组合为新技术提供了一件潜在的”供应“，它们也只会因出现了某种需要，或说某种“需求”而产生。事实上，需求不是一个恰当的词。因为在青霉素或核磁共振还不存在的时候，根本无法在经济中对它们提出明确的需求。因此不如说我们应该谈论的是技术的机会——即技术可以有效地占据的利基。机会利基的出现召唤新技术的诞生。那么在人类社会或经济中，究竟是什么导致了机会利基的产生？第一个原因，显而易见是人类的需要。第二个原因，是因为技术促进了需求的成长，因为我们的需求是精致细腻的，它们对社会状况的依赖既精妙、轻松，又复杂、异常。第三个原因，是因为技术经常引发间接性的问题，这会产生提供解决方案的需求或者机会。<div style="padding-bottom:1em;"></div>        这些驱动的力量给我们提供了一个宏大的图景，已有技术的组合提供了新技术的可能性：一种潜在的供应。而人类和技术的需要又创造出了无数的机会利基市场：一种需求。随着新技术的出现，需要进一步驾驭和组合的新机会持续出现着。所有这一切都自展式地前行。<div style="padding-bottom:1em;"></div>         那么这种自展是通过什么具体的步骤、机制来实现的呢？可以讲技术体看作是一个网络，这个网络是自我建构的，并且有机地向外部生长。其中具体细节内容较多，在此不述。<div style="padding-bottom:1em;"></div>         技术的进化有两个主要特点，首先技术的进化根本就没有可以预先决定的确切顺序，也不是完全随机；另外进化不是均匀的，变化导致变化，静止衍生静止。<div style="padding-bottom:1em;"></div>         与生物进化相比，技术进化到底为何？有什么不同？在生物进化中，变异和选择是第一位，而组合的发生是非常偶然的，但常常会有惊人的结果。对于技术来说，组合则是常态。每个新技术和新的解决方案都是一个组合，而且每个现象的捕捉都会应用一个组合。在技术中，组合进化是第一位，是常规定例。达尔文进化的变异和选择也存在，但是它们是靠后的，是在已经形成的结构之上产生作用的。<div style="padding-bottom:1em;"></div>第十章 技术进化所引发的经济进化<div style="padding-bottom:1em;"></div>        经济是其技术的一种表达，它是一套安排，包含着集合进化的过程、组织、装置以及制度供给。它随着技术的进化而进化。因为技术是源出于技术的，它在技术的自我创造中获得传承，永远开放、永远新颖。因此，经济最终产生于创造技术的那些“现象”之中，归根结底，那个被组织起来为我们的需求服务的东西是“自然”。<div style="padding-bottom:1em;"></div>       这样的经济毫无简单性可言。这样的经济是一种结构，一种宏大的结构，它是互动的、包含着相互支撑的安排，存在于任何等级，历经几个世纪，不断从自身中生长出自己。这种结构进化是对构成经济的安排的不断重建，它是持续的、分形的、不可阻挡的。它会带来永不停止的变化。那么结构变化中有什么永恒不变的吗？经济在建构它的模式时总是汲取同样的元素：人类行为偏好、论述的现实基础、供求平衡的自明之理。这些在基本“法则”之下的元素总是相同的。<div style="padding-bottom:1em;"></div>        “经济学作为一门学科，经常为人诟病，因为，不像物理或者化学这些“硬科学”，经济不能保持一套不变的描述。但是这不是经济学的失败，而是正当和自然的。经济不是简单的系统，它是一个进化的复杂系统，其形成的结构永远随时间而变化。这意味着我们关于经济的解释也一定是随着时间而变化的。我有时候想，经济就像是夜晚的战场，它漆黑，在围墙上几乎什么也看不到。而大约半英里远，就有敌人的营地，可以听到悉悉簌簌的声音，可以感受到军队正在重新部署（当然，新的战略部署即使再好，也是在现有部署的基础上转化来的。）这时，突然某个人点亮了一团火，火光照亮整个战场的部署，各种炮位、安排、部队、战壕一下子变得一目了然，然后火光骤然熄灭，一切又复归黑暗。经济就是如此。经济中的华光就是亚当·斯密、李嘉图、马克思、凯恩斯，还有熊比特的理论。它们偶然照亮了一下战场，但真正的骚动和变换一直在黑暗中进行着。我们确实能够观察到经济，但是我们描述经济的语言，我们标明经济的标志，以及我们对经济的理解，都凝固在那燃亮的一瞬间—尤其是最近的一组大火中。<div style="padding-bottom:1em;"></div>第十一章 我们的立场是什么<div style="padding-bottom:1em;"></div>        随着基因组研究和纳米技术的发展，生物正在变成技术，与此同时，从技术进化的角度看，技术也正在变成生物。两者已经开始相互接近并纠缠在一起了。经济作为广义上的技术，也已某种方式反映了这个现象。<div style="padding-bottom:1em;"></div>        技术从维多利亚时代那种以大宗材料为主导的技术模式中脱离出来，已经是很久远的事了，而现在它又开始转换了：从只实现单一目标功能的流程或机器转换为采用不同组合以实现不同目的的技术。简而言之，经济正在变得具有繁衍能力。它关注的焦点从优化固定操作转变为创造新组合以及新的可配置的产品了。在繁衍性的经济中，竞争优势不是来自于资源储备及将这些转变为最终产品的能力，而是来自将深层知识储备转译到新的战略性组合的过程。具体表现为，从占有资源的角度获取国民财富的总量开始不如从占有专业科学及技术知识的角度获得的那样多了。 我们从20世纪由工厂和投入-产出关系构成的机器态经济转换到了21世纪有机的、相互联系的经济形态。<div style="padding-bottom:1em;"></div>       经济学正在逐渐开始回应这些变化。经济学的标准理论曾经是建立在可预测性、秩序、均衡以及行为理性等基本原理之上的，其他与之相适应的应该是长时期保持不变的大批量生产方式。但是随着经济发展趋于组合性，技术也更加开放、新的原理就会进入，并成为经济学的基本原理。秩序、封闭、均衡作为组织解释的方式现在让位于开放性、不确定性以及永恒的新颖性。<div style="padding-bottom:1em;"></div>       我们该如何看待我们的创造物—技术呢？技术的本质不是技术，它是一种看见自然的方式，原因在于技术是我们实现目的的手段，目的就决定了技术的本质。如果技术出了问题，那么问题并不在于技术，而是存在于随技术而来的态度之中——我们应该接受冷酷的、无意志的技术还是应该接受有机的、具有生命力的技术。<div style="padding-bottom:1em;"></div>       我们是人类，我们需要的不只是经济上的舒适。我们需要挑战、我们需要意义，我们需要目的，我们需要和自然融为一体。如果技术将我们与自然分离，它就带给我们某种和形态的死亡。但是如果技术加强了我们和自然的联系，它就确立了生活，因而也就确立了我们的人性。我们应该拥抱让我们和自然团聚的技术。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37230199/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-21 17:26
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42018356">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/NullPointer/"><img src="https://img1.doubanio.com/icon/u1011741-67.jpg" alt="NullPointer" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42018356/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42018356/" class="">第三章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/NullPointer/" class=" " title="NullPointer">NullPointer</a>
+                (你是洁白的盐，我是棕色的面包。)
+              
+            </p>
+            <div class="reading-note" data-cid="42018356">
+              <div class="short">
+                
+                  <span class="">技术必须也必然依赖某个自然之理（作者称之为现象），新定义（定义本身代表理解）： 技术是被捕捉的现象，是对现象的组合和支配，是基于现象的编程。 现象可以视为被揭示的（一系列的）因果关系</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/42018356/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2017-03-02 07:35</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>技术必须也必然依赖某个自然之理（作者称之为现象），新定义（定义本身代表理解）：</p><p>技术是被捕捉的现象，是对现象的组合和支配，是基于现象的编程。</p><p>现象可以视为被揭示的（一系列的）因果关系</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42018356/#comments">1回应</a>&nbsp;&nbsp;
+                  2017-03-02 07:35
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="31982892">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/59056934/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="ccs424" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/31982892/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/31982892/" class="">第41页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/59056934/" class=" " title="ccs424">ccs424</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="31982892">
+              <div class="short">
+                
+                  <span class="">GSS：
+作者总结了
+技术的特性——“三不原理”。。。
+
+技术的特性：
+a.高度可重构性
+b.流动性
+
+技术的流动性＝＝》技术 三不原理：
+a.不会静止
+b.不会完结
+c.不会完美
+。。。
+
+
+
+
+GSS：
+这一对技术 特性的 归纳总结，不同于 关于技术特性的 通说。。。
+通说认为，技术3特性：
+
+标准观点＝大多数技术思想家的观点，认为技术3特性为：
+a.自给自足
+b.固定不变
+c.偶有创新
+。。。
+
+
+
+
+GSS：
+作者对 技..</span>
+                <p class="pl">
+                  <span class="">2014-06-20 16:34</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                GSS：<div style="padding-bottom:1em;"></div>作者总结了<div style="padding-bottom:1em;"></div>技术的特性——“三不原理”。。。
+<blockquote><q>
+技术的特性：
+a.高度可重构性
+b.流动性
+
+技术的流动性＝＝》技术 三不原理：
+a.不会静止
+b.不会完结
+c.不会完美
+。。。
+</q></blockquote><div style="padding-bottom:1em;"></div>GSS：<div style="padding-bottom:1em;"></div>这一对技术 特性的 归纳总结，不同于 关于技术特性的 通说。。。<div style="padding-bottom:1em;"></div>通说认为，技术3特性：
+<blockquote><q>
+标准观点＝大多数技术思想家的观点，认为技术3特性为：
+a.自给自足
+b.固定不变
+c.偶有创新
+。。。
+</q></blockquote><div style="padding-bottom:1em;"></div>GSS：<div style="padding-bottom:1em;"></div>作者对 技术特性的理解 恰与 通说 相对。。。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/31982892/#comments">回应</a>&nbsp;&nbsp;
+                  2014-06-20 16:34
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="33248928">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/younggift/"><img src="https://img3.doubanio.com/icon/u3077593-2.jpg" alt="杨贵福" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33248928/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33248928/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/younggift/" class=" " title="杨贵福">杨贵福</a>
+                (重剑无锋，大巧不工。)
+              
+            </p>
+            <div class="reading-note" data-cid="33248928">
+              <div class="short">
+                
+                  <span class="">技术的本质：技术是什么，它是如何进化的 (布莱恩•阿瑟)
+
+- page 30 
+
+然而，作为人类，我们实际上不应该和技术如此紧密地结合，而是应该和其他什么东西融合得更为紧密，那就是自然。在最深的层次上，人的存在应该和自然，和我们最初的环境，以及最初使我们成为人的那些条件相融合。
+==========
+
+- page 36
+
+如今机器被用来生产机器了，同时它又变成了以后同类机器的父母。
+==========
+
+- page 43
+
+技术的建构不..</span>
+                <p class="pl">
+                  <span class="">2014-10-27 18:46</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                技术的本质：技术是什么，它是如何进化的 (布莱恩•阿瑟)<div style="padding-bottom:1em;"></div>- page 30 <div style="padding-bottom:1em;"></div>然而，作为人类，我们实际上不应该和技术如此紧密地结合，而是应该和其他什么东西融合得更为紧密，那就是自然。在最深的层次上，人的存在应该和自然，和我们最初的环境，以及最初使我们成为人的那些条件相融合。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 36<div style="padding-bottom:1em;"></div>如今机器被用来生产机器了，同时它又变成了以后同类机器的父母。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 43<div style="padding-bottom:1em;"></div>技术的建构不仅来自已有技术的组合，还来自于对自然现象的捕捉和征服。在<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 44<div style="padding-bottom:1em;"></div>技术（所有的技术）都是某种组合。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 44<div style="padding-bottom:1em;"></div>三个基本原理<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 44<div style="padding-bottom:1em;"></div>其次，技术的每个组件自身也是缩微的技术。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 44<div style="padding-bottom:1em;"></div>第三条基本原理是，所有的技术都会利用或开发某种（通常是几种）效应（effect）或现象（phenomenon）。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 44<div style="padding-bottom:1em;"></div>技术组件的集成或组合是为了满足它们的目的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 44<div style="padding-bottom:1em;"></div>motivation <div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 44<div style="padding-bottom:1em;"></div>技术组件的集成或组合是为了满足它们的目的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 44<div style="padding-bottom:1em;"></div>motivation , difference between the evolution of technology and biology.<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 49<div style="padding-bottom:1em;"></div>定义：技术是实现人的目的的一种手段。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 49<div style="padding-bottom:1em;"></div>技术是实践和元器件（components）的集成（assemblage）。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 50<div style="padding-bottom:1em;"></div>将技术作为在某种文化中得以运用的装置和工程实践的集合。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 53<div style="padding-bottom:1em;"></div>装置和流程的确可以归于相同的范畴。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 55<div style="padding-bottom:1em;"></div>技术总是围绕着一个中心概念或原理，如“事物的方法”或者一个可行的核心理念来组建<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 57<div style="padding-bottom:1em;"></div>各个子程序就处于不断的相互联系之中，它们不停地“对话”，就如同喷气发动机那样。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 60<div style="padding-bottom:1em;"></div>技术的分解随着市场的细分而加剧。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 61<div style="padding-bottom:1em;"></div>一开始的一系列松散地串在一起的零件如果被用得足够多，就会“凝固”成独立的单元。技术模块随着时间的推移会变成标准组件。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 66<div style="padding-bottom:1em;"></div>一个技术绝少是固定不变的。它会不断地变换结构，当目的改变时，它会去适应并进行重新的配置，<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 66<div style="padding-bottom:1em;"></div>在真实世界中，技术是高度可重构的，它们是流动的东西，永远不会静止，永远不会完结，永远不会完美。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 73<div style="padding-bottom:1em;"></div>theory , principle .<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 73<div style="padding-bottom:1em;"></div>现象是技术赖以产生的必不可少的源泉。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 75<div style="padding-bottom:1em;"></div>这个例子阐明了如何应用现象的组合去达到目的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 75<div style="padding-bottom:1em;"></div>在实践中，现象在能够被应用于技术之前，一定要被“驯服”，并且作好恰当的准备。天然形式的现象很难被利用，需要巧妙的诱导，它们才能令人满意地运作起来。它们可能只在很有限的条件下起作用，所以一定要建立正确的支持方式才能使它们为预设的目的服务。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 83<div style="padding-bottom:1em;"></div>货币系统利用了这样一种现象：只要我们相信其他人会相信一种交换媒介是有价值的，而且这种信任会在未来持续下去，我们就会相信这个系统。需要注意的是，这里的现象不是物理性的，而是行为性的，<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 83<div style="padding-bottom:1em;"></div>物理现象。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 84<div style="padding-bottom:1em;"></div>目的性系统（purposed systems）。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 170<div style="padding-bottom:1em;"></div>根据原理选择部件<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 91<div style="padding-bottom:1em;"></div>科学之所以在这个时候链接到技术，不仅是因为它能对结果提供更多的洞见和更好的预测，还因为一些新的现象家族开始被开发了。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 91<div style="padding-bottom:1em;"></div>简化模型<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 91<div style="padding-bottom:1em;"></div>技术人员应用科学思想就如同政客们应用已故的政治哲学家们的思想一样。他们日复一日地使用这些思想，对其起源的细节却知之甚少。但这并不是出于无知，而是因为起源于科学的那些思想会随着时间的推移被消化吸收到技术体自身当中，例如融入电子工业或生物技术。它们在这些领域中与经验和特定的应用融合在一起，创造出它们自己固有的理论和实践。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 95<div style="padding-bottom:1em;"></div>技术是对现象的驾驭，而这很大程度上是由科学揭示的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 100<div style="padding-bottom:1em;"></div>为什么个体技术要聚集成群？原因之一是它们是分享了现象的族群。但这不是唯一的理由，技术聚集在一起还因为它们分享了共同的目标：<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 100<div style="padding-bottom:1em;"></div>共同的假设<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 100<div style="padding-bottom:1em;"></div>用来概括和分析数据并实施统计性测试的统计软件包，拥有一个共同的假设前提，即抽样在总体上应是正态分布的，因而统计软件包工作的基础是共享了所操作数据在这个性质上的假设。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 101<div style="padding-bottom:1em;"></div>lib <div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 101<div style="padding-bottom:1em;"></div>一项技术（个体技术）是要完成一项工作，达成一个目标的，而且这个目标经常非常特殊。而一个域（复数的技术）则不需要完成工作；它仅仅是以一个工具箱的方式存在，你可以从中选取有用的元器件或一系列的应用规范。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 105<div style="padding-bottom:1em;"></div>20世纪30年代，人们可以用由水泥制造的、15英尺或更高的巨大的声反射镜去监察跨越海峡飞往英格兰的飞机。它需要搜集来自20英里远的声音，然后交由具有超敏感听力的人进行处理。到第二次世界大战爆发时，雷达被用来实现同样的目的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 107<div style="padding-bottom:1em;"></div>它可能需要巴贝奇亲自设计设备，组装一台地震波分析仪，并依据爆炸回声进行地图的渲染。这个机器将是一个奇迹，它也许会带有一个犄角形的听筒，一个辅助的铜齿轮和杠杆，以及转盘和着墨的绘图笔。这个设备工作起来缓慢、复杂，而且它将专门用来进行地震勘测。巴贝奇时代的这些域（机器、铁路、早期工业化学）的触角很短，因此所能提供的可能性很有限。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 110<div style="padding-bottom:1em;"></div>事实上，正如口语表达的清晰度不仅取决于语法一样（它依赖于词汇的深层含义及其文化相关性），技术的清晰表达也不会仅仅依赖于语法。技术的清晰表达需要相关域的深层知识，包括：所使用组件的词汇的流利程度；对标准模块、以前的设计、标准材料、相关技术的熟悉度；<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 110<div style="padding-bottom:1em;"></div>dsl<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 110<div style="padding-bottom:1em;"></div>语法在很大程度上反映了我们对“特定域中自然是如何工作的”这个问题的理解。这种理解不仅是来自于理论8，也来自于经验积累：<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 115<div style="padding-bottom:1em;"></div>可以在不同的域世界中完成同样的任务，但是功效可能会不一样。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 117<div style="padding-bottom:1em;"></div>这暗示着创新不是发明以及对其的应用（例如，计算机、运河、DNA或者芯片的发明和应用），而是在新的可能世界中，将旧任务（例如，会计、运输或者医疗诊断）不断地进行重新表达（re-expressing）或者再域定（re-domaining）的过程。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 130<div style="padding-bottom:1em;"></div>我们要关注的是它和语言的关系，先有意向，然后是完成的方法——组件的恰当组合。所以，设计即表达。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 134<div style="padding-bottom:1em;"></div>如果你看过任何一本工程手册，你就会发现许多标准问题的解决方案。比如《机械和机械设备图集》8就给出了“耦合旋转轴的19种方法”，以及“15种不同的凸轮机构”。另外一个电子类的手册，则图解了5种振荡电器：阿姆斯特朗振荡器、科耳皮兹振荡器、克拉普振荡器、哈脱来振荡器、瓦卡振荡器。这类手册提供了标准解决方案来解决那些重复性的问题，也可以为特定的用途进行修改。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 138<div style="padding-bottom:1em;"></div>标准工程中的每一个项目都会使一系列问题显现出来，每一个解决的结果都是一套对应的解决方案。可用的解决方案被建构并在实践者中传播，其中一些可能变成技术名词，进而变成未来技术的建构元素或模块。标准工程对创新和进化都贡献良多。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 141<div style="padding-bottom:1em;"></div>新技术是针对现有目的而采用一个新的或不同的原理来实现的技术。新技术是在概念当中或实际形态当中，将特定的需求与可开发的现象链接起来的过程。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 142<div style="padding-bottom:1em;"></div>新技术的形成（激光打印机、涡轮喷气发动机、计算机）都是源于一个新的或不同的基本原理。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 143<div style="padding-bottom:1em;"></div>我发现勾勒出这个链条很有用。链条的一端是“需求”或“目的”；另一端是能达成需求或目的的基本“现象”。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 144<div style="padding-bottom:1em;"></div>发明有两大模式： • 肇始于链条的一端，源于一个给定的目的或需求，然后发现一个可以实现的原理。 • 发轫于链条的另一端，从一个现象或效应开始，然后逐步嵌入一些如何使用它的原理。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 145<div style="padding-bottom:1em;"></div>将原理转译成工作元件<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 146<div style="padding-bottom:1em;"></div>至此，需求已经变成一个被详尽描述的问题。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 145<div style="padding-bottom:1em;"></div>假设这时已经有了解决方案，那么标准技术就足以应付。但现在不行，因而如何定义问题本身就变成了挑战。那些接受挑战的人会遇到类似需要满足某个需求或需要克服某种限制的情况。他们很快会将挑战简化为需求——一个需要解决的技术问题。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 153<div style="padding-bottom:1em;"></div>当你听完斯塔克伟泽的故事后，印象最深的应该是他所面临的选择。每个次生问题都可能有几种解决方案。斯塔克伟泽选择解决方案、检验它们的可行性，并努力从中组成和谐的整体。当需要找到次生或次次生问题的源头时，他就向下拓展这一梯式递归进路，如果这些问题得到解决或被放弃了，他就再向上回溯。这个过程几乎总是很漫长，只有当获得了必要的知识，并且次生技术带来的挑战已被成功地克服后，才能向前迈一大步。前进的方向总是沿着运行恰切的版本向前延伸的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 156<div style="padding-bottom:1em;"></div>莱特兄弟所要做的是解决阻碍原理被转译成可行技术的四个关键的次生问题。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 156<div style="padding-bottom:1em;"></div>基本原理有时会自然呈现，有时会突然出现。困难之处在于如何使原理正确地发挥作用，这可能需要漫长的努力。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 164<div style="padding-bottom:1em;"></div>科学与数学中的原创和技术中的原创没有根本性的不同，我们不必对此感到惊讶。这种对应的存在不是因为科学、数学和技术是一样的，而在于三者都是目的性系统。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 164<div style="padding-bottom:1em;"></div>科学与数学中的原创和技术中的原创没有根本性的不同，我们不必对此感到惊讶。这种对应的存在不是因为科学、数学和技术是一样的，而在于三者都是目的性系统。广泛来说，也可视为达到目的的手段，因此需要遵循同样的逻辑。三者的构成都始于形式或原理：对于技术，是源于概念性的方法；对于科学，是源于解释性的结构；对于数学，则源于真理与基本的公理结构。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 170<div style="padding-bottom:1em;"></div>事实上，开发者经常寻找的并不是更好的部件，而是这个部件恰好能提供的一个现象。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 176<div style="padding-bottom:1em;"></div>当调换部件和结构深化都不能再为提高性能做什么的时候，技术就成熟了。这时候，如果想取得进一步的发展，则需要一个全新的原理。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 177<div style="padding-bottom:1em;"></div>只要我们能够，我们总是倾向于将感知置于经验、事件之上，创造符合它的变故和关系。我们对那些不符合这种参考框架的事物往往采取忽视、误解或否认的态度。结果是，我们通常能找到我们所要寻找的东西。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 191<div style="padding-bottom:1em;"></div>生产工具的变革<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 191<div style="padding-bottom:1em;"></div>经济学假设新技术是被 “采用”的，它们被接纳并应用于经济中。对于个体技术当然是这样。钢铁生产商采用贝塞麦生产过程，他们的生产能力也相应地起了变化。但这并不能很好地描述复数的技术的情况，如计算或铁路技术。我更倾向于认为工业、公司、商业运作等经济要素并不是“采用”了一个新的技术体，而是“遭遇”了它。正是由于这种遭遇，才产生了新工艺、新技术、新兴产业。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 197<div style="padding-bottom:1em;"></div>统一或分散的动力<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 196<div style="padding-bottom:1em;"></div>9在工厂还没有实现电气化之前的一个世纪左右，人们依靠蒸汽机提供动力。每一个工厂都有这样一个独立引擎，一个足有几层楼高的巨大的家伙嘶吼着，摇动着一个由活塞、飞轮、滑轮、皮带构成的组合，驱动主轴的运转，然后再继续驱动工厂里其他的机械设备。直到19世纪80年代，电动发动机才作为新的电子域的主要成员进入了可操作阶段。它们所耗能源成本很低，还可以分解成小单元进行安装。这样一来，每个需要提供动力的工作机旁边都可以安装一台电机。同时它们可以做到独立控制，可以依据需要分别开启或关闭。毫无疑问，电动发动机是更优的技术。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 197<div style="padding-bottom:1em;"></div>新技术要求重新建造工厂。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 200<div style="padding-bottom:1em;"></div>手艺的形式部分可能最终会成为学术论文和教科书，但真正的专业技能部分则很大程度上藏在它创生的地方，在那里，它被视为理所当然的、共享的，且无须明言。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 210<div style="padding-bottom:1em;"></div>随着技术数量的增加，组合的可能性也相应提高。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 210<div style="padding-bottom:1em;"></div>威廉·奥格本早在1922年就已观察到这一点：“可用于辅助发明的东西越多，发明的数量就越大。”<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 211<div style="padding-bottom:1em;"></div>他预期物质文化（技术）的增长显示出“和复利曲线的相似之处”。如果他能在今天进行写作，他会说技术是按指数级增长的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 213<div style="padding-bottom:1em;"></div>事实上，需求不是一个恰当的词。因为在青霉素或核磁共振还不存在的时候，根本无法在经济中对它们提出明确的需求。因此不如说我们应该谈论的是技术的机会——即技术可以有效地占据的利基。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 219<div style="padding-bottom:1em;"></div>新技术可能与旧技术结合,也可能取代。都是利基之处。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 219<div style="padding-bottom:1em;"></div>在实践中，它们其实并不能这样干净利落地前后相继、井井有条，而经常是并行发生的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- Your Note on page 223<div style="padding-bottom:1em;"></div>与非门<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 223<div style="padding-bottom:1em;"></div>所有可用的技术只有NAND（不是AND）电路（<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 226<div style="padding-bottom:1em;"></div>我们既不能预见会形成何种组合，也不能预见何种机会利基会被创造。由于潜在组合是成指数式增长的，这种不确定性也会随着技术体的发展而增加。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 236<div style="padding-bottom:1em;"></div>经济以这种方式在暴风骤雨般的变化当中构成或重构自身，包括创新和适应这种新的制度安排，以及如影随形、互相追逐的机会利基。 让我以一个具体的例子来详细阐明我的观点。当实用的纺织机械于18世纪60年代在英国诞生时，它提供了一种替换当时以手工作坊为基础的生产方式。2当时，羊毛和棉布的纺织都是在家里手工完成的，属于散工制的组织方式。新机器在刚开始时获得了部分成功。接着，它需要比家庭手工作坊更大规模的组织，因此它为更高级的组织安排（纺织厂或毛纺厂）提供了机会，并成为其中的一部分。工厂实际上也是某种技术，它作为一种组织手段，反过来需要另一种手段来实现：工厂劳动力。劳动力当然早已在经济中存在，但是当时当地并没有足够多的人来支撑这种新的工厂系统，因此需要劳动力的调集。由于大多数劳动力来自农村，这就需要工厂附近有居住的地方，工人宿舍和工人住房建设因此而出现。随着工厂、工人以及他们的栖息地组合而来的是一个工业化城市的生长，一套新的社会组织方式或说一套新的安排出现了，内含这种结构的维多利亚式工业经济就此开始呈现。就这样，一个时代的特征，一套和超级工业机械相匹配的安排显现出来了。 但是这个过程还远远没有结束。工厂的劳动者当中许多都是孩子，经常在狄更斯作品中那样的条件下工作，这也引发了强烈的改革需求，这种改革需求不只是关于“下层阶级的道德状况”3，还有他们的安全状况。继而，法律系统需要采取进一步的安排来对此做出回应，劳动法就在这种情况下被制定出来，以阻止最坏的恶行发生。然后，新的工人阶级开始要求分享工厂创造的财富，他们利用一种手段来改善他们的状况，那就是工会组织。工厂中的劳动力要比家庭作坊中的劳动力更容易组织，4因此，若干年之后，工会就变成了一股不可小视的政治力量。 在这种机制下，纺织机械并不仅仅是替换了手工生产方式，它还为更高一级的制度安排（工厂制度）提供了机会。在这个制度安排中，机械只是其中的一个组分。新的工厂制度反过来建立了一个服务于劳动力及其栖居需要的需求链条。反过来，对这一问题的解决又创造了进一步的需求，所有这些最终演变为维多利亚式工业体系。这个过程用了100多年的时间才真正完成。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 237<div style="padding-bottom:1em;"></div>从此，纺纱人不再能在家里转动她的纺轮，织布匠也不能在家里抛动他的梭子，那种没有任何监督的美好时光从此不再。现在，工作必须在工厂中完成了，以一种无聊的、毫无生气的机器所规定的步调，作为团队的一员，要与整体共进退，开始、间歇、停止——所有这些都在密切监督之下进行，工厂用道德、经济奖惩来促使工人勤奋地工作，有时候甚至是身体上的强迫。工厂是一种新的监狱；时钟是一群新的狱卒。”<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 239<div style="padding-bottom:1em;"></div>即将到来的新技术不是仅仅打破静态，比如说发现比我们现在用的产品或方法更好的新的组合：它需要一系列安置新技术的条件，并解决由此产生的另外一些新问题。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 239<div style="padding-bottom:1em;"></div>即将到来的新技术不是仅仅打破静态，比如说发现比我们现在用的产品或方法更好的新的组合：它需要一系列安置新技术的条件，并解决由此产生的另外一些新问题。如此一来，又要为新的能够解决这些问题的进一步的技术创造新的机会利基——接下来又产生进一步的问题。 因此，经济总是存在于永恒变化之中，存在于一种永恒的新颖性之中。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 243<div style="padding-bottom:1em;"></div>我们的理论始于三个原理：一切技术都是元素的组合；这些元素本身也是技术；所有技术都利用现象达到某个目的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 243<div style="padding-bottom:1em;"></div>一旦新技术（单体技术）诞生了，它们就立刻成为可供进一步地建构更新技术的潜在构件。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 250<div style="padding-bottom:1em;"></div>从占有资源的角度获取国民财富的总量开始不如从占有专业科学及技术知识的角度获得的那样多了。公司的竞争优势绝大部分是从它们占有的技术专长而来的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 249<div style="padding-bottom:1em;"></div>从只实现单一目标功能的流程或机器转换为采用不同组合以实现不同目标的技术。为了反映技术的这种转换，经济至少在高科技部分更多地表现为更关注如何聚集、拼凑事物，而不是如何对现有操作进行完善。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 256<div style="padding-bottom:1em;"></div>他们的星际飞船是虚弱的、有机的，而且必须踢它才能让它运转。这是至关重要的，他们的技术是人性的。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 256<div style="padding-bottom:1em;"></div>他们没有用人性和技术做交易，也没有使意志向技术投降。技术向他们投降了。并且由于这样做了，技术也拓展了它们的自然性。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 256<div style="padding-bottom:1em;"></div>已经把技术奴役我们的本性和技术拓展我们的本性之间进行了区别。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 254<div style="padding-bottom:1em;"></div>如果我们仅仅使用自然现象的原始形态去驱动水车或推动帆船，我们对技术就会有家的感觉，我们的信任和希望就不会那么不一致。但是现在，随着即将到来的基因工程、机器智能、仿生学、气候工程学，我们正在开始使用技术（利用自然）直接干预自然了。对于我们这种灵长类动物，对于我们这种以树、草和其他动物构成的生境为家的动物来说，这种感觉极度不自然。这扰乱了我们内心深处的信赖。 这种内心深处的不安会不知不觉地反映在很多方面。我们开始转向传统，转向环境保护主义，开始回头倾听家庭价值观，我们转向原教旨主义，我们抗议。我们这些反应的背后的实质，不论合理与否，是恐惧。我们害怕技术将我们与自然分离，我们害怕技术破坏了自然，破坏了我们的自然。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 255<div style="padding-bottom:1em;"></div>我们害怕技术作为一种有生命的东西将会给我们带来死亡。不是“不存在”这个意义上的死亡，而是更糟糕的死亡，一种丧失自由的死亡，一种意志的死亡。<div style="padding-bottom:1em;"></div>==========<div style="padding-bottom:1em;"></div>- page 280<div style="padding-bottom:1em;"></div>技术由人类创造出来，又基于自然最原初的现象，但却开始了疏离“人类与自然”的进化之旅。<div style="padding-bottom:1em;"></div>==========
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33248928/#comments">回应</a>&nbsp;&nbsp;
+                  2014-10-27 18:46
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37230199">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/75288890/"><img src="https://img3.doubanio.com/icon/u75288890-3.jpg" alt="龙画符" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37230199/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37230199/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/75288890/" class=" " title="龙画符">龙画符</a>
+                (知到极处便是行，行到极处便是知)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="37230199">
+              <div class="short">
+                
+                  <span class="">全文脉络：
+第一章 问题
+       技术已经彻底的改变了我们的生活。亦或者可以说，“我们是如此彻底地改造了我们的环境，以致我们现在必须改造自己，才能在这个新环境中生存下去。我们再也不能生活在旧环境中了。”技术就像生活中的空气，寻常但又必不可少。然而空气不会像技术一样，在被人使用的时候给人带来担忧。我们有必要去追问有关技术深层次的问题，因为在我们这个时代，技术所展示的不仅是繁荣，还有被技术异化的生活方式...</span>
+                <p class="pl">
+                  <span class="">2016-02-21 17:26</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                全文脉络：<div style="padding-bottom:1em;"></div>第一章 问题<div style="padding-bottom:1em;"></div>       技术已经彻底的改变了我们的生活。亦或者可以说，“我们是如此彻底地改造了我们的环境，以致我们现在必须改造自己，才能在这个新环境中生存下去。我们再也不能生活在旧环境中了。”技术就像生活中的空气，寻常但又必不可少。然而空气不会像技术一样，在被人使用的时候给人带来担忧。我们有必要去追问有关技术深层次的问题，因为在我们这个时代，技术所展示的不仅是繁荣，还有被技术异化的生活方式——但人类喜欢自然。<div style="padding-bottom:1em;"></div>       关于技术，我们了解多少？概括来说，我们了解许多关于技术的“术”，但对其中的“道”知之甚少。这里缺失的是某一个一般性法则，它可以赋予主义一个逻辑框架，一个有助于填补这鸿沟的框架。之所以我们会缺失关于技术的“学”，可能是因为两个原因：一个是因为技术一直处于科学的阴影之中，另一个是那些认真思考技术的人大多数都是社会学家和哲学家（他们把技术看成一种客体，一个黑箱，缺少一种技术的内部视角）<div style="padding-bottom:1em;"></div>       关于技术，它的核心问题是“技术是如何进化的”。为什么进化这么重要？因为如果没有进化，没有一种常见意义的关联性，技术看起来就好像是自己独自产生发展而来的，挖掘框架的工作只是徒劳，另外弄清楚”进化“有助于我们理解“创新”的本质。那么，技术是如何进化的呢？作者认为主要有三个原理统摄了技术进化的过程：一、所有技术都是某种组合；二、技术的每个组件自身也是微缩的技术；三、所有的技术都是利用或开发某些效应或现象。<div style="padding-bottom:1em;"></div>       本书观察技术进化的视角，赋予技术以生命的意味，不仅因为技术内部有着“DNA”般的美丽联系，也因为技术自我创造、无中生有。这种视角的转换不是只是抽象的，还是技术角色大变换的真实反映——现代技术不仅是稍具独立的生产方式的集合，而且已经进化成创造经济结构与功能的语言。慢慢的，我们从生产固定的物理产品的技术转变到成为了新的目的可以进行无限的组合和装配的技术。经济学，也会因此而大为变化。<div style="padding-bottom:1em;"></div>       综上，本书的目的是要建立一个关于技术的理论——“一组连贯的一般命题”，并希望借此能够提供一个帮助我们理解“技术以及技术怎样在这个世界存在”的框架。<div style="padding-bottom:1em;"></div>第二章 组合与结构<div style="padding-bottom:1em;"></div>       在谈论技术之前，我们需要界定概念的范畴。这里，作者运用三原理中的第一原理，给出了技术的三个定义：一、技术是实现人的目的的一种手段；二、技术是实践和元器件的集合；三、技术是在某种文化中得以运用的装置和工程实践的集合。<div style="padding-bottom:1em;"></div>       之所以给出了三个定义，是因为它们是从不同角度理解技术的，并各自属于不同的范畴。每个范畴下的技术的形成和进化都不同。第一个定义作为单数意义上的技术——例如蒸汽机，是作为一个新的概念而产生的，并通过修正它的内部结构得以发展；作为一项复数意义上的技术——例如电，则往往通过围绕某些现象和器件建构起来，并通过改变它的构件和实践而得以发展；而作为一般意义的技术——所有过去和现存技术的总和，则产生于对自然现象的应用，并随着旧要素组合而成的新要素，有机地成长起来。<div style="padding-bottom:1em;"></div>       在本书中，作者将更多地涉及第二和第三个技术范畴，特别是关于技术的集合是怎样进化的问题。但在本章，先集中讨论第一个技术范畴，注意下面的逻辑是环环相扣的。<div style="padding-bottom:1em;"></div>       从单数角度思考技术，这些单数形式的技术真的有共通的逻辑吗？有。凡是单数逻辑的技术，都拥有两个特征：一、技术是实现目的的一种手段，它是一种装置、一种方法或一个流程；二、技术提供功能，功能指技术要执行的某一类任务。       既然各种技术之间有共通的逻辑，那么是不是因为它们在组成方式上有相同的结构呢？是的。技术的最基本结构，包含一个用来执行基本功能的主集成和一套支持这一集成的次集成。        那为什么技术会是以这样的结构（模块化结构)演化的呢？将技术的构件模块化可以更好地预防不可预知的变动，同时还简化了设计过程。但只有当模块被反复使用且使用的次数足够多时，才值得付出代价将技术分割为功能单元。       技术模块化的结构能给我们带来什么启示？一、技术具有层级结构：整体的技术是树干，主集成是枝干，次级集成是枝条，最基本的零件是更小的分枝；二、技术具有递归性：结构中包含某种程度的自相似组件，也就是说，技术由不同等级的技术建构而成。       技术的递归性有什么寓意么？一个寓意是指技术是高度可重构的，它们是流动的东西，永远不会静止，永远不会完结；另一个寓意是技术的组合必须是高秩序性的过程。<div style="padding-bottom:1em;"></div>      本章主要讨论技术之间共通的逻辑，但需要引起注意的是，技术之间差异非常之大。切莫因为有一点点共同点，而认为技术之间差不多。<div style="padding-bottom:1em;"></div>第三章 现象<div style="padding-bottom:1em;"></div>      无论是简单还是复杂的技术，它们都应用了某一种或几种现象。现象是技术赖以产生的必不可少的源泉。认识到这一点，我们就可以回答“技术的本质到底是什么？”——从本质上看，技术是被捕获并加以利用的现象的集合，或者说，技术是对现象有目的的编程。<div style="padding-bottom:1em;"></div>      在前面，技术被定义为实现目的的手段。但是除了技术，还有许多可以被定义为实现目的的手段，但完全不像是技术的事情，比如商业组织、司法系统、货币系统等。这里通过对技术本质的认识来进行辨析：人们一般意义上认为的技术，是基于物理现象之上的；而像商业组织之类的目的系统，是基于非物理现象之上的，就比如货币系统利用了“只要我们相信其他人会相信一种交易媒介是有价值的，而且何种信任会在未来持续下去，我们就会相信这个系统”的非物理性现象。需要注意的是，对于这两种技术，本书都有所讨论，这里是为了明确后续讨论的范围。<div style="padding-bottom:1em;"></div>     既然技术的本质隐藏在为达成目的而去组织、协调现象的过程中，接下来的问题就是：在最初，我们是怎样揭示并驾驭现象的呢？作者认为，现象是隐秘的，如果不去发现或发掘，现象是不能显现的。当然它们也不是随机散乱分布分，而是相互关联、成群聚居的，它们会依据使用效果而形成“矿层”、“矿脉”。在漫长的时间中，现象族群的成员一个一个被缓慢地、偶然地开采出来。有些浅层的现象，比如人类早期掌握的木头摩擦可以产热并生火的现象，是意外事件或偶然开发的结果；有些深层现象，比如由早期炼丹术士发现的化学现象，则需要系统、深入的调查研究；对于隐藏更深的现象，比如属于量子效应的核磁共振、隧道效应或受激辐射等，则需要知识的积累和现代技术来揭示了。它们的发现需要现代性的发现或再现的方法，换句话说，它们需要现代科学的帮助。<div style="padding-bottom:1em;"></div>    科学与现象之间的是怎样一种关系？科学提供观察现象的手段、科学提供与现象打交道时所需的知识、科学提供预测现象如何作用额理论、科学提供俘获现象、为我所用的方法。                 于是，这里就碰到了“科学是如何揭示新现象的呢？”大致有三条途径：一、重新关注在实验过程中被忽略的细节；二、通过理论与推理寻找现象的蛛丝马迹；三、某种尝试的副产品。         <div style="padding-bottom:1em;"></div>    科学和技术之间又是什么关系？关系很复杂。过去很多技术的诞生几乎与科学毫无关系。直到19世纪中期，技术才开始大规模地向科学进行“借贷”。科学之所以在这个时候链接到技术，不仅是因为它能对结果提供更多的洞见和更好的预测，还因为一些新的现象家族开拓被开发了。比如，电学和化学的现象家族，而它们处于一个如果不借助科学的方法和仪器就无法直接观察到的尺度或世界之中。因此，技术之所以应用科学，是因为这是去理解深层现象的工作机理的唯一方式。时光流转，科学（主要是科学思想）的会有机的成为技术的一部分，被深深地织入技术。而技术也同样地被深深地织入科学，科学通过观察和推理获得洞察力，但观察和推理又需要方法和设备。科学很大程度上是通过仪器和方法，即通过技术对自然进行探索的，比如望远镜、云室等，没有上述技术，现代科学根本不可能存在。由此可见，科学不仅利用技术，而且是从技术当中建构自身。综上，科学和技术是两个不同的概念。科学建构与技术，而技术是从科学和自身经验两个方面建立起来的。科学和技术以一种共生的方式进化着，每一方面都参与了与另一方的创造，一方接受、吸收、使用着另一方。两者混杂在一起，不可分离，彼此依赖。<div style="padding-bottom:1em;"></div>第四章 域<div style="padding-bottom:1em;"></div>       当现象族群被开发并加以利用以后，就自然而然地引起了技术的聚集。之所以个体技术要聚集成群，是因为它们分享了现象的族群和共同的目标、同一个理论。就像电以及电现象相关的设备和方法会自然而然聚集到电学中来，要素集聚成群，进而为形成可用的次级构件服务。作者将这种族群称之为域。个体技术和域之间差异很大，一项技术是要完成一项工作、达成一个目标，而且这个目标经常非常特殊；而一个域则不需要完成工作，仅仅作为一个工具箱存在。因此，个体技术对于技术体来说就如同程序对于程序语言一样。<div style="padding-bottom:1em;"></div>       工程设计是从选择一个域开始的，也就是要选择一组适合建构一个装置的元器件，这个选择过程，我们称之为“域定”。针对给定目的的“域”的选择是随着时间的推移而变化的。重新域定，是指以一套不同的内容来表达既定的目的。重新域定不仅提供了一套新的、更有效的实现目的的方法，还提供了新的可能性。这意味着技术的颠覆性改变。重新域定的力量是强大的，不仅仅在于它们提供了一套新的、更有效的实现目的的方法，更在于它们提供了新的可能性。可以说，域内发生的某些变化是技术进步的主要方式。实际上，域不仅定义可能性，而且可能定义一个时期的风格。时代创造着技术，技术同时创造着时代，可以说，技术比任何其他东西更能定义它们所描述的时代。<div style="padding-bottom:1em;"></div>       一个新的设备或方法是由一个域中适用的零部件，或者也可以说是适当的词汇聚集而成。从这个意义上来看，一个域构成了一种语言，但某个域在产生一件新的艺术品时，就相当于这个域在以某种语言进行表达。语言的组织必须依据语言规则，设计的建构也要根据域允许的组合规则进行，这种规则就是语法。一个域的语法决定它的元素如何被组装在一起，以及在什么情况下它们会结合在一起。它决定什么东西再起作用。这个意义上，我们有了电子学、水利学的语法，对应更精细的域，还会有次级语法和次次级语法。这样的语法从何而来？当然，毫无疑问，它最终一定是来源于自然。语法在很大程度上反映了我们对“特定域中自然是如何工作的”这个问题的理解。这种理解不仅来自于理论，也来自于经验积累。<div style="padding-bottom:1em;"></div>      对于域世界来说，每个域的所能都是独特的。某些域世界提供了特别丰富的可能性，另一些域世界则很有限，在所能方面会有限制。单一域的力量所在通常是那些最容易完成的部分，即不同域世界提供各自擅长的，互不相同的可能性。域反映着它们创造的那个世界的力量，但它们也同时反映着它的局限。在这个世界中，没有什么是静止的，待完成的东西随着域的演进及其基本现象边界的扩展而不断变化着。这暗示着创新不是发明以及对其的应用，而是在新的可能的世界中，将旧任务不断进行重新表达或者再域定的过程。<div style="padding-bottom:1em;"></div>第五章 工程和应对的解决方法<div style="padding-bottom:1em;"></div>       到目前为止，我们探究了技术的本质，它的工作原理以及它最深层的含义等问题。在此基础上，我们形成了一套关于技术的逻辑和框架，用以说明技术在世界上是如何被建构和操作的。现在，已经不再将技术看作是作为整体的一块铁板了，而是将其看成具有内部解剖结构的事物。这样一个内部视角，能否使我们从与以往不同的角度去看待技术这个问题呢？作者认为至少会有两个新见解产生。一是关于技术在其生命周期中如何进行自我修正，从外部看，技术的生命周期可能表现为从一个版本到下一个版本的变化，从内部看，我们会看到某一技术的内部组件一直都在变化；二是关于我们如何看待技术的可能性，从外部看，每项技术看起来都是在完成某个目标，从内部看，会发现技术不仅是为了提供某种特定功能存在的，它实际上还提供了一个组合或编程的词汇表，从而开启一个可能的新世界。<div style="padding-bottom:1em;"></div>      一个好的问题可能是成功的开始，为此我们需要一个关键的、足可以引领我们本章和下一章探讨的问题来开始进一步的探究。进化的发生源自于新技术的不断形成，它们通过将已有技术作为组件来形成新面貌的方式，表明它们是脱胎于此的。那么，这种“形成”到底是怎样发生的？新技术的产生机制是什么？一个显而易见的答案是，它是通过某种根本性创新过程来实现的。但新的组件也来自于日常性的标准工程。根本性创新与日常标准工程放在一起，初看会令人感到有些诧异，因此值得挖掘一下其中的演化过程。<div style="padding-bottom:1em;"></div>       在这一章，将要讨论标准过程。标准工程是执行一个新项目时，在已知可接受的原则下聚集方法和设备的过程，是对已有技术的新的计划、试制和集成过程。标准工程大致有三个阶段——先从一个总体概念出发，然后细化可以完成这个概念的集成件，最后实行制造或建造。设计过程在沿着层级向下演进的同时，也会从需求特点或者需求物向外演进。目的本身决定总体概念的样式，总体概念又决定着需要什么样的核心集成件，核心集成件又决定需要何种次级集成件来支撑它们，次级集成件又决定它们所需的组件，但每个层次必须相互匹配。因此可以预想，这个过程并非一帆风顺，需要对理念、集成件和单元组件进行测试和平衡，并不断克服不断出现的困难。<div style="padding-bottom:1em;"></div>      那么关于问题的解决方案是如何被建构起来的呢？设计师先对某事产生意向，为了表达着这个意向而去挑选一个工具箱或语言，为了将这个存在于“想像”中的意向呈现出来而去预想出概念和功能，然后找出合适的组件去组合，从而最终表达那个想法。所以，设计即表达，标准工程也就是一个认识过程。<div style="padding-bottom:1em;"></div>      这种建构又是如何与组合关联起来的呢？当一个解决方案如果被使用的次数足够多，它就成为一个模块，并因作为适用于标准用途的模块而具有包容性，它自己也成为一项技术。当然，解决方案模块化并不意味着技术中最好或最合适的解决方案总会存活下来。可以肯定的说，流行的技术更趋于获得进一步的优势，继而被锁定，所以在技术“选择”中，存在一个正反馈的过程。<div style="padding-bottom:1em;"></div>第六章 技术的起源<div style="padding-bottom:1em;"></div>      这章我们将讨论新技术是如何诞生的。新技术是针对现有目的而采用一个新的或不同的原理来实现的技术。<div style="padding-bottom:1em;"></div>      新技术是概念当中或实际形态当中，将特定的需求与可开发的现象链接起来的过程。新技术（发明）应该应用新原理，因此，发明有两大模式：一、肇始于链条的一端，源于一个给定的目的或需求，然后发现一个可以实现的原理；二、发轫于链条的另一端，从一个现象或效应开始，然后逐步嵌入一些如何使用它的原理。无论发明过程有多么变化多端，最终我们都可以将它们归为两大模式。<div style="padding-bottom:1em;"></div>      将上面的模式拓展开来，我们会发现科学和数学中德原创和技术中德原创没有根本性的不同。这种对应不是因为科学、数学和技术是一样的，而在于三者都是目的性系统。广泛来说，也可视为达到目的的手段，因此需要遵循同样的逻辑。三者的构成都始于形式或原理：对于技术，是源于概念性的方法；对于科学，是源于解释性的结构；对于数学，则源于真理和基本的公理结构。因此，技术、科学和数学的产生都是通过类似的试探启发过程——基本上是通过存在于问题和满足它的形式之间的一个链接来完成的。<div style="padding-bottom:1em;"></div>      因此，所有的发明都是目的与完成目的的原理之间的链接，并且所有发明都必须将原理转译成工作元件。<div style="padding-bottom:1em;"></div>第七章 结构深化<div style="padding-bottom:1em;"></div>      虽然我们已经大致清楚新技术的起源，但对于个体技术还没有完整的解释。一项新技术会发展变化，那么技术的发展及其背后又隐藏着什么呢？<div style="padding-bottom:1em;"></div>      通常来讲，一项新技术的最初版本都是粗糙的。技术一旦走上发展之路，各种各样的版本就会随之出现。通过“内部替换”，开发人员可以用更好的部件更换某一形成障碍的部件。开发人员还可以通过寻找更好的部件或材料，或者加入新组件进行结构深化。<div style="padding-bottom:1em;"></div>      当调换部件和结构深化都不能再为提高性能做什么的时候，技术就成熟了。这时候，如果要想取得进一步的发展，则需要一个全新的原理。但新原理不能说出现就出现，即使出现了，它想要取代旧原理也不是那么容易。旧设计、旧原理往往已经被锁定了。这是为什么呢？一个原因在于，经过精致、繁复的过程之后，已经成熟的旧技术会表现得比它的新对手好；另一个原因是经济领域问题，即使新的原理发展得很好，表现得也比旧原理好，但是采用它可能意味着改变周围的结构和组织，这样做的成本过高，因而可能不会被实现；最后一个原因是心理上，旧原理可以持续下去是因为从业者不认可这个新原理带来的愿景和承诺。这样，新技术被非常成功的旧技术所阻碍，技术上的转换既不容易也不顺畅，这种对旧有的成功原理的锁定所引起的现象，我们称之为自适应延伸。当一个新的情况出现或要求在其他领域应用时，人们更容易想到用旧技术或旧有的基本原理加以解决，并且会通过“拉伸”它来涵盖新的环境。<div style="padding-bottom:1em;"></div>     上面的过程是一个循环过程。一个新的原理出现、开始发展陷入局限、其结构不断被精致化。环境结构和专业熟悉度被锁定在原理及基础技术当中。新的目的和变化的环境出现时，它们通过延伸锁定技术进行适应，从而产生了进一步的精致化。最后，已被高度精致化的旧原理已经超出它能承受的极限，因此将让位于新的原理。新的基本原理可能更简单，但在适当的时候，它会自己变得精致化，这个周期循环往复。<div style="padding-bottom:1em;"></div>     上述过程和库恩的科学哲学理论十分相似。之所以会这样，只是由于科学的理论体系是目的性的，因此它们遵循同样的逻辑，科学也会发展，碰到局限性，进行精致化，并在恰当的时候寻求替换。因此无论是科学还是技术，其发展变化的逻辑是相似的。<div style="padding-bottom:1em;"></div>第八章 颠覆性改变与重新域定<div style="padding-bottom:1em;"></div>       域并不是若干单体技术的简单相加，它们是连贯的整体，对经济的影响也更大。任何新域，都产生于一个已存在的域——母域，而且参与者开始很少能意识到会发生“颠覆性改变”。但随着理解的深化和实践的固化，新域会慢慢忘记它的母域而横空出世，甚至会极大地提升国家竞争力。本章的主题是，域究竟是如何形成并发展的呢？<div style="padding-bottom:1em;"></div>      域的形成有两种模式：一是围绕核心技术联合而成的，一是从一个现象家族中建构起来的。<div style="padding-bottom:1em;"></div>      域有其生命周期：诞生-解决母域中特定的问题，在理解和实践中固化、发展；青春期-解决发展中的阻碍，产生可行的技术并应用于市场；成熟期-市场由狂热走向冷静，新的域以自己的方式深入地影响经济，进入稳定成长阶段；晚年-鲜有重要理念产生，有些域会被取代，但大多数还得以存在并服务人类。并不是所有域都能完成整个循环。一些域每隔几年就会通过重构自身（改变它们的特性）打破周期，即当一个域的关键技术发生根本改变时，它就会发生变异。变异分很多情况，比如变体再比如产生新的次级域。这一切都意味着，域，以及任何暗示技术体的东西，从来不能被条理清晰地定义。<div style="padding-bottom:1em;"></div>     技术体的出现于发展，会对经济有什么影响呢？我们可以说，如同个体技术一样，技术体也引起了经济模式的扩展性调整。但这样的回答过于简略与不完整。这个过程可以被扩展描述，我们将新的技术体看作是它的方法、设备、理解和实践的总体，然后将一个具体产业看作是它的各组织机构和商业过程的组合，以及它的生产方法和物理设备的组合。它们都属于我们先前定义的广义的技术。这两个技术一个来自新的域，另一个来自某个特定的行业，它们聚集起来并相互遭遇，其结果是产生了新的组合。事实上，如果以这种方式形成的新的组合足够强大，它们就可以创建一个新的产业，或者至少一个次级产业。<div style="padding-bottom:1em;"></div>     不过我们需要注意的是，技术之间的契合是需要调整，类似于第七章所描述的过程，域和经济互助式地进行共适应和共创新。我们将这样的共变和共创过程称为“颠覆性改变”。经济领域中的每个时代都是某种模式，是在商业、工业以及社会中能够达到逻辑自洽的一套结构，这套结构是由在当时占领主导地位的域来确定的。当新的技术体，如铁路、电气化、大规模生产、信息技术等渗透到经济当中时，旧结构可能崩溃，新结构便取代了它的位置。一度被认为理所当然的产业被废弃了，新的产业诞生了。旧的工作方式、古老的惯例、旧的行业开始显得古怪，工作和社会中的制度安排开始重构。<div style="padding-bottom:1em;"></div>     所有这些新技术的展开、经济的调试，都需要大量时间。之所以有一定延迟，是因为域和经济之间不是一个简单的采用过程，而是一个更大的、互相采用的过程。对于一场颠覆性改变来说，只有基础技术的改变还是不够的。一场颠覆性改变的完全展开需要等我们对那些围绕着新技术的活动（企业或商业流程）进行组织，并且直到这些技术也开始适应我们之后才算真正完成。为了实现这一切，新的域必须积累信徒和声誉，必须找到目的和用途；其核心技术必须能够解决障碍，并且填补组件之间的裂缺；它必须发展它的支撑技术，并且将它和使用它的技术桥接起来；它必须理解它的现象基础以及借由这些而发展起来的理论。<div style="padding-bottom:1em;"></div>     关于新技术体的建构非常引人注目的一件事是，它们的发展前沿通常会高度集中在一个或最多几个国家或地区。为什么会是这样？如果技术来自于知识，即关于即关于技术和科学的信息，那么，原则上讲，任何一个拥有工程师和科学家的国家都应该和其他国家一样具有创新性。毕竟，大多数国家应用的是同样的科学，同样的学术期刊，同样的知识、事实、真理、理念和信息。但真正前沿的技术，那些处于边缘的复杂技术并不是源于知识，而是源于别的东西，我将它们称之为“深奥的手艺”。深奥的手艺不只是知识，体是一套认知体系，来自于某种无法言明的文化。这样的认知根植于地方性微观文化中，一旦一个地区或国家因为行业秘密在技术提中领先了，这个地区就会处于更领先的地位，成功会接踵而至，形成对技术的地方性聚集作出的积极反馈或者收益递增效应。这就是为什么新的技术体会在一个或两个特殊区域聚集起来，并且很难被挑战的原因。因此，如果一个国家希望能够引领先进技术，它需要的不是投资更多的工业园区或含糊地培养所谓的“创新”，它需要建立其基础学科，而且不带有任何商业目的。<div style="padding-bottom:1em;"></div>    接下来总结一下本书对于“创新”的看法。我们可以将前面四章看成是关于创新的详细解释。这里没有单一的机制，而是大约4个相互独立的机制。创新存在于新的解决方案转变为标准工程的过程中，其间包含着许许多多微小的进步和修正，它们积累在一起共同推动着实践前进；创新存在于由发明引发的根本性新技术产生的过程中；创新存在于这些新技术在改变内部组件或者结构深化时，因增加组件而获得发展的过程中；创新还存在于技术体从出现到随时间而发展，最后创造性地改变了那些与之遭遇的产业的过程中。<div style="padding-bottom:1em;"></div>    这里谈的每类创新都很重要。并且它们中的每一种都摸得着、看得见，创新不是什么神秘的事。它的发生不是模糊地求助于所谓“创造性”。创新实际上只是另辟蹊径地完成经济的任务。面对我研究的案例，我一次又一次地强烈意识到，创新总是出现在人们面临问题的时候，尤其是在面对那些非常清晰的问题时。创新总是作为解决的方案出现，那些方案是由那些对组合手段或功能着迷的人想出来的。事实上，创新有两个主要的主题。一个是如何不断在现有工具箱里的零部件及实践中去发现或组合新的解决方案；另一个是产业如何不断将它们的实践过程同那些来自新的工具箱的功能组合起来。第二个主题与第一个类似，也是关于新的过程和制度安排的创造，是实现目的的新手段，但是它更为重要。这是因为重要的新领域遭遇到的是经济中所有的产业。当这一切发生的时候，域将它们所能提供的解决方案与许多工业领域内部原有的制度安排方式结合起来。结果是，新工艺、制度安排、做事的新方式不仅仅是在一个地区内被使用，而是贯穿到整个经济中。<div style="padding-bottom:1em;"></div>第九章 进化机制<div style="padding-bottom:1em;"></div>    组合是新技术的潜在来源。组合的威力，在于它的指数级增长。如果新技术会带来更多的新技术，那么一旦元素数目超过一定阈值，可能的组合数就会爆炸性增长。技术就如同生命体一样，它的进化与生物进化也没什么本质区别。这一章，主题就是探究“技术是如何进化的”。<div style="padding-bottom:1em;"></div>    前面，作者一直在讲技术是从原有技术中被创造出来的，之所以会这样，深层原因在于，任何目的性系统的新组件，都只有通过使用已有的方法和组件才能使其在现实中实现。也就是说，所有技术产生于已有技术，已有技术的组合使新技术成为可能。当然，说技术诞生于原有技术并不意味着技术是有意识的，或能以某种阴险的方式利用人类为它们自身的目的服务。技术集合通过人类发明家这个中介实现自身建构，很像珊瑚礁通过微小生物自己建构自己一样。所以，假如我们把人类活动总括为一类，并把它看成是给定的，我们就可以说，技术体式自我创生的。失去了这个前提，技术体只是珊瑚礁一样的有机存在。<div style="padding-bottom:1em;"></div>   自创生告诉了我们更多的东西。它告诉我们，历史是重要的：如果技术由于某种偶然以不同的序列出现，建立在这些技术之上的技术也会不同。自创生还给人一种感觉：技术是通过扩展延伸到未来的，也给连为我们一种去思考人类历史中的技术的方式。上述是主导技术发展的更大力量，接下来我们将把镜头推向更具体、更细节的机制。其中一股力量当然是组合，我们可以将它视为现有的技术体“供给”新技术的能力，无论是将现有的零部件进行总成，还是用它们捕获现象。另一股力量是需求，对要完成目的的手段的需求，还有对新技术的需求。将这些供给和需求整合在一起，就产生了新元素。<div style="padding-bottom:1em;"></div>   技术的进化机制就是“组合进化”。所有技术都是从已存在的技术中被创造出来的。如果新的技术会带来更多的新技术，那么一旦元素的数目超过一定的阈值，可能的组合机会的数量就会爆炸性地增长。有些技术甚至以指数模式增长。<div style="padding-bottom:1em;"></div>   即使已有技术的组合为新技术提供了一件潜在的”供应“，它们也只会因出现了某种需要，或说某种“需求”而产生。事实上，需求不是一个恰当的词。因为在青霉素或核磁共振还不存在的时候，根本无法在经济中对它们提出明确的需求。因此不如说我们应该谈论的是技术的机会——即技术可以有效地占据的利基。机会利基的出现召唤新技术的诞生。那么在人类社会或经济中，究竟是什么导致了机会利基的产生？第一个原因，显而易见是人类的需要。第二个原因，是因为技术促进了需求的成长，因为我们的需求是精致细腻的，它们对社会状况的依赖既精妙、轻松，又复杂、异常。第三个原因，是因为技术经常引发间接性的问题，这会产生提供解决方案的需求或者机会。<div style="padding-bottom:1em;"></div>        这些驱动的力量给我们提供了一个宏大的图景，已有技术的组合提供了新技术的可能性：一种潜在的供应。而人类和技术的需要又创造出了无数的机会利基市场：一种需求。随着新技术的出现，需要进一步驾驭和组合的新机会持续出现着。所有这一切都自展式地前行。<div style="padding-bottom:1em;"></div>         那么这种自展是通过什么具体的步骤、机制来实现的呢？可以讲技术体看作是一个网络，这个网络是自我建构的，并且有机地向外部生长。其中具体细节内容较多，在此不述。<div style="padding-bottom:1em;"></div>         技术的进化有两个主要特点，首先技术的进化根本就没有可以预先决定的确切顺序，也不是完全随机；另外进化不是均匀的，变化导致变化，静止衍生静止。<div style="padding-bottom:1em;"></div>         与生物进化相比，技术进化到底为何？有什么不同？在生物进化中，变异和选择是第一位，而组合的发生是非常偶然的，但常常会有惊人的结果。对于技术来说，组合则是常态。每个新技术和新的解决方案都是一个组合，而且每个现象的捕捉都会应用一个组合。在技术中，组合进化是第一位，是常规定例。达尔文进化的变异和选择也存在，但是它们是靠后的，是在已经形成的结构之上产生作用的。<div style="padding-bottom:1em;"></div>第十章 技术进化所引发的经济进化<div style="padding-bottom:1em;"></div>        经济是其技术的一种表达，它是一套安排，包含着集合进化的过程、组织、装置以及制度供给。它随着技术的进化而进化。因为技术是源出于技术的，它在技术的自我创造中获得传承，永远开放、永远新颖。因此，经济最终产生于创造技术的那些“现象”之中，归根结底，那个被组织起来为我们的需求服务的东西是“自然”。<div style="padding-bottom:1em;"></div>       这样的经济毫无简单性可言。这样的经济是一种结构，一种宏大的结构，它是互动的、包含着相互支撑的安排，存在于任何等级，历经几个世纪，不断从自身中生长出自己。这种结构进化是对构成经济的安排的不断重建，它是持续的、分形的、不可阻挡的。它会带来永不停止的变化。那么结构变化中有什么永恒不变的吗？经济在建构它的模式时总是汲取同样的元素：人类行为偏好、论述的现实基础、供求平衡的自明之理。这些在基本“法则”之下的元素总是相同的。<div style="padding-bottom:1em;"></div>        “经济学作为一门学科，经常为人诟病，因为，不像物理或者化学这些“硬科学”，经济不能保持一套不变的描述。但是这不是经济学的失败，而是正当和自然的。经济不是简单的系统，它是一个进化的复杂系统，其形成的结构永远随时间而变化。这意味着我们关于经济的解释也一定是随着时间而变化的。我有时候想，经济就像是夜晚的战场，它漆黑，在围墙上几乎什么也看不到。而大约半英里远，就有敌人的营地，可以听到悉悉簌簌的声音，可以感受到军队正在重新部署（当然，新的战略部署即使再好，也是在现有部署的基础上转化来的。）这时，突然某个人点亮了一团火，火光照亮整个战场的部署，各种炮位、安排、部队、战壕一下子变得一目了然，然后火光骤然熄灭，一切又复归黑暗。经济就是如此。经济中的华光就是亚当·斯密、李嘉图、马克思、凯恩斯，还有熊比特的理论。它们偶然照亮了一下战场，但真正的骚动和变换一直在黑暗中进行着。我们确实能够观察到经济，但是我们描述经济的语言，我们标明经济的标志，以及我们对经济的理解，都凝固在那燃亮的一瞬间—尤其是最近的一组大火中。<div style="padding-bottom:1em;"></div>第十一章 我们的立场是什么<div style="padding-bottom:1em;"></div>        随着基因组研究和纳米技术的发展，生物正在变成技术，与此同时，从技术进化的角度看，技术也正在变成生物。两者已经开始相互接近并纠缠在一起了。经济作为广义上的技术，也已某种方式反映了这个现象。<div style="padding-bottom:1em;"></div>        技术从维多利亚时代那种以大宗材料为主导的技术模式中脱离出来，已经是很久远的事了，而现在它又开始转换了：从只实现单一目标功能的流程或机器转换为采用不同组合以实现不同目的的技术。简而言之，经济正在变得具有繁衍能力。它关注的焦点从优化固定操作转变为创造新组合以及新的可配置的产品了。在繁衍性的经济中，竞争优势不是来自于资源储备及将这些转变为最终产品的能力，而是来自将深层知识储备转译到新的战略性组合的过程。具体表现为，从占有资源的角度获取国民财富的总量开始不如从占有专业科学及技术知识的角度获得的那样多了。 我们从20世纪由工厂和投入-产出关系构成的机器态经济转换到了21世纪有机的、相互联系的经济形态。<div style="padding-bottom:1em;"></div>       经济学正在逐渐开始回应这些变化。经济学的标准理论曾经是建立在可预测性、秩序、均衡以及行为理性等基本原理之上的，其他与之相适应的应该是长时期保持不变的大批量生产方式。但是随着经济发展趋于组合性，技术也更加开放、新的原理就会进入，并成为经济学的基本原理。秩序、封闭、均衡作为组织解释的方式现在让位于开放性、不确定性以及永恒的新颖性。<div style="padding-bottom:1em;"></div>       我们该如何看待我们的创造物—技术呢？技术的本质不是技术，它是一种看见自然的方式，原因在于技术是我们实现目的的手段，目的就决定了技术的本质。如果技术出了问题，那么问题并不在于技术，而是存在于随技术而来的态度之中——我们应该接受冷酷的、无意志的技术还是应该接受有机的、具有生命力的技术。<div style="padding-bottom:1em;"></div>       我们是人类，我们需要的不只是经济上的舒适。我们需要挑战、我们需要意义，我们需要目的，我们需要和自然融为一体。如果技术将我们与自然分离，它就带给我们某种和形态的死亡。但是如果技术加强了我们和自然的联系，它就确立了生活，因而也就确立了我们的人性。我们应该拥抱让我们和自然团聚的技术。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37230199/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-21 17:26
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="38086784">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/younggift/"><img src="https://img3.doubanio.com/icon/u3077593-2.jpg" alt="杨贵福" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/38086784/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/38086784/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/younggift/" class=" " title="杨贵福">杨贵福</a>
+                (重剑无锋，大巧不工。)
+              
+            </p>
+            <div class="reading-note" data-cid="38086784">
+              <div class="short">
+                
+                  <span class="">然而，作为人类，我们实际上不应该和技术如此紧密地结合，而是应该和其他什么东西融合得更为紧密，那就是自然。在最深的层次上，人的存在应该和自然，和我们最初的环境，以及最初使我们成为人的那些条件相融合。
+
+
+如今机器被用来生产机器了，同时它又变成了以后同类机器的父母。
+
+
+技术的建构不仅来自已有技术的组合，还来自于对自然现象的捕捉和征服。在
+
+
+三个基本原理
+
+
+技术（所有的技术）都是某种组合。
+
+
+其...</span>
+                <p class="pl">
+                  <span class="">2016-07-04 22:15</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>然而，作为人类，我们实际上不应该和技术如此紧密地结合，而是应该和其他什么东西融合得更为紧密，那就是自然。在最深的层次上，人的存在应该和自然，和我们最初的环境，以及最初使我们成为人的那些条件相融合。
+
+
+如今机器被用来生产机器了，同时它又变成了以后同类机器的父母。
+
+
+技术的建构不仅来自已有技术的组合，还来自于对自然现象的捕捉和征服。在
+
+
+三个基本原理
+
+
+技术（所有的技术）都是某种组合。
+
+
+其次，技术的每个组件自身也是缩微的技术。
+
+
+第三条基本原理是，所有的技术都会利用或开发某种（通常是几种）效应（effect）或现象（phenomenon）。
+
+
+技术组件的集成或组合是为了满足它们的目的。
+
+Notes: 1) motivation   2) motivation , difference between the evolution of technology and biology. 
+
+
+技术组件的集成或组合是为了满足它们的目的。
+
+
+定义：技术是实现人的目的的一种手段。
+
+
+技术是实践和元器件（components）的集成（assemblage）。
+
+
+将技术作为在某种文化中得以运用的装置和工程实践的集合。
+
+
+装置和流程的确可以归于相同的范畴。
+
+
+技术总是围绕着一个中心概念或原理，如“事物的方法”或者一个可行的核心理念来组建
+
+
+各个子程序就处于不断的相互联系之中，它们不停地“对话”，就如同喷气发动机那样。
+
+
+技术的分解随着市场的细分而加剧。
+
+
+一开始的一系列松散地串在一起的零件如果被用得足够多，就会“凝固”成独立的单元。技术模块随着时间的推移会变成标准组件。
+
+
+一个技术绝少是固定不变的。它会不断地变换结构，当目的改变时，它会去适应并进行重新的配置，
+
+
+在真实世界中，技术是高度可重构的，它们是流动的东西，永远不会静止，永远不会完结，永远不会完美。
+
+
+现象是技术赖以产生的必不可少的源泉。
+
+Notes: 1) theory , principle . 
+
+
+这个例子阐明了如何应用现象的组合去达到目的。
+
+
+在实践中，现象在能够被应用于技术之前，一定要被“驯服”，并且作好恰当的准备。天然形式的现象很难被利用，需要巧妙的诱导，它们才能令人满意地运作起来。它们可能只在很有限的条件下起作用，所以一定要建立正确的支持方式才能使它们为预设的目的服务。
+
+
+货币系统利用了这样一种现象：只要我们相信其他人会相信一种交换媒介是有价值的，而且这种信任会在未来持续下去，我们就会相信这个系统。需要注意的是，这里的现象不是物理性的，而是行为性的，
+
+
+物理现象。
+
+
+目的性系统（purposed systems）。
+
+
+科学之所以在这个时候链接到技术，不仅是因为它能对结果提供更多的洞见和更好的预测，还因为一些新的现象家族开始被开发了。
+
+
+技术人员应用科学思想就如同政客们应用已故的政治哲学家们的思想一样。他们日复一日地使用这些思想，对其起源的细节却知之甚少。但这并不是出于无知，而是因为起源于科学的那些思想会随着时间的推移被消化吸收到技术体自身当中，例如融入电子工业或生物技术。它们在这些领域中与经验和特定的应用融合在一起，创造出它们自己固有的理论和实践。
+
+Notes: 1) 简化模型 
+
+
+技术是对现象的驾驭，而这很大程度上是由科学揭示的。
+
+
+为什么个体技术要聚集成群？原因之一是它们是分享了现象的族群。但这不是唯一的理由，技术聚集在一起还因为它们分享了共同的目标：
+
+
+用来概括和分析数据并实施统计性测试的统计软件包，拥有一个共同的假设前提，即抽样在总体上应是正态分布的，因而统计软件包工作的基础是共享了所操作数据在这个性质上的假设。
+
+Notes: 1) 共同的假设 
+
+
+一项技术（个体技术）是要完成一项工作，达成一个目标的，而且这个目标经常非常特殊。而一个域（复数的技术）则不需要完成工作；它仅仅是以一个工具箱的方式存在，你可以从中选取有用的元器件或一系列的应用规范。
+
+Notes: 1) lib  
+
+
+20世纪30年代，人们可以用由水泥制造的、15英尺或更高的巨大的声反射镜去监察跨越海峡飞往英格兰的飞机。它需要搜集来自20英里远的声音，然后交由具有超敏感听力的人进行处理。到第二次世界大战爆发时，雷达被用来实现同样的目的。
+
+
+它可能需要巴贝奇亲自设计设备，组装一台地震波分析仪，并依据爆炸回声进行地图的渲染。这个机器将是一个奇迹，它也许会带有一个犄角形的听筒，一个辅助的铜齿轮和杠杆，以及转盘和着墨的绘图笔。这个设备工作起来缓慢、复杂，而且它将专门用来进行地震勘测。巴贝奇时代的这些域（机器、铁路、早期工业化学）的触角很短，因此所能提供的可能性很有限。
+
+
+语法在很大程度上反映了我们对“特定域中自然是如何工作的”这个问题的理解。这种理解不仅是来自于理论8，也来自于经验积累：
+
+Notes: 1) dsl 
+
+
+事实上，正如口语表达的清晰度不仅取决于语法一样（它依赖于词汇的深层含义及其文化相关性），技术的清晰表达也不会仅仅依赖于语法。技术的清晰表达需要相关域的深层知识，包括：所使用组件的词汇的流利程度；对标准模块、以前的设计、标准材料、相关技术的熟悉度；
+
+
+可以在不同的域世界中完成同样的任务，但是功效可能会不一样。
+
+
+这暗示着创新不是发明以及对其的应用（例如，计算机、运河、DNA或者芯片的发明和应用），而是在新的可能世界中，将旧任务（例如，会计、运输或者医疗诊断）不断地进行重新表达（re-expressing）或者再域定（re-domaining）的过程。
+
+
+我们要关注的是它和语言的关系，先有意向，然后是完成的方法——组件的恰当组合。所以，设计即表达。
+
+
+如果你看过任何一本工程手册，你就会发现许多标准问题的解决方案。比如《机械和机械设备图集》8就给出了“耦合旋转轴的19种方法”，以及“15种不同的凸轮机构”。另外一个电子类的手册，则图解了5种振荡电器：阿姆斯特朗振荡器、科耳皮兹振荡器、克拉普振荡器、哈脱来振荡器、瓦卡振荡器。这类手册提供了标准解决方案来解决那些重复性的问题，也可以为特定的用途进行修改。
+
+
+标准工程中的每一个项目都会使一系列问题显现出来，每一个解决的结果都是一套对应的解决方案。可用的解决方案被建构并在实践者中传播，其中一些可能变成技术名词，进而变成未来技术的建构元素或模块。标准工程对创新和进化都贡献良多。
+
+
+新技术是针对现有目的而采用一个新的或不同的原理来实现的技术。新技术是在概念当中或实际形态当中，将特定的需求与可开发的现象链接起来的过程。
+
+
+新技术的形成（激光打印机、涡轮喷气发动机、计算机）都是源于一个新的或不同的基本原理。
+
+
+我发现勾勒出这个链条很有用。链条的一端是“需求”或“目的”；另一端是能达成需求或目的的基本“现象”。
+
+
+发明有两大模式： • 肇始于链条的一端，源于一个给定的目的或需求，然后发现一个可以实现的原理。 • 发轫于链条的另一端，从一个现象或效应开始，然后逐步嵌入一些如何使用它的原理。
+
+
+将原理转译成工作元件
+
+
+假设这时已经有了解决方案，那么标准技术就足以应付。但现在不行，因而如何定义问题本身就变成了挑战。那些接受挑战的人会遇到类似需要满足某个需求或需要克服某种限制的情况。他们很快会将挑战简化为需求——一个需要解决的技术问题。
+
+
+至此，需求已经变成一个被详尽描述的问题。
+
+
+当你听完斯塔克伟泽的故事后，印象最深的应该是他所面临的选择。每个次生问题都可能有几种解决方案。斯塔克伟泽选择解决方案、检验它们的可行性，并努力从中组成和谐的整体。当需要找到次生或次次生问题的源头时，他就向下拓展这一梯式递归进路，如果这些问题得到解决或被放弃了，他就再向上回溯。这个过程几乎总是很漫长，只有当获得了必要的知识，并且次生技术带来的挑战已被成功地克服后，才能向前迈一大步。前进的方向总是沿着运行恰切的版本向前延伸的。
+
+
+莱特兄弟所要做的是解决阻碍原理被转译成可行技术的四个关键的次生问题。
+
+
+基本原理有时会自然呈现，有时会突然出现。困难之处在于如何使原理正确地发挥作用，这可能需要漫长的努力。
+
+
+科学与数学中的原创和技术中的原创没有根本性的不同，我们不必对此感到惊讶。这种对应的存在不是因为科学、数学和技术是一样的，而在于三者都是目的性系统。
+
+
+科学与数学中的原创和技术中的原创没有根本性的不同，我们不必对此感到惊讶。这种对应的存在不是因为科学、数学和技术是一样的，而在于三者都是目的性系统。广泛来说，也可视为达到目的的手段，因此需要遵循同样的逻辑。三者的构成都始于形式或原理：对于技术，是源于概念性的方法；对于科学，是源于解释性的结构；对于数学，则源于真理与基本的公理结构。
+
+
+事实上，开发者经常寻找的并不是更好的部件，而是这个部件恰好能提供的一个现象。
+
+Notes: 1) 根据原理选择部件 
+
+
+当调换部件和结构深化都不能再为提高性能做什么的时候，技术就成熟了。这时候，如果想取得进一步的发展，则需要一个全新的原理。
+
+
+只要我们能够，我们总是倾向于将感知置于经验、事件之上，创造符合它的变故和关系。我们对那些不符合这种参考框架的事物往往采取忽视、误解或否认的态度。结果是，我们通常能找到我们所要寻找的东西。
+
+
+经济学假设新技术是被 “采用”的，它们被接纳并应用于经济中。对于个体技术当然是这样。钢铁生产商采用贝塞麦生产过程，他们的生产能力也相应地起了变化。但这并不能很好地描述复数的技术的情况，如计算或铁路技术。我更倾向于认为工业、公司、商业运作等经济要素并不是“采用”了一个新的技术体，而是“遭遇”了它。正是由于这种遭遇，才产生了新工艺、新技术、新兴产业。
+
+Notes: 1) 生产工具的变革 
+
+
+9在工厂还没有实现电气化之前的一个世纪左右，人们依靠蒸汽机提供动力。每一个工厂都有这样一个独立引擎，一个足有几层楼高的巨大的家伙嘶吼着，摇动着一个由活塞、飞轮、滑轮、皮带构成的组合，驱动主轴的运转，然后再继续驱动工厂里其他的机械设备。直到19世纪80年代，电动发动机才作为新的电子域的主要成员进入了可操作阶段。它们所耗能源成本很低，还可以分解成小单元进行安装。这样一来，每个需要提供动力的工作机旁边都可以安装一台电机。同时它们可以做到独立控制，可以依据需要分别开启或关闭。毫无疑问，电动发动机是更优的技术。
+
+Notes: 1) 统一或分散的动力 
+
+
+新技术要求重新建造工厂。
+
+
+手艺的形式部分可能最终会成为学术论文和教科书，但真正的专业技能部分则很大程度上藏在它创生的地方，在那里，它被视为理所当然的、共享的，且无须明言。
+
+
+随着技术数量的增加，组合的可能性也相应提高。
+
+
+威廉·奥格本早在1922年就已观察到这一点：“可用于辅助发明的东西越多，发明的数量就越大。”
+
+
+他预期物质文化（技术）的增长显示出“和复利曲线的相似之处”。如果他能在今天进行写作，他会说技术是按指数级增长的。
+
+
+事实上，需求不是一个恰当的词。因为在青霉素或核磁共振还不存在的时候，根本无法在经济中对它们提出明确的需求。因此不如说我们应该谈论的是技术的机会——即技术可以有效地占据的利基。
+
+
+在实践中，它们其实并不能这样干净利落地前后相继、井井有条，而经常是并行发生的。
+
+Notes: 1) 新技术可能与旧技术结合,也可能取代。都是利基之处。 
+
+
+所有可用的技术只有NAND（不是AND）电路（
+
+Notes: 1) 与非门 
+
+
+我们既不能预见会形成何种组合，也不能预见何种机会利基会被创造。由于潜在组合是成指数式增长的，这种不确定性也会随着技术体的发展而增加。
+
+
+经济以这种方式在暴风骤雨般的变化当中构成或重构自身，包括创新和适应这种新的制度安排，以及如影随形、互相追逐的机会利基。 让我以一个具体的例子来详细阐明我的观点。当实用的纺织机械于18世纪60年代在英国诞生时，它提供了一种替换当时以手工作坊为基础的生产方式。2当时，羊毛和棉布的纺织都是在家里手工完成的，属于散工制的组织方式。新机器在刚开始时获得了部分成功。接着，它需要比家庭手工作坊更大规模的组织，因此它为更高级的组织安排（纺织厂或毛纺厂）提供了机会，并成为其中的一部分。工厂实际上也是某种技术，它作为一种组织手段，反过来需要另一种手段来实现：工厂劳动力。劳动力当然早已在经济中存在，但是当时当地并没有足够多的人来支撑这种新的工厂系统，因此需要劳动力的调集。由于大多数劳动力来自农村，这就需要工厂附近有居住的地方，工人宿舍和工人住房建设因此而出现。随着工厂、工人以及他们的栖息地组合而来的是一个工业化城市的生长，一套新的社会组织方式或说一套新的安排出现了，内含这种结构的维多利亚式工业经济就此开始呈现。就这样，一个时代的特征，一套和超级工业机械相匹配的安排显现出来了。 但是这个过程还远远没有结束。工厂的劳动者当中许多都是孩子，经常在狄更斯作品中那样的条件下工作，这也引发了强烈的改革需求，这种改革需求不只是关于“下层阶级的道德状况”3，还有他们的安全状况。继而，法律系统需要采取进一步的安排来对此做出回应，劳动法就在这种情况下被制定出来，以阻止最坏的恶行发生。然后，新的工人阶级开始要求分享工厂创造的财富，他们利用一种手段来改善他们的状况，那就是工会组织。工厂中的劳动力要比家庭作坊中的劳动力更容易组织，4因此，若干年之后，工会就变成了一股不可小视的政治力量。 在这种机制下，纺织机械并不仅仅是替换了手工生产方式，它还为更高一级的制度安排（工厂制度）提供了机会。在这个制度安排中，机械只是其中的一个组分。新的工厂制度反过来建立了一个服务于劳动力及其栖居需要的需求链条。反过来，对这一问题的解决又创造了进一步的需求，所有这些最终演变为维多利亚式工业体系。这个过程用了100多年的时间才真正完成。
+
+
+从此，纺纱人不再能在家里转动她的纺轮，织布匠也不能在家里抛动他的梭子，那种没有任何监督的美好时光从此不再。现在，工作必须在工厂中完成了，以一种无聊的、毫无生气的机器所规定的步调，作为团队的一员，要与整体共进退，开始、间歇、停止——所有这些都在密切监督之下进行，工厂用道德、经济奖惩来促使工人勤奋地工作，有时候甚至是身体上的强迫。工厂是一种新的监狱；时钟是一群新的狱卒。”
+
+
+即将到来的新技术不是仅仅打破静态，比如说发现比我们现在用的产品或方法更好的新的组合：它需要一系列安置新技术的条件，并解决由此产生的另外一些新问题。
+
+
+即将到来的新技术不是仅仅打破静态，比如说发现比我们现在用的产品或方法更好的新的组合：它需要一系列安置新技术的条件，并解决由此产生的另外一些新问题。如此一来，又要为新的能够解决这些问题的进一步的技术创造新的机会利基——接下来又产生进一步的问题。 因此，经济总是存在于永恒变化之中，存在于一种永恒的新颖性之中。
+
+
+我们的理论始于三个原理：一切技术都是元素的组合；这些元素本身也是技术；所有技术都利用现象达到某个目的。
+
+
+一旦新技术（单体技术）诞生了，它们就立刻成为可供进一步地建构更新技术的潜在构件。
+
+
+从只实现单一目标功能的流程或机器转换为采用不同组合以实现不同目标的技术。为了反映技术的这种转换，经济至少在高科技部分更多地表现为更关注如何聚集、拼凑事物，而不是如何对现有操作进行完善。
+
+
+从占有资源的角度获取国民财富的总量开始不如从占有专业科学及技术知识的角度获得的那样多了。公司的竞争优势绝大部分是从它们占有的技术专长而来的。
+
+
+如果我们仅仅使用自然现象的原始形态去驱动水车或推动帆船，我们对技术就会有家的感觉，我们的信任和希望就不会那么不一致。但是现在，随着即将到来的基因工程、机器智能、仿生学、气候工程学，我们正在开始使用技术（利用自然）直接干预自然了。对于我们这种灵长类动物，对于我们这种以树、草和其他动物构成的生境为家的动物来说，这种感觉极度不自然。这扰乱了我们内心深处的信赖。 这种内心深处的不安会不知不觉地反映在很多方面。我们开始转向传统，转向环境保护主义，开始回头倾听家庭价值观，我们转向原教旨主义，我们抗议。我们这些反应的背后的实质，不论合理与否，是恐惧。我们害怕技术将我们与自然分离，我们害怕技术破坏了自然，破坏了我们的自然。
+
+
+我们害怕技术作为一种有生命的东西将会给我们带来死亡。不是“不存在”这个意义上的死亡，而是更糟糕的死亡，一种丧失自由的死亡，一种意志的死亡。
+
+
+他们的星际飞船是虚弱的、有机的，而且必须踢它才能让它运转。这是至关重要的，他们的技术是人性的。
+
+
+他们没有用人性和技术做交易，也没有使意志向技术投降。技术向他们投降了。并且由于这样做了，技术也拓展了它们的自然性。
+
+
+已经把技术奴役我们的本性和技术拓展我们的本性之间进行了区别。
+
+
+技术由人类创造出来，又基于自然最原初的现象，但却开始了疏离“人类与自然”的进化之旅。
+
+
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/38086784/#comments">回应</a>&nbsp;&nbsp;
+                  2016-07-04 22:15
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="43125577">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lisi_online/"><img src="https://img3.doubanio.com/icon/u3217244-3.jpg" alt="李4.0_online" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43125577/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43125577/" class="">第4页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lisi_online/" class=" " title="李4.0_online">李4.0_online</a>
+                (没心没肺ing)
+              
+            </p>
+            <div class="reading-note" data-cid="43125577">
+              <div class="short">
+                
+                  <span class="">是技术将我们与中世纪分离的，的确，是技术将我们与我们拥有了５万年甚至更久的那种生活方式分开了。技术无可比拟地创造了我们的世界，它创造了我们的财富，我们的经济，还有我们的存在方式。 这说法是不是有点绝对了？</span>
+                <p class="pl">
+                  <span class="">2017-04-15 10:27</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>是技术将我们与中世纪分离的，的确，是技术将我们与我们拥有了５万年甚至更久的那种生活方式分开了。技术无可比拟地创造了我们的世界，它创造了我们的财富，我们的经济，还有我们的存在方式。</blockquote><p>这说法是不是有点绝对了？</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43125577/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-15 10:27
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="43152183">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/fleure/"><img src="https://img3.doubanio.com/icon/u9336092-25.jpg" alt="红色有角F叔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43152183/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43152183/" class="">我们应该怎样看待技术</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/fleure/" class=" " title="红色有角F叔">红色有角F叔</a>
+                (祖传老db 专治dba)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="43152183">
+              <div class="short">
+                
+                  <span class="">面对正在稳步增长的技术，我们当然会深感矛盾，但是这种矛盾心理并不直接地来自于我们和技术的关系，而是来自我们与自然的关系。 更糟的是，我们所创造的技术除了响应人类的需要之外，它们还有自己的需要。 这种紧张不仅因为技术迫使我们去开发自然，还来自于它决定了我们大部分的生活。 这种内心深处的不安会不知不觉地反映在很多方面。我们开始转向传统，转向环境保护主义，开始回头倾听家庭价值观，我们转向原教旨主义，我们...</span>
+                <p class="pl">
+                  <span class="">2017-04-16 21:41</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>面对正在稳步增长的技术，我们当然会深感矛盾，但是这种矛盾心理并不直接地来自于我们和技术的关系，而是来自我们与自然的关系。</blockquote><p></p><blockquote>更糟的是，我们所创造的技术除了响应人类的需要之外，它们还有自己的需要。</blockquote><p></p><blockquote>这种紧张不仅因为技术迫使我们去开发自然，还来自于它决定了我们大部分的生活。</blockquote><p></p><blockquote>这种内心深处的不安会不知不觉地反映在很多方面。我们开始转向传统，转向环境保护主义，开始回头倾听家庭价值观，我们转向原教旨主义，我们抗议。我们这些反应的背后的实质，不论合理与否，是恐惧。我们害怕技术将我们与自然分离，我么害怕技术破坏了自然，破坏了我们的自然。我们害怕这种技术现象不在我们掌控之下。我们害怕自己曾经的什么虚无缥缈的行为在某种程度上获得了它的生命，然后它会在某种程度上反过来控制我们。我们害怕技术作为一种有生命的东西将会给我们带来死亡。不是“不存在”这个意义上的死亡，而是更糟糕的死亡，一种丧失自由的死亡，一种意志的死亡。</blockquote><p></p><blockquote>他们的星际飞船是虚弱的、有机的，而且必须踢它才能让它运转。这是至关重要的，他们的技术是人性的。它们是他们自然的拓展，它易错、独特，因而也是人次的。他们没有用人性和技术做交易，也没有使意志向技术投降，技术向他们投降了。并且由于这样做了，技术也拓展了它们的自然性。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43152183/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-16 21:41
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="43151901">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/fleure/"><img src="https://img3.doubanio.com/icon/u9336092-25.jpg" alt="红色有角F叔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43151901/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43151901/" class="">我们的立场是什么</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/fleure/" class=" " title="红色有角F叔">红色有角F叔</a>
+                (祖传老db 专治dba)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="43151901">
+              <div class="short">
+                
+                  <span class="">当一个网络是由数以千计各自独立又相互作用的元器件组成时，加上迅速变化的环境，这时几乎不可能有任何可靠地方法来进行这种自上而下的整体性设计。因此，越来越多的网络被设计成可以从经验中进行“学习”的网络，主要是去学习不同环境下各种元素之间如何作出互动的简单规则。 商业的运作部分（例如，商业银行、石油公司、保险公司）还依然体现着大工业时代的技术特征，但是有理由相信，随着初创公司、风险投资、金融衍生品、数...</span>
+                <p class="pl">
+                  <span class="">2017-04-16 21:21</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>当一个网络是由数以千计各自独立又相互作用的元器件组成时，加上迅速变化的环境，这时几乎不可能有任何可靠地方法来进行这种自上而下的整体性设计。因此，越来越多的网络被设计成可以从经验中进行“学习”的网络，主要是去学习不同环境下各种元素之间如何作出互动的简单规则。</blockquote><p></p><blockquote>商业的运作部分（例如，商业银行、石油公司、保险公司）还依然体现着大工业时代的技术特征，但是有理由相信，随着初创公司、风险投资、金融衍生品、数字化或组合生物学等越来越多，经济也必将进行以实现短期的可重构为目标的实践和商业过程的功能组合。</blockquote><blockquote>简而言之，经济正在变得具有繁衍能力。它关注的焦点从优化固定操作转变为创造新组合以及新的可配置的产品了。</blockquote><p></p><blockquote>这意味着高科技经济的“问题”还没有被清晰地界定出来。如此一来，他们就无法拥有最优的“解决方案”。在这种情况下，管理的挑战不在于如何合理地解决问题，而在于要对一个未加定义的情况“找到感觉”，即去“识别”它或者把它纳入一个可以应付的框架之内，之后再对其供应部件进行相应的定位。这再次出现了悖论，技术越高级，对其的商业性处理越缺乏理性。先进技术领域内的企业家不仅仅需要决策，更重要的是，他需要在不断出错的情况下给出某种认知次序。技术思想家约翰山列布朗告诉我们：“管理已经从制造产品转移到使产品有意义上来了”。</blockquote><p></p><blockquote>现代技术的本质发生了一系列新的转变：管理上从优化生产过程到创造新组合，即新产品或新功能；从理性到意会；从以商业产品为基础的公司到以技术为基础的公司；从购买要素到形成联盟；从稳态操作到不断适应。所有这些变化都不是突然发生的，事实上，新元素和就风格在经济中常常是共存的。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43151901/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-16 21:21
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="43147021">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/fleure/"><img src="https://img3.doubanio.com/icon/u9336092-25.jpg" alt="红色有角F叔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43147021/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43147021/" class="">经济中的时间</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/fleure/" class=" " title="红色有角F叔">红色有角F叔</a>
+                (祖传老db 专治dba)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="43147021">
+              <div class="short">
+                
+                  <span class="">我更倾向于认为工业、公司、商业运作等经济要素并不是“采用”了一个新的技术体，而是“遭遇”了它。 一旦我们承认发生的不只是一个简单采用过程，而是一个更大的、发生在域和经济之间的相互采用的过程，这个谜就解开了。对于一场颠覆性改变来说，只有基础技术的改变是不够的。异常颠覆性改变的完全展开需要等我们队那些围绕着新技术的活动（企业或商业流程）进行组织，并且直到这些技术也开始适应我们之后才算真正完成。为了实...</span>
+                <p class="pl">
+                  <span class="">2017-04-16 16:29</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>我更倾向于认为工业、公司、商业运作等经济要素并不是“采用”了一个新的技术体，而是“遭遇”了它。</blockquote><p></p><blockquote>一旦我们承认发生的不只是一个简单采用过程，而是一个更大的、发生在域和经济之间的相互采用的过程，这个谜就解开了。对于一场颠覆性改变来说，只有基础技术的改变是不够的。异常颠覆性改变的完全展开需要等我们队那些围绕着新技术的活动（企业或商业流程）进行组织，并且直到这些技术也开始适应我们之后才算真正完成。为了实现这一切，新的域必须积累信徒和声誉，必须找到目的和用途；其核心技术必须能够解决障碍，并且填补组件之间的裂缺；它必须发展它的支撑技术，并且将它和使用它的技术桥接起来；它必须理解它的现象基础以及藉由这些而发展起来的理论。</blockquote><p></p><blockquote>较慢的尺度可以称它为慢-时间，它会出现在新的技术体进入经济领域时，慢时间在经济和社会中显现为时代。它们共同在经济中创造出了“时间”。...不论在哪个尺度上，时间都不会创造经济，反而是经济（或经济结构的改变）在创造时间。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43147021/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-16 16:29
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="43146317">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/fleure/"><img src="https://img3.doubanio.com/icon/u9336092-25.jpg" alt="红色有角F叔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43146317/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43146317/" class="">技术与科学</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/fleure/" class=" " title="红色有角F叔">红色有角F叔</a>
+                (祖传老db 专治dba)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="43146317">
+              <div class="short">
+                
+                  <span class="">科学是一种观念，即自然在本质上是可知的，可以被探索、被究因的。如果以高度控制的方式对现象及其背后的含义进行探索，就可以获得对自然的理解；科学是一套实践和思维方式，包括理论化、想象和猜测；科学史一系列认识（knowings），一系列由过去的观察与思考积累起来的理解；科学是一种文化，一种关于信仰与实践、友谊与思想交流、观点与确证、竞争与互助的文化。 技术是对现象的驾驭，而这很大程度上是由科学揭示的。同样，科...</span>
+                <p class="pl">
+                  <span class="">2017-04-16 15:59</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>科学是一种观念，即自然在本质上是可知的，可以被探索、被究因的。如果以高度控制的方式对现象及其背后的含义进行探索，就可以获得对自然的理解；科学是一套实践和思维方式，包括理论化、想象和猜测；科学史一系列认识（knowings），一系列由过去的观察与思考积累起来的理解；科学是一种文化，一种关于信仰与实践、友谊与思想交流、观点与确证、竞争与互助的文化。</blockquote><p></p><blockquote>技术是对现象的驾驭，而这很大程度上是由科学揭示的。同样，科学也构建与（builds from）技术，或者说，科学是从它的技术中形成的，从哪些要使用技术的仪器、方法和实验中形成的。</blockquote><p></p><blockquote>断言技术只是科学的“应用”是幼稚的，毋宁说技术是从科学和自己的经验两个方面建立起来的。</blockquote><p></p><blockquote>技术是对现象有目的的编程。</blockquote><p></p><blockquote>现象只是简单的自然效应，因此独立于人类和技术而存在，现象本身并没有什么“使用”（use）与之相连。相比之下，原理是为达成某个目的而利用某个现象的理念（idea），它广泛存在于人类及“使用”的边界。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43146317/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-16 15:59
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/25846075/annotation">更多读书笔记（共59篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25846075/discussion/57246861/" title="techno-centric" class="">techno-centric</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/chuqiutianqi/">初秋天气</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2014-04-07</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/25846075/discussion/58990574/" title="简介有误，作者不是经济学博士" class="">简介有误，作者不是经济学博士</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/sorra/">好果子</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2014-10-09</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 50.30元</span>
+        <span class="price"> <del>62.90元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=157946&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/31733882/?dcs=subject-buylink&amp;dcm=douban&amp;dct=25846075" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/31733882/?dcs=subject-buylink&amp;dcm=douban&amp;dct=25846075" class="">
+          <span class="buylink-price">
+            
+            <span class="">35.19 元</span>
+          </span>
+        </a>
+      </li>
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B00KNSHHXC2736048/?asin=B00KNSHHXC&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B00KNSHHXC&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">42.10 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4210&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=4720&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgJXGF8VAiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIXBVYfWxUdS0IJRmsSRRAFFGErD2IQBCJSDX5%252FS3EHZC5lDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBhfFgUWD1wrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVBxAEURtbCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=25846075&amp;type=bkbuy&amp;subject=25846075" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4210&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=4720&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgJXGF8VAiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIXBVYfWxUdS0IJRmsSRRAFFGErD2IQBCJSDX5%252FS3EHZC5lDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBhfFgUWD1wrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVBxAEURtbCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=25846075&amp;type=bkbuy&amp;subject=25846075" class="buylink-price ">
+                      <span class="">
+                        47.20 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4210&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=4210&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25846075%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23441802&amp;cntvendor=3&amp;srcsubj=25846075&amp;type=bkbuy&amp;subject=25846075" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4210&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=4210&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s25846075%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23441802&amp;cntvendor=3&amp;srcsubj=25846075&amp;type=bkbuy&amp;subject=25846075" class="buylink-price ">
+                      <span class="">
+                        42.10 元
+                      </span>
+                    </a>
+
+                      
+                        <div class="more-info">
+                            <span class="buyinfo-promotion">
+                              图书加价购
+                            </span>
+                        </div>
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4210&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=4650&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6537274.htm&amp;cntvendor=3&amp;link2key=0a871b842c&amp;srcsubj=25846075&amp;type=bkbuy&amp;subject=25846075" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4210&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=4650&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F6537274.htm&amp;cntvendor=3&amp;link2key=0a871b842c&amp;srcsubj=25846075&amp;type=bkbuy&amp;subject=25846075" class="buylink-price ">
+                      <span class="">
+                        46.50 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/25846075/buylinks">
+              &gt; 查看3家网店价格
+                (42.10 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1079763">全部6</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/3395706/">Free Press版</a>
+          2009-8 / 15人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/6053428/">Free Press版</a>
+          2011-1-11 / 9人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/6866144/">高等教育出版社版</a>
+          2011-9 / 2人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/26687391/">科学出版社版</a>
+          2015-7 / 2人读过 / 有售
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/25846075/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/687785/" target="_blank">【书】所谓知识的另一种</a>
+                <span class="pl">(自娱者小五)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/38015545/" target="_blank">阅读之前 没有真相</a>
+                <span class="pl">([已注销])</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/36847674/" target="_blank">开智青年故事会书单</a>
+                <span class="pl">(开智学堂)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1449607/" target="_blank">最新上架</a>
+                <span class="pl">(湛庐文化)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/209116/" target="_blank">复杂性（Complexity）</a>
+                <span class="pl">(王荣欣)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/128023775/"><img src="https://img3.doubanio.com/icon/u128023775-1.jpg" class="pil" alt="beauty" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/128023775/">beauty</a><br/>
+      <div class="pl ll">          昨天          读过      </div>
+
+        <span class="allstar40" title="推荐"></span>
+      <br/>
+
+      <span class="pl">tags:技术思想 技术 技术创新</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/37160498/"><img src="https://img3.doubanio.com/icon/u37160498-3.jpg" class="pil" alt="Andy Huang" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/37160498/">Andy Huang</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:技术思想</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/caradillon/"><img src="https://img1.doubanio.com/icon/u1666456-18.jpg" class="pil" alt="行动好比风拂柳" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/caradillon/">行动好比风拂柳</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25846075/doings">114人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25846075/collections">384人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/25846075/wishes">2001人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/25846075/offers">1本二手书欲转让</a>
+          <span class="">
+            (1.00
+              元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有2001人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于技术的本质的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/25846075/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'FJvWxbzDu4o',
+            criteria = '7:技术|7:科普|7:技术思想|7:思维|7:哲学|7:技术创新|7:经济学|7:湛庐文化|7:社会|7:科技|3:/subject/25846075/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- hador13-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

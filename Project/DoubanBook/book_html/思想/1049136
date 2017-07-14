@@ -1,0 +1,3172 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>数学：确定性的丧失 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1049136/">
+<meta name="keywords" content="数学：确定性的丧失,[美] M·克莱因,湖南科学技术出版社,1997-6,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书数学：确定性的丧失 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1049136/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">数学：确定性的丧失</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s1729784.jpg" title="数学：确定性的丧失">
+    <img src="https://img3.doubanio.com/lpic/s1729784.jpg" title="点击看大图" alt="数学：确定性的丧失"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/M%C2%B7%E5%85%8B%E8%8E%B1%E5%9B%A0">[美] M·克莱因</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 湖南科学技术出版社<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">原作名:</span> Mathematics: the Loss of Certainty<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E6%9D%8E%E5%AE%8F%E9%AD%81">李宏魁</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 1997-6<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 384<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 32.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/1700">第一推动丛书</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787535718570<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.6 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">1620</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">45.6%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:57px"></div>
+
+            <span class="rating_per">41.0%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:17px"></div>
+
+            <span class="rating_per">12.5%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.7%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.2%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1049136-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1049136-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1049136-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1049136-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1049136-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1049136-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1049136-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1049136-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1049136">
+        <a href="#" data-url="https://book.douban.com/subject/1049136/" data-desc="" data-title="书籍《数学：确定性的丧失》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s1729784.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1049136"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>绝大多数有知识的人今天仍然认为数学是关于物质世界的不可动摇的知识体系，数学推理是准确无误的。这本专著驳斥了这种神话。作者M·克莱因指出，今天，普遍接受的数学概念已不复存在，事实上，有许多相互矛盾的数学概念；但是，在描述和研究自然与社会现象时，数学的有效性却在持续扩大。这是为什么？</p>    <p>全书在非专业层次上探讨数学尊严的兴衰，详细介绍了数学真理的起源、数学真理的繁荣、科学的数学化、数学向何处去等内容。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1049136/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>M·克莱因，美国纽约大学柯朗数学研究所的荣誉教授，曾任《数学杂志》的副主编，《精确科学史档案的主编，它的著作还有《西方文化中的数学》、《古今数学思想》等。自从欧几里得建立了现代数学的明确模式以来，他是比任何人都更好地理解了数学的思想家。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1049136_short">
+        第一章数学真理的起源<br/>
+        第二章数学真理的繁荣<br/>
+        第三章科学的数学化<br/>
+        第四章第一场灾难：真理的丧失<br/>
+        第五章一门逻辑科学不合逻辑的发展<br/>
+        第六章分析的困境<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1049136_short').hide();$('#dir_1049136_full').show();$.get('/j/subject/j_dir_count',{id:1049136});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1049136_full" style="display:none">
+        第一章数学真理的起源<br/>
+        第二章数学真理的繁荣<br/>
+        第三章科学的数学化<br/>
+        第四章第一场灾难：真理的丧失<br/>
+        第五章一门逻辑科学不合逻辑的发展<br/>
+        第六章分析的困境<br/>
+        第七章世纪的困境<br/>
+        第八章天堂之门<br/>
+        第九章天堂受阻：理性的新危机<br/>
+        第十章逻辑主义与直觉主义<br/>
+        第十一章形式主义与集合论公理化基础<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1049136_full').hide();$('#dir_1049136_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共393个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/数学">数学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/科普">科普</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/数学史">数学史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/哲学">哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/第一推动丛书">第一推动丛书</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/数学:确定性的丧失">数学:确定性的丧失</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/科学">科学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/思想">思想</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/1700">第一推动丛书 (共77册)</a>,
+这套丛书还有
+《霍金讲演录》,《量子夸克》,《未来50年》,《第一推动丛书·物理系列（珍藏本）》,《水母与蜗牛》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;数学：确定性的丧失&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/209931/?dcs=subject-rec&amp;dcm=douban&amp;dct=1049136" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/209931.jpg?v=1395395975.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/209931/" target="_blank">《新发现》2010年度专题汇总（数学）</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/310712/?dcs=subject-rec&amp;dcm=douban&amp;dct=1049136" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/310712.jpg?v=1395395981.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/310712/" target="_blank">哥德堡变奏</a>
+          </div>
+          <div class="price">
+              3.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/6848/?dcs=subject-rec&amp;dcm=douban&amp;dct=1049136" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/6848.jpg?v=1395396095.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/6848/" target="_blank">引力，或许只是个传说</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/237278/?dcs=subject-rec&amp;dcm=douban&amp;dct=1049136" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/237278.jpg?v=1395395954.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/237278/" target="_blank">思考的乐趣</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1210652/?dcs=subject-rec&amp;dcm=douban&amp;dct=1049136" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1210652.jpg?v=1395394656.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1210652/" target="_blank">神经漫游者</a>
+          </div>
+          <div class="price">
+              7.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;数学：确定性的丧失&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1277169/" onclick="moreurl(this, {'total': 10, 'clicked': '1277169', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4197640.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1277169/" onclick="moreurl(this, {'total': 10, 'clicked': '1277169', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            古今数学思想（一）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1206206/" onclick="moreurl(this, {'total': 10, 'clicked': '1206206', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2912170.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1206206/" onclick="moreurl(this, {'total': 10, 'clicked': '1206206', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            皇帝新脑
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1266422/" onclick="moreurl(this, {'total': 10, 'clicked': '1266422', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1622939.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1266422/" onclick="moreurl(this, {'total': 10, 'clicked': '1266422', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            可怕的对称
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1391740/" onclick="moreurl(this, {'total': 10, 'clicked': '1391740', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2912176.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1391740/" onclick="moreurl(this, {'total': 10, 'clicked': '1391740', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            逻辑的引擎
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1227414/" onclick="moreurl(this, {'total': 10, 'clicked': '1227414', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1409531.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1227414/" onclick="moreurl(this, {'total': 10, 'clicked': '1227414', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            古今数学思想（四）
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1291204/" onclick="moreurl(this, {'total': 10, 'clicked': '1291204', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1789059.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1291204/" onclick="moreurl(this, {'total': 10, 'clicked': '1291204', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            哥德尔、艾舍尔、巴赫
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1211033/" onclick="moreurl(this, {'total': 10, 'clicked': '1211033', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s2332999.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1211033/" onclick="moreurl(this, {'total': 10, 'clicked': '1211033', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            古今数学思想（二）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1320281/" onclick="moreurl(this, {'total': 10, 'clicked': '1320281', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1911910.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1320281/" onclick="moreurl(this, {'total': 10, 'clicked': '1320281', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            数学与知识的探求
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1322880/" onclick="moreurl(this, {'total': 10, 'clicked': '1322880', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s9143433.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1322880/" onclick="moreurl(this, {'total': 10, 'clicked': '1322880', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            夸克与美洲豹
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1320282/" onclick="moreurl(this, {'total': 10, 'clicked': '1320282', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1802550.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1320282/" onclick="moreurl(this, {'total': 10, 'clicked': '1320282', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            什么是数学
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1049136/comments/">全部 382 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="9674868">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-9674868" class="vote-count">4</span>
+                        <a href="javascript:;" id="btn-9674868" class="j a_show_login" data-cid="9674868">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/jiyihanxing/">寄意寒星</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2007-01-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">此书豆瓣上褒居多，不知道是不是都读过《古今数学思想》。Kline这本书确实有比前作强的地方，但此书一来翻译得确实有问题，二来确实很多观点太旧（比如关于引力和超距作用）。应该说，不损失它的经典性，但必然令人遗憾。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="72300705">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-72300705" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-72300705" class="j a_show_login" data-cid="72300705">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/yezhouxxx/">刘二苍松</a>
+                    <span>2008-11-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">改变了我对数学的看法——还想再读一次。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="551161542">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-551161542" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-551161542" class="j a_show_login" data-cid="551161542">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/DonnaT/">唐错刀</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2012-07-02</span>
+                </span>
+            </h3>
+            <p class="comment-content">准确地说，这是通过数学来解析思想的书，充分证明了为什么数学会是人类思维的基石之一。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="384546256">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-384546256" class="vote-count">2</span>
+                        <a href="javascript:;" id="btn-384546256" class="j a_show_login" data-cid="384546256">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/masl/">GoodMorning</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2014-01-29</span>
+                </span>
+            </h3>
+            <p class="comment-content">其实是对有数学基础的人的科普。另：那么多专有名词和通用译名译者都能胡来。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="582725938">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-582725938" class="vote-count">5</span>
+                        <a href="javascript:;" id="btn-582725938" class="j a_show_login" data-cid="582725938">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/52341838/">Rorepme</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2013-07-31</span>
+                </span>
+            </h3>
+            <p class="comment-content">作者以严肃正经间或冷烂欠地笔调描述了25世纪以来，数学家面对危机时如何努力解决并在证明不出来时如何试图蒙混过去最后实在糊弄不住只好破罐破摔的伟大历程（大雾....)</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1198418804">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1198418804" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1198418804" class="j a_show_login" data-cid="1198418804">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/147649967/">小尼</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-06</span>
+                </span>
+            </h3>
+            <p class="comment-content">数学史。只对结论与论据感兴趣的人会觉得臭长臭长的。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1195284294">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1195284294" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1195284294" class="j a_show_login" data-cid="1195284294">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/62525128/">行止</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-05-28</span>
+                </span>
+            </h3>
+            <p class="comment-content">要想明白数学的真正思想，就去看专业的数学书；误人子弟系列。。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1195255980">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1195255980" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1195255980" class="j a_show_login" data-cid="1195255980">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/48314284/">随便叫啥子名字</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">中学时看的。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1178768566">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1178768566" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1178768566" class="j a_show_login" data-cid="1178768566">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/49685227/">金陵阿福</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-04-16</span>
+                </span>
+            </h3>
+            <p class="comment-content">好书，值得仔细读！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1170631658">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1170631658" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1170631658" class="j a_show_login" data-cid="1170631658">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/69000590/">歇斯底你</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-03-28</span>
+                </span>
+            </h3>
+            <p class="comment-content">人类的疯狂与渺小。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1049136/comments/">更多短评 382 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1049136/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            数学：确定性的丧失的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 40 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1247897">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1247897/" class="title-link">这一场华丽的冒险</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1247897"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/someone/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1160832-3.jpg"></a>
+    <a href="https://www.douban.com/people/someone/" class="author">
+      <span property="v:reviewer">朝颜</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2007-11-27"
+      class="main-meta">2007-11-27 00:28:14</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1247897_short" class="review-short">
+            <div class="short-content">
+                  在电影《Fracture》里，有一架颇具象征意味的仪器。灯光幽暗的大屋一角，金属架构蜿蜒盘旋，水晶玻璃小球自高处一路缓慢滑下，闪闪烁烁，衬着老安东尼诡秘的微笑，简直有魅惑人心的力量。在两位主人公漫长的对决中，这个镜头反复出现，以一个精确的、缓慢的、优美的姿态。也许...
+
+                    <a class="pl" href="https://book.douban.com/review/1247897/#comments">(8回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">82有用 / 6没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1247897_full" class="hidden">
+            <div id="review_1247897_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1410358">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1410358/" class="title-link">阅读笔记</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1410358"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/sardine2/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1024722-15.jpg"></a>
+    <a href="https://www.douban.com/people/sardine2/" class="author">
+      <span property="v:reviewer">沙丁鱼2</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2008-06-16"
+      class="main-meta">2008-06-16 08:30:55</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1410358_short" class="review-short">
+            <div class="short-content">
+                  2008-6-15欧式空间（现象学）及康德  那天，当老师回答某同学关于是否有人质疑过弗洛依德如何得知小孩的auto-eroticism，他说：Well, you know, 所有理论都必须有一个预设。就如数学公理，过一条不在直线L上的某一点，有些只有一条直线；又或者是，两点之间距离最短是直线。这...
+
+                    <a class="pl" href="https://book.douban.com/review/1410358/#comments">(3回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">8有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1410358_full" class="hidden">
+            <div id="review_1410358_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5801354">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5801354/" class="title-link">理解无限——简明扼要的数学哲学发展史</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5801354"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/MikawaFumika/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u47980713-554.jpg"></a>
+    <a href="https://www.douban.com/people/MikawaFumika/" class="author">
+      <span property="v:reviewer">冬月まつり</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2013-03-06"
+      class="main-meta">2013-03-06 01:34:10</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5801354_short" class="review-short">
+            <div class="short-content">
+                  当我向别人推荐这本书的时候，我都会加上一句：“这本书的标题似乎不大恰当。”的确，这个标题涵盖了某些结论的某个部分，却不能说明这本书的主题和内涵。或许标题的噱头在于读者看到这本书似乎会立刻想起：“数学怎么会不确定呢？”然后会疑惑不解并进而有阅读的欲望。但我宁...
+
+                    <a class="pl" href="https://book.douban.com/review/5801354/#comments">(3回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">29有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5801354_full" class="hidden">
+            <div id="review_5801354_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1005567">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1005567/" class="title-link">数学的史诗</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1005567"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/1024649/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1024649-1.jpg"></a>
+    <a href="https://www.douban.com/people/1024649/" class="author">
+      <span property="v:reviewer">shuaiye</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2005-09-26"
+      class="main-meta">2005-09-26 11:19:03</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1005567_short" class="review-short">
+            <div class="short-content">
+                  克莱因写的最好的书，我觉得比《古今数学思想》还要好。 这几乎就是一部文学作品，跌宕起伏，峰回路转。还有很多 这个行业的小故事，我觉得这是一部史诗似的著作，描绘了 特别生动的数学世界。其中数学大家在历史上的一些错误会让 你有一些小小的膨胀，因为你是在克莱因这条船...
+
+                    <a class="pl" href="https://book.douban.com/review/1005567/#comments">(5回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">27有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1005567_full" class="hidden">
+            <div id="review_1005567_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="4589362">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/4589362/" class="title-link">数学的真谛</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-4589362"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/c_pig8828/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u26941615-6.jpg"></a>
+    <a href="https://www.douban.com/people/c_pig8828/" class="author">
+      <span property="v:reviewer">蓬山远</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2011-01-19"
+      class="main-meta">2011-01-19 14:23:47</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_4589362_short" class="review-short">
+            <div class="short-content">
+                  这个世界上流传着一个深入人心的奇谈怪论——数学是理性的学科，数学是逻辑的学科，数学的人类理性的精华，数学是自然科学的皇后。 不，不是，数学是经验的学科，数学是人类经验的提炼，“数学是自然科学的女仆”。一切数学工作者，若不能理解这一重要的判断，数学的发展就没有...
+
+                    <a class="pl" href="https://book.douban.com/review/4589362/#comments">(16回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">26有用 / 8没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_4589362_full" class="hidden">
+            <div id="review_4589362_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评40篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1049136/annotation">共<span property="v:count">61</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="19655382">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xjmanu/"><img src="https://img3.doubanio.com/icon/u1332593-32.jpg" alt="xjmanu" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/19655382/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/19655382/" class="">第283页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xjmanu/" class=" " title="xjmanu">xjmanu</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="19655382">
+              <div class="short">
+                
+                  <span class="">一个寓言恰如其分地概括了本世纪有关数学基础的进展状况。在莱茵河畔，一座美丽的城堡已经伫立了许多世纪。在城堡的地下室生活着一群蜘蛛，突然一阵大风吹散了它们辛辛苦苦编织的一张繁复的蛛网，于是它们慌乱地加以修补，因为它们认为，正是蛛网支撑着整个城堡。</span>
+                <p class="pl">
+                  <span class="">2012-07-14 22:49</span>
+                  
+                    &nbsp;&nbsp;<span class="">3人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>一个寓言恰如其分地概括了本世纪有关数学基础的进展状况。在莱茵河畔，一座美丽的城堡已经伫立了许多世纪。在城堡的地下室生活着一群蜘蛛，突然一阵大风吹散了它们辛辛苦苦编织的一张繁复的蛛网，于是它们慌乱地加以修补，因为它们认为，正是蛛网支撑着整个城堡。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/19655382/#comments">回应</a>&nbsp;&nbsp;
+                  2012-07-14 22:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="24749141">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/MikawaFumika/"><img src="https://img3.doubanio.com/icon/u47980713-554.jpg" alt="冬月まつり" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/24749141/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/24749141/" class="">第178页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/MikawaFumika/" class=" " title="冬月まつり">冬月まつり</a>
+                (精神冻鳗婆罗门)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="24749141">
+              <div class="short">
+                
+                  <span class="">然而,与科学完全无关的纯数学不在主要的考虑之列。从科学引起的 更富生命力且令人极感兴趣的问题中分离出来,这只是一种嗜好。尽管费 马是数论的奠基人,但他更多的精力是投入到解析几何的发明、微积分问 题以及光学(见第六章)。他试图引起帕斯卡和惠更斯对数论的兴趣,但 是失败了。17 世纪,很少有人会对这类学科产生兴趣。
+欧拉确实在数论上花了一些功夫,但欧拉不仅仅是一个 18 世纪卓越的 数学家,他也是卓越的数学物理学家。他的..</span>
+                <p class="pl">
+                  <span class="">2013-02-22 17:49</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                然而,与科学完全无关的纯数学不在主要的考虑之列。从科学引起的 更富生命力且令人极感兴趣的问题中分离出来,这只是一种嗜好。尽管费 马是数论的奠基人,但他更多的精力是投入到解析几何的发明、微积分问 题以及光学(见第六章)。他试图引起帕斯卡和惠更斯对数论的兴趣,但 是失败了。17 世纪,很少有人会对这类学科产生兴趣。<div style="padding-bottom:1em;"></div>欧拉确实在数论上花了一些功夫,但欧拉不仅仅是一个 18 世纪卓越的 数学家,他也是卓越的数学物理学家。他的研究范围从解决物理问题的数 学方法如微分方程求解,到天文学、流体运动、舰船的设计、火炮、制图、 乐器理论以及光学。<div style="padding-bottom:1em;"></div>拉格朗日也在数论上投入了一些时间。但是他也同样把他毕生大部分 精力花在了对应用至关重要的数学——分析之上(见第三章)。他的代表 作是《分析力学》,讨论数学在力学中的应用。事实上,在 1777 年他抱怨 道:“算术研究给我带来了极大的麻烦,而且也许毫无价值。”高斯也在 数论方面作出了令人瞩目的成就,他的《算术研究》(1801 年)是一部经 典名著。如果只看这部著作,则很容易相信高斯是个纯数学家,但他的主 要精力却放在了应用数学中(见第四章)。克莱因在他的 19 世纪数学史中 称《算术研究》为高斯青年时期的作品。<div style="padding-bottom:1em;"></div>虽然高斯在晚年确实回到了对数论的研究,但他显然不认为这一学科 十分重要。证明费马大定理问题即没有大于 2 的整数满足 xn+yn=zn,常常 困扰着他,但在 1816 年 3 月 21 日写给奥尔帕斯(Wilhelm Olbers)的一封 信中,高斯称费马猜想是一个孤立的定理,没有什么意义。他还说,有许 多既不能证明也不能证伪的猜想,但他是如此繁忙,以至于没有时间去考 虑他在《算术研究》中所做过的那类工作。他希望费马猜想也许能在他所 做的别的工作基础上得到证明,但那将是最无意义的推论了。<div style="padding-bottom:1em;"></div>高斯曾说“数学是科学中的王后,而数论是数学中的王后。她经常屈 尊降贵为天文学及其他自然科学助一臂之力,但无论如何,她总是处在最 重要的位置。”这说明了他对纯数学的偏爱。但高斯的毕生事业并没有遵 从这句话。他很可能只在某些闲暇的时候做到了这一点。他的格言是:“你,自然,我的女神:对你的规律,我的贡献是有限的。”富有讽刺意义的是: 通过有关非欧几何的工作,他对于数学与自然一致性的一丝不苟的证明, 对怀疑数学的真理性起着深远的影响。对于 1900 年以前所创建的数学,我 们可以得出一般的结论:存在纯粹数学,但不存在纯粹的数学家。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/24749141/#comments">回应</a>&nbsp;&nbsp;
+                  2013-02-22 17:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42628212">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/antisocial97/"><img src="https://img3.doubanio.com/icon/u48212313-140.jpg" alt="Musca" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42628212/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42628212/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/antisocial97/" class=" " title="Musca">Musca</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="42628212">
+              <div class="short">
+                
+                  <span class="">1. 在所有早期文明中，这些问题的回答都是宗教领袖给出的，并为人们所普遍接受。只有古希腊文明是个例外。希腊人发现（人类所作出的最伟大的发现）了推理的作用。正是古典时期（公元前600 年至前300 年间的鼎盛时期）的希腊人，认识到人类有智慧、有思维（有时佐以观察或实验），能够发现真理。 2. 最早提出自然界数学模式的是以毕达哥拉斯（Pythagoras）为领袖的座落于意大利南部的毕达哥拉斯学派。 3. 例如，毕达哥拉斯学派之...</span>
+                <p class="pl">
+                  <span class="">2017-03-26 12:28</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>1. 在所有早期文明中，这些问题的回答都是宗教领袖给出的，并为人们所普遍接受。只有古希腊文明是个例外。希腊人发现（人类所作出的最伟大的发现）了推理的作用。正是古典时期（公元前600 年至前300 年间的鼎盛时期）的希腊人，认识到人类有智慧、有思维（有时佐以观察或实验），能够发现真理。</blockquote><blockquote>2. 最早提出自然界数学模式的是以毕达哥拉斯（Pythagoras）为领袖的座落于意大利南部的毕达哥拉斯学派。</blockquote><blockquote>3. 例如，毕达哥拉斯学派之所以能把音乐归结为数与数之间的简单关系，乃是因为他们发现了下列两个事实：第一，弦所发出的声音取决于弦的长度；第二，两根绷得一样紧的弦，若一根是另一根长的两倍，就会产生谐音。换言之，两个音相差八度。如两弦长为3 比2，则发出另一谐音。 这时短弦发出的音比长弦发出的音高五度。确实，产生每一种谐音的多根弦的长度都成整数比。毕达哥拉斯学派也搞出了一个著名的音阶。我们虽然不打算讲许多希腊时代的音乐，但要指出许多希腊数学家包括欧几里得和托勒密，都写过这方面的著作，特别是关于谐音的配合，而且还制定过音阶。</blockquote><blockquote>4. 由于毕达哥拉斯学派将天文学和音乐“归结”为数，这两门学科就同算术和几何发生了联系。这四门学科都被人看成是数学学科，甚至一直到中世纪，仍被包括在学校课程中，当时号称“四大学科”。</blockquote><blockquote>5. 但或是凭运气或是凭天生的直觉，毕派的确言中了后来两条证明是极为重要的信条：第一是自然界是按数学原理构成的；第二是数学关系决定、统一并显示了自然的秩序。实际上现代科学也坚持毕派对数学的强调，虽然，正如我们将看到的，现代理论是毕派理论的更为高级的形式。</blockquote><blockquote>6. 通过只接受那些确凿无疑的事实，笛卡尔开始他的哲学体系的建立工作。那么他是怎么区分哪些是可接受的论据，哪些是不可接受的呢？在他的《思维指导法则》中（写于1628 年，但他死后才得以出版），他指出：“对于我们要研究的对象来说，我们不仅不应该研究他人已经想出的，而且也不应研究我们自己臆测的东西，而应研究我们能清楚明了的看出或可靠地演绎出的东西，因为知识不可能用别的方法得到。”使头脑有能力直接获得清楚和明晰的基本原理，极其敏锐的直觉和对结果的演绎——这就是笛卡尔认识哲学的实质。笛尔卡认为思维只有两种方法，它们能使得我们不必担心陷入谬误而获得知识，这就是：直觉和演绎。在《法则》一书中，笛卡尔对直觉给予很高的评价：“直觉是纯粹的专注的思维的可靠概念，它仅由理性之光产生，而且比演绎更可信一些。”</blockquote><blockquote>7. 在科学上，笛卡尔的贡献，虽然不如像哥白尼、开普勒以及牛顿那样辉煌灿烂，但也不容轻视。他的漩涡理论（见第三章）是17 世纪时的主要宇宙学理论，他是机械论哲学的奠基人。这种哲学认为，所有自然现象，包括人体的作用，但除了灵魂，都可归结为服从力学定律的运动。对于力学来说，他系统地阐述了惯性定律，即现在所说的牛顿第一运动定律：如果没有外力作用，每个物体都保持其静止状态或匀速直线运动状态。</blockquote><blockquote>8. 当然伽利略意识到靠一条不正确的由实验得出的原理，推出的结果也是不正确的，因此，他建议并且可能做了一些实验来检验他推理的结论以获得基本原理，然而，伽利略做实验做到何种程度却不得而知。有一些他称之为实验的，实际上是理想中的实验，即想象如果真做实验的话，一定会发生什么。然而，他的宗旨：物理学原理必须建立在经验及实验基础上却具有革命性的关键意义。伽利略毫不怀疑一些上帝用来创造宇宙的真实原理可从心里推出，但在从经验出发的角度上，他允许对此持怀疑态度。</blockquote><blockquote>9. 牛顿力学和他以前的力学的本质不同不只在于引入了数学来描述物体的状态，数学对物理学的帮助也不只因为它是一种更方便、更简洁、更清晰、更普遍的语言，而是因为它提供了最基本的概念。重力只是一个数学符号的名称，同理在牛顿第二运动定律（F＝ma，力等于质量乘以加速度）中，力可以是使物体产生加速度的任何东西。力本身的性质在物理上也许是不可知的，因此牛顿谈到而且使用了向心力和离心力的概念，尽管他并不知道这些力的机制。</blockquote><blockquote>10. 莱布尼茨的数学和科学工作广泛而有价值，我们以后还将详述。但有点像笛卡尔，他的贡献是技术性的。他在微积分及微分方程创立之初所做的工作，还有他对某些新出现的概念——如我们今天称之为动能——的重要性的确认，都是第一流的。但莱布尼茨没有贡献任何新的关于自然的根本性法则，倒是他的以数学为基础的科学哲学认为，在激励人们寻求真理时，数学最为重要。</blockquote><blockquote>11. 数学支配一切，18 世纪最伟大的智者对此深信不疑。著名的数学家丹尼斯·狄德罗(Denis Diderot)，编纂《法国大百科全书》的主要参与者，说“世界的真正体系已被确认，发展和完善了。”显然，自然法则就是数学法则。 拉普拉斯还有一段更著名的论述：我们可以把目前的宇宙状态看作是宇宙过去的结果和将来的原因。如果一个有理性的人在任何时刻都知道生物界的一切力及所有生物的相互位置，而他的才智又足以分析一切资料，那么他就能用一个方程式表达宇宙中最庞大的物体和最轻微的原子的运动。对他来说，一切都是显然的，过去与未来都将呈现在他眼前。</blockquote><blockquote>12. 进入19 世纪，数学界正是一派祥瑞景象：拉格朗日仍然活跃在数学界，拉普拉斯正处在他智力的顶峰时期，傅立叶致力于研究他1807 年的手稿，这篇手稿后来并入了他的经典著作《热论》（1822 年）；高斯(Gauss)刚刚发表了他的《算术研究》（1801 年），这是关于数论的一个里程碑，随后他又做出了许多的贡献，为他赢得了数学王子的雅称；高斯的法国同行柯西(Augustin－Louis Cauchy)在他1814 年的一篇论文中显露出超凡的才能。</blockquote><blockquote>13. 假如他们对一些同行的行为稍加注意，那么，也许他们会对即将面临的灾难有所准备。培根早就在他的《新工具》（1620 年）中写道：一个群体的观念是与生俱来的，与群体和种族关系甚密。因而人的感觉有时错误地被当作事物的标准。另一方面，所有感觉上的或是心智上的领悟力，依赖于人而不是宇宙。而人的心智就像不平坦的镜面，把自己的性质转赋给了事物。光线原由事物发出，而镜子使之扭曲变形。</blockquote><blockquote>14. 牛顿的工作无意中使自然科学第一次从神学中分离或者解放出来。我们已经提到过，伽利略坚持说自然科学必须与神学相分离，而牛顿在他的《原理》一书中坚持这一原则，朝着对自然现象给以纯数学的解释迈进了一大步。因此上帝越来越多地被排斥在科学理论的数学描述之外了。实际上，牛顿所没能解释的那些反常现象在后来的研究中得到了根本上的解释。</blockquote><blockquote>15. 宗教信仰因此而从正统观念分化出许多的旁门左系，诸如唯理论的超自然主义、自然神论、不可知论或是干脆的无神论。这些运动对18 世纪那些学识广博的数学家产生了一定影响。</blockquote><blockquote>16. 由是休谟回答了“人怎样获得真理”这一基本问题——他否认真理的存在，人不可能区别真理。休谟的工作不仅贬损了在科学和数学上付出的努力和得到的结果，还对推理本身的价值提出了质疑。对于大多数18 世纪的思想家来说，这样一种对人类最高智慧能力的否认是大逆不道的。数学家、人类推理的其他成就如此辉煌以至于到了“不可一日无此君”的地步。 休谟的哲学对于18 世纪绝大多数的学者来说是矛盾和令人嫌恶的，而且与数学和其他科学中的惊人的成就是如此格格不入，因此遭到了驳斥。</blockquote><blockquote>17. 历史上最受尊敬的可能也是最深邃的哲学家康德发起了这一挑战。但是对康德殚精竭虑所提出的结论进行仔细推敲后发现其并不比其他人的更令人信服。在他的《未来形而上学导言》（1783 年）一书中，康德看来确是站在科学家和数学家一边：“我们可以确切地说：纯粹的先验的综合知识，纯粹数学和纯粹物理学是真实存在也是先天既定的，二者都包含一些被广泛承认、绝对肯定的命题，..而且是独立于经验的。”在他的《纯粹理性批判》（1781 年）一书中，康德甚至使用更为确信的词语作为开头，他肯定所有的数学公理和定理都是真理，但是为什么？康德自问道。他愿意接受这样的真理吗？显然经验本身并不足以证明它们的有效性。如果你能回答一个更大的问题——数学确实是一门科学吗——你也就能回答这个问题了。康德的回答是：时间和空间的形式依我们的心智所定，所谓时间和空间只是我们感知的一种模式。这种感知——康德称之为直觉——的模式由心智对待经验的方式决定。我们依据这些智力形式去感知，组织和理解经验，经验与之相符犹如面团符合于它的模子。心智将这些方式加到感觉、印象上去使感觉与内在的模式相吻合。既然空间的直觉来源于心智，那么心智自动地接受空间的某些属性，诸如直线是两点间的最短路径，三点确定一平面以及欧几里得的平行公理。康德称这些真理为一个先验的假设的真理，它们是我们心智构成的一部分。几何学的科学性恰恰在于其揭示了这些真理的逻辑推断，心智正是通过“空间结构”来对待经验这样一个事实说明经验与基本原理和定理是一致的。我们自认为感知到的外部世界的秩序和理性是由我们的精神和我们的思考方式加诸其上的。</blockquote><blockquote>18. 可以毫不怀疑地说，印度人并不了解他们对数学的贡献有多么重要，他们有为数不多的一些不错的思想，例如，数字1 到9 用独立的记号表示，将六十进制转化为十进制，负数，以及把0 当作一个数来对待。这些思想都是漫不经心的。他们并没有明显地意识到它们是极有价值的创举。他们对数学价值并不敏感，他们把他们自己提出的完善的思想和埃及人及巴比伦人最粗糙、原始的思想混合在一起。</blockquote><blockquote>19. 18 世纪的思想家们所采用的论据的一个奇怪的特点是它们求助于形而上学，人们用它来暗示数学领域之外还存在一个真理体系，如果需要的话，可以用它来检验他们的工作。虽说它究竟是什么还不清楚，但应用形而上学意在给那些不为推理所支持的论点增强可信度。因此，莱布尼茨宣称形而上学的用处比我们认识到的要多。他把1/2 作为级数1-1+1-..的和的证明和他提出的连续性原理，都只不过重申了上述观点。它们被“证明”是形而上学的，仿佛这样就不容置疑了。欧拉也求助于它，认为在分析中也必须默认它，当17、18 世纪的数学家们不能为一个观点提供更好的证明时，他们就惯于说这其中的理由是形而上学的。</blockquote><blockquote>20. 数学批评运动的创建者们认识到，两千多年来数学家们只是在充溢着直觉，似是而非的证明以及归纳推理和符号表达式的形式运算的荒野上漫游，他们期望着能在一片空白上建立合适的数学逻辑基础，摒弃那些模糊的概念和矛盾，改进如欧氏几何这样的数学分支已有的基础。这项工作在19 世纪20 年代就已经开始了，并且，随着非欧几何渐为人知，也在愈加广泛地加速进行。它逐渐揭示出欧氏几何在结构上的缺陷，可以明显看出，过去被认为是严格证明的典范，无懈可击的堡垒，也经不起细致推敲。稍后，也就是1843 年，四元数的产生又向实数、复数运算的自以为是提出了挑战。当然，还有一些对自己工作过于自信的数学家，继续粗劣地推理，一旦得到正确的结果，便更错误地相信他们的证明和理论是无懈可击的。 虽然严谨的思想家们承认必须摒弃数学是现实世界的真理的主张，但他们还是对数学在力学、地球力学、声学、流体动力学、弹性力学、光学、电磁学以及工程学的许多分支等诸多领域辉煌的成就感到由衷的敬佩。尽管数学是在真理战无不胜旗帜的庇护下，但它一定还借助了某种基本的，也许是神秘的力量才取得其成就。数学对自然的超常的适用性虽然还需进一步解释（见第十五章），但是，没有人能否认这一事实并胆敢把这样一种无所不能的工具弃置不顾。当然，它不应当受到由逻辑困难和矛盾所带来的混乱的威胁，而且，尽管数学家们一度违背了逻辑严密性的原则，但他们也不准备使他们的学科永远建立在实用的基础上。否则，他们的声望也将受到影响。</blockquote><blockquote>21. 然而，许多20 世纪早期的数学家不愿理睬上述这些悖论，因为它们涉及的集合论在当时是新兴的且无足轻重。其他一些人，意识到这些悖论的影响不仅限于经典数学，还关系到通常的推理，因而感到无所适从。一些人曾试图接受威廉·詹姆斯在他的《实用主义》中提出的建议，“当你遇到矛盾时，你必须澄清它。”从拉姆塞（FrankPlumptonRamsey）起，一些逻辑学家，曾尝试区分语义造成的矛盾和真实的即逻辑上的矛盾。他们称“单词悖论”、“异己的悖论”和“说谎者悖论”为语义的，因为它们涉及到一个词的真实性和可定义性或模糊应用等概念，相应地采用这些概念的严格定义能解决上述悖论。另一方面，罗素的悖论、康托尔的所有集合的集合的悖论和布拉利-福蒂悖论被认为是逻辑上的矛盾。罗素本人并没有做这样的区分，他确信所有悖论都产生于一种他称之为恶性循环原理的谬误，他这样描述道，“凡涉及到一个集的整体的东西必不能是该集中的一部分”。换句话说，如果定义一组元素的集而又必须用到该全集自身，则这定义是毫无意义的。这个解释是罗素在1905 年给出的，彭加勒在1906年接受了它，他还杜撰了“非断言定义”这一术语，即一个要定义的对象是用包含这个对象在内的一类对象来定义的，这种定义是不合逻辑的。举一个罗素本人在《数学原理》中提出的例子（见第八章），排中律说所有命题非对即错。但是这个定律自身也是一个命题，因此，尽管它的意图是断言逻辑定律的真实性，但它既是一个命题则也有可能是错误的，正如罗素所言，这个定律的陈述毫无意义。一些其他的例子可能会有所帮助。一个全能的上帝能创造一个不能被毁灭的东西吗？当然可以，因为他是万能的。可既然他是万能的，他又能毁灭任意东西。在这个例子里，“万能” 这个词的范围涉及到一个不合理的总体，这一类悖论，正像逻辑学家塔斯基(Alfred Tarski)所指出的那样，尽管是语义上的，也向语言自身发出了挑战。</blockquote><blockquote>22. 数学技术勾画出物理原理的含义，譬如说PV=常数，F=ma。这结论仍然适用于物理世界，这就产生了疑问：为什么世界符合数学推理呢？我们后面将要回到这个问题上来（见第十五章）。</blockquote><blockquote>23. 我像人们需要宗教信仰一样渴望确定性，我想在数学中比在任何其他地方更能找到确定性。但我发现，许多数学证明——我的老师希望我接受——却是错误百出。而且，假如真的在数学中找到了确定性，那它一定是数学的一个新领域。它有比迄今为止认为是安全的领域更加坚实的基础。但当工作进行时，我不断地想到大象和乌龟的寓言。把大象置于整个数学的基础上之后，我发现大象摇摇欲坠，于是再造一个乌龟来防止大象倒下，但这乌龟不比大象更安全。而在经过20 年左右的艰苦工作后，我得出的结论是，在对于使数学更确信无疑这一工作上，我已无能为力。 在《我的哲学发展》（1959 年）一书中，罗素承认“一直以来，我希望在数学中找到的绝对的确定性消失在一个令人迷惑的迷宫中了。..它确是一个复杂的概念的迷宫。”而这也不是罗素一人的不幸。</blockquote><blockquote>24. 19 世纪后半期的数学从阐述现实世界设计的固有法则这一意义上来说，已经放弃了对真理的追求。早期的逻辑主义者，特别是弗雷格和罗素，相信逻辑是一个真理体系。因此，如果数学确实是建立于逻辑之上，则它也是真理体系，尽管他们最后从这一立场退到了只要实用认可的逻辑原理上。</blockquote><blockquote>25. 从广义的角度来讲，直觉主义可以追溯到笛卡尔和帕斯卡。在《思维的指导法则》一书中，笛卡尔说：我们不惮错漏地在此公布知性上升为知识的途径，这样的途径有两种：直觉和演绎。我所说的直觉并非各种感觉的验证，也不是被自然而然夸大的想像的错误判断，它是来自于缜密的头脑中的概念。它是如此清晰和明白，对于它所理解的东西，根本不含任何可疑之处，或者说——两种说法其实是一样的——审慎而缜密的头脑中自明的概念，是仅由理性获得的概念，并且因为更简单而比演绎本身更确定。尽管我们在前文中所说，在演绎过程中，人的头脑也不会出错。因而，我们每个人都可凭直觉知道：我们存在、我们思考、三角形仅由三边围成、球面由单面所围成、以及如此种种。</blockquote><blockquote>26. 从很大程度上来说，直觉主义是由哲学家康德开始的。尽管他主要是个哲学家，但康德于1755 年1770 年间却在哥尼斯堡大学教授数学和物理，他认为我们的所有感觉都来自于一个预先假定的外部世界。然而，这些感觉或感性知识并不能提供多少知识，所有感性知识都包含了感知者和被感知物体间的相互作用。心智将这些感性知识梳理清楚，得到对空间和时间的直觉。空间和时间并不是客观存在的，而是心智的创作。心智，为经验提供了对空间和时间的理解，而经验只是唤醒心智。知识可能是从经验开始的，但并不真正来源于经验，而是来源于心智。独立于经验，我们可以在先验的或真正的知识中前进多远，数学是其光辉的例证。康德称这样一种方法为综合方法。即它能够提供新的知识，而分析的命题，例如“所有物体都是可延展的”，并不能提供新的知识，因为延展性是物体固有的属性。相反，直线是两点间的最短距离，这一命题是综合的。</blockquote><blockquote>27. 直觉主义的创始人，克罗内克、鲍莱尔、勒贝格、彭加勒和贝尔都是数学巨匠，他们对标准数学证明和逻辑派的方法提出了大量的批评，他们提出了新的原理，但其成就却是零星和不完整的。他们的观点由荷兰数学教授、也是直觉主义哲学的奠基人布劳维并入了一个明确的阐述中。布劳维在他的博士论文《论数学的基础》（1907 年）中提出直觉主义哲学。从1918 年开始他在许多杂志上阐述和发展了他的观点。</blockquote><blockquote>28. 尽管直觉主义的反对者对直觉主义这种数学哲学的驳斥过于傲慢和武断，但对许多持有同情心的人们的批评则必须严肃对待。有这样一种批评指出，直觉主义者努力重建的，与其原则相一致的理论并不能由人类的直觉提出，也很难用人类的直觉来保证。这些理论已被数学家所用过的所有方法、所有类型的推理、猜想、从特殊情况中所得到的归纳，以及那些来源不明的瞬间灵感所得出。因此，在实践中，像所有的数学家一样，直觉主义者实际上依赖的是常规的建立方法，甚至是古典逻辑，尽管直觉主义者寻求的是一种与他们自己的原则相一致的重建理论的证据。直觉主义者也许会这样回答：尽管须要用到一些发现的常规方法，它们的结论还是肯定能被人类的直觉所接受的。然而，在不否定直觉主义中其他思想的重要性的情况下，事实仍然是：许多连直觉主义者都接受的理论对直觉来说也是如此的微妙和不可思议，很难相信人的头脑能直接认识到它们的真实性。</blockquote><blockquote>29. 出现于本世纪头10 年，在数学基础上观点完全相反的逻辑主义与直觉主义哲学，只是这场大纷争中首先登场的两大派系。关于数学基础思想的第三大派系是由大卫·希尔伯特领导并风行一时的形式主义派，而第四大派系集合论公理化派则是由策梅罗创建的。</blockquote><blockquote>30. 但就在第二年，哥德尔发表的另一篇论文却打开了潘多拉的盒子②。这篇题为《论数学原理中的形式不可判定命题及有关系统》（1931 年）的论文包含了两个惊世骇俗的结论。其中对数学界尤具毁灭性的断言是：任何数学系统，只要其能包含整数的算术，其相容性就不可能通过几个基础学派（逻辑主义学派、形式主义学派、集合论公理化学派）采用的逻辑原理而建立。这一结果特别适用于形式主义学派，原因是希尔伯特已经仔细地限定了元数学的逻辑原理，能使用的逻辑工具之少甚至连直觉主义者都可以接受。无怪乎魏尔对此评论说：上帝是存在的，因为数学无疑是相容的；魔鬼也是存在的，因为我们不能证明这种相容性。</blockquote><blockquote>31. 一些进展奇妙地改变了数学家们对自己工作的态度。首先是认识到数学并非一个关于自然的真理体系（见第四章）。高斯在几何中使这一点很清楚，而四元数及矩阵迫使人们意识到这一点，亥姆霍兹理解得更透彻——即使是一般的数的数学也并非是可用的先验理论。数学的实用性虽说无懈可击，但对真理的探求不再证明数学的努力全然正确。</blockquote><blockquote>32. 使得数学家们着手于纯数学问题的另一因素是：自然科学的问题很少能彻底解决。人们可以得到越来越好的近似解，但得不到一个最终的解答。</blockquote><blockquote>33. 在培根的时代，数学家对于物理研究的关注毋须多提，但今天的事实是他们逃离了自然科学。在过去的100 年中，在那些恪守古老的、高雅的数学活动目的——这一目的到那时为止提供了实质性和丰富的主题——的人和那些听凭兴趣所至从事研究的人之间产生了分裂。如今，数学家与科学家分道扬镳，比较新的数学发明少有实用价值，而且，数学家和科学家不再互相理解。令人不安的是随着专门化的日益深化，数学家甚至不再了解其他的数学家。</blockquote><blockquote>34. 1895 年，当时数学界的领袖人物F·克莱因也感到有必要反对这种抽象的纯粹数学趋势： 在现代思维的急速发展中，我们禁不住要担心，我们的科学面临着越来越独立的危险。自现代分析兴起以来，对数学和自然科学双方都有裨益的二者之间的紧密联系，正面临着被破坏的危险。</blockquote><blockquote>35. 1939 年库朗再一次写到： 数学不过是一个从定义和假设中抽取的结论体系，它必须保证一致性，除此以外数学家可以随心所欲地加以创造，这样一种断言蕴含着对科学的生命力的一个严重的威胁。假如这一描述准确，则数学不能吸引任何有知识的人。它将是一个没有动机、没有目标的定义规则和推理的游戏。智力能够任意地推出有意义的假设体系不过是伪真理，自由的思维只有在有机整体的约束之下，受固有必然性的指引，才能获得具有科学价值的结果。</blockquote><blockquote>36. 现在，科学比以往任何时候都要活跃，并没明显的衰败迹象，只有最细心的观察者注意到看门人已擅离职守，他并没有去睡大觉，他像以往一样地努力工作，只是他在为自己干活……</blockquote><blockquote>37. 我们的科学始于数学，而且必然在数学从中撤出不久之后（如果要撤出的话）结束。一个世纪之后将有更大更好的大规模的实验室。这些实验结果是单纯的事实还是成为科学要看它们与数学的实质之间的关系的紧密程度了。</blockquote><blockquote>38. 冯·诺依曼非常紧张地提出了警告，在时常被引用的论文《数学家》（1947 年）中，他说： 当一门数学学科远离它的经验本源继续发展的时候，或者更进一步，如果它是第二代和第三代，仅仅间接地受到来自“现实” 的思想所启发，那么，它就会面临严重困境。它会变得越来越纯粹地美学化，越来越纯粹地“为艺术而艺术”。如果在这个领域周围是互相联系并且仍然与实践经验有密切关系的学科，或者这个学科处于具有非常卓越的审美能力的人们的影响之下，那这种需要不一定是坏事。但是，仍然存在一种严重的危险，即这门学科将沿着阻力最小的途径发展，使远离本源的小溪又分散成许多无足轻重的支流，使这个学科变成大量混乱的琐碎枝节。换句话说，在距离经验本源很远很远的地方，或者在多次“抽象”的近亲繁殖之后，一门数学学科就有退化的危险。起初，风格通常是古典的，一旦它显示出巴罗克①式的迹象，危险信号就发出来了。..总之，每当到了这种地步时，在我看来，唯一的药方就是为重获青春而返本求源，重新注入直接经验的思想。我相信，这是使这门学科保持清新与活力的必要条件，即使在将来，这也是同样正确的。</blockquote><blockquote>39. 这些领袖人物都意识到，试图建立一个可普遍接受的、逻辑上合理的数学体系的努力已经失败了。数学是一种人类活动，它受制于人类的各种弱点和过失。除了推理上的因素以外，任何形式上的逻辑的解释只是一种伪数学，一种幻想，甚至是一种神话。</blockquote><blockquote>40. 现代科学通过对自然现象的合理解释消灭了奇想、妖魔、天使，鬼怪、神秘之力以及泛灵论，人们为此而称道它。我们还要补充一点：现代科学正逐渐夺走了直觉和肉体上的满足，这两者都是通过感觉来实现的；它也在逐步消除物质，它采用的是像场和电子这样的虚构的，理想的概念，对于这些概念，我们仅仅了解其数学定律。经过一长串的数学推导后，科学与感性知觉之间只存在着那么一点但却至关重要的联系。科学是合理化的虚构，而正是数学使之合理化。</blockquote><blockquote>41. 因此，人们面临着双重奥秘。虽然物理现象可通过物理语言理解，但对那些被证明与公理本身同样运用的推理，为何数学一样有效呢？而在那些我们对物理现象仅有猜想，并几乎完全依靠数学来描述这些现象的领域，数学也一样有效呢？这些问题是不容忽视的。我们的科学技术在很大程度上依靠数学，数学虽然曾在真理的无敌旗帜下作战，但是在这门科学中是否有某种魔术般的内部力量使之获取胜利呢？ 这一问题曾被反复提出，著名的有阿尔伯特·爱因斯坦的《相对论侧记》（1921 年）： 在这里产生了一个让各个时期的科学家均感困惑的迷题。数学作为独立于经验的人类思维的产物，为何与物理现实中的客体如此吻合？没有经验依据，而只靠纯粹的思维，人类就能够发现实际事物的性质吗？.. 只要数学的命题是涉及实在的，它就不是可靠的；只要它是可靠的，它就不涉及实在。 他继续解释道，数学的公理化使得这种差别清晰化。虽然爱因斯坦知道数学公理与逻辑原理来源于经验，他仍提出这样一个问题：为什么那些长而复杂的纯推理能产生如此卓著的应用结论呢？毕竟，这些推理是独立于经验的，而且涉及的概念是由人类头脑所创造的。 一种现代解释起源于康德。康德确信（见第四章）我们不懂得也不可能懂得自然，更确切地说，我们拥有的是感性知觉。我们的头脑依据天生的关于空间与时间的先定结构（康德称之为直觉）来支配感知，因此我们依照欧氏几何的定律组织空间感知，因为我们的头脑需要如此。而正是因为如此，所以空间感知继续遵循欧氏几何定律。当然，康德在坚持欧氏几何的问题上是不正确的，但他认为人类思维决定自然行为的观点确有部分道理。思维决定了我们的时空概念，我们在自然中所看到的东西无非是我们的思维事先确定好的东西。 另外一种与康德的观点类似，但进一步扩展了的观点是由爱丁顿所提出的，他是当代最伟大的物理学家之一。按照他的说法，人类思维决定了自然必须如何去运作： 我们发现，科学发展得最快的地方，思维就从自然中重新获得那些原来放进去的东西。我们在未知的彼岸发现了古怪的足迹。为了解释它的起源，我们设计了一个又一个深奥的理论，最终我们成功地找到了足迹的来源。哦！原来是我们自己的足迹。 近年来，康德有关数学为何有效的解释已由怀特海详尽阐述，甚至布劳维1923 年在一篇论文中也对此表示拥护。关键的思想就是：数学并非一门独立于外部世界现象并运用于其上的学科。相反地，它是我们用自己的方式构想这些现象的基础。自然世界并不是客观地呈现在我们面前，它只是建立在人的感觉基础之上的人类的解释或构造，而数学则是组织人类感觉的主要工具。于是，自然而然地，人们用数学来描述人类已知的外部世界。这样，为何多数人都接受同样的数学结构则可以用这样一种假设，即人类的思维可能实际运转起来差不太多来解释。或者解释为以下一种事实：人们出生于某种文化和语言环境中，这种环境制约着他们接受某种特定的数学系统。欧几里得几何尽管并非是关于空间的最后定论，但它仍占据了统治地位，这一事实证明了后一种观点。对于日心说也是一样，因为一开始，它与托勒密理论观察的矛盾并未促使其改进。此外，如果那时托勒密理论能够保持并提炼，与更近一些的观察相吻合的话，无疑它同样也能非常有效，而只是增加些数学上的复杂性罢了。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42628212/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-26 12:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="25285372">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/tototaobao/"><img src="https://img3.doubanio.com/icon/u48674567-10.jpg" alt="taotaoguru" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/25285372/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/25285372/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/tototaobao/" class=" " title="taotaoguru">taotaoguru</a>
+              
+            </p>
+            <div class="reading-note" data-cid="25285372">
+              <div class="short">
+                
+                  <span class="">花了半辈子时间，头拱地的学习，到头来都是错的。😄</span>
+                <p class="pl">
+                  <span class="">2013-03-21 12:51</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                花了半辈子时间，头拱地的学习，到头来都是错的。😄
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/25285372/#comments">回应</a>&nbsp;&nbsp;
+                  2013-03-21 12:51
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="11122475">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/flcl/"><img src="https://img3.doubanio.com/icon/u1435564-72.jpg" alt="mvj3" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/11122475/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/11122475/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/flcl/" class=" " title="mvj3">mvj3</a>
+                (不鸣则已，一鸣惊人！)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="11122475">
+              <div class="short">
+                
+                  <span class="">1. p3  这种不合逻辑的发展还涉及对概念的不充分理解，无法真正认识逻辑所需要的原理，以及证明的不够严密；就是说，直觉，实证及借助于几何图形的证明取代了逻辑证明。
+2, p101 公理的实质在与符合经验而并非其不证自明。
+3, p130 图形是一种帮助思考和记忆的手段，但它不能作为推理的基础。
+4, p411 哲学家叔本华表达过这样一种态度：“为了改进数学方法，有必要放弃那种认为证明真实性优先于直觉知识的偏见。”
+
+4接下来第...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/11122475/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2011-02-04 20:15</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>1. p3  这种不合逻辑的发展还涉及对概念的不充分理解，无法真正认识逻辑所需要的原理，以及证明的不够严密；就是说，直觉，实证及借助于几何图形的证明取代了逻辑证明。
+2, p101 公理的实质在与符合经验而并非其不证自明。
+3, p130 图形是一种帮助思考和记忆的手段，但它不能作为推理的基础。
+4, p411 哲学家叔本华表达过这样一种态度：“为了改进数学方法，有必要放弃那种认为证明真实性优先于直觉知识的偏见。”
+
+4接下来第二页 哈代说　根本没有所谓的数学证明......归根结底，我们只是指出一些要点......李特伍德(Littlewood)和我都把证明称之为废话，它是为打动某些人而编造的一堆华丽辞藻， ==&gt;&gt;这个可以说明程序员为什么在国内的公司里这么没有地位
+5, p413 逻辑证明的优点不在于强迫别人相信，而在于提出了怀疑。证明告诉我们何处值得怀疑。“</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/11122475/#comments">1回应</a>&nbsp;&nbsp;
+                  2011-02-04 20:15
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="18861766">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/oneywang/"><img src="https://img3.doubanio.com/icon/u29018866-2.jpg" alt="王银华" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18861766/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18861766/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/oneywang/" class=" " title="王银华">王银华</a>
+              
+            </p>
+            <div class="reading-note" data-cid="18861766">
+              <div class="short">
+                
+                  <span class="">k</span>
+                <p class="pl">
+                  <span class="">2012-06-10 15:13</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                k
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18861766/#comments">回应</a>&nbsp;&nbsp;
+                  2012-06-10 15:13
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="25285372">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/tototaobao/"><img src="https://img3.doubanio.com/icon/u48674567-10.jpg" alt="taotaoguru" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/25285372/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/25285372/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/tototaobao/" class=" " title="taotaoguru">taotaoguru</a>
+              
+            </p>
+            <div class="reading-note" data-cid="25285372">
+              <div class="short">
+                
+                  <span class="">花了半辈子时间，头拱地的学习，到头来都是错的。😄</span>
+                <p class="pl">
+                  <span class="">2013-03-21 12:51</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                花了半辈子时间，头拱地的学习，到头来都是错的。😄
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/25285372/#comments">回应</a>&nbsp;&nbsp;
+                  2013-03-21 12:51
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42628212">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/antisocial97/"><img src="https://img3.doubanio.com/icon/u48212313-140.jpg" alt="Musca" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42628212/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42628212/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/antisocial97/" class=" " title="Musca">Musca</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="42628212">
+              <div class="short">
+                
+                  <span class="">1. 在所有早期文明中，这些问题的回答都是宗教领袖给出的，并为人们所普遍接受。只有古希腊文明是个例外。希腊人发现（人类所作出的最伟大的发现）了推理的作用。正是古典时期（公元前600 年至前300 年间的鼎盛时期）的希腊人，认识到人类有智慧、有思维（有时佐以观察或实验），能够发现真理。 2. 最早提出自然界数学模式的是以毕达哥拉斯（Pythagoras）为领袖的座落于意大利南部的毕达哥拉斯学派。 3. 例如，毕达哥拉斯学派之...</span>
+                <p class="pl">
+                  <span class="">2017-03-26 12:28</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>1. 在所有早期文明中，这些问题的回答都是宗教领袖给出的，并为人们所普遍接受。只有古希腊文明是个例外。希腊人发现（人类所作出的最伟大的发现）了推理的作用。正是古典时期（公元前600 年至前300 年间的鼎盛时期）的希腊人，认识到人类有智慧、有思维（有时佐以观察或实验），能够发现真理。</blockquote><blockquote>2. 最早提出自然界数学模式的是以毕达哥拉斯（Pythagoras）为领袖的座落于意大利南部的毕达哥拉斯学派。</blockquote><blockquote>3. 例如，毕达哥拉斯学派之所以能把音乐归结为数与数之间的简单关系，乃是因为他们发现了下列两个事实：第一，弦所发出的声音取决于弦的长度；第二，两根绷得一样紧的弦，若一根是另一根长的两倍，就会产生谐音。换言之，两个音相差八度。如两弦长为3 比2，则发出另一谐音。 这时短弦发出的音比长弦发出的音高五度。确实，产生每一种谐音的多根弦的长度都成整数比。毕达哥拉斯学派也搞出了一个著名的音阶。我们虽然不打算讲许多希腊时代的音乐，但要指出许多希腊数学家包括欧几里得和托勒密，都写过这方面的著作，特别是关于谐音的配合，而且还制定过音阶。</blockquote><blockquote>4. 由于毕达哥拉斯学派将天文学和音乐“归结”为数，这两门学科就同算术和几何发生了联系。这四门学科都被人看成是数学学科，甚至一直到中世纪，仍被包括在学校课程中，当时号称“四大学科”。</blockquote><blockquote>5. 但或是凭运气或是凭天生的直觉，毕派的确言中了后来两条证明是极为重要的信条：第一是自然界是按数学原理构成的；第二是数学关系决定、统一并显示了自然的秩序。实际上现代科学也坚持毕派对数学的强调，虽然，正如我们将看到的，现代理论是毕派理论的更为高级的形式。</blockquote><blockquote>6. 通过只接受那些确凿无疑的事实，笛卡尔开始他的哲学体系的建立工作。那么他是怎么区分哪些是可接受的论据，哪些是不可接受的呢？在他的《思维指导法则》中（写于1628 年，但他死后才得以出版），他指出：“对于我们要研究的对象来说，我们不仅不应该研究他人已经想出的，而且也不应研究我们自己臆测的东西，而应研究我们能清楚明了的看出或可靠地演绎出的东西，因为知识不可能用别的方法得到。”使头脑有能力直接获得清楚和明晰的基本原理，极其敏锐的直觉和对结果的演绎——这就是笛卡尔认识哲学的实质。笛尔卡认为思维只有两种方法，它们能使得我们不必担心陷入谬误而获得知识，这就是：直觉和演绎。在《法则》一书中，笛卡尔对直觉给予很高的评价：“直觉是纯粹的专注的思维的可靠概念，它仅由理性之光产生，而且比演绎更可信一些。”</blockquote><blockquote>7. 在科学上，笛卡尔的贡献，虽然不如像哥白尼、开普勒以及牛顿那样辉煌灿烂，但也不容轻视。他的漩涡理论（见第三章）是17 世纪时的主要宇宙学理论，他是机械论哲学的奠基人。这种哲学认为，所有自然现象，包括人体的作用，但除了灵魂，都可归结为服从力学定律的运动。对于力学来说，他系统地阐述了惯性定律，即现在所说的牛顿第一运动定律：如果没有外力作用，每个物体都保持其静止状态或匀速直线运动状态。</blockquote><blockquote>8. 当然伽利略意识到靠一条不正确的由实验得出的原理，推出的结果也是不正确的，因此，他建议并且可能做了一些实验来检验他推理的结论以获得基本原理，然而，伽利略做实验做到何种程度却不得而知。有一些他称之为实验的，实际上是理想中的实验，即想象如果真做实验的话，一定会发生什么。然而，他的宗旨：物理学原理必须建立在经验及实验基础上却具有革命性的关键意义。伽利略毫不怀疑一些上帝用来创造宇宙的真实原理可从心里推出，但在从经验出发的角度上，他允许对此持怀疑态度。</blockquote><blockquote>9. 牛顿力学和他以前的力学的本质不同不只在于引入了数学来描述物体的状态，数学对物理学的帮助也不只因为它是一种更方便、更简洁、更清晰、更普遍的语言，而是因为它提供了最基本的概念。重力只是一个数学符号的名称，同理在牛顿第二运动定律（F＝ma，力等于质量乘以加速度）中，力可以是使物体产生加速度的任何东西。力本身的性质在物理上也许是不可知的，因此牛顿谈到而且使用了向心力和离心力的概念，尽管他并不知道这些力的机制。</blockquote><blockquote>10. 莱布尼茨的数学和科学工作广泛而有价值，我们以后还将详述。但有点像笛卡尔，他的贡献是技术性的。他在微积分及微分方程创立之初所做的工作，还有他对某些新出现的概念——如我们今天称之为动能——的重要性的确认，都是第一流的。但莱布尼茨没有贡献任何新的关于自然的根本性法则，倒是他的以数学为基础的科学哲学认为，在激励人们寻求真理时，数学最为重要。</blockquote><blockquote>11. 数学支配一切，18 世纪最伟大的智者对此深信不疑。著名的数学家丹尼斯·狄德罗(Denis Diderot)，编纂《法国大百科全书》的主要参与者，说“世界的真正体系已被确认，发展和完善了。”显然，自然法则就是数学法则。 拉普拉斯还有一段更著名的论述：我们可以把目前的宇宙状态看作是宇宙过去的结果和将来的原因。如果一个有理性的人在任何时刻都知道生物界的一切力及所有生物的相互位置，而他的才智又足以分析一切资料，那么他就能用一个方程式表达宇宙中最庞大的物体和最轻微的原子的运动。对他来说，一切都是显然的，过去与未来都将呈现在他眼前。</blockquote><blockquote>12. 进入19 世纪，数学界正是一派祥瑞景象：拉格朗日仍然活跃在数学界，拉普拉斯正处在他智力的顶峰时期，傅立叶致力于研究他1807 年的手稿，这篇手稿后来并入了他的经典著作《热论》（1822 年）；高斯(Gauss)刚刚发表了他的《算术研究》（1801 年），这是关于数论的一个里程碑，随后他又做出了许多的贡献，为他赢得了数学王子的雅称；高斯的法国同行柯西(Augustin－Louis Cauchy)在他1814 年的一篇论文中显露出超凡的才能。</blockquote><blockquote>13. 假如他们对一些同行的行为稍加注意，那么，也许他们会对即将面临的灾难有所准备。培根早就在他的《新工具》（1620 年）中写道：一个群体的观念是与生俱来的，与群体和种族关系甚密。因而人的感觉有时错误地被当作事物的标准。另一方面，所有感觉上的或是心智上的领悟力，依赖于人而不是宇宙。而人的心智就像不平坦的镜面，把自己的性质转赋给了事物。光线原由事物发出，而镜子使之扭曲变形。</blockquote><blockquote>14. 牛顿的工作无意中使自然科学第一次从神学中分离或者解放出来。我们已经提到过，伽利略坚持说自然科学必须与神学相分离，而牛顿在他的《原理》一书中坚持这一原则，朝着对自然现象给以纯数学的解释迈进了一大步。因此上帝越来越多地被排斥在科学理论的数学描述之外了。实际上，牛顿所没能解释的那些反常现象在后来的研究中得到了根本上的解释。</blockquote><blockquote>15. 宗教信仰因此而从正统观念分化出许多的旁门左系，诸如唯理论的超自然主义、自然神论、不可知论或是干脆的无神论。这些运动对18 世纪那些学识广博的数学家产生了一定影响。</blockquote><blockquote>16. 由是休谟回答了“人怎样获得真理”这一基本问题——他否认真理的存在，人不可能区别真理。休谟的工作不仅贬损了在科学和数学上付出的努力和得到的结果，还对推理本身的价值提出了质疑。对于大多数18 世纪的思想家来说，这样一种对人类最高智慧能力的否认是大逆不道的。数学家、人类推理的其他成就如此辉煌以至于到了“不可一日无此君”的地步。 休谟的哲学对于18 世纪绝大多数的学者来说是矛盾和令人嫌恶的，而且与数学和其他科学中的惊人的成就是如此格格不入，因此遭到了驳斥。</blockquote><blockquote>17. 历史上最受尊敬的可能也是最深邃的哲学家康德发起了这一挑战。但是对康德殚精竭虑所提出的结论进行仔细推敲后发现其并不比其他人的更令人信服。在他的《未来形而上学导言》（1783 年）一书中，康德看来确是站在科学家和数学家一边：“我们可以确切地说：纯粹的先验的综合知识，纯粹数学和纯粹物理学是真实存在也是先天既定的，二者都包含一些被广泛承认、绝对肯定的命题，..而且是独立于经验的。”在他的《纯粹理性批判》（1781 年）一书中，康德甚至使用更为确信的词语作为开头，他肯定所有的数学公理和定理都是真理，但是为什么？康德自问道。他愿意接受这样的真理吗？显然经验本身并不足以证明它们的有效性。如果你能回答一个更大的问题——数学确实是一门科学吗——你也就能回答这个问题了。康德的回答是：时间和空间的形式依我们的心智所定，所谓时间和空间只是我们感知的一种模式。这种感知——康德称之为直觉——的模式由心智对待经验的方式决定。我们依据这些智力形式去感知，组织和理解经验，经验与之相符犹如面团符合于它的模子。心智将这些方式加到感觉、印象上去使感觉与内在的模式相吻合。既然空间的直觉来源于心智，那么心智自动地接受空间的某些属性，诸如直线是两点间的最短路径，三点确定一平面以及欧几里得的平行公理。康德称这些真理为一个先验的假设的真理，它们是我们心智构成的一部分。几何学的科学性恰恰在于其揭示了这些真理的逻辑推断，心智正是通过“空间结构”来对待经验这样一个事实说明经验与基本原理和定理是一致的。我们自认为感知到的外部世界的秩序和理性是由我们的精神和我们的思考方式加诸其上的。</blockquote><blockquote>18. 可以毫不怀疑地说，印度人并不了解他们对数学的贡献有多么重要，他们有为数不多的一些不错的思想，例如，数字1 到9 用独立的记号表示，将六十进制转化为十进制，负数，以及把0 当作一个数来对待。这些思想都是漫不经心的。他们并没有明显地意识到它们是极有价值的创举。他们对数学价值并不敏感，他们把他们自己提出的完善的思想和埃及人及巴比伦人最粗糙、原始的思想混合在一起。</blockquote><blockquote>19. 18 世纪的思想家们所采用的论据的一个奇怪的特点是它们求助于形而上学，人们用它来暗示数学领域之外还存在一个真理体系，如果需要的话，可以用它来检验他们的工作。虽说它究竟是什么还不清楚，但应用形而上学意在给那些不为推理所支持的论点增强可信度。因此，莱布尼茨宣称形而上学的用处比我们认识到的要多。他把1/2 作为级数1-1+1-..的和的证明和他提出的连续性原理，都只不过重申了上述观点。它们被“证明”是形而上学的，仿佛这样就不容置疑了。欧拉也求助于它，认为在分析中也必须默认它，当17、18 世纪的数学家们不能为一个观点提供更好的证明时，他们就惯于说这其中的理由是形而上学的。</blockquote><blockquote>20. 数学批评运动的创建者们认识到，两千多年来数学家们只是在充溢着直觉，似是而非的证明以及归纳推理和符号表达式的形式运算的荒野上漫游，他们期望着能在一片空白上建立合适的数学逻辑基础，摒弃那些模糊的概念和矛盾，改进如欧氏几何这样的数学分支已有的基础。这项工作在19 世纪20 年代就已经开始了，并且，随着非欧几何渐为人知，也在愈加广泛地加速进行。它逐渐揭示出欧氏几何在结构上的缺陷，可以明显看出，过去被认为是严格证明的典范，无懈可击的堡垒，也经不起细致推敲。稍后，也就是1843 年，四元数的产生又向实数、复数运算的自以为是提出了挑战。当然，还有一些对自己工作过于自信的数学家，继续粗劣地推理，一旦得到正确的结果，便更错误地相信他们的证明和理论是无懈可击的。 虽然严谨的思想家们承认必须摒弃数学是现实世界的真理的主张，但他们还是对数学在力学、地球力学、声学、流体动力学、弹性力学、光学、电磁学以及工程学的许多分支等诸多领域辉煌的成就感到由衷的敬佩。尽管数学是在真理战无不胜旗帜的庇护下，但它一定还借助了某种基本的，也许是神秘的力量才取得其成就。数学对自然的超常的适用性虽然还需进一步解释（见第十五章），但是，没有人能否认这一事实并胆敢把这样一种无所不能的工具弃置不顾。当然，它不应当受到由逻辑困难和矛盾所带来的混乱的威胁，而且，尽管数学家们一度违背了逻辑严密性的原则，但他们也不准备使他们的学科永远建立在实用的基础上。否则，他们的声望也将受到影响。</blockquote><blockquote>21. 然而，许多20 世纪早期的数学家不愿理睬上述这些悖论，因为它们涉及的集合论在当时是新兴的且无足轻重。其他一些人，意识到这些悖论的影响不仅限于经典数学，还关系到通常的推理，因而感到无所适从。一些人曾试图接受威廉·詹姆斯在他的《实用主义》中提出的建议，“当你遇到矛盾时，你必须澄清它。”从拉姆塞（FrankPlumptonRamsey）起，一些逻辑学家，曾尝试区分语义造成的矛盾和真实的即逻辑上的矛盾。他们称“单词悖论”、“异己的悖论”和“说谎者悖论”为语义的，因为它们涉及到一个词的真实性和可定义性或模糊应用等概念，相应地采用这些概念的严格定义能解决上述悖论。另一方面，罗素的悖论、康托尔的所有集合的集合的悖论和布拉利-福蒂悖论被认为是逻辑上的矛盾。罗素本人并没有做这样的区分，他确信所有悖论都产生于一种他称之为恶性循环原理的谬误，他这样描述道，“凡涉及到一个集的整体的东西必不能是该集中的一部分”。换句话说，如果定义一组元素的集而又必须用到该全集自身，则这定义是毫无意义的。这个解释是罗素在1905 年给出的，彭加勒在1906年接受了它，他还杜撰了“非断言定义”这一术语，即一个要定义的对象是用包含这个对象在内的一类对象来定义的，这种定义是不合逻辑的。举一个罗素本人在《数学原理》中提出的例子（见第八章），排中律说所有命题非对即错。但是这个定律自身也是一个命题，因此，尽管它的意图是断言逻辑定律的真实性，但它既是一个命题则也有可能是错误的，正如罗素所言，这个定律的陈述毫无意义。一些其他的例子可能会有所帮助。一个全能的上帝能创造一个不能被毁灭的东西吗？当然可以，因为他是万能的。可既然他是万能的，他又能毁灭任意东西。在这个例子里，“万能” 这个词的范围涉及到一个不合理的总体，这一类悖论，正像逻辑学家塔斯基(Alfred Tarski)所指出的那样，尽管是语义上的，也向语言自身发出了挑战。</blockquote><blockquote>22. 数学技术勾画出物理原理的含义，譬如说PV=常数，F=ma。这结论仍然适用于物理世界，这就产生了疑问：为什么世界符合数学推理呢？我们后面将要回到这个问题上来（见第十五章）。</blockquote><blockquote>23. 我像人们需要宗教信仰一样渴望确定性，我想在数学中比在任何其他地方更能找到确定性。但我发现，许多数学证明——我的老师希望我接受——却是错误百出。而且，假如真的在数学中找到了确定性，那它一定是数学的一个新领域。它有比迄今为止认为是安全的领域更加坚实的基础。但当工作进行时，我不断地想到大象和乌龟的寓言。把大象置于整个数学的基础上之后，我发现大象摇摇欲坠，于是再造一个乌龟来防止大象倒下，但这乌龟不比大象更安全。而在经过20 年左右的艰苦工作后，我得出的结论是，在对于使数学更确信无疑这一工作上，我已无能为力。 在《我的哲学发展》（1959 年）一书中，罗素承认“一直以来，我希望在数学中找到的绝对的确定性消失在一个令人迷惑的迷宫中了。..它确是一个复杂的概念的迷宫。”而这也不是罗素一人的不幸。</blockquote><blockquote>24. 19 世纪后半期的数学从阐述现实世界设计的固有法则这一意义上来说，已经放弃了对真理的追求。早期的逻辑主义者，特别是弗雷格和罗素，相信逻辑是一个真理体系。因此，如果数学确实是建立于逻辑之上，则它也是真理体系，尽管他们最后从这一立场退到了只要实用认可的逻辑原理上。</blockquote><blockquote>25. 从广义的角度来讲，直觉主义可以追溯到笛卡尔和帕斯卡。在《思维的指导法则》一书中，笛卡尔说：我们不惮错漏地在此公布知性上升为知识的途径，这样的途径有两种：直觉和演绎。我所说的直觉并非各种感觉的验证，也不是被自然而然夸大的想像的错误判断，它是来自于缜密的头脑中的概念。它是如此清晰和明白，对于它所理解的东西，根本不含任何可疑之处，或者说——两种说法其实是一样的——审慎而缜密的头脑中自明的概念，是仅由理性获得的概念，并且因为更简单而比演绎本身更确定。尽管我们在前文中所说，在演绎过程中，人的头脑也不会出错。因而，我们每个人都可凭直觉知道：我们存在、我们思考、三角形仅由三边围成、球面由单面所围成、以及如此种种。</blockquote><blockquote>26. 从很大程度上来说，直觉主义是由哲学家康德开始的。尽管他主要是个哲学家，但康德于1755 年1770 年间却在哥尼斯堡大学教授数学和物理，他认为我们的所有感觉都来自于一个预先假定的外部世界。然而，这些感觉或感性知识并不能提供多少知识，所有感性知识都包含了感知者和被感知物体间的相互作用。心智将这些感性知识梳理清楚，得到对空间和时间的直觉。空间和时间并不是客观存在的，而是心智的创作。心智，为经验提供了对空间和时间的理解，而经验只是唤醒心智。知识可能是从经验开始的，但并不真正来源于经验，而是来源于心智。独立于经验，我们可以在先验的或真正的知识中前进多远，数学是其光辉的例证。康德称这样一种方法为综合方法。即它能够提供新的知识，而分析的命题，例如“所有物体都是可延展的”，并不能提供新的知识，因为延展性是物体固有的属性。相反，直线是两点间的最短距离，这一命题是综合的。</blockquote><blockquote>27. 直觉主义的创始人，克罗内克、鲍莱尔、勒贝格、彭加勒和贝尔都是数学巨匠，他们对标准数学证明和逻辑派的方法提出了大量的批评，他们提出了新的原理，但其成就却是零星和不完整的。他们的观点由荷兰数学教授、也是直觉主义哲学的奠基人布劳维并入了一个明确的阐述中。布劳维在他的博士论文《论数学的基础》（1907 年）中提出直觉主义哲学。从1918 年开始他在许多杂志上阐述和发展了他的观点。</blockquote><blockquote>28. 尽管直觉主义的反对者对直觉主义这种数学哲学的驳斥过于傲慢和武断，但对许多持有同情心的人们的批评则必须严肃对待。有这样一种批评指出，直觉主义者努力重建的，与其原则相一致的理论并不能由人类的直觉提出，也很难用人类的直觉来保证。这些理论已被数学家所用过的所有方法、所有类型的推理、猜想、从特殊情况中所得到的归纳，以及那些来源不明的瞬间灵感所得出。因此，在实践中，像所有的数学家一样，直觉主义者实际上依赖的是常规的建立方法，甚至是古典逻辑，尽管直觉主义者寻求的是一种与他们自己的原则相一致的重建理论的证据。直觉主义者也许会这样回答：尽管须要用到一些发现的常规方法，它们的结论还是肯定能被人类的直觉所接受的。然而，在不否定直觉主义中其他思想的重要性的情况下，事实仍然是：许多连直觉主义者都接受的理论对直觉来说也是如此的微妙和不可思议，很难相信人的头脑能直接认识到它们的真实性。</blockquote><blockquote>29. 出现于本世纪头10 年，在数学基础上观点完全相反的逻辑主义与直觉主义哲学，只是这场大纷争中首先登场的两大派系。关于数学基础思想的第三大派系是由大卫·希尔伯特领导并风行一时的形式主义派，而第四大派系集合论公理化派则是由策梅罗创建的。</blockquote><blockquote>30. 但就在第二年，哥德尔发表的另一篇论文却打开了潘多拉的盒子②。这篇题为《论数学原理中的形式不可判定命题及有关系统》（1931 年）的论文包含了两个惊世骇俗的结论。其中对数学界尤具毁灭性的断言是：任何数学系统，只要其能包含整数的算术，其相容性就不可能通过几个基础学派（逻辑主义学派、形式主义学派、集合论公理化学派）采用的逻辑原理而建立。这一结果特别适用于形式主义学派，原因是希尔伯特已经仔细地限定了元数学的逻辑原理，能使用的逻辑工具之少甚至连直觉主义者都可以接受。无怪乎魏尔对此评论说：上帝是存在的，因为数学无疑是相容的；魔鬼也是存在的，因为我们不能证明这种相容性。</blockquote><blockquote>31. 一些进展奇妙地改变了数学家们对自己工作的态度。首先是认识到数学并非一个关于自然的真理体系（见第四章）。高斯在几何中使这一点很清楚，而四元数及矩阵迫使人们意识到这一点，亥姆霍兹理解得更透彻——即使是一般的数的数学也并非是可用的先验理论。数学的实用性虽说无懈可击，但对真理的探求不再证明数学的努力全然正确。</blockquote><blockquote>32. 使得数学家们着手于纯数学问题的另一因素是：自然科学的问题很少能彻底解决。人们可以得到越来越好的近似解，但得不到一个最终的解答。</blockquote><blockquote>33. 在培根的时代，数学家对于物理研究的关注毋须多提，但今天的事实是他们逃离了自然科学。在过去的100 年中，在那些恪守古老的、高雅的数学活动目的——这一目的到那时为止提供了实质性和丰富的主题——的人和那些听凭兴趣所至从事研究的人之间产生了分裂。如今，数学家与科学家分道扬镳，比较新的数学发明少有实用价值，而且，数学家和科学家不再互相理解。令人不安的是随着专门化的日益深化，数学家甚至不再了解其他的数学家。</blockquote><blockquote>34. 1895 年，当时数学界的领袖人物F·克莱因也感到有必要反对这种抽象的纯粹数学趋势： 在现代思维的急速发展中，我们禁不住要担心，我们的科学面临着越来越独立的危险。自现代分析兴起以来，对数学和自然科学双方都有裨益的二者之间的紧密联系，正面临着被破坏的危险。</blockquote><blockquote>35. 1939 年库朗再一次写到： 数学不过是一个从定义和假设中抽取的结论体系，它必须保证一致性，除此以外数学家可以随心所欲地加以创造，这样一种断言蕴含着对科学的生命力的一个严重的威胁。假如这一描述准确，则数学不能吸引任何有知识的人。它将是一个没有动机、没有目标的定义规则和推理的游戏。智力能够任意地推出有意义的假设体系不过是伪真理，自由的思维只有在有机整体的约束之下，受固有必然性的指引，才能获得具有科学价值的结果。</blockquote><blockquote>36. 现在，科学比以往任何时候都要活跃，并没明显的衰败迹象，只有最细心的观察者注意到看门人已擅离职守，他并没有去睡大觉，他像以往一样地努力工作，只是他在为自己干活……</blockquote><blockquote>37. 我们的科学始于数学，而且必然在数学从中撤出不久之后（如果要撤出的话）结束。一个世纪之后将有更大更好的大规模的实验室。这些实验结果是单纯的事实还是成为科学要看它们与数学的实质之间的关系的紧密程度了。</blockquote><blockquote>38. 冯·诺依曼非常紧张地提出了警告，在时常被引用的论文《数学家》（1947 年）中，他说： 当一门数学学科远离它的经验本源继续发展的时候，或者更进一步，如果它是第二代和第三代，仅仅间接地受到来自“现实” 的思想所启发，那么，它就会面临严重困境。它会变得越来越纯粹地美学化，越来越纯粹地“为艺术而艺术”。如果在这个领域周围是互相联系并且仍然与实践经验有密切关系的学科，或者这个学科处于具有非常卓越的审美能力的人们的影响之下，那这种需要不一定是坏事。但是，仍然存在一种严重的危险，即这门学科将沿着阻力最小的途径发展，使远离本源的小溪又分散成许多无足轻重的支流，使这个学科变成大量混乱的琐碎枝节。换句话说，在距离经验本源很远很远的地方，或者在多次“抽象”的近亲繁殖之后，一门数学学科就有退化的危险。起初，风格通常是古典的，一旦它显示出巴罗克①式的迹象，危险信号就发出来了。..总之，每当到了这种地步时，在我看来，唯一的药方就是为重获青春而返本求源，重新注入直接经验的思想。我相信，这是使这门学科保持清新与活力的必要条件，即使在将来，这也是同样正确的。</blockquote><blockquote>39. 这些领袖人物都意识到，试图建立一个可普遍接受的、逻辑上合理的数学体系的努力已经失败了。数学是一种人类活动，它受制于人类的各种弱点和过失。除了推理上的因素以外，任何形式上的逻辑的解释只是一种伪数学，一种幻想，甚至是一种神话。</blockquote><blockquote>40. 现代科学通过对自然现象的合理解释消灭了奇想、妖魔、天使，鬼怪、神秘之力以及泛灵论，人们为此而称道它。我们还要补充一点：现代科学正逐渐夺走了直觉和肉体上的满足，这两者都是通过感觉来实现的；它也在逐步消除物质，它采用的是像场和电子这样的虚构的，理想的概念，对于这些概念，我们仅仅了解其数学定律。经过一长串的数学推导后，科学与感性知觉之间只存在着那么一点但却至关重要的联系。科学是合理化的虚构，而正是数学使之合理化。</blockquote><blockquote>41. 因此，人们面临着双重奥秘。虽然物理现象可通过物理语言理解，但对那些被证明与公理本身同样运用的推理，为何数学一样有效呢？而在那些我们对物理现象仅有猜想，并几乎完全依靠数学来描述这些现象的领域，数学也一样有效呢？这些问题是不容忽视的。我们的科学技术在很大程度上依靠数学，数学虽然曾在真理的无敌旗帜下作战，但是在这门科学中是否有某种魔术般的内部力量使之获取胜利呢？ 这一问题曾被反复提出，著名的有阿尔伯特·爱因斯坦的《相对论侧记》（1921 年）： 在这里产生了一个让各个时期的科学家均感困惑的迷题。数学作为独立于经验的人类思维的产物，为何与物理现实中的客体如此吻合？没有经验依据，而只靠纯粹的思维，人类就能够发现实际事物的性质吗？.. 只要数学的命题是涉及实在的，它就不是可靠的；只要它是可靠的，它就不涉及实在。 他继续解释道，数学的公理化使得这种差别清晰化。虽然爱因斯坦知道数学公理与逻辑原理来源于经验，他仍提出这样一个问题：为什么那些长而复杂的纯推理能产生如此卓著的应用结论呢？毕竟，这些推理是独立于经验的，而且涉及的概念是由人类头脑所创造的。 一种现代解释起源于康德。康德确信（见第四章）我们不懂得也不可能懂得自然，更确切地说，我们拥有的是感性知觉。我们的头脑依据天生的关于空间与时间的先定结构（康德称之为直觉）来支配感知，因此我们依照欧氏几何的定律组织空间感知，因为我们的头脑需要如此。而正是因为如此，所以空间感知继续遵循欧氏几何定律。当然，康德在坚持欧氏几何的问题上是不正确的，但他认为人类思维决定自然行为的观点确有部分道理。思维决定了我们的时空概念，我们在自然中所看到的东西无非是我们的思维事先确定好的东西。 另外一种与康德的观点类似，但进一步扩展了的观点是由爱丁顿所提出的，他是当代最伟大的物理学家之一。按照他的说法，人类思维决定了自然必须如何去运作： 我们发现，科学发展得最快的地方，思维就从自然中重新获得那些原来放进去的东西。我们在未知的彼岸发现了古怪的足迹。为了解释它的起源，我们设计了一个又一个深奥的理论，最终我们成功地找到了足迹的来源。哦！原来是我们自己的足迹。 近年来，康德有关数学为何有效的解释已由怀特海详尽阐述，甚至布劳维1923 年在一篇论文中也对此表示拥护。关键的思想就是：数学并非一门独立于外部世界现象并运用于其上的学科。相反地，它是我们用自己的方式构想这些现象的基础。自然世界并不是客观地呈现在我们面前，它只是建立在人的感觉基础之上的人类的解释或构造，而数学则是组织人类感觉的主要工具。于是，自然而然地，人们用数学来描述人类已知的外部世界。这样，为何多数人都接受同样的数学结构则可以用这样一种假设，即人类的思维可能实际运转起来差不太多来解释。或者解释为以下一种事实：人们出生于某种文化和语言环境中，这种环境制约着他们接受某种特定的数学系统。欧几里得几何尽管并非是关于空间的最后定论，但它仍占据了统治地位，这一事实证明了后一种观点。对于日心说也是一样，因为一开始，它与托勒密理论观察的矛盾并未促使其改进。此外，如果那时托勒密理论能够保持并提炼，与更近一些的观察相吻合的话，无疑它同样也能非常有效，而只是增加些数学上的复杂性罢了。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42628212/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-26 12:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="42628212">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/antisocial97/"><img src="https://img3.doubanio.com/icon/u48212313-140.jpg" alt="Musca" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42628212/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42628212/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/antisocial97/" class=" " title="Musca">Musca</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="42628212">
+              <div class="short">
+                
+                  <span class="">1. 在所有早期文明中，这些问题的回答都是宗教领袖给出的，并为人们所普遍接受。只有古希腊文明是个例外。希腊人发现（人类所作出的最伟大的发现）了推理的作用。正是古典时期（公元前600 年至前300 年间的鼎盛时期）的希腊人，认识到人类有智慧、有思维（有时佐以观察或实验），能够发现真理。 2. 最早提出自然界数学模式的是以毕达哥拉斯（Pythagoras）为领袖的座落于意大利南部的毕达哥拉斯学派。 3. 例如，毕达哥拉斯学派之...</span>
+                <p class="pl">
+                  <span class="">2017-03-26 12:28</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>1. 在所有早期文明中，这些问题的回答都是宗教领袖给出的，并为人们所普遍接受。只有古希腊文明是个例外。希腊人发现（人类所作出的最伟大的发现）了推理的作用。正是古典时期（公元前600 年至前300 年间的鼎盛时期）的希腊人，认识到人类有智慧、有思维（有时佐以观察或实验），能够发现真理。</blockquote><blockquote>2. 最早提出自然界数学模式的是以毕达哥拉斯（Pythagoras）为领袖的座落于意大利南部的毕达哥拉斯学派。</blockquote><blockquote>3. 例如，毕达哥拉斯学派之所以能把音乐归结为数与数之间的简单关系，乃是因为他们发现了下列两个事实：第一，弦所发出的声音取决于弦的长度；第二，两根绷得一样紧的弦，若一根是另一根长的两倍，就会产生谐音。换言之，两个音相差八度。如两弦长为3 比2，则发出另一谐音。 这时短弦发出的音比长弦发出的音高五度。确实，产生每一种谐音的多根弦的长度都成整数比。毕达哥拉斯学派也搞出了一个著名的音阶。我们虽然不打算讲许多希腊时代的音乐，但要指出许多希腊数学家包括欧几里得和托勒密，都写过这方面的著作，特别是关于谐音的配合，而且还制定过音阶。</blockquote><blockquote>4. 由于毕达哥拉斯学派将天文学和音乐“归结”为数，这两门学科就同算术和几何发生了联系。这四门学科都被人看成是数学学科，甚至一直到中世纪，仍被包括在学校课程中，当时号称“四大学科”。</blockquote><blockquote>5. 但或是凭运气或是凭天生的直觉，毕派的确言中了后来两条证明是极为重要的信条：第一是自然界是按数学原理构成的；第二是数学关系决定、统一并显示了自然的秩序。实际上现代科学也坚持毕派对数学的强调，虽然，正如我们将看到的，现代理论是毕派理论的更为高级的形式。</blockquote><blockquote>6. 通过只接受那些确凿无疑的事实，笛卡尔开始他的哲学体系的建立工作。那么他是怎么区分哪些是可接受的论据，哪些是不可接受的呢？在他的《思维指导法则》中（写于1628 年，但他死后才得以出版），他指出：“对于我们要研究的对象来说，我们不仅不应该研究他人已经想出的，而且也不应研究我们自己臆测的东西，而应研究我们能清楚明了的看出或可靠地演绎出的东西，因为知识不可能用别的方法得到。”使头脑有能力直接获得清楚和明晰的基本原理，极其敏锐的直觉和对结果的演绎——这就是笛卡尔认识哲学的实质。笛尔卡认为思维只有两种方法，它们能使得我们不必担心陷入谬误而获得知识，这就是：直觉和演绎。在《法则》一书中，笛卡尔对直觉给予很高的评价：“直觉是纯粹的专注的思维的可靠概念，它仅由理性之光产生，而且比演绎更可信一些。”</blockquote><blockquote>7. 在科学上，笛卡尔的贡献，虽然不如像哥白尼、开普勒以及牛顿那样辉煌灿烂，但也不容轻视。他的漩涡理论（见第三章）是17 世纪时的主要宇宙学理论，他是机械论哲学的奠基人。这种哲学认为，所有自然现象，包括人体的作用，但除了灵魂，都可归结为服从力学定律的运动。对于力学来说，他系统地阐述了惯性定律，即现在所说的牛顿第一运动定律：如果没有外力作用，每个物体都保持其静止状态或匀速直线运动状态。</blockquote><blockquote>8. 当然伽利略意识到靠一条不正确的由实验得出的原理，推出的结果也是不正确的，因此，他建议并且可能做了一些实验来检验他推理的结论以获得基本原理，然而，伽利略做实验做到何种程度却不得而知。有一些他称之为实验的，实际上是理想中的实验，即想象如果真做实验的话，一定会发生什么。然而，他的宗旨：物理学原理必须建立在经验及实验基础上却具有革命性的关键意义。伽利略毫不怀疑一些上帝用来创造宇宙的真实原理可从心里推出，但在从经验出发的角度上，他允许对此持怀疑态度。</blockquote><blockquote>9. 牛顿力学和他以前的力学的本质不同不只在于引入了数学来描述物体的状态，数学对物理学的帮助也不只因为它是一种更方便、更简洁、更清晰、更普遍的语言，而是因为它提供了最基本的概念。重力只是一个数学符号的名称，同理在牛顿第二运动定律（F＝ma，力等于质量乘以加速度）中，力可以是使物体产生加速度的任何东西。力本身的性质在物理上也许是不可知的，因此牛顿谈到而且使用了向心力和离心力的概念，尽管他并不知道这些力的机制。</blockquote><blockquote>10. 莱布尼茨的数学和科学工作广泛而有价值，我们以后还将详述。但有点像笛卡尔，他的贡献是技术性的。他在微积分及微分方程创立之初所做的工作，还有他对某些新出现的概念——如我们今天称之为动能——的重要性的确认，都是第一流的。但莱布尼茨没有贡献任何新的关于自然的根本性法则，倒是他的以数学为基础的科学哲学认为，在激励人们寻求真理时，数学最为重要。</blockquote><blockquote>11. 数学支配一切，18 世纪最伟大的智者对此深信不疑。著名的数学家丹尼斯·狄德罗(Denis Diderot)，编纂《法国大百科全书》的主要参与者，说“世界的真正体系已被确认，发展和完善了。”显然，自然法则就是数学法则。 拉普拉斯还有一段更著名的论述：我们可以把目前的宇宙状态看作是宇宙过去的结果和将来的原因。如果一个有理性的人在任何时刻都知道生物界的一切力及所有生物的相互位置，而他的才智又足以分析一切资料，那么他就能用一个方程式表达宇宙中最庞大的物体和最轻微的原子的运动。对他来说，一切都是显然的，过去与未来都将呈现在他眼前。</blockquote><blockquote>12. 进入19 世纪，数学界正是一派祥瑞景象：拉格朗日仍然活跃在数学界，拉普拉斯正处在他智力的顶峰时期，傅立叶致力于研究他1807 年的手稿，这篇手稿后来并入了他的经典著作《热论》（1822 年）；高斯(Gauss)刚刚发表了他的《算术研究》（1801 年），这是关于数论的一个里程碑，随后他又做出了许多的贡献，为他赢得了数学王子的雅称；高斯的法国同行柯西(Augustin－Louis Cauchy)在他1814 年的一篇论文中显露出超凡的才能。</blockquote><blockquote>13. 假如他们对一些同行的行为稍加注意，那么，也许他们会对即将面临的灾难有所准备。培根早就在他的《新工具》（1620 年）中写道：一个群体的观念是与生俱来的，与群体和种族关系甚密。因而人的感觉有时错误地被当作事物的标准。另一方面，所有感觉上的或是心智上的领悟力，依赖于人而不是宇宙。而人的心智就像不平坦的镜面，把自己的性质转赋给了事物。光线原由事物发出，而镜子使之扭曲变形。</blockquote><blockquote>14. 牛顿的工作无意中使自然科学第一次从神学中分离或者解放出来。我们已经提到过，伽利略坚持说自然科学必须与神学相分离，而牛顿在他的《原理》一书中坚持这一原则，朝着对自然现象给以纯数学的解释迈进了一大步。因此上帝越来越多地被排斥在科学理论的数学描述之外了。实际上，牛顿所没能解释的那些反常现象在后来的研究中得到了根本上的解释。</blockquote><blockquote>15. 宗教信仰因此而从正统观念分化出许多的旁门左系，诸如唯理论的超自然主义、自然神论、不可知论或是干脆的无神论。这些运动对18 世纪那些学识广博的数学家产生了一定影响。</blockquote><blockquote>16. 由是休谟回答了“人怎样获得真理”这一基本问题——他否认真理的存在，人不可能区别真理。休谟的工作不仅贬损了在科学和数学上付出的努力和得到的结果，还对推理本身的价值提出了质疑。对于大多数18 世纪的思想家来说，这样一种对人类最高智慧能力的否认是大逆不道的。数学家、人类推理的其他成就如此辉煌以至于到了“不可一日无此君”的地步。 休谟的哲学对于18 世纪绝大多数的学者来说是矛盾和令人嫌恶的，而且与数学和其他科学中的惊人的成就是如此格格不入，因此遭到了驳斥。</blockquote><blockquote>17. 历史上最受尊敬的可能也是最深邃的哲学家康德发起了这一挑战。但是对康德殚精竭虑所提出的结论进行仔细推敲后发现其并不比其他人的更令人信服。在他的《未来形而上学导言》（1783 年）一书中，康德看来确是站在科学家和数学家一边：“我们可以确切地说：纯粹的先验的综合知识，纯粹数学和纯粹物理学是真实存在也是先天既定的，二者都包含一些被广泛承认、绝对肯定的命题，..而且是独立于经验的。”在他的《纯粹理性批判》（1781 年）一书中，康德甚至使用更为确信的词语作为开头，他肯定所有的数学公理和定理都是真理，但是为什么？康德自问道。他愿意接受这样的真理吗？显然经验本身并不足以证明它们的有效性。如果你能回答一个更大的问题——数学确实是一门科学吗——你也就能回答这个问题了。康德的回答是：时间和空间的形式依我们的心智所定，所谓时间和空间只是我们感知的一种模式。这种感知——康德称之为直觉——的模式由心智对待经验的方式决定。我们依据这些智力形式去感知，组织和理解经验，经验与之相符犹如面团符合于它的模子。心智将这些方式加到感觉、印象上去使感觉与内在的模式相吻合。既然空间的直觉来源于心智，那么心智自动地接受空间的某些属性，诸如直线是两点间的最短路径，三点确定一平面以及欧几里得的平行公理。康德称这些真理为一个先验的假设的真理，它们是我们心智构成的一部分。几何学的科学性恰恰在于其揭示了这些真理的逻辑推断，心智正是通过“空间结构”来对待经验这样一个事实说明经验与基本原理和定理是一致的。我们自认为感知到的外部世界的秩序和理性是由我们的精神和我们的思考方式加诸其上的。</blockquote><blockquote>18. 可以毫不怀疑地说，印度人并不了解他们对数学的贡献有多么重要，他们有为数不多的一些不错的思想，例如，数字1 到9 用独立的记号表示，将六十进制转化为十进制，负数，以及把0 当作一个数来对待。这些思想都是漫不经心的。他们并没有明显地意识到它们是极有价值的创举。他们对数学价值并不敏感，他们把他们自己提出的完善的思想和埃及人及巴比伦人最粗糙、原始的思想混合在一起。</blockquote><blockquote>19. 18 世纪的思想家们所采用的论据的一个奇怪的特点是它们求助于形而上学，人们用它来暗示数学领域之外还存在一个真理体系，如果需要的话，可以用它来检验他们的工作。虽说它究竟是什么还不清楚，但应用形而上学意在给那些不为推理所支持的论点增强可信度。因此，莱布尼茨宣称形而上学的用处比我们认识到的要多。他把1/2 作为级数1-1+1-..的和的证明和他提出的连续性原理，都只不过重申了上述观点。它们被“证明”是形而上学的，仿佛这样就不容置疑了。欧拉也求助于它，认为在分析中也必须默认它，当17、18 世纪的数学家们不能为一个观点提供更好的证明时，他们就惯于说这其中的理由是形而上学的。</blockquote><blockquote>20. 数学批评运动的创建者们认识到，两千多年来数学家们只是在充溢着直觉，似是而非的证明以及归纳推理和符号表达式的形式运算的荒野上漫游，他们期望着能在一片空白上建立合适的数学逻辑基础，摒弃那些模糊的概念和矛盾，改进如欧氏几何这样的数学分支已有的基础。这项工作在19 世纪20 年代就已经开始了，并且，随着非欧几何渐为人知，也在愈加广泛地加速进行。它逐渐揭示出欧氏几何在结构上的缺陷，可以明显看出，过去被认为是严格证明的典范，无懈可击的堡垒，也经不起细致推敲。稍后，也就是1843 年，四元数的产生又向实数、复数运算的自以为是提出了挑战。当然，还有一些对自己工作过于自信的数学家，继续粗劣地推理，一旦得到正确的结果，便更错误地相信他们的证明和理论是无懈可击的。 虽然严谨的思想家们承认必须摒弃数学是现实世界的真理的主张，但他们还是对数学在力学、地球力学、声学、流体动力学、弹性力学、光学、电磁学以及工程学的许多分支等诸多领域辉煌的成就感到由衷的敬佩。尽管数学是在真理战无不胜旗帜的庇护下，但它一定还借助了某种基本的，也许是神秘的力量才取得其成就。数学对自然的超常的适用性虽然还需进一步解释（见第十五章），但是，没有人能否认这一事实并胆敢把这样一种无所不能的工具弃置不顾。当然，它不应当受到由逻辑困难和矛盾所带来的混乱的威胁，而且，尽管数学家们一度违背了逻辑严密性的原则，但他们也不准备使他们的学科永远建立在实用的基础上。否则，他们的声望也将受到影响。</blockquote><blockquote>21. 然而，许多20 世纪早期的数学家不愿理睬上述这些悖论，因为它们涉及的集合论在当时是新兴的且无足轻重。其他一些人，意识到这些悖论的影响不仅限于经典数学，还关系到通常的推理，因而感到无所适从。一些人曾试图接受威廉·詹姆斯在他的《实用主义》中提出的建议，“当你遇到矛盾时，你必须澄清它。”从拉姆塞（FrankPlumptonRamsey）起，一些逻辑学家，曾尝试区分语义造成的矛盾和真实的即逻辑上的矛盾。他们称“单词悖论”、“异己的悖论”和“说谎者悖论”为语义的，因为它们涉及到一个词的真实性和可定义性或模糊应用等概念，相应地采用这些概念的严格定义能解决上述悖论。另一方面，罗素的悖论、康托尔的所有集合的集合的悖论和布拉利-福蒂悖论被认为是逻辑上的矛盾。罗素本人并没有做这样的区分，他确信所有悖论都产生于一种他称之为恶性循环原理的谬误，他这样描述道，“凡涉及到一个集的整体的东西必不能是该集中的一部分”。换句话说，如果定义一组元素的集而又必须用到该全集自身，则这定义是毫无意义的。这个解释是罗素在1905 年给出的，彭加勒在1906年接受了它，他还杜撰了“非断言定义”这一术语，即一个要定义的对象是用包含这个对象在内的一类对象来定义的，这种定义是不合逻辑的。举一个罗素本人在《数学原理》中提出的例子（见第八章），排中律说所有命题非对即错。但是这个定律自身也是一个命题，因此，尽管它的意图是断言逻辑定律的真实性，但它既是一个命题则也有可能是错误的，正如罗素所言，这个定律的陈述毫无意义。一些其他的例子可能会有所帮助。一个全能的上帝能创造一个不能被毁灭的东西吗？当然可以，因为他是万能的。可既然他是万能的，他又能毁灭任意东西。在这个例子里，“万能” 这个词的范围涉及到一个不合理的总体，这一类悖论，正像逻辑学家塔斯基(Alfred Tarski)所指出的那样，尽管是语义上的，也向语言自身发出了挑战。</blockquote><blockquote>22. 数学技术勾画出物理原理的含义，譬如说PV=常数，F=ma。这结论仍然适用于物理世界，这就产生了疑问：为什么世界符合数学推理呢？我们后面将要回到这个问题上来（见第十五章）。</blockquote><blockquote>23. 我像人们需要宗教信仰一样渴望确定性，我想在数学中比在任何其他地方更能找到确定性。但我发现，许多数学证明——我的老师希望我接受——却是错误百出。而且，假如真的在数学中找到了确定性，那它一定是数学的一个新领域。它有比迄今为止认为是安全的领域更加坚实的基础。但当工作进行时，我不断地想到大象和乌龟的寓言。把大象置于整个数学的基础上之后，我发现大象摇摇欲坠，于是再造一个乌龟来防止大象倒下，但这乌龟不比大象更安全。而在经过20 年左右的艰苦工作后，我得出的结论是，在对于使数学更确信无疑这一工作上，我已无能为力。 在《我的哲学发展》（1959 年）一书中，罗素承认“一直以来，我希望在数学中找到的绝对的确定性消失在一个令人迷惑的迷宫中了。..它确是一个复杂的概念的迷宫。”而这也不是罗素一人的不幸。</blockquote><blockquote>24. 19 世纪后半期的数学从阐述现实世界设计的固有法则这一意义上来说，已经放弃了对真理的追求。早期的逻辑主义者，特别是弗雷格和罗素，相信逻辑是一个真理体系。因此，如果数学确实是建立于逻辑之上，则它也是真理体系，尽管他们最后从这一立场退到了只要实用认可的逻辑原理上。</blockquote><blockquote>25. 从广义的角度来讲，直觉主义可以追溯到笛卡尔和帕斯卡。在《思维的指导法则》一书中，笛卡尔说：我们不惮错漏地在此公布知性上升为知识的途径，这样的途径有两种：直觉和演绎。我所说的直觉并非各种感觉的验证，也不是被自然而然夸大的想像的错误判断，它是来自于缜密的头脑中的概念。它是如此清晰和明白，对于它所理解的东西，根本不含任何可疑之处，或者说——两种说法其实是一样的——审慎而缜密的头脑中自明的概念，是仅由理性获得的概念，并且因为更简单而比演绎本身更确定。尽管我们在前文中所说，在演绎过程中，人的头脑也不会出错。因而，我们每个人都可凭直觉知道：我们存在、我们思考、三角形仅由三边围成、球面由单面所围成、以及如此种种。</blockquote><blockquote>26. 从很大程度上来说，直觉主义是由哲学家康德开始的。尽管他主要是个哲学家，但康德于1755 年1770 年间却在哥尼斯堡大学教授数学和物理，他认为我们的所有感觉都来自于一个预先假定的外部世界。然而，这些感觉或感性知识并不能提供多少知识，所有感性知识都包含了感知者和被感知物体间的相互作用。心智将这些感性知识梳理清楚，得到对空间和时间的直觉。空间和时间并不是客观存在的，而是心智的创作。心智，为经验提供了对空间和时间的理解，而经验只是唤醒心智。知识可能是从经验开始的，但并不真正来源于经验，而是来源于心智。独立于经验，我们可以在先验的或真正的知识中前进多远，数学是其光辉的例证。康德称这样一种方法为综合方法。即它能够提供新的知识，而分析的命题，例如“所有物体都是可延展的”，并不能提供新的知识，因为延展性是物体固有的属性。相反，直线是两点间的最短距离，这一命题是综合的。</blockquote><blockquote>27. 直觉主义的创始人，克罗内克、鲍莱尔、勒贝格、彭加勒和贝尔都是数学巨匠，他们对标准数学证明和逻辑派的方法提出了大量的批评，他们提出了新的原理，但其成就却是零星和不完整的。他们的观点由荷兰数学教授、也是直觉主义哲学的奠基人布劳维并入了一个明确的阐述中。布劳维在他的博士论文《论数学的基础》（1907 年）中提出直觉主义哲学。从1918 年开始他在许多杂志上阐述和发展了他的观点。</blockquote><blockquote>28. 尽管直觉主义的反对者对直觉主义这种数学哲学的驳斥过于傲慢和武断，但对许多持有同情心的人们的批评则必须严肃对待。有这样一种批评指出，直觉主义者努力重建的，与其原则相一致的理论并不能由人类的直觉提出，也很难用人类的直觉来保证。这些理论已被数学家所用过的所有方法、所有类型的推理、猜想、从特殊情况中所得到的归纳，以及那些来源不明的瞬间灵感所得出。因此，在实践中，像所有的数学家一样，直觉主义者实际上依赖的是常规的建立方法，甚至是古典逻辑，尽管直觉主义者寻求的是一种与他们自己的原则相一致的重建理论的证据。直觉主义者也许会这样回答：尽管须要用到一些发现的常规方法，它们的结论还是肯定能被人类的直觉所接受的。然而，在不否定直觉主义中其他思想的重要性的情况下，事实仍然是：许多连直觉主义者都接受的理论对直觉来说也是如此的微妙和不可思议，很难相信人的头脑能直接认识到它们的真实性。</blockquote><blockquote>29. 出现于本世纪头10 年，在数学基础上观点完全相反的逻辑主义与直觉主义哲学，只是这场大纷争中首先登场的两大派系。关于数学基础思想的第三大派系是由大卫·希尔伯特领导并风行一时的形式主义派，而第四大派系集合论公理化派则是由策梅罗创建的。</blockquote><blockquote>30. 但就在第二年，哥德尔发表的另一篇论文却打开了潘多拉的盒子②。这篇题为《论数学原理中的形式不可判定命题及有关系统》（1931 年）的论文包含了两个惊世骇俗的结论。其中对数学界尤具毁灭性的断言是：任何数学系统，只要其能包含整数的算术，其相容性就不可能通过几个基础学派（逻辑主义学派、形式主义学派、集合论公理化学派）采用的逻辑原理而建立。这一结果特别适用于形式主义学派，原因是希尔伯特已经仔细地限定了元数学的逻辑原理，能使用的逻辑工具之少甚至连直觉主义者都可以接受。无怪乎魏尔对此评论说：上帝是存在的，因为数学无疑是相容的；魔鬼也是存在的，因为我们不能证明这种相容性。</blockquote><blockquote>31. 一些进展奇妙地改变了数学家们对自己工作的态度。首先是认识到数学并非一个关于自然的真理体系（见第四章）。高斯在几何中使这一点很清楚，而四元数及矩阵迫使人们意识到这一点，亥姆霍兹理解得更透彻——即使是一般的数的数学也并非是可用的先验理论。数学的实用性虽说无懈可击，但对真理的探求不再证明数学的努力全然正确。</blockquote><blockquote>32. 使得数学家们着手于纯数学问题的另一因素是：自然科学的问题很少能彻底解决。人们可以得到越来越好的近似解，但得不到一个最终的解答。</blockquote><blockquote>33. 在培根的时代，数学家对于物理研究的关注毋须多提，但今天的事实是他们逃离了自然科学。在过去的100 年中，在那些恪守古老的、高雅的数学活动目的——这一目的到那时为止提供了实质性和丰富的主题——的人和那些听凭兴趣所至从事研究的人之间产生了分裂。如今，数学家与科学家分道扬镳，比较新的数学发明少有实用价值，而且，数学家和科学家不再互相理解。令人不安的是随着专门化的日益深化，数学家甚至不再了解其他的数学家。</blockquote><blockquote>34. 1895 年，当时数学界的领袖人物F·克莱因也感到有必要反对这种抽象的纯粹数学趋势： 在现代思维的急速发展中，我们禁不住要担心，我们的科学面临着越来越独立的危险。自现代分析兴起以来，对数学和自然科学双方都有裨益的二者之间的紧密联系，正面临着被破坏的危险。</blockquote><blockquote>35. 1939 年库朗再一次写到： 数学不过是一个从定义和假设中抽取的结论体系，它必须保证一致性，除此以外数学家可以随心所欲地加以创造，这样一种断言蕴含着对科学的生命力的一个严重的威胁。假如这一描述准确，则数学不能吸引任何有知识的人。它将是一个没有动机、没有目标的定义规则和推理的游戏。智力能够任意地推出有意义的假设体系不过是伪真理，自由的思维只有在有机整体的约束之下，受固有必然性的指引，才能获得具有科学价值的结果。</blockquote><blockquote>36. 现在，科学比以往任何时候都要活跃，并没明显的衰败迹象，只有最细心的观察者注意到看门人已擅离职守，他并没有去睡大觉，他像以往一样地努力工作，只是他在为自己干活……</blockquote><blockquote>37. 我们的科学始于数学，而且必然在数学从中撤出不久之后（如果要撤出的话）结束。一个世纪之后将有更大更好的大规模的实验室。这些实验结果是单纯的事实还是成为科学要看它们与数学的实质之间的关系的紧密程度了。</blockquote><blockquote>38. 冯·诺依曼非常紧张地提出了警告，在时常被引用的论文《数学家》（1947 年）中，他说： 当一门数学学科远离它的经验本源继续发展的时候，或者更进一步，如果它是第二代和第三代，仅仅间接地受到来自“现实” 的思想所启发，那么，它就会面临严重困境。它会变得越来越纯粹地美学化，越来越纯粹地“为艺术而艺术”。如果在这个领域周围是互相联系并且仍然与实践经验有密切关系的学科，或者这个学科处于具有非常卓越的审美能力的人们的影响之下，那这种需要不一定是坏事。但是，仍然存在一种严重的危险，即这门学科将沿着阻力最小的途径发展，使远离本源的小溪又分散成许多无足轻重的支流，使这个学科变成大量混乱的琐碎枝节。换句话说，在距离经验本源很远很远的地方，或者在多次“抽象”的近亲繁殖之后，一门数学学科就有退化的危险。起初，风格通常是古典的，一旦它显示出巴罗克①式的迹象，危险信号就发出来了。..总之，每当到了这种地步时，在我看来，唯一的药方就是为重获青春而返本求源，重新注入直接经验的思想。我相信，这是使这门学科保持清新与活力的必要条件，即使在将来，这也是同样正确的。</blockquote><blockquote>39. 这些领袖人物都意识到，试图建立一个可普遍接受的、逻辑上合理的数学体系的努力已经失败了。数学是一种人类活动，它受制于人类的各种弱点和过失。除了推理上的因素以外，任何形式上的逻辑的解释只是一种伪数学，一种幻想，甚至是一种神话。</blockquote><blockquote>40. 现代科学通过对自然现象的合理解释消灭了奇想、妖魔、天使，鬼怪、神秘之力以及泛灵论，人们为此而称道它。我们还要补充一点：现代科学正逐渐夺走了直觉和肉体上的满足，这两者都是通过感觉来实现的；它也在逐步消除物质，它采用的是像场和电子这样的虚构的，理想的概念，对于这些概念，我们仅仅了解其数学定律。经过一长串的数学推导后，科学与感性知觉之间只存在着那么一点但却至关重要的联系。科学是合理化的虚构，而正是数学使之合理化。</blockquote><blockquote>41. 因此，人们面临着双重奥秘。虽然物理现象可通过物理语言理解，但对那些被证明与公理本身同样运用的推理，为何数学一样有效呢？而在那些我们对物理现象仅有猜想，并几乎完全依靠数学来描述这些现象的领域，数学也一样有效呢？这些问题是不容忽视的。我们的科学技术在很大程度上依靠数学，数学虽然曾在真理的无敌旗帜下作战，但是在这门科学中是否有某种魔术般的内部力量使之获取胜利呢？ 这一问题曾被反复提出，著名的有阿尔伯特·爱因斯坦的《相对论侧记》（1921 年）： 在这里产生了一个让各个时期的科学家均感困惑的迷题。数学作为独立于经验的人类思维的产物，为何与物理现实中的客体如此吻合？没有经验依据，而只靠纯粹的思维，人类就能够发现实际事物的性质吗？.. 只要数学的命题是涉及实在的，它就不是可靠的；只要它是可靠的，它就不涉及实在。 他继续解释道，数学的公理化使得这种差别清晰化。虽然爱因斯坦知道数学公理与逻辑原理来源于经验，他仍提出这样一个问题：为什么那些长而复杂的纯推理能产生如此卓著的应用结论呢？毕竟，这些推理是独立于经验的，而且涉及的概念是由人类头脑所创造的。 一种现代解释起源于康德。康德确信（见第四章）我们不懂得也不可能懂得自然，更确切地说，我们拥有的是感性知觉。我们的头脑依据天生的关于空间与时间的先定结构（康德称之为直觉）来支配感知，因此我们依照欧氏几何的定律组织空间感知，因为我们的头脑需要如此。而正是因为如此，所以空间感知继续遵循欧氏几何定律。当然，康德在坚持欧氏几何的问题上是不正确的，但他认为人类思维决定自然行为的观点确有部分道理。思维决定了我们的时空概念，我们在自然中所看到的东西无非是我们的思维事先确定好的东西。 另外一种与康德的观点类似，但进一步扩展了的观点是由爱丁顿所提出的，他是当代最伟大的物理学家之一。按照他的说法，人类思维决定了自然必须如何去运作： 我们发现，科学发展得最快的地方，思维就从自然中重新获得那些原来放进去的东西。我们在未知的彼岸发现了古怪的足迹。为了解释它的起源，我们设计了一个又一个深奥的理论，最终我们成功地找到了足迹的来源。哦！原来是我们自己的足迹。 近年来，康德有关数学为何有效的解释已由怀特海详尽阐述，甚至布劳维1923 年在一篇论文中也对此表示拥护。关键的思想就是：数学并非一门独立于外部世界现象并运用于其上的学科。相反地，它是我们用自己的方式构想这些现象的基础。自然世界并不是客观地呈现在我们面前，它只是建立在人的感觉基础之上的人类的解释或构造，而数学则是组织人类感觉的主要工具。于是，自然而然地，人们用数学来描述人类已知的外部世界。这样，为何多数人都接受同样的数学结构则可以用这样一种假设，即人类的思维可能实际运转起来差不太多来解释。或者解释为以下一种事实：人们出生于某种文化和语言环境中，这种环境制约着他们接受某种特定的数学系统。欧几里得几何尽管并非是关于空间的最后定论，但它仍占据了统治地位，这一事实证明了后一种观点。对于日心说也是一样，因为一开始，它与托勒密理论观察的矛盾并未促使其改进。此外，如果那时托勒密理论能够保持并提炼，与更近一些的观察相吻合的话，无疑它同样也能非常有效，而只是增加些数学上的复杂性罢了。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42628212/#comments">回应</a>&nbsp;&nbsp;
+                  2017-03-26 12:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="41027404">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/84345266/"><img src="https://img3.doubanio.com/icon/u84345266-2.jpg" alt="谭思睿" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41027404/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41027404/" class="">全</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/84345266/" class=" " title="谭思睿">谭思睿</a>
+              
+            </p>
+            <div class="reading-note" data-cid="41027404">
+              <div class="short">
+                
+                  <span class="">“自然法则是人的创造物，是我们，而不是上帝，才是宇宙的法则制定者。自然法则是人的描述而不是上帝的命令。”</span>
+                <p class="pl">
+                  <span class="">2017-01-01 10:49</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                “自然法则是人的创造物，是我们，而不是上帝，才是宇宙的法则制定者。自然法则是人的描述而不是上帝的命令。”
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41027404/#comments">回应</a>&nbsp;&nbsp;
+                  2017-01-01 10:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37312794">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/47848586/"><img src="https://img3.doubanio.com/icon/u47848586-2.jpg" alt="蔚蓝的风" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37312794/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37312794/" class="">第8页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/47848586/" class=" " title="蔚蓝的风">蔚蓝的风</a>
+              
+            </p>
+            <div class="reading-note" data-cid="37312794">
+              <div class="short">
+                
+                  <span class="">“事物是思想在经验屏幕上的投影”，Plato对其时代的观测是多么绝望啊。这个人很有意思，一方面认为人类即等同于理性思维、是唯一的、高于一切的；另一方面，对客观世界的复杂性又深感描述乏力，只好“不看、不听、只说”。
+
+Aristotle“从可知和可观察的事物出发，向着本质上可为人们认识的逐渐清晰的事物前进”，学生比老师自信、客观得多了。客观实在独立于一切思维而存在，“真理=知识=认识=这种抽象不独立于人的思维而存在..</span>
+                <p class="pl">
+                  <span class="">2016-03-05 05:31</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                “事物是思想在经验屏幕上的投影”，Plato对其时代的观测是多么绝望啊。这个人很有意思，一方面认为人类即等同于理性思维、是唯一的、高于一切的；另一方面，对客观世界的复杂性又深感描述乏力，只好“不看、不听、只说”。<div style="padding-bottom:1em;"></div>Aristotle“从可知和可观察的事物出发，向着本质上可为人们认识的逐渐清晰的事物前进”，学生比老师自信、客观得多了。客观实在独立于一切思维而存在，“真理=知识=认识=这种抽象不独立于人的思维而存在”。<div style="padding-bottom:1em;"></div>真理、理论、数学，只是客观实在在人类经验屏幕上的投影。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37312794/#comments">回应</a>&nbsp;&nbsp;
+                  2016-03-05 05:31
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="35880444">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/sadrime/"><img src="https://img3.doubanio.com/icon/u53918127-2.jpg" alt="sadrime" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/35880444/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/35880444/" class="">第202页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/sadrime/" class=" " title="sadrime">sadrime</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="35880444">
+              <div class="short">
+                
+                  <span class="">A是一个p;
+B是一个p;
+因此，A和B都是p。
+文中说：
+这显然是错误的，并举了这样一个例子：
+约翰是一个哥哥；
+彼特是一个哥哥；
+因此，约翰和彼特都是哥哥（相互间）;
+重点在于句尾的小括号，为什么要加小括号？作者可能是为了强调约翰与彼特彼此间的关系；可为什么会这么理解呢，我是如下理解的，并据此认为这句话逻辑上没有问题：
+约翰是我的一个哥哥；
+彼特是我的一个哥哥；
+因此，约翰和彼特都是我的哥哥;
+
+第二个..</span>
+                <p class="pl">
+                  <span class="">2015-08-13 20:10</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>A是一个p;
+B是一个p;
+因此，A和B都是p。</q></blockquote>
+文中说：
+<blockquote><q>这显然是错误的</q></blockquote>，并举了这样一个例子：
+<blockquote><q>约翰是一个哥哥；
+彼特是一个哥哥；
+因此，约翰和彼特都是哥哥（相互间）;</q></blockquote>
+重点在于句尾的小括号，为什么要加小括号？作者可能是为了强调约翰与彼特彼此间的关系；可为什么会这么理解呢，我是如下理解的，并据此认为这句话逻辑上没有问题：<div style="padding-bottom:1em;"></div>约翰是我的一个哥哥；<div style="padding-bottom:1em;"></div>彼特是我的一个哥哥；<div style="padding-bottom:1em;"></div>因此，约翰和彼特都是我的哥哥;<div style="padding-bottom:1em;"></div>第二个例子同样不认同：
+<blockquote><q>
+苹果是酸的；
+酸是一种味道；
+因此，苹果是一种味道。</q></blockquote>
+我如下理解：<div style="padding-bottom:1em;"></div>苹果是酸的水果；<div style="padding-bottom:1em;"></div>酸是一种味道；<div style="padding-bottom:1em;"></div>因此无法推出，苹果是一种味道。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/35880444/#comments">回应</a>&nbsp;&nbsp;
+                  2015-08-13 20:10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1049136/annotation">更多读书笔记（共61篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1049136/discussion/18938787/" title="能看到这部书是我的幸运" class="">能看到这部书是我的幸运</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/adhjj89/">Sakuraの恋</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2013-11-10</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1049136/discussion/16044696/" title="这本书读完了" class="">这本书读完了</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/vargas/">Vargas</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2009-05-09</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1049136/discussion/58782040/" title="需要什么样的数学基础可以理解这本书" class="">需要什么样的数学基础可以理解这本书</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/45414932/">西兰花菜</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2014-09-11</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1049136/discussion/45183178/" title="太喜欢这本书了" class="">太喜欢这本书了</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/56107083/">五月</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2013-06-25</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1049136/discussion/20127375/" title="挺好的休闲读物" class="">挺好的休闲读物</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/23562650/">omgd</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2009-11-10</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/1049136/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D978-7-5357-1857-0&amp;subject=7535718574&amp;type=borrow&amp;library=10007&amp;link2key=c307b778b5" target="_blank">北京市公共图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787535718570&amp;subject=7535718574&amp;type=borrow&amp;library=10012&amp;link2key=c307b778b5" target="_blank">上海市中心图书馆(3)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D9787535718570%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7535718574&amp;type=borrow&amp;library=10022&amp;link2key=c307b778b5" target="_blank">广州图书馆(2)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D978-7-5357-1857-0%26strSearchType%3Disbn&amp;subject=7535718574&amp;type=borrow&amp;library=10002&amp;link2key=c307b778b5" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Finterlib.jylib.cn%2Fopac%2Fwebsearch%2FbookSearch%3Ffilter%3D%2528isbn%253A7535718574%2529%26cmdACT%3Dlist%26xsl%3DBOOK_list.xsl%26col1%3Disbn%26val1%3D7535718574&amp;subject=7535718574&amp;type=borrow&amp;library=10003&amp;link2key=c307b778b5" target="_blank">江阴市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D7-5357-1857-4%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7535718574&amp;type=borrow&amp;library=10021&amp;link2key=c307b778b5" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1018032">全部3</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1474187/">Oxford University Press版</a>
+          1982-6-17 / 19人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1475888/">台灣商務版</a>
+          2004 / 5人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1049136/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/176014/" target="_blank">｜五颗星经典系列｜图书｜非小说类｜</a>
+                <span class="pl">(蜜蜂)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/409710/" target="_blank">自我通识教育</a>
+                <span class="pl">(我)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/116362/" target="_blank">Kogorou推荐的数学科普读物</a>
+                <span class="pl">(Kogorou)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/276123/" target="_blank">豆瓣评星很高很强大【科学】</a>
+                <span class="pl">(爱玛·包法利)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/43430373/" target="_blank">豆瓣高分书2500本：千人打分不低于8分</a>
+                <span class="pl">(偶就是那个鬼)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/161998728/"><img src="https://img3.doubanio.com/icon/u161998728-5.jpg" class="pil" alt="Audrey" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/161998728/">Audrey</a><br/>
+      <div class="pl ll">          今天上午          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:数学</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/6770304/"><img src="https://img3.doubanio.com/icon/u6770304-5.jpg" class="pil" alt="明月中天" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/6770304/">明月中天</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/ljing19880207/"><img src="https://img1.doubanio.com/icon/u61817563-7.jpg" class="pil" alt="桑榆姑娘" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/ljing19880207/">桑榆姑娘</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/99224393/"><img src="https://img3.doubanio.com/icon/u99224393-2.jpg" class="pil" alt="Mead" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/99224393/">Mead</a><br/>
+      <div class="pl ll">          6月25日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1049136/doings">474人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1049136/collections">2156人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1049136/wishes">6147人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1049136/offers">10本二手书欲转让</a>
+          <span class="">
+            (1.00
+                至 55.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有6147人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于数学：确定性的丧失的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1049136/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'Kd7NAOnkoTM',
+            criteria = '7:数学|7:科普|7:数学史|7:哲学|7:第一推动丛书|7:数学:确定性的丧失|7:科学|7:思想|7:数学科普|7:历史|3:/subject/1049136/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar15a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

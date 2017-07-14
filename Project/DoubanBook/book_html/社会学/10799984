@@ -1,0 +1,3318 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>大数据 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/10799984/">
+<meta name="keywords" content="大数据,涂子沛,广西师范大学出版社,2013-4-1,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书大数据 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/10799984/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">大数据</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img1.doubanio.com/lpic/s10391658.jpg" title="大数据">
+    <img src="https://img1.doubanio.com/lpic/s10391658.jpg" title="点击看大图" alt="大数据"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+
+    <span class="pl">作者:</span>&nbsp;
+        <a href="https://book.douban.com/author/223589/">
+            涂子沛</a>
+    <br>
+
+
+    
+    
+  
+    <span class="pl">出版社:</span> 广西师范大学出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 正在到来的数据革命，以及它如何改变政府、商业与我们的生活<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2013-4-1<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 362<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 49.90元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787549518371<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 7.5 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">2861</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:32px"></div>
+
+            <span class="rating_per">21.6%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">42.2%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:42px"></div>
+
+            <span class="rating_per">28.1%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:8px"></div>
+
+            <span class="rating_per">5.8%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:3px"></div>
+
+            <span class="rating_per">2.3%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-10799984-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-10799984-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-10799984-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-10799984-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-10799984-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-10799984-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-10799984-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-10799984-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-10799984">
+        <a href="#" data-url="https://book.douban.com/subject/10799984/" data-desc="" data-title="书籍《大数据》 (来自豆瓣) " data-pic="https://img1.doubanio.com/lpic/s10391658.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_10799984"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>公布官员财产美国是怎么做的，美国能让少部人腐败起来吗，美国式上访是怎么回事，凭什么美国矿难那么少，全民医改美国做得到吗，美国总统大选有什么利器才能赢，下一轮全球洗牌我们世界工厂会被淘汰吗……</p>    <p>除了上帝，任何人都必须用数据来说话。</p>    <p>大数据浪潮，汹涌来袭，与互联网的发明一样，这绝不仅仅是信息技术领域的革命，更是在全球范围启动透明政府、加速企业创新、引领社会变革的利器。现代管理学之父德鲁克有言，预测未来最好的方法，就是去创造未来。而“大数据战略”，则是当下领航全球的先机。</p>    <p>大数据，这一世界大潮的来龙去脉如何？数据技术变革，何以能推动政府信息公开、透明和社会公正？何以促发行政管理和商业管理革新，并创造无限商机？又何以既便利又危及我们每个人的生活？Google、百度之类搜索服务，何以会不再有立足之地？引领世界的数据帝国——美国和西欧，正在如何应对大数据时代？我...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>公布官员财产美国是怎么做的，美国能让少部人腐败起来吗，美国式上访是怎么回事，凭什么美国矿难那么少，全民医改美国做得到吗，美国总统大选有什么利器才能赢，下一轮全球洗牌我们世界工厂会被淘汰吗……</p>    <p>除了上帝，任何人都必须用数据来说话。</p>    <p>大数据浪潮，汹涌来袭，与互联网的发明一样，这绝不仅仅是信息技术领域的革命，更是在全球范围启动透明政府、加速企业创新、引领社会变革的利器。现代管理学之父德鲁克有言，预测未来最好的方法，就是去创造未来。而“大数据战略”，则是当下领航全球的先机。</p>    <p>大数据，这一世界大潮的来龙去脉如何？数据技术变革，何以能推动政府信息公开、透明和社会公正？何以促发行政管理和商业管理革新，并创造无限商机？又何以既便利又危及我们每个人的生活？Google、百度之类搜索服务，何以会不再有立足之地？引领世界的数据帝国——美国和西欧，正在如何应对大数据时代？我们中国，又当如何作为？</p>    <p>本书通过讲述美国半个多世纪信息开放、技术创新的历史，以别开生面的经典案例——奥巴马建设“前所未有的开放政府”的雄心、公共财政透明的曲折、《数据质量法》背后的隐情、全民医改法案的波澜、统一身份证的百年纠结、街头警察的创新传奇、美国矿难的悲情历史、商务智能的前世今生、数据开放运动的全球兴起，以及云计算、Facebook和推特等社交媒体、Web3.0与下一代互联网的未来图景等等，为您一一细解，数据创新给公民、政府、社会带来的种种挑战和变革。</p>    <p>美国是全书主体，但又处处反观中国当下的现实。回望中国，胡适批评“差不多先生”，黄仁宇求索“数目字管理”，作者从太平洋对面看到中美两国的差距，深知中国缺少什么、需要什么，故将十多年观察、思索所得，淘洗成这一本书。</p>    <p>史学大家、匹兹堡大学历史系荣誉讲座教授许倬云，有感于“老大哥”的影子，专门作序：“我们要对涂子沛先生致敬与致谢，因为他为华文世界提出一个重要的话题。”</p>    <p>哈佛大学商学院访问教授、全球顶尖的管理咨询大师达文波特，为中国政经两界提示智库建言：“无论是对中国政府，还是就中国的商业组织而言，《大数据》都是一本重要的书。”</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/10799984/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>涂子沛，知名专栏作家、信息管理专家，先后为《南方都市报》、《IT经理世界》、艾瑞网等多个报刊网站撰写专栏，网易、财经网名博博主。毕业于华中科技大学、中山大学和卡内基梅隆大学。赴美留学之前，曾在省、市、县几级政府的不同部门磨砺10年，做过职业程序员，担任过公安边防巡逻艇的指挥官，也从事过政府统计工作。现为美国某软件公司数据中心的主任。除了工作、写作，还热心公益，是匹兹堡华人社区的领袖。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_10799984_short">
+        序言一  大数据：为华文世界提出一个重要话题/许倬云<br/>
+        ■ 序言二  中国的雄心应该拓展到大数据领域/托马斯·H·达文波特<br/>
+        ■ 序  幕  新总统的第一天<br/>
+        一人一票：把“黑”人送进“白”宫<br/>
+        大国新政：阳光是最好的防腐剂<br/>
+        ■ 上  篇  帝国风云<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_10799984_short').hide();$('#dir_10799984_full').show();$.get('/j/subject/j_dir_count',{id:10799984});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_10799984_full" style="display:none">
+        序言一  大数据：为华文世界提出一个重要话题/许倬云<br/>
+        ■ 序言二  中国的雄心应该拓展到大数据领域/托马斯·H·达文波特<br/>
+        ■ 序  幕  新总统的第一天<br/>
+        一人一票：把“黑”人送进“白”宫<br/>
+        大国新政：阳光是最好的防腐剂<br/>
+        ■ 上  篇  帝国风云<br/>
+        ■ 第一章  历史争战《信息自由法》<br/>
+        第四股力量：知情权的起点<br/>
+        国会议员：孤独的战争<br/>
+        白宫当家人：一个妥协者和机动者<br/>
+        政府VS. 社会：旧剧情重现新时代<br/>
+        ■ 第二章  数据帝国的兴起<br/>
+        摩尔定律：全世界半个世纪的发展规律<br/>
+        最小数据集：上升到立法高度的开路先锋<br/>
+        民意几时有：选票催生的创新<br/>
+        普适计算：计算机本身将从人们的视线中消失<br/>
+        “大数据”战略：争夺全世界的下一个前沿<br/>
+        ■ 第三章  数据治国<br/>
+        循“数”管理：平安大道怎样铺<br/>
+        数据“验”平权：民权史上的碑石<br/>
+        数据“打”假：最大的争议就是福利滥用<br/>
+        CompStat ：街头警察的创新传奇<br/>
+        ■ 第四章  商务智能的前世今生<br/>
+        起源：从数据到知识的挑战和跨越<br/>
+        结蛹：数据仓库之厚积薄发<br/>
+        蚕动：联机分析之惊艳<br/>
+        破茧：数据挖掘之智能生命的产生<br/>
+        化蝶：数据可视化的华丽上演<br/>
+        ■ 中 篇  法则博弈<br/>
+        ■ 第五章  帝国的法则<br/>
+        收集法则：减负，为人民减负<br/>
+        使用法则：隐私，文明社会的共识<br/>
+        发布法则：免费，人民已经交税<br/>
+        管理法则：质量，互联网时代的根本<br/>
+        ■ 第六章  《数据质量法》的困局<br/>
+        产业界“俘虏”政府：数据背后的政经战争<br/>
+        美式“旋转门”：权、名、利大串场<br/>
+        “掺沙子”法案：国会对付总统的独门秘器<br/>
+        环保“风险门”：公共利益常常无人代表<br/>
+        集体行动的逻辑：人人都想“搭便车”<br/>
+        三权之歧：什么是真正的“和谐”<br/>
+        ■ 第七章  全国隐私风波<br/>
+        《一九八四》：零隐私的恐惧<br/>
+        大数据就是“老大哥”：中央数据银行之争<br/>
+        百年纠结：统一身份证<br/>
+        “9·11”大拐点：以反恐的名义向左转<br/>
+        万维信息触角计划：追踪恐怖分子的“数据脚印”<br/>
+        6 种改变政府的力量：山姆大叔大退让<br/>
+        ■ 下 篇  公民故事<br/>
+        ■ 第八章  数据开放运动<br/>
+        一个新的世界：从软件开源到数据开放<br/>
+        总统的雄心：公共财政支出透明<br/>
+        数据民主：印裔首席信息官的崛起<br/>
+        Data.Gov：从旗舰初航到保“数”运动<br/>
+        大众创新：航班延误之候机经济学<br/>
+        ■ 第九章  试金石：白宫访客记录<br/>
+        总统在见谁：大医改中的“小”插曲<br/>
+        全体美国人的房子：白宫<br/>
+        步步妥协：总统与草根的对决<br/>
+        从白宫安保到政治监督：执著的公民改变世界<br/>
+        ■ 第十章  矿难中的歌声和数据<br/>
+        集体行动的号角：你站在哪一边<br/>
+        可以避免的悲剧：数据揭示的全景式真相<br/>
+        默认公开推定：和矿难赛跑的原则<br/>
+        唯一的道路：民主时时都要“争”<br/>
+        ■ 外 篇  天下趋势<br/>
+        ■ 视界一  大趋势<br/>
+        数据权：大不列颠的硕果<br/>
+        大合流: 国际开放联盟<br/>
+        云计算：新的航向<br/>
+        再造互联网：从网页相连到数据相“联”<br/>
+        ■ 视界二  大挑战<br/>
+        逐鹿政坛：得数据者得天下<br/>
+        数据竞争：企业赢之道<br/>
+        下一波浪潮：从大数据到大社会<br/>
+        ■ 尾  声  挑战中国：摘下“差不多先生”的文化标签<br/>
+        ■ 大事记  20世纪大萧条后美国信息开放、技术创新之路<br/>
+        ■ 译名表   美国政府机构ABC<br/>
+        ■ 后记   搭建“大数据”的世界<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_10799984_full').hide();$('#dir_10799984_short').show();void(0);">收起</a>)
+</div>
+
+    
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">&#34;大数据&#34;试读</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent">
+<p>文/涂子沛
+
+	“而最大的毛病，则是西欧和日本都已以商业组织的精神一切按实情主持国政的时候，中国仍然是亿万军民不能在数目字上管理。……一旦某一个国家能在数目字上管理，到底使用何种数字，尚可以随时商酌，大体上以技术上的要求作主，不必笼统的以意识形态为依归了。”
+	——黄仁宇（1918—2000），美籍华裔历史学家，1991年
+	在论述完大数据时代的趋势以及这个时代给个人、企业...</p>
+<ul class="col2-list clearfix">
+
+<li>
+    <a href="https://book.douban.com/reading/19207077/">挑战中国：摘下“差不多先生”的文化标签 </a>
+</li>
+
+<li>
+    <a href="https://book.douban.com/reading/19207103/">许倬云    大数据：为华文世界提出一个重要话题</a>
+</li>
+</ul>
+<div align="right">  · · · · · ·    (<a href="https://book.douban.com/subject/10799984/reading/">查看全部试读</a>)</div>
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共595个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/大数据">大数据</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/数据挖掘">数据挖掘</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社会学">社会学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/经济">经济</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/数据">数据</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/涂子沛">涂子沛</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/信息学习">信息学习</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社会">社会</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;大数据&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/4908884/?dcs=subject-rec&amp;dcm=douban&amp;dct=10799984" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/4908884.jpg?v=1405928287.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/4908884/" target="_blank">历代经济变革得失</a>
+          </div>
+          <div class="price">
+              4.20元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/803847/?dcs=subject-rec&amp;dcm=douban&amp;dct=10799984" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/803847.jpg?v=1395395353.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/803847/" target="_blank">技术元素</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/537213/?dcs=subject-rec&amp;dcm=douban&amp;dct=10799984" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/537213.jpg?v=1395395705.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/537213/" target="_blank">思考，快与慢</a>
+          </div>
+          <div class="price">
+              8.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/5697913/?dcs=subject-rec&amp;dcm=douban&amp;dct=10799984" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/5697913.jpg?v=1410531343.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/5697913/" target="_blank">新经济，新规则</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/407627/?dcs=subject-rec&amp;dcm=douban&amp;dct=10799984" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/407627.jpg?v=1395395826.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/407627/" target="_blank">创客</a>
+          </div>
+          <div class="price">
+              6.75元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;大数据&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25871778/" onclick="moreurl(this, {'total': 10, 'clicked': '25871778', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27281543.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25871778/" onclick="moreurl(this, {'total': 10, 'clicked': '25871778', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            数据之巅
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6709783/" onclick="moreurl(this, {'total': 10, 'clicked': '6709783', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6807265.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6709783/" onclick="moreurl(this, {'total': 10, 'clicked': '6709783', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            浪潮之巅
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5375620/" onclick="moreurl(this, {'total': 10, 'clicked': '5375620', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4554820.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5375620/" onclick="moreurl(this, {'total': 10, 'clicked': '5375620', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            失控
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10750155/" onclick="moreurl(this, {'total': 10, 'clicked': '10750155', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s9114855.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10750155/" onclick="moreurl(this, {'total': 10, 'clicked': '10750155', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            数学之美
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/19934150/" onclick="moreurl(this, {'total': 10, 'clicked': '19934150', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s22783787.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/19934150/" onclick="moreurl(this, {'total': 10, 'clicked': '19934150', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            大数据
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/21326266/" onclick="moreurl(this, {'total': 10, 'clicked': '21326266', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s24933920.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/21326266/" onclick="moreurl(this, {'total': 10, 'clicked': '21326266', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            与机器赛跑
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6965746/" onclick="moreurl(this, {'total': 10, 'clicked': '6965746', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6999201.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6965746/" onclick="moreurl(this, {'total': 10, 'clicked': '6965746', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            科技想要什么
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/7007666/" onclick="moreurl(this, {'total': 10, 'clicked': '7007666', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s7000076.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/7007666/" onclick="moreurl(this, {'total': 10, 'clicked': '7007666', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            认知盈余
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6913343/" onclick="moreurl(this, {'total': 10, 'clicked': '6913343', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6983402.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6913343/" onclick="moreurl(this, {'total': 10, 'clicked': '6913343', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            理性乐观派
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3813669/" onclick="moreurl(this, {'total': 10, 'clicked': '3813669', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4146437.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3813669/" onclick="moreurl(this, {'total': 10, 'clicked': '3813669', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            民主的细节
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/10799984/comments/">全部 1262 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="552741794">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-552741794" class="vote-count">2</span>
+                        <a href="javascript:;" id="btn-552741794" class="j a_show_login" data-cid="552741794">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/amoyahoo/">自娱者小五</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2016-03-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">和想象中很不一样，这本书走的完全不是技术路线而是体制路线，从头至尾的主题也非常明确，就讲政府作为牵头方开放大数据服务的意义以及可预见的困难，引例就是奥巴马政府推进大数据开放变革的预期和遭遇的种种问题，美国经营阶层和普通民众对大数据公开行动的担忧和矛盾。一个特殊的视角，也是我个人认为很有价值的视角。现实中，我有充分的信心凡技术问题都可解决，而决定一项技术生存和灭亡的，总归是伦理问题和保障问题，从这点来说，这本书给了我一些启发。但全书结构有点松散，讨论的深度有限，很多细节关注了过程但结果阐述不够多，集中于现象而未深入其内核，只能起个参考作用。总之还是有选择性地读吧。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="922096691">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-922096691" class="vote-count">4</span>
+                        <a href="javascript:;" id="btn-922096691" class="j a_show_login" data-cid="922096691">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/chenhuayang/">Clyde</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-05-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">没想到该书的作者是我的同事的前同事，那天他感慨地跟我说，我们一起入职，如今我还是一名职员，他却已经贵为某超级集团的副总裁了。写作该书之前，涂子沛的经历比较丰富，但只有这本书才让他进入公共视野。对于一个小职员来说，大数据我知道得更多，未必能够让生活更美好，但我不想被生活的世界所抛弃，我想知道数据时代的社会运作方式，因为不管我多么微不足道，仍然生活在大数据时代。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="759720544">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-759720544" class="vote-count">2</span>
+                        <a href="javascript:;" id="btn-759720544" class="j a_show_login" data-cid="759720544">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/c_pig8828/">蓬山远</a>
+                        <span class="user-stars allstar10 rating" title="很差"></span>
+                    <span>2014-01-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">我裤子都脱了，你tm就让我看这个</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1012245133">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1012245133" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-1012245133" class="j a_show_login" data-cid="1012245133">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/2515574/">纪恩</a>
+                        <span class="user-stars allstar20 rating" title="较差"></span>
+                    <span>2016-02-17</span>
+                </span>
+            </h3>
+            <p class="comment-content">确实是挂羊头卖狗肉。。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="561825461">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-561825461" class="vote-count">13</span>
+                        <a href="javascript:;" id="btn-561825461" class="j a_show_login" data-cid="561825461">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/jiaon/">jiaon</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2012-07-29</span>
+                </span>
+            </h3>
+            <p class="comment-content">应该叫做美国政府数据挖掘史。有关大数据，这只是本凌乱的入门书。当然，也不应该否认它现有的价值。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1205867456">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1205867456" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1205867456" class="j a_show_login" data-cid="1205867456">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/161662167/">小河</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">虽然有点看不懂，但还是挺有收获的</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1205584721">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1205584721" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1205584721" class="j a_show_login" data-cid="1205584721">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/56754067/">情癫大刘</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-06-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">也就是一篇硕士论文的国外研究现状部分</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1204576099">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1204576099" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1204576099" class="j a_show_login" data-cid="1204576099">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/ulysses7up/">尤利西斯的自缚</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-19</span>
+                </span>
+            </h3>
+            <p class="comment-content">长知识</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1202644487">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1202644487" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1202644487" class="j a_show_login" data-cid="1202644487">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/linyoung/">勾陈一</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-06-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">主要介绍美国在大数据领域的发展，立法和管理。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1202547745">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1202547745" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1202547745" class="j a_show_login" data-cid="1202547745">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/3548165/">饭团</a>
+                        <span class="user-stars allstar10 rating" title="很差"></span>
+                    <span>2017-06-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">大杂烩</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/10799984/comments/">更多短评 1262 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/10799984/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            大数据的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 107 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5514338">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5514338/" class="title-link">中美政务PK</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5514338"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/lizziexiu/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u33379360-174.jpg"></a>
+    <a href="https://www.douban.com/people/lizziexiu/" class="author">
+      <span property="v:reviewer">liz</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2012-07-21"
+      class="main-meta">2012-07-21 01:01:52</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5514338_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-5514338-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5514338_full" class="hidden">
+            <div id="review_5514338_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5470779">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5470779/" class="title-link">不是书评是简介</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5470779"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/shanjinghua/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1037472-3.jpg"></a>
+    <a href="https://www.douban.com/people/shanjinghua/" class="author">
+      <span property="v:reviewer">单单</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2012-06-18"
+      class="main-meta">2012-06-18 18:16:17</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5470779_short" class="review-short">
+            <div class="short-content">
+                  某人说总结成几句话，他就不看书了。   1。数据公开在美国走过的历程：信息自由法-修正案-电子信息自由法-开放政府法 2。政府数据的来源及应用举例：业务数据-民调数据-环境数据；福利打假-治安管理 3。商务数据的主要来源及应用：数据仓库-数据挖掘-数据可视化  4。美政府对数...
+
+                    <a class="pl" href="https://book.douban.com/review/5470779/#comments">(13回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">80有用 / 6没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5470779_full" class="hidden">
+            <div id="review_5470779_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5486888">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5486888/" class="title-link">信息开放而非大数据</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5486888"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/57643245/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/57643245/" class="author">
+      <span property="v:reviewer">eureka</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2012-07-01"
+      class="main-meta">2012-07-01 11:08:29</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5486888_short" class="review-short">
+            <div class="short-content">
+                  本书行文流畅，写得也不晦涩，并且采用的纸张和装帧排版都让人很舒服，用一个休息日能够很轻松地读完这本书。  作者具有海外留学的经验，并且从CMU信息管理学院院长Krishnan的推荐序言“……体现了我们学院师资教学的独特优势”一句看来，此书是站在全球顶尖学府的研究成果之上...
+
+                    <a class="pl" href="https://book.douban.com/review/5486888/#comments">(5回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">51有用 / 2没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5486888_full" class="hidden">
+            <div id="review_5486888_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5537549">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5537549/" class="title-link">流于空泛，里面内容没有多少实际的东西</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5537549"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/Eleven2011/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1537274-6.jpg"></a>
+    <a href="https://www.douban.com/people/Eleven2011/" class="author">
+      <span property="v:reviewer">决</span>
+    </a>    <span property="v:rating" class="allstar20 main-title-rating" title="较差"></span>
+  <span property="v:dtreviewed" content="2012-08-08"
+      class="main-meta">2012-08-08 13:26:39</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5537549_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-5537549-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5537549_full" class="hidden">
+            <div id="review_5537549_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5949899">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5949899/" class="title-link">怎样起一个时髦的书名</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5949899"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/whiskier/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u48142415-2.jpg"></a>
+    <a href="https://www.douban.com/people/whiskier/" class="author">
+      <span property="v:reviewer">程序员封小畅</span>
+    </a>    <span property="v:rating" class="allstar10 main-title-rating" title="很差"></span>
+  <span property="v:dtreviewed" content="2013-05-11"
+      class="main-meta">2013-05-11 23:35:03</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5949899_short" class="review-short">
+            <div class="short-content">
+                  这是一本和大数据完全无关的书。  在唐茶偶然看到这本书，觉得这个话题不错就收下了。没想到一看到序章就有一种不祥的预感，匆匆的翻了一下才知道上当了。这本书的主题是「美国政府怎样用数据治国」，其中的主要内容是罗列白宫如何利用数据的例子。因此我也觉得这本书叫「涂子...
+
+                    <a class="pl" href="https://book.douban.com/review/5949899/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5949899_full" class="hidden">
+            <div id="review_5949899_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评107篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/10799984/annotation">共<span property="v:count">236</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="21579389">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/sikongyu/"><img src="https://img1.doubanio.com/icon/u1867263-27.jpg" alt="司空语" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/21579389/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/21579389/" class="">第10000页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/sikongyu/" class=" " title="司空语">司空语</a>
+                (行远自迩，登高自卑)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="21579389">
+              <div class="short">
+                
+                  <span class="">一个自由的新闻行业是居于政府和人民之间的伟大解释者。你，如果同意给它加上桎梏，无异于给自己戴上脚镣。——乔治•萨瑟兰 美国最高法院大法官  1936
+
+如果由我来决定，我们是要一个有政府、没报纸的社会，还是一个有报纸、没政府的社会，我将毫不犹豫地选择后者。——杰斐逊
+
+所有的政府，都是建立在妥协和交换的基础之上。事实上，人类所有的收益和快乐、所有的美德、所有明智的行为无不如此。——埃德蒙•伯克
+
+（..</span>
+                <p class="pl">
+                  <span class="">2012-10-07 22:28</span>
+                  
+                    &nbsp;&nbsp;<span class="">10人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一个自由的新闻行业是居于政府和人民之间的伟大解释者。你，如果同意给它加上桎梏，无异于给自己戴上脚镣。——乔治•萨瑟兰 美国最高法院大法官  1936<div style="padding-bottom:1em;"></div>如果由我来决定，我们是要一个有政府、没报纸的社会，还是一个有报纸、没政府的社会，我将毫不犹豫地选择后者。——杰斐逊<div style="padding-bottom:1em;"></div>所有的政府，都是建立在妥协和交换的基础之上。事实上，人类所有的收益和快乐、所有的美德、所有明智的行为无不如此。——埃德蒙•伯克<div style="padding-bottom:1em;"></div>（但对黑人来说）仅仅自由是不够的。你不能只对他们说：“现在你自由了，想去哪里都可以，也可以做你想做的事，选择你喜欢的领导人。”仅仅这样做不可能抹去几百年的创伤。一个多年来都戴着枷锁蹒跚的人，你不能一解除他的桎梏，就把他带到起跑线上，对他说：“你自由了，现在可以和其他人竞争了。”你还认为这是真正的公平。……我们追求的不仅仅是自由，还有机会……就此而言，机会平等才是根本。——林登•约翰逊 第36任美国总统  1965年6月4日在霍华德大学毕业礼上的演讲 <div style="padding-bottom:1em;"></div>信息过载这回事并不存在，问题出在糟糕的设计，如果你用来表达数据的图形让人感觉杂乱不解，那就要修改你的设计。——耶鲁大学政治学教授 爱德华•塔夫特 1983年奠基了数据可视化这门学科<div style="padding-bottom:1em;"></div>在民主国家，结社的学问是一门主要学问。其余一切学问的进展，都取决于这门学问的进展。在规制人类社会的一切法则中，有一条法则似乎是最正确和最明晰的。这便是：要人类打算文明下去或走向文明，那就要使结社的艺术随着身份平等的扩大而正比地发展和完善。---托克维尔 1835<div style="padding-bottom:1em;"></div>国家生活的和谐，是各种对抗力量争斗的结果。坦诚表达针锋相对的观点，才会最大可能地以智慧引导政府的行为，打压则常常导致巨大的危险。——路易斯•布兰代斯，美国最高法院大法官，1920年<div style="padding-bottom:1em;"></div>1945年1月，美联社的执行主编库伯率先在美国提出“知情权”（Right to Know）的概念。他在《纽约时报》发表文章说：“知情权是指人民有权知道政府的运作情况和信息。如果不尊重公民的知情权，在任何一个国家，甚至全世界，都将无政治自由可言” p17<div style="padding-bottom:1em;"></div>克劳斯（哥伦比亚大学新闻学教授、美国著名律师）……出版了《人民的知情权》一书……提出：“公共事务，就是大家的事。人民有权利知道这些事。如果没有知情权，即使在一个民主制度下，人民所能做的也不过仅仅就是投票改选他们的国王罢了。”克劳斯认为：只有拥有信息自由，人民才能真正拥有对公共事务的发言权。P19<div style="padding-bottom:1em;"></div>1967年，《信息自由法》开始生效。美国成为继瑞典、芬兰之后，世界上第三个实施《信息自由法》的国家。P24<div style="padding-bottom:1em;"></div>2007年，美国国会又通过了《开放政府法》，明确了联邦政府信息公开的范围：不仅仅是其本身收集的信息，还包括政府委托私营机构、非营利组织收集的信息。该法还规定，如果行政部门不能在法定的时间内提供信息，则不能收取费用；司法部作为联邦政府各部门落实《信息自由法》的监督机关，其部长必须每年向国会报告有多少信息公开的要求被拒绝，并说明拒绝的原因。<div style="padding-bottom:1em;"></div>从1955年摩斯着手信息自由的立法工作以来，经过了半个多世纪，一系列的法律层层叠加、不断完善，美国的信息自由最终形成了一个体系。这个体系，规定得很细致，考虑得也比较周全。例如，它规定：一份文件需要保密，并不是其中所有的信息都需要保密，凡是可以从保密信息中抽离出来的非保密信息，都应提供给查阅信息的普通公民。此外，即使是居住在美国的外国人，也可以像美国公民一样向政府查阅、索要相关的文件和信息。<div style="padding-bottom:1em;"></div>这个体系，也成了世界上许多国家制定《信息自由法》的模板。截至2006年，全世界已经有60多个国家制定、实施了类似的《信息自由法》P30<div style="padding-bottom:1em;"></div>数据和信息的区别：数据是对信息数字化的记录，其本身并无意义；信息是指把数据放置到一定的背景下，对数字进行解释、赋予意义。<div style="padding-bottom:1em;"></div>2011年5月，麦肯锡公司下属的全球研究所出版了一份专门的研究报告《大数据：下一个创新、竞争和生产率的前沿》<div style="padding-bottom:1em;"></div>“最小数据集”是指通过收集最少的数据，最好地掌握一个研究对象所具有的特点或一件事情、一份工作所处的状态，其核心是针对被观察的对象建立一套精简实用的数据指标。……“最小数据集”在美国已经演变成了一个一般性的概念，它指代国家的管理层面针对某个业务管理领域强制收集的数据指标。不少领域的“最小数据集”甚至被上升到立法的高度。例如，对于养老院的管理，美国国会就规定，每个养老院都必须提交一系列关于老人健康指标的最小数据集给州政府的医疗管理部门，该部门汇总之后，再提交联邦政府的管理部门。P41<div style="padding-bottom:1em;"></div>民意调查是指通过对一小群、有代表性人口的调查和访谈，预测社会全体公众对一些政治、经济和社会问题的态度和看法。其本质是“管中窥豹”、“一叶知秋”。<div style="padding-bottom:1em;"></div>福利政策在全世界最大的争议，就是福利滥用、最后养了懒人，导致社会发展缺乏动力。……面对利益，人类的创造力总是无穷的：虚假账单、重复申报、无中生有，小病大治、慢治、长治，隐瞒收入和存款、装穷吃低保，林林总总，不一而足。P75<div style="padding-bottom:1em;"></div>1992年，恩门出版了《数据仓库之构建》，对数据仓库下了定义：“数据仓库是一个面向主题的、集成的、相对稳定的、反映历史变化的数据集合，用于支持管理中的决策制定。”数据仓库和数据库的最大差别在于，前者是以数据分析、决策支持为目的来组织存储数据，而数据库的主要目的则是为运营性系统保持、查询数据。<div style="padding-bottom:1em;"></div>可视化技术的出现，使商务智能的产业链形成了一个从数据整合、分析、挖掘到展示的完整闭环。它的起点是多个独立的关系型数据库，经过数据整合之后形成统一的、多源的数据仓库，再根据用户的需要，重新取出若干数据子集，或构造多维立方体进行联机分析，或进行数据挖掘，发现潜藏的规律和趋势。如果挖掘的结果经得起现实的检验，那就形成了新的知识，这种知识，还可以通过数据可视化来表达、展示和传递。P109<div style="padding-bottom:1em;"></div>诺贝尔经济学奖得主乔治•斯蒂格勒出版了《管制的经济理论》一书，提出了著名的“政府俘虏理论”。在考察了联邦政府层面、州政府层面很多个案例之后，乔治断言，尽管政府总是号称他们在代表公共利益对产业界进行管制，但现实并非如此，产业界会通过种种手段来影响政府制定标准的过程，最终俘虏政府、左右监管标准的制定。他的这个理论很好地解释了美国很多管制战争的起因、游说的过程以及最终的结果。P138<div style="padding-bottom:1em;"></div>要建立一个完善的利益代表机制，有两个关键。一是授权制度。……这种制度，一般称为代议制。二是自由结社的自由。<div style="padding-bottom:1em;"></div>民意调查的创始人乔治•盖洛普……认为，统一身份证是管理社会、控制公民的一种手段，在美国，这种手段被视为是警察国家的做法，是集权社会的象征，是违反美国精神的。P167<div style="padding-bottom:1em;"></div>改变美国政府决策的6种力量：公共知识分子阐述问题；新闻界报道事实；民调机构公布民意；公益组织鼓吹游说（四种社会力量）、法院判决违宪、国会议员质询（两种制度力量）
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/21579389/#comments">回应</a>&nbsp;&nbsp;
+                  2012-10-07 22:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="23117102">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/efa7378/"><img src="https://img3.doubanio.com/icon/u1282388-5.jpg" alt="阿卡" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/23117102/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/23117102/" class="">第149页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/efa7378/" class=" " title="阿卡">阿卡</a>
+                (早起的虫儿有早饭吃~)
+              
+            </p>
+            <div class="reading-note" data-cid="23117102">
+              <div class="short">
+                
+                  <span class="">奥尔森认为，每个人都是经济理性人，也就是说，每个人做事，都会首先考虑自己的利益得失。大家一起行动，一旦行动成功，所有的集体成员都能从中收益，包括那些没有参与行动的，偷懒的，取巧的，旁观的，冷嘲热讽的，甚至使坏的，都将从中获益，而行动的真正参与者，领导者，却可能要付出不同一般的代价。 
+每个人一计算，都发现自己的最佳策略是“坐等”，是“围观”。也就是说，明知现实不合理，自己也不想出力，都希望别人出头..</span>
+                <p class="pl">
+                  <span class="">2012-12-12 16:00</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                奥尔森认为，每个人都是经济理性人，也就是说，每个人做事，都会首先考虑自己的利益得失。大家一起行动，一旦行动成功，所有的集体成员都能从中收益，包括那些没有参与行动的，偷懒的，取巧的，旁观的，冷嘲热讽的，甚至使坏的，都将从中获益，而行动的真正参与者，领导者，却可能要付出不同一般的代价。 <div style="padding-bottom:1em;"></div>每个人一计算，都发现自己的最佳策略是“坐等”，是“围观”。也就是说，明知现实不合理，自己也不想出力，都希望别人出头、自己搭便车。这种集体都想“搭便车”的结果，就是公共利益得不到有效的照顾，大家的权益最终都受到损害。奥尔森还指出，当集体越小，利益冲突越激烈的时候，越容易联合，当集体越大，利益冲突不明显的时候，越难联合。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/23117102/#comments">回应</a>&nbsp;&nbsp;
+                  2012-12-12 16:00
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="21424728">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/sausalito/"><img src="https://img1.doubanio.com/icon/u2441248-38.jpg" alt="SausaLito" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/21424728/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/21424728/" class="">第28页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/sausalito/" class=" " title="SausaLito">SausaLito</a>
+                (世间好物不坚牢 彩云易散琉璃脆)
+              
+            </p>
+            <div class="reading-note" data-cid="21424728">
+              <div class="short">
+                
+                  <span class="">人，绝不是天使。任何人的历史，都是一部道德、理性与私欲的斗争史；这种斗争，此起彼伏，至死方休。</span>
+                <p class="pl">
+                  <span class="">2012-09-29 17:35</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                人，绝不是天使。任何人的历史，都是一部道德、理性与私欲的斗争史；这种斗争，此起彼伏，至死方休。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/21424728/#comments">回应</a>&nbsp;&nbsp;
+                  2012-09-29 17:35
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="24416577">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/28859718/"><img src="https://img1.doubanio.com/icon/u28859718-17.jpg" alt="安柏林" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/24416577/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/24416577/" class="">第57页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/28859718/" class=" " title="安柏林">安柏林</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="24416577">
+              <div class="short">
+                
+                  <span class="">之所以要称之为战略，是因为“大数据”之大，并不仅仅在于其“容量之大”。当然，由于数据容量的爆炸，数据的收集、保存、维护以及共享等等任务，都成为具有研究意义的现象和挑战。但“大数据”之“大”，更多的意义在于：人类可以“分析和使用”的数据在大量增加，通过这些数据的交换、整合和分析，人类可以发现新的知识，创造新的价值，带来“大知识“、”大科技“、”大利润“和”大发展“。
+数据的激增，意味着人类的记录范围...</span>
+                <p class="pl">
+                  <span class="">2013-02-05 15:12</span>
+                  
+                    &nbsp;&nbsp;<span class="">3人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>之所以要称之为战略，是因为“大数据”之大，并不仅仅在于其“容量之大”。当然，由于数据容量的爆炸，数据的收集、保存、维护以及共享等等任务，都成为具有研究意义的现象和挑战。但“大数据”之“大”，更多的意义在于：人类可以“分析和使用”的数据在大量增加，通过这些数据的交换、整合和分析，人类可以发现新的知识，创造新的价值，带来“大知识“、”大科技“、”大利润“和”大发展“。</q></blockquote>
+<blockquote><q>数据的激增，意味着人类的记录范围、测量范围和分析范围在不断扩大，知识的边界在不断延伸。</q></blockquote>
+<blockquote><q>得益于计算机技术和海量数据库的发展，个人在真实世界的活动得到了前所未有的记录，这种记录的粒度很高，频度在不断增加，为社会科学的定量分析提供了极为丰富的数据。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/24416577/#comments">回应</a>&nbsp;&nbsp;
+                  2013-02-05 15:12
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="21924906">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/55970818/"><img src="https://img3.doubanio.com/icon/u55970818-2.jpg" alt="MKY-C" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/21924906/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/21924906/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/55970818/" class=" " title="MKY-C">MKY-C</a>
+              
+            </p>
+            <div class="reading-note" data-cid="21924906">
+              <div class="short">
+                
+                  <span class="">介绍了美国信息开放的一些历史和具体细节，包括《自由信息法》、《电子自由信息法》、《阳光政府法》</span>
+                <p class="pl">
+                  <span class="">2012-10-23 09:33</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                介绍了美国信息开放的一些历史和具体细节，包括《自由信息法》、《电子自由信息法》、《阳光政府法》
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/21924906/#comments">回应</a>&nbsp;&nbsp;
+                  2012-10-23 09:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="24261333">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/reedcheung/"><img src="https://img3.doubanio.com/icon/u59808251-6.jpg" alt="繁露成霜" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/24261333/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/24261333/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/reedcheung/" class=" " title="繁露成霜">繁露成霜</a>
+                (唯有孤独恒常如新)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="24261333">
+              <div class="short">
+                
+                  <span class="">一个真正的信息社会，首先是一个公民社会。——作者题记
+
+什么是公民社会？
+公民社会
+求助编辑百科名片公民社会或市民社会（Civil Society）是指围绕共同的利益、目的和价值上的非强制性的集体行为。它不属于政府的一部分，也不属于盈利的私营经济的一部分。换而言之，它是处于“公”与“私”之间的一个领域。通常而言，它包括了那些为了社会的特定需要，为了公众的利益而行动的组织，诸如指慈善团体、非政府组织（NGO）、社区...</span>
+                <p class="pl">
+                  <span class="">2013-01-29 21:10</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一个真正的信息社会，首先是一个公民社会。——作者题记<div style="padding-bottom:1em;"></div>什么是公民社会？<div style="padding-bottom:1em;"></div>公民社会<div style="padding-bottom:1em;"></div>求助编辑百科名片公民社会或市民社会（Civil Society）是指围绕共同的利益、目的和价值上的非强制性的集体行为。它不属于政府的一部分，也不属于盈利的私营经济的一部分。换而言之，它是处于“公”与“私”之间的一个领域。通常而言，它包括了那些为了社会的特定需要，为了公众的利益而行动的组织，诸如指慈善团体、非政府组织（NGO）、社区组织、专业协会、工会等等。 <div style="padding-bottom:1em;"></div>目录<div style="padding-bottom:1em;"></div>简介<div style="padding-bottom:1em;"></div>公民社会观念的历史演进1.公民社会的古典形态<div style="padding-bottom:1em;"></div>2.公民社会的现代发展<div style="padding-bottom:1em;"></div>3.公民社会的当代转型<div style="padding-bottom:1em;"></div>公民社会的结构性要素及其价值观问题1.私人领域<div style="padding-bottom:1em;"></div>2.公民社会组织<div style="padding-bottom:1em;"></div>3.公共领域<div style="padding-bottom:1em;"></div>4.社会运动<div style="padding-bottom:1em;"></div>展开简介 <div style="padding-bottom:1em;"></div>公民社会观念的历史演进 1.公民社会的古典形态 <div style="padding-bottom:1em;"></div>2.公民社会的现代发展 <div style="padding-bottom:1em;"></div>3.公民社会的当代转型<div style="padding-bottom:1em;"></div>公民社会的结构性要素及其价值观问题 1.私人领域 <div style="padding-bottom:1em;"></div>2.公民社会组织 <div style="padding-bottom:1em;"></div>3.公共领域 <div style="padding-bottom:1em;"></div>4.社会运动<div style="padding-bottom:1em;"></div>展开编辑本段简介在中国，由于翻译的原因，公民社会这一术语被广泛地错误理解。因为英语中的Society不仅有社会之意，还有团体的意思。在Civil Society这个词组中，Society更多地指的是团体而非社会。因此，翻译为公民组织或公民团体会更为便于理解。<div style="padding-bottom:1em;"></div>编辑本段公民社会观念的历史演进公民社会是个历史范畴。两千多年来，随着社会政治和经济关系的发展变化，公民社会概念共经历了三次大的转型。 <div style="padding-bottom:1em;"></div>1.公民社会的古典形态<div style="padding-bottom:1em;"></div>公民社会的古典含义跨越了从公元前4世纪到公元17、18世纪的漫长历史时期。  市场经济和公民社会<div style="padding-bottom:1em;"></div>“公民社会”最早出现在古希腊先哲亚里士多德的《政治学》中，指的是“城邦国家”或“自由和平等的公民在一个合法界定的法律体系之下结成的伦理--政治共同体”。公元前1世纪时，古罗马政治理论家西塞罗将其转译为拉丁文，“不仅指单个国家，而且指业已发达到出现城市的文明政治共同体的生活状况”，在保留“政治社会”含义的同时，更多的带有“文明社会”的含义。此后，一直到近代之前，包括中世纪的奥古斯丁、托马斯·阿奎那等基督教神学家在内的西方思想家，都是在亚里士多德和西塞罗的意义上使用这一概念的。17—18世纪期间，适应近代资本主义生产方式发展的要求，洛克、孟德斯鸠、卢梭等资产阶级思想家提出了社会契约论以反对封建王权的君权神授思想。他们认为，人类最初是生活在无政府的自然状态之中的，但这种自然社会由于缺乏和平、安全、人身保障等等，要通过权利让渡并订立社会契约的方式过渡到公民社会。于是，“公民社会”获得了与自然状态相对应的含义，与“政治国家”是同义语，指的是人们生活在政府之下的一种法治的、和平的政治秩序。 <div style="padding-bottom:1em;"></div>从亚里士多德、西塞罗到洛克、卢梭等的古典公民社会概念，与政治社会、政治国家相同一，这反映出了西方文明一直到17世纪的前资本主义的社会状况,即国家与社会并未分离或者并未完全分离，整个社会表现为高度政治化的一元结构。这一状况在中世纪达到顶峰--“中世纪的精神可以表述如下：市民社会的等级和政治意义上的等级是同一的，因为市民社会就是政治社会，因为市民社会的有机原则就是国家的原则。”“市民等级和政治等级的同一就是市民社会和政治社会同一的表现。” <div style="padding-bottom:1em;"></div>2.公民社会的现代发展<div style="padding-bottom:1em;"></div>以公民社会与政治社会的分离为特征的现代公民社会理论，是在二者在现实中实现分离的基础上产生的。以17世纪的英国革命和18世纪的法国革命为标志的资产阶级民主革命，推翻了封建君主专制，建立了资本主义制度，为工商业活动的自由发展和私人领域的独立存在确立了根本的政治保障，极大地促进了公民社会的快速发展及其与政治国家的分离进程。作为对自由竞争时期资本主义公民社会与政治国家相分离的社会现实的观念反映，现代意义的公民社会理论在黑格尔和马克思那里形成。他们应用“政治国家--市民社会”的两分法来分析社会的总体结构，把市场经济当作公民社会的核心部分，认为公民社会是相对独立于政治国家的，主要由“需要的体系”构成的经济交往领域、在商品经济社会中直接从生产和生活交往中发展起来的社会组织所构成的不能与政治国家相混淆、不能为政治国家所淹没的非政治的社会自主领域。作为将政治国家与公民社会进行明确区分的理论先驱，黑格尔认为，“市民社会，这是各个成员作为独立的单个人的联合，因而也就是在抽象普遍性中的联合。这种联合是通过成员的需要，通过保障人身和财产的法律制度和通过维护他们特殊利益和公共利益的外部秩序而建立起来的。”在黑格尔的基础上，马克思把公民社会主要理解为私人利益关系领域，它“包括各个个人在生产力发展的一定阶段上的一切物质交往”，“始终标志着直接从生产和交往中发展起来的社会组织”。 <div style="padding-bottom:1em;"></div>3.公民社会的当代转型<div style="padding-bottom:1em;"></div>黑格尔和马克思的公民社会观念是自由竞争时期资本主义社会现实的观念反映。  马克思的公民社会观念<div style="padding-bottom:1em;"></div>20世纪以后，随着资本主义由自由竞争阶段进入垄断阶段，公民社会观念也进入新的发展时期。30年代，西方马克思主义者葛兰西，通过对发达资本主义国家无产阶级革命道路的深刻反思，提出了“文化领导权”的思想，赋予了公民社会新鲜的文化生命，开创了从社会文化意义上研究公民社会的理论传统，启动了公民社会观念的当代转向。经过帕森斯的“社会共同体”、前期哈贝马斯的“公共领域”和后期哈贝马斯的“生活世界”，被称为“后马克思主义者”的当代美国政治学家科亨和阿拉托，通过对20世纪资本主义和社会主义在发展过程所遇到的各种问题的深刻反思，提出了“重建公民社会”的理论主张，认为应该把经济领域从公民社会中分离出去，把社会组织和民间公共领域当作公民社会的主体，并系统提出政治社会--经济社会--公民社会三分的社会生活划分模式，从而完成了将公民社会指向社会文化领域的当代转型。<div style="padding-bottom:1em;"></div>编辑本段公民社会的结构性要素及其价值观问题就公民社会的结构特征及其与国家的关系而言，公民社会的结构性要素主要包括私人领域、社会组织、公共领域、社会运动等。<div style="padding-bottom:1em;"></div>1.私人领域<div style="padding-bottom:1em;"></div>在“政治国家―公民社会”两分法中，私人领域主要是指私人自主从事商品生产和交换的经济活动领域。其中市场机制和私有产权构成这种私人领域的两大要素，它们保证个人能够自主地从事经济活动和追求特殊的私人利益。黑格尔和马克思主义经典作家早期著作中关于市民社会的论述主要是在这个意义上使用的。而在“政治国家-经济系统-公民社会”三分法中，私人领域主要是指个人私域（privacy）即个人的家庭生活或私人生活领域。私域构成个人自我发展和道德选择的领域，个人在这一领域享有充分的自主权和隐私权。<div style="padding-bottom:1em;"></div>2.公民社会组织<div style="padding-bottom:1em;"></div>当代公民社会论者一般都把公民社会组织看作是公民社会的核心要素，是公民社会的基础和主体。当代一些主张三分法的学者甚至在二者之间划等号，把公民社会等同于或狭义化为公民社会组织，将公民社会组织的数量作为判断公民社会成熟程度的测量工具。一般认为，公民社会组织，指的是有着共同利益追求的公民自愿组成的非营利性社团。它不同于传统的社会共同体，不是建立在血缘或地缘联系的基础上，也不是带有强迫性的组织，并且不以营利为目的，而是社会成员基于共同利益或信仰而自愿结成的非政府的、非营利的社会组织。它有以下四个显著特点： <div style="padding-bottom:1em;"></div>（1）非政府性，即这些组织是以民间的形式出现的，它不代表政府或国家的立场，而是相对独立于党政权力系统。但这并不意味着它完全与政府没有关系甚至与政府相对抗，恰恰相反，它并不排除国家的进入或干预，而需要国家为它的活动提供一种秩序，同时也需要国家对它的不足进行救济。 <div style="padding-bottom:1em;"></div>（2）非营利性，即它们不把获取利润当作自己的主要目的，而通常把谋取公共利益和提供公共服务当作其首要目标。 <div style="padding-bottom:1em;"></div>（3）相对独立性，即它们拥有自己的组织机构和管理机制，有独立的经济来源，无论在运行上、管理上，还是在财政上，它们都在相当程度上独立于政府。 <div style="padding-bottom:1em;"></div>（4）自愿性，即参加公民社会组织的成员都不是被强迫的，而完全是出于自愿。公民社会组织的这些特征，使得它们明显地区别于政府机构和经济组织。 <div style="padding-bottom:1em;"></div>公民社会组织为公民提供了参与公共事务的机会和手段，提高了他们的参与能力和水平。公民社会组织愈发达，公民的自治组织水平就愈高，就愈有利于社会的良性互动与繁荣发展。<div style="padding-bottom:1em;"></div>3.公共领域<div style="padding-bottom:1em;"></div>公共领域的思想主要得益于哈贝马斯。他认为，公共领域是介于私人领域和政治系统之间的一个领域，是各种公众聚会场所的总称，主要是独立自主的个体及由其所组成的自治社团组织进行自主交往和自由辩论的一种非官方的文化批判领域。公众通过在这一领域的合理交往形成公共意志和公共观点（公共舆论）,自由的、理性的、开放的和批判性的讨论构成公共领域的基本特征。在当代，各种媒体尤其是网络媒体已成为公共领域的重要组成部分和推动公民社会发展的重要力量。<div style="padding-bottom:1em;"></div>4.社会运动<div style="padding-bottom:1em;"></div>社会运动或新社会运动是当代西方左翼公民社会理论家所强调的一个重要要素。所谓“新社会运动”，是相对于社会民主党或社会党所领导的工人运动而言的，以捍卫私域和私人公共领域自主发展的合法权利不受经济系统和国家的侵犯为目标的单一主题的抗议运动，如女权运动、生态运动、民权运动等。它以居于工人和资本家之间的社会中间阶层为主体。20世纪60年代以来，各种新社会运动蓬勃发展并成为推动社会进步的重要力量。 <div style="padding-bottom:1em;"></div>作为内核的价值观。上述这些结构性要素是公民社会的外显的方面，除了它们以外，公民社会还包含一个与它们互为表里的一系列价值原则所构成的精神内核。这些基本社会价值或原则包括： <div style="padding-bottom:1em;"></div>（1）人本主义。人本主义是公民社会的理论基石。它强调人的尊严、人的基本权利以及人性尊严和基本权利的平等性，认为国家和公民社会都应以保护和增进公民权利和利益为旨归。 <div style="padding-bottom:1em;"></div>（2）多元主义。公民社会强调个人生活方式的多元化，思想文化的多元化，社会组织的多元化，提倡宽容、妥协、互惠与合作精神。 <div style="padding-bottom:1em;"></div>（3）公开性和开放性。公共领域的重要特点之一就是公开性和开放性，这是公众参与公共活动的重要前提，因此当代公民社会论者都十分强调和坚持公共生活领域的公开性和开放性。 <div style="padding-bottom:1em;"></div>（4）参与性。参与国家政治生活和社会公共事务，是公民的基本权利。因此公民社会强调和倡导公民个人或公民社会组织，以多种方式积极参与社会公共生活。 <div style="padding-bottom:1em;"></div>（5）法治原则。公民社会论者反对国家对公民社会内部事务的随意干涉，强调要从法律上划定国家权力和国家行动的边界，确保公民社会与国家的分离，使公民社会成为一个真正自主的领域。 <div style="padding-bottom:1em;"></div>以这些基本价值为内核，形成了以契约精神为基础，以公民精神或公民性为集中体现的，包括志愿精神、人本精神、法治精神、自治精神的公民文化。公民文化及其价值观构成公民社会的文化特征。<div style="padding-bottom:1em;"></div>一个连接<div style="padding-bottom:1em;"></div>公民社会的缩影<div style="padding-bottom:1em;"></div>摘要：微博是Web2.0时代的产物，作为时下最流行的网络社区之一，开创了全新的公共领域，是中国公民社会的萌芽。通过对微博的性质、特征、功能、社会网络等方面进行分析，探讨微博是如何作为一种新兴的公共领域发挥巨大的社会力量。 <div style="padding-bottom:1em;"></div>关键词：微博；公共领域；关系网络 <div style="padding-bottom:1em;"></div>　　在现代社会学中，社区是指地区性的生活共同体。构成一个社区，一般包括五个基本要素：地域、人口、区位、结构、社会心理因素。然而，随着互联网的普及与Web2.0时代的全面到来，传统的社区的概念逐渐被打破，超地域的互联网社区已成为了一种全新的社区类型。 <div style="padding-bottom:1em;"></div>　　传统社区中，一群人在特定区域内，彼此相互交流与共享设施，其成员感受到彼此相互依赖与归属的认同感 [1]。在虚拟社区中，社区打破了实体性的空间结构。尽管以一连串的代码代替了实体的个人，但互联网的虚拟平台上仍可实现人与人之间的交流互动，维持社会关系，形成归属感，培养共同的价值观。网络社区，是对现实社区的模拟，用于信息的共享、交流、倾诉等功能。是SNS网络（社会性服务网络），这种社会关系的网络化形式，更接近于社区的概念。目前比较知名的SNS网站国外有Facebook，Twitter，中国有开心网、人人网、新浪微博等。 <div style="padding-bottom:1em;"></div>　　其中，微博更是革命性地改变了人们的生活方式，开创了全新的公共空间。“凭借一个账号，一张照片，一段视频，140个字，玩着就跃上了虚拟的新大陆。”“随时随地分享身边的新鲜事”。微博不仅是公共话语平台，更是公共关系平台。哈贝马斯将公共领域视为是一种介于市民社会中日常生活的私人利益与国家权利领域之间的空间。个体公民聚集在一起，共同讨论他们所关注的公共事务，形成某种接近于公众舆论的一致意见，并组织对抗武断的、压迫性的国家与公共权力形式，从而维护总体利益和公共福祉 [2]。 <div style="padding-bottom:1em;"></div>　　一、微博：一种新型的网络社区 <div style="padding-bottom:1em;"></div>　　中国的微博，是美国Twitter在中国本土化的革新。2006年秋，Twitter于美国诞生。短短数年后，它掀起了一股世界性的微博潮流，在日本、欧洲、南美等地快速发展。Java的研究表明，对大部分人来说使用Twitter最主要的动机是四个：日常唠叨（无意义的）、社交、信息共享、新闻报道 [3]。 <div style="padding-bottom:1em;"></div>　　通过微博，粉丝了解被关注者事无巨细的日常生活，并通过相互留言聊天，保持联系，维护关系；它通过设置个性标签，（版权声明：本文转载自论文网在线(<a rel="nofollow" href="http://www.lunwenwang.com" target="_blank">www.lunwenwang.com</a>)，版权归原作者所有。）可以在网络上找到志同道合的朋友，扩大交友圈；他可以关注名人、明星、名流的微博，窥探隐私，并且通过留言和对方直接交流联系；它汇聚最新的资讯信息，通过粉丝团的关注与微博转发功能，让微博以爆炸性的速度传播，反应比传统媒体更迅速；在每日的话题区域，成千上万的微博对一个话题进行讨论，各抒己见。 <div style="padding-bottom:1em;"></div>　　分析微博社区的基本结构和运作模式，与传统网络社区相比，它主要凸显出以下几个结构性的变化特点：（1）真实性。传统博客主要是以内容为中心，而微博则是以用户为中心。通过熟人效应、名人效应实现信息的传播。微博推崇注册实名制，对VIP用户进行严格审核。以这样方式建立的社区，更具真实性。（2）及时性。微博满足了人们交流更迅捷的渴望。短小精悍的微博颠覆传统博客几天一更新的方式，一天数次更新，并伴随手机上网的普及，让更新无时空限制。人们现在从微博上往往能第一时间获取信息，相比传统媒体已经显示无可匹敌的优势，甚至成为传统媒体的新闻的源头。（3）娱乐性。在微博平台上，娱乐性不体现在那些偷菜、争车位等游戏中，而是表现在那140字的消息或者图片中。（4）实用性。微博有强大的社会动员功能与公众舆论力量，甚至能引发一场群体性事件。2009年伊朗一个ID发出一条的微博，短短两秒，就被4万人先后转发（卫报统计），成了6月伊朗大选骚乱的网络直播前奏[4]。同时，在广告公关、会议、教学等领域，微博的效用也在日益月润。（5）琐碎性。《魔鬼经济学》作者史蒂芬·列维特说：“在微博中，有价值的信息占到的比例是4%左右。用户常常发现自己淹没在大量琐碎的无价值信息中，想要筛选甄别，无异于浪里淘沙。但看似很多琐碎无聊的信息，却也造就了社会学家所谓的“环境知觉”（ambinet awareness），每条单独的社交信息，本身都是微不足道的，但假以时日，当他们汇聚起来，就会渐渐接合成一幅细致惊人的由成千上万个生活细节点构成的社会生活的印象派“画作”[5]。<div style="padding-bottom:1em;"></div>　二、微博：弱关系的社区 <div style="padding-bottom:1em;"></div>　　微博社区构成了一个独特的场域，这个场域主要有以下几个特征：（1）社会关系的“矢量”特征。以个人作为网络结点，与其他联系人形成网状链接，这个关系可以是单向的，单纯“关注”对方；关系也可以是双向的，互相“关注”。（2）小团体现象。这些小团体往往是非权力社会关系，只是单纯因志趣相投而聚合，自由松散。（3）信息传播的方式<div style="padding-bottom:1em;"></div>查看《公民社会的缩影》原文链接：<a rel="nofollow" href="http://www.lunwenwang.com/Freepaper/Technicalpaper/information/201210/Freepaper_153210.html" target="_blank">http://www.lunwenwang.com/Freepaper/Technicalpaper/information/201210/Freepaper_153210.html</a>
+是发散性、非对称的。微博所建立的社会网络与互动联系都属于一种无边界（scale-free）的网络类型。新兴使用者往往是通过朋友邀请加入，然后通过浏览他人页面，让更多的新朋友加入到自己的圈子中，得到更多粉丝（Java，2007）。 <div style="padding-bottom:1em;"></div>　　这种偶然性随机建立的网络关系，结点的联系可能很强（亲密朋友）也可能很弱（一般粉丝），可能密集（少量结点密集的强链接），也可能扩展（许多结点相互多向流动），可能私有或开放，可能自发或自觉，信息在结点之间的运动也可能丰富或稀落，恒定或断续，单向或双向，意味深长或毫无意义。网络人际关系以高效率和低稳定性即松散性为特征。高效率是指互联网的瞬间效应，不管是信息的传递还是人际关系的建立，都可以在瞬间完成；松散性是指网络人际关系很容易中断以及网络交往群体的松散性[6]。 <div style="padding-bottom:1em;"></div>　　微博社区的游戏潜规则就是不断增加自己的“粉丝量”，因此微博中的社会关系中真实的朋友远远少于粉丝的数量。以格兰诺维特的强关系弱关系理论视角，微博社区是弱关系的社区，即关系网络中个体的异质性较强，对象来自于天南地北各行各业，获得的信息是多方面的；同时，人与人之间的关系松散，没有太多情感的维系。 <div style="padding-bottom:1em;"></div>　　Java在 2007年对Twitter的经验研究的成果中，探讨了微博中关系的建构方式。在他的研究中，对网络的结构与关系建构引入了Newman和Girvan研究模型[7]，以模块化来测量Twitter中的各类社区结构。研究发现微博虽然是一个无边界的网络社区，但是单个社区的网络边界却比预想的小得多。在测算模型中，每一个节点属于一个社区。这个社区可能是一个话题、或个人，每个社区都有诸多粉丝。在实际网络中，社区往往重叠，因为用户可以同时在不同的社区中充当不同的功能角色，他可能同时是多个社区的粉丝，可能是信息来源，或者单纯的就是一个“打酱油”的人。节点在不同社区中履行不同的功能。每个个体粉丝选择加入一个社区都有不同的动机，并且根据自己的兴趣建立共同的圈子（Lucky，2009）[8]。这些交流通过信息的快速互换而实时发生。但是因共同的兴趣建立的社区也同时会分享除此之外的其他话题。微博社区，个体可能有庞大的粉丝或关注对象的群体，但是这种人际关系的程度却是很有限的，即便是关系是互助互利的，人与人之间似乎可以嬉笑怒骂、亲密无间，但由（版权声明：本文转载自论文网在线(<a rel="nofollow" href="http://www.lunwenwang.com" target="_blank">www.lunwenwang.com</a>)，版权归原作者所有。）于隔着虚拟网络而缺乏实在感，这种弱关系模式决定了其松散、表面化的特质。 三、总结与反思：从沟通到合作的公共领域 <div style="padding-bottom:1em;"></div>　　微博作为弱关系维系的社区，其网络关系的高度异质性、松散型、高效性、延展性，配合技术层面上的及时性、真实性、实用性，形成了“一种用于交流信息和观点的网络”的公共领域，它介于国家和个人之间，公民在这个空间内可以自由地发表言论，克服了现代媒体因被权力涉入“失真的沟通”的问题。 <div style="padding-bottom:1em;"></div>　　SNS网络在现实中并未对传统人际关系产生冲击（2009年中国网民社交网络研究报告），相反建立并维护了一种全新的社会关系，人们在其中获得一种深层次的自我认同与社会存在感。 <div style="padding-bottom:1em;"></div>　　微博迅捷的发布与转发功能让网络监管束手无策，形成了超于网络空间之外强大的舆情力量。这种真实的民意表现，是积累于草根的个人，成为对比相关部门与传统媒体的非正式社会监督渠道，发挥着巨大的社会影响力，在“我爸是李刚”、“药家鑫案”中甚至对司法决策产生了影响。<div style="padding-bottom:1em;"></div>　微博具有强大的社会动员力量。哈贝马斯认为，公共领域伴随对抗武断的、压迫性的国家与公共权力形式，成为维护总体社会体利益和公共福祉的集体力量。微博通过闪电式、爆炸式的传播方式，在前一段时间“上海胶州路大火祭奠”、“拯救流浪儿”等事件中成为社会动员的主阵地。 <div style="padding-bottom:1em;"></div>　　微博的流行不应被简单地视为互联网发展的偶然结果。微博社区的兴起，背后依托的是中国愈加民主化的制度环境，是自由主义价值观兴起，是捍卫个人话语权的诉求。然而，作为一种新兴事物，它在推动社会进步的同时也可能是一柄达摩克利斯之剑，正如赵鼎新所言：如果网络上的公众的广泛参与可以被看做民主的一种形式的话，那么它是一种“非程序的民主”。这种非程序的民主一旦和容忍性很差的文化结合，就会产生“多数的暴政”。微博中的公共空间作为中国现代化进程中公民社会的一个缩影，是会成为中国民主化进程中的里程碑还只是创造一个“集体无理性”的空间，还有待历史的考验。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　参考文献： <div style="padding-bottom:1em;"></div>　　[1]庄道明.从台湾学术网络使用调查解析网络虚拟社区价值观[J].信息传播与图书馆学，1998，(1)：53. <div style="padding-bottom:1em;"></div>　　[2]汪民安.文化研究关键词[M].南京：江苏人民出版社，2007，(1)：91.<div style="padding-bottom:1em;"></div>论文网在线 <a rel="nofollow" href="http://www.lunwenwang.com" target="_blank">www.lunwenwang.com</a><div style="padding-bottom:1em;"></div>查看《公民社会的缩影》原文链接：<a rel="nofollow" href="http://www.lunwenwang.com/Freepaper/Technicalpaper/information/201210/Freepaper_153210_2.html" target="_blank">http://www.lunwenwang.com/Freepaper/Technicalpaper/information/201210/Freepaper_153210_2.html</a>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/24261333/#comments">回应</a>&nbsp;&nbsp;
+                  2013-01-29 21:10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="24261703">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/reedcheung/"><img src="https://img3.doubanio.com/icon/u59808251-6.jpg" alt="繁露成霜" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/24261703/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/24261703/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/reedcheung/" class=" " title="繁露成霜">繁露成霜</a>
+                (唯有孤独恒常如新)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="24261703">
+              <div class="short">
+                
+                  <span class="">你们每个人，都可以拿了这个毕业证、走下这个讲台，然后去追求锦衣玉食等等这个金钱社会视为理所当然的东西。你可以选择只关心自己的喜怒哀乐，把你的生活和国家的发展割裂开来。
+但我不希望你这样做。这不仅仅是因为你对那些没有你幸运的人负有责任，尽管你确实负有责任；也不仅仅是因为你对帮助你走到今天的人欠有债，尽管你确实欠下了债。
+这是因为：你对自己负有使命和责任。这是因为：我们个人的命运依赖群体的命运。这是因...</span>
+                <p class="pl">
+                  <span class="">2013-01-29 21:25</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                你们每个人，都可以拿了这个毕业证、走下这个讲台，然后去追求锦衣玉食等等这个金钱社会视为理所当然的东西。你可以选择只关心自己的喜怒哀乐，把你的生活和国家的发展割裂开来。<div style="padding-bottom:1em;"></div>但我不希望你这样做。这不仅仅是因为你对那些没有你幸运的人负有责任，尽管你确实负有责任；也不仅仅是因为你对帮助你走到今天的人欠有债，尽管你确实欠下了债。<div style="padding-bottom:1em;"></div>这是因为：你对自己负有使命和责任。这是因为：我们个人的命运依赖群体的命运。这是因为：如果你仅仅考虑你自己、满足眼前的需要，这是一种贫乏。这是因为：只有你把你自己的战车和其他一些更伟大的东西绑定在一起的时候，你才能发现你真正的能量，才能发现你为美国这个国家继续书写历史时所能扮演的角色。<div style="padding-bottom:1em;"></div>————————奥巴马，在卫斯理大学毕业典礼上的演讲<div style="padding-bottom:1em;"></div>全文如下：<div style="padding-bottom:1em;"></div>Obama- The Future Lies Ahead<div style="padding-bottom:1em;"></div>Thank you, Chairman Dresser, President Roth, for welcoming me to your campus, and congratulate President Roth on your first year at the helm of Wesleyan. Congratulations also to the class of 2008, and thank you for allowing me to be a part of your graduation.<div style="padding-bottom:1em;"></div>I have the distinct honor today of pinch-hitting for one of my personal heroes and a hero to this country, Senator Edward Kennedy. Ted is at home, getting some much-needed and deserved rest. And we're so pleased to see many of his family here today, including his wonderful wife, Vicky. He called me up a few days ago and I said that I'd be happy to be his stand-in, even if there was no way that I could fill his shoes.<div style="padding-bottom:1em;"></div>I did, however, get the chance to glance at the speech he planned on delivering today, and I'd like to start by passing along a message from Ted: &quot;To all those praying for my return to good health, I offer my heartfelt thanks. And to any who'd rather have a different result, I say, don't get your hopes up just yet!&quot;<div style="padding-bottom:1em;"></div>So we know that Teddy's legendary sense of humor is as strong as ever, and I have no doubt that his equally legendary fighting spirit will carry him through this latest challenge. He is our friend, he is our champion, and we hope and pray for his return to good health.<div style="padding-bottom:1em;"></div>Now, the topic of his speech today was common for a commencement, and we heard some of the themes from President Roth but one that nobody could discuss with more authority or more inspiration than Ted Kennedy. And that is the topic of service to one's country - a cause that is synonymous with his family's name and legacy.<div style="padding-bottom:1em;"></div>I was born the year that his brother John called a generation of Americans to ask their country what they could do. And I came of age at a time when they did it. They were the Peace Corps volunteers who won a generation of goodwill towards America at a time when America's ideals were challenged. They were the teenagers and college students, not much older than you, who watched the Civil Rights Movement unfold on their television sets; who saw the dogs and the fire hoses and the footage of marchers being beaten within an inch of their lives; who knew it was probably smarter and safer to stay home, but decided to get on those buses and get in their cars and get on those trains anyway, and take those Freedom Rides down south - who still decided to march. And because they did, they changed the world.<div style="padding-bottom:1em;"></div>I bring this up today, because you are about to enter a world that makes it easy to get caught up in the notion that there are actually two different stories at work in our lives.<div style="padding-bottom:1em;"></div>The first is the story of our everyday cares and concerns - the responsibilities we have to our jobs and our families - the bustle and business of what happens in our own lives. And the second is the story of what happens in the life of our country - of what happens in the wider world. It's the story you see when you catch a glimpse of the day's headlines or turn on the news at night - a story of big challenges like war and recession; hunger and climate change; injustice and inequality. It's a story that sometimes can seem separate and distant from our own - a destiny to be shaped by forces beyond our control.<div style="padding-bottom:1em;"></div>And yet, the history of this nation tells us that it isn't so. It tells us that we are a people whose destiny has never been written for us, but by us - by generations of men and women, young and old, who have always believed that their story and the American story are not separate, but shared. And for more than two centuries, they have served this country in ways that have forever enriched both.<div style="padding-bottom:1em;"></div>I say this to you as someone who couldn't be standing here if it were not for the service of others, and wouldn't be standing here today if not for the purpose that service gave my own life.<div style="padding-bottom:1em;"></div>You see, I spent much of my childhood adrift. My father left my mother and me when I was two. When my mother remarried, I lived overseas(指印度尼西亚) for a time, but was mostly raised in Hawaii by her and my grandparents from Kansas. My teenage years were filled with more than the usual dose of teenage rebellion, and I'll admit that I didn't always take myself or my studies very seriously. I realize that none of you can probably relate to this, overachieveers that you are, but there were many times when I wasn't sure where I was going, or what I was going to do with my life.<div style="padding-bottom:1em;"></div>But during my first two years of college, perhaps because the values my mother had taught me - values of hard work, honesty, empathy and compassion - finally resurfaced after a long hibernation; or perhaps because of the example of wonderful teachers and lasting friends, I began to notice a world beyond myself. I became active in the movement to oppose the apartheid regime of South Africa. I began following the debates in this country about poverty and health care. So that by the time I graduated from college, I was possessed with this crazy idea - that I was going to work at a grassroots level to bring about change.<div style="padding-bottom:1em;"></div>I wrote letters to every organization in the country I could think of. And one day, a small group of churches on the South Side of Chicago offered me a job to come work as a community organizer in neighborhoods that had been devastated by the closing of steel mills. My mother and  grandparents, liberal minded though they were, wanted me to go to law school. My friends were applying to jobs on Wall Street. Meanwhile, this organization offered me 12,000 a year plus 2,000 for an old, beat-up car.<div style="padding-bottom:1em;"></div>And I said yes. I said yes.<div style="padding-bottom:1em;"></div>Now,I didn't know a soul in Chicago, and I wasn't sure what this community organizing business was all about. I had always been inspired by stories of the Civil Rights Movement and by JFK's（John F Kennedy） call to service, but when I got to the South Side, there were no marches, there were no soaring speeches. In the shadows of empty factories, there were just a lot of people who were struggling. And at first we didn't get very far.<div style="padding-bottom:1em;"></div>I still remember one of the very first meetings we put together The community had been plagued by gang violence, so we tried to mobilize a meeting with community leaders. And I had worked for weeks on this project. We waited and waited for people to show up, and finally, a group of older people walked into the hall. And they sat down. And a little old lady raised her hand and asked, &quot;Is this where the bingo game is?&quot;<div style="padding-bottom:1em;"></div>It wasn't easy, but eventually, we made progress. Day by day, block by block, we brought the community together, and registered new voters, and we set up after school programs, and fought for new jobs, and helped people live lives with some measure of dignity.<div style="padding-bottom:1em;"></div>I also began to realize that I wasn't just helping other people. Through service, I found a community that embraced me; citizenship that was meaningful; the direction that I'd been seeking. Through service, I discovered how my own improbable story fit into the larger story of America.<div style="padding-bottom:1em;"></div>Each of you will have the chance to make your own discovery in the years to come. And I say &quot;chance&quot; because, as President Roth indicated, you won't have to take it. There's no community service requirement in the outside world; no one's forcing you to care. You can take your diploma, walk off this stage, and chase only after the big house and the nice suits and the other things that our money culture says you should buy. You can choose to narrow your concerns and live life in a way that tries to keep your story separate from America's.<div style="padding-bottom:1em;"></div>But I hope you don't. Not because you have an obligation to those who are less fortunate, although I believe you do have that obligation. Not because you have a debt to all those who helped you get to where you are today, although I do believe you have that debt to pay.<div style="padding-bottom:1em;"></div>It's because you have an obligation to yourself. Because our individual salvation depends on collective salvation. Because thinking only about yourself, fulfilling your immediate wants and needs, betrays a poverty of ambition. Because it's only when you hitch your wagon to something larger than yourself that you realize your true potential and discover the role that you'll play in writing the next great chapter in the American story<div style="padding-bottom:1em;"></div>There are so many ways to serve and so much that needs to be done at this defining moment in our history. You don't have to be a community organizer or do something crazy like run for President. Right here at this school, many of you have already volunteered at local high schools and elementary schools, contributed to the United Way, and even started a program that brings fresh produce to needy families in the area. One hundred and sixty-four graduates of this school have joined the Peace Corps since 2001, and I confess a special pride that two of you are about to leave for my father's homeland of Kenya to bring alternative sources of energy to impoverished areas.<div style="padding-bottom:1em;"></div>I ask you to seek these opportunities when you leave here, because the future of this country - your future, my future, my children's future - depends on it. At a time when our security and moral standing depend on winning the hearts and minds in the forgotten corners of this world, we need more of you to serve abroad. As President, I intend to grow the Foreign Service, double the Peace Corps over the next few years, and engage young people of other nations in similar programs, so that we work side by side to take on the common challenges that confront all of humanity.<div style="padding-bottom:1em;"></div>At a time when our ice caps are melting and our oceans are rising, we need you to help lead a green revolution. We still have time to avoid the catastrophic consequences of climate change if we get serious about investing in renewable sources of energy, and if we get a generation of volunteers to work on renewable energy projects, and if we teach folks about conservation, and help clean up polluted areas; if we send talented engineers and scientists abroad to help developing countries promote clean energy in a way that's compatible with economic growth.<div style="padding-bottom:1em;"></div>At a time when a child in Boston must compete with children in Beijing and Bangalore, we need an army of you to become teachers and principals in schools that this nation cannot afford to give up on. I will pay our educators what they deserve, and give them more support, but I will also ask more of them to be mentors to other teachers, and serve in high-need schools and high-need subject areas like math and science. We will need you.<div style="padding-bottom:1em;"></div>At a time when there are children in the city of New Orleans who still spend each night in a lonely trailer, we need more of you to take a weekend or a week off from work, and head down South, and help rebuild. If you can't get the time, volunteer at the local homeless shelter or soup kitchen in your own communities, because there's more than enough work to go around.. Find an organization that's fighting poverty, or a candidate who promotes policies you believe in, and find a way to help them.<div style="padding-bottom:1em;"></div>We need you.<div style="padding-bottom:1em;"></div>At a time of war, we need you to work for peace. At a time of inequality, we need you to work for opportunity. At a time of so much cynicism and so much doubt, we need you to make us believe again. That's your task, class of 2008.<div style="padding-bottom:1em;"></div>Now understand this - believing that change is possible is not the same as being na?ve. Go into service with your eyes wide open, for change will not come easily. On the big issues that our nation faces, difficult choices await. We'll have to face some hard truths, and some sacrifice will be required - not only from you individually, but from the nation as a whole.<div style="padding-bottom:1em;"></div>There is no magic bullet to our energy problems, for example; no perfect energy source - so all of us will have to use the energy sources we have more wisely. Deep-rooted poverty will not be reversed overnight; it will require both money and reform at a time when our federal and state budgets are strapped and when Washington is skeptical that reform is possible. Transforming our education system will require not only bold government action, but a change in attitudes among parents and among students. And it's hard to change attitudes. Bringing an end to the slaughter in Darfur will involve navigating extremely difficult realities on the ground, even for those with the best of intentions.<div style="padding-bottom:1em;"></div>And so, understand that, should you take the path of service, should you choose to take up one of these causes as your own, know that you'll experience the occasional frustrations and the occasional failures. Even your successes will be marked by imperfections and unintended consequences. I guarantee you, there will be times when friends or family urge you to pursue more sensible endeavors with more tangible rewards. And there will be times where you will be tempted to take their advice.<div style="padding-bottom:1em;"></div>But I hope you'll remember, during those times of doubt and frustration, that there is nothing naive about your impulse to change the world. Because all it takes is one act of service - one blow against injustice - to send forth what Robert Kennedy called that tiny ripple of hope. That's what changes the world. That one act. An act by you, Class of 2008.<div style="padding-bottom:1em;"></div>You know, Ted Kennedy often tells a story about the fifth anniversary celebration of the Peace Corps. He was there, and he asked one of the young Americans why he had chosen to volunteer. And the man replied, &quot;Because it was the first time someone asked me to do something for my country.&quot; &quot;it was the first time someone asked me to do something for my country.&quot;<div style="padding-bottom:1em;"></div>I don't know how many of you have been asked that question, but after today, you have no excuses. I am asking you, and if I should have the honor of serving this nation as President, I will be asking again and again in the coming years. Because we may disagree as Americans, on certain issues and positions, but I believe that we can be unified in service to a greater good. I intend to make it a cause of my presidency, and I believe that with all my heart this generation is ready, and eager, and up to the challenge.<div style="padding-bottom:1em;"></div>We will face our share of cynics and doubters. But we always have. I can still remember a conversation I had with an older man all those years ago right before I was headed for my new job in Chicago. He said, &quot;Barack, I'll give you a bit of advice. Forget about this community organizing business and do something that's gonna make you some money. You can't change the world, and people won't appreciate you trying. But you've got a nice voice, so you should think about going into television broadcasting. I'm telling you, you have a future there.&quot;<div style="padding-bottom:1em;"></div>Now, I wonder he might have been right about the TV thing, but he was wrong about everything else. For that old man has not seen what I have seen. He has not seen the faces of ordinary people the first time they clear a vacant lot or build a new playground or force an unresponsive leader to provide services to a community that's been neglected. He has not seen the face of a child brighten because of an inspiring teacher or an inspiring mentor. He has not seen the scores of young people educate their parents on issues like Darfur, or mobilize the conscience of a nation around the challenges of climate change. He has not seen the lines of men and women that wrap around schools and churches, that stretch out block after block after block just so they could make their voices heard, many for the very first time.<div style="padding-bottom:1em;"></div>And that old man who didn't believe the world could change - who didn'tthink one person could make a difference - well he certainly didn't know much about the life of Joseph Kennedy's youngest son.<div style="padding-bottom:1em;"></div>It is rare in this country of ours that a person exists who has touched the lives of nearly every single American without many of us even realizing it. And yet, because of Ted Kennedy, millions of children can see a doctor when they get sick. Mothers and fathers can leave work to spend time with their newborns. Working Americans are paid higher wages, and compensated for overtime, and can keep their health insurance when they change jobs. They are protected from discrimination in the workplace, and those who are born with disabilities can still get an education, and health care, and fair treatment on the job. Our schools are stronger and our colleges are filled with more Americans who can afford it. And I have a feeling that Ted Kennedy is not done just yet.<div style="padding-bottom:1em;"></div>But surely, surely, if one man can achieve so much and make such a difference in the lives of so many people, then each of us can do our part. Surely, if his service and his story can forever shape America's story, then our collective service can shape the destiny of this generation. At the very least, his living example calls us to try. That is all I ask of you on this joyous day of new beginnings; that is what Senator Kennedy asks of you as well, and that is how we will keep so much needed work going, and the cause of justice everlasting, and the dream alive for generations to come. Thank you so much to the class of 2008, and congratulations on your graduation. Thank you everybody. God bless you.<div style="padding-bottom:1em;"></div>语音链接
+<a rel="nofollow" href="http://www.en8848.com.cn/tingli/speech/abmy/185160.html" target="_blank">http://www.en8848.com.cn/tingli/speech/abmy/185160.html</a>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/24261703/#comments">回应</a>&nbsp;&nbsp;
+                  2013-01-29 21:25
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="24775338">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/4508572/"><img src="https://img3.doubanio.com/icon/u4508572-1.jpg" alt="teamone" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/24775338/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/24775338/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/4508572/" class=" " title="teamone">teamone</a>
+              
+            </p>
+            <div class="reading-note" data-cid="24775338">
+              <div class="short">
+                
+                  <span class="">数据很重要</span>
+                <p class="pl">
+                  <span class="">2013-02-24 01:12</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                数据很重要
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/24775338/#comments">回应</a>&nbsp;&nbsp;
+                  2013-02-24 01:12
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="45200936">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/Garfieldhh/"><img src="https://img3.doubanio.com/icon/u31196765-51.jpg" alt="你猜我头像是谁" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/45200936/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/45200936/" class="">第41页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/Garfieldhh/" class=" " title="你猜我头像是谁">你猜我头像是谁</a>
+                (我要做个精神富足的人~)
+              
+            </p>
+            <div class="reading-note" data-cid="45200936">
+              <div class="short">
+                
+                  <span class="">1、数据是信息的数字化记录。信息是在特定背景下，对数字的解释，赋予的意义。 2、最小数据集，指代国家的管理层面针对某个业务管理领域强制收集的数据指标。指某一个业务领域必须留存下的数据。是最重要的数据指标。 3、每一个最小数据集的出台，都意味着多年的纷争和详尽的论证。 4、交换信息的需要催生了数据接口的产生。 5、程序和数据构成了信息管理系统。 6、最小数据集设定好后，数据库的结构设计就成了水到渠成的过程。...</span>
+                <p class="pl">
+                  <span class="">2017-06-24 17:25</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>1、数据是信息的数字化记录。信息是在特定背景下，对数字的解释，赋予的意义。</p><p>2、最小数据集，指代国家的管理层面针对某个业务管理领域强制收集的数据指标。指某一个业务领域必须留存下的数据。是最重要的数据指标。</p><p>3、每一个最小数据集的出台，都意味着多年的纷争和详尽的论证。</p><p>4、交换信息的需要催生了数据接口的产生。</p><p>5、程序和数据构成了信息管理系统。</p><p>6、最小数据集设定好后，数据库的结构设计就成了水到渠成的过程。</p><p>7、新的立法或者计划，都会有数据库和信息管理系统与之对应。</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/45200936/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-24 17:25
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="41405288">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/59056934/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="ccs424" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41405288/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41405288/" class="">第272页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/59056934/" class=" " title="ccs424">ccs424</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="41405288">
+              <div class="short">
+                
+                  <span class="">作者介绍了：
+数据开放 免费v.不免费 之争</span>
+                <p class="pl">
+                  <span class="">2017-01-25 16:28</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                作者介绍了：<div style="padding-bottom:1em;"></div>数据开放 免费v.不免费 之争
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41405288/#comments">回应</a>&nbsp;&nbsp;
+                  2017-01-25 16:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="41367933">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/59056934/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="ccs424" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41367933/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41367933/" class="">第88页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/59056934/" class=" " title="ccs424">ccs424</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="41367933">
+              <div class="short">
+                
+                  <span class="">作者分析了 数据－信息－知识的演变过程：
+
+数据／1.85＝＝》赋予背景＝＝》信息／奥巴马高1.85m＝＝》提炼规律＝＝》知识／一类人的身高
+
+价值v.规模
+</span>
+                <p class="pl">
+                  <span class="">2017-01-22 15:54</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                作者分析了 数据－信息－知识的演变过程：
+<blockquote><q>
+数据／1.85＝＝》赋予背景＝＝》信息／奥巴马高1.85m＝＝》提炼规律＝＝》知识／一类人的身高
+
+价值v.规模
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41367933/#comments">回应</a>&nbsp;&nbsp;
+                  2017-01-22 15:54
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="41367861">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/59056934/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="ccs424" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41367861/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41367861/" class="">第43页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/59056934/" class=" " title="ccs424">ccs424</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="41367861">
+              <div class="short">
+                
+                  <span class="">
+数据的生命力，比程序更持久。
+对于软件开发而言，数据库的设计比程序设计还重要。
+
+
+
+
+GSS：
+程序有寿命，而数据只要不删除，就是长命百岁的。。。</span>
+                <p class="pl">
+                  <span class="">2017-01-22 15:52</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>
+数据的生命力，比程序更持久。
+对于软件开发而言，数据库的设计比程序设计还重要。
+</q></blockquote><div style="padding-bottom:1em;"></div>GSS：<div style="padding-bottom:1em;"></div>程序有寿命，而数据只要不删除，就是长命百岁的。。。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41367861/#comments">回应</a>&nbsp;&nbsp;
+                  2017-01-22 15:52
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/10799984/annotation">更多读书笔记（共236篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/10799984/discussion/48480467/" title="托太多" class="">托太多</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/zhongdianzhan/">寻找终点站</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2012-09-12</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/10799984/discussion/47405632/" title="《新京报》 对话涂子沛：尊严的公共生活需要“大数据”" class="">《新京报》 对话涂子沛：尊严的公共生活需要“大数...</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/smallrain8288/">见色起义</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2012-07-14</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/10799984/discussion/50744147/" title="涂子沛：数据开放与公民精神" class="">涂子沛：数据开放与公民精神</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/melanie/">小熊熊熊啊</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2012-12-06</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/10799984/discussion/50301473/" title="科普书，书托忒多" class="">科普书，书托忒多</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/30726582/">三问</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2013-04-22</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/10799984/discussion/51620559/" title="哪儿可以找到那些图表" class="">哪儿可以找到那些图表</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/stefaniezhao/">Stefanie</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2013-01-17</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/10799984/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/4545703/?dcs=subject-buylink&amp;dcm=douban&amp;dct=10799984" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/4545703/?dcs=subject-buylink&amp;dcm=douban&amp;dct=10799984" class="">
+          <span class="buylink-price">
+            
+            <span class="">24.00 元</span>
+          </span>
+        </a>
+      </li>
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B00KLVWP602736048/?asin=B00KLVWP60&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B00KLVWP60&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">6.00 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed" class="no-border">
+        
+  
+
+  <h2>
+    <span class="">其他版本的纸质版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline">
+            
+              <li class="">
+                  
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=2210&amp;pos=1&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5572816.htm&amp;link2key=57c5769f71&amp;srcsubj=10799984&amp;type=bkbuy&amp;subject=10799984">
+                    中国图书网
+                  </a>
+                  <a class="buylink-price" target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=2210&amp;pos=1&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5572816.htm&amp;link2key=57c5769f71&amp;srcsubj=10799984&amp;type=bkbuy&amp;subject=10799984">
+                    <span class=""> 22.10 元</span>
+                  </a>
+                  <p class="publish">
+                    <a href="https://book.douban.com/subject/10799984/" onclick="moreurl(this,{buylink:'other'})"
+                    class=" ">广西师范大学出版社版</a>
+                  </p>
+                </li>
+            
+              <li class="">
+                  
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=4140&amp;pos=1&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s10799984%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23685951&amp;srcsubj=10799984&amp;type=bkbuy&amp;subject=26371099">
+                    当当网
+                  </a>
+                  <a class="buylink-price" target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=4140&amp;pos=1&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s10799984%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23685951&amp;srcsubj=10799984&amp;type=bkbuy&amp;subject=26371099">
+                    <span class=""> 41.40 元</span>
+                  </a>
+                  <p class="publish">
+                    <a href="https://book.douban.com/subject/26371099/" onclick="moreurl(this,{buylink:'other'})"
+                    class=" ">广西师范大学出版社版</a>
+                  </p>
+                </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D978-7-5495-1837-1&amp;subject=7549518378&amp;type=borrow&amp;library=10007&amp;link2key=57c5769f71" target="_blank">北京市公共图书馆(4)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787549518371&amp;subject=7549518378&amp;type=borrow&amp;library=10012&amp;link2key=57c5769f71" target="_blank">上海市中心图书馆(34)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Finterlib.jylib.cn%2Fopac%2Fwebsearch%2FbookSearch%3Ffilter%3D%2528isbn%253A7549518378%2529%26cmdACT%3Dlist%26xsl%3DBOOK_list.xsl%26col1%3Disbn%26val1%3D7549518378&amp;subject=7549518378&amp;type=borrow&amp;library=10003&amp;link2key=57c5769f71" target="_blank">江阴市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F58.154.49.3%3A8080%2Fopac%2Fopenlink.php%3FhistoryCount%3D1%26strText%3D978-7-5495-1837-1%26doctype%3DALL%26strSearchType%3Disbn%26match_flag%3Dforward%26displaypg%3D20%26sort%3DCATA_DATE%26orderby%3Ddesc%26showmode%3Dlist%26location%3DALL&amp;subject=7549518378&amp;type=borrow&amp;library=10010&amp;link2key=57c5769f71" target="_blank">沈阳师范大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac3.wzlib.cn%2Fopac%2Fsearch%3FsearchWay%3Disbn%26q%3D978-7-5495-1837-1%26booktype%3D%26marcformat%3D%26sortWay%3Dscore%26sortOrder%3Ddesc%26startPubdate%3D%26endPubdate%3D%26rows%3D10&amp;subject=7549518378&amp;type=borrow&amp;library=10020&amp;link2key=57c5769f71" target="_blank">温州市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Flaohu.sx.zj.cn%2Fweb%2Fwebsearch.asp%3FWCI%3DBookListH%26taab%3D7549518378&amp;subject=7549518378&amp;type=borrow&amp;library=10025&amp;link2key=57c5769f71" target="_blank">绍兴图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1061639">全部2</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/26371099/">广西师范大学出版社版</a>
+          2015-4 / 18人读过 / 有售
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/10799984/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/1868931/" target="_blank">《罗辑思维》第一季推荐书籍</a>
+                <span class="pl">(怪刺)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/855819/" target="_blank">理想国 书香2012</a>
+                <span class="pl">(广西师大出版社理想国)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/25353/" target="_blank">IT好书100本</a>
+                <span class="pl">(左神神)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1756190/" target="_blank">优酷 罗辑思维 2013(第一季) 介绍的书籍</a>
+                <span class="pl">(IVAN)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1919948/" target="_blank">2012年華語圖書推薦榜</a>
+                <span class="pl">(451½°F™)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/54237552/"><img src="https://img1.doubanio.com/icon/u54237552-7.jpg" class="pil" alt="Wingmen" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/54237552/">Wingmen</a><br/>
+      <div class="pl ll">          52分钟前          读过      </div>
+
+        <span class="allstar30" title="还行"></span>
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/142322674/"><img src="https://img3.doubanio.com/icon/u142322674-1.jpg" class="pil" alt="手写昼" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/142322674/">手写昼</a><br/>
+      <div class="pl ll">          今天凌晨          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/10799984/doings">705人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/10799984/collections">3281人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/10799984/wishes">6307人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/10799984/offers">4本二手书欲转让</a>
+          <span class="">
+            (0.10
+                至 40.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有6307人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于大数据的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/10799984/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = '7NFXJEzXbVM',
+            criteria = '7:大数据|7:数据挖掘|7:社会学|7:经济|7:数据|7:涂子沛|7:信息学习|7:社会|7:IT|7:云计算|3:/subject/10799984/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar23d-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3104 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>布局天下 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1207500/">
+<meta name="keywords" content="布局天下,饶胜文,解放军出版社,2006-5-1,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书布局天下 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1207500/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">布局天下</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s1436840.jpg" title="布局天下">
+    <img src="https://img3.doubanio.com/lpic/s1436840.jpg" title="点击看大图" alt="布局天下"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E9%A5%B6%E8%83%9C%E6%96%87">饶胜文</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 解放军出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 中国古代军事地理大势<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2006-5-1<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 316<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 21.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787506541435<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.8 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">434</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">55.8%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:39px"></div>
+
+            <span class="rating_per">34.8%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:8px"></div>
+
+            <span class="rating_per">7.6%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:1px"></div>
+
+            <span class="rating_per">1.2%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.7%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1207500-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1207500-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1207500-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1207500-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1207500-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1207500-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1207500-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1207500-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1207500">
+        <a href="#" data-url="https://book.douban.com/subject/1207500/" data-desc="" data-title="书籍《布局天下》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s1436840.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1207500"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>放在读者面前的这本书《布局天下——中国古代军事地理大势》，是一本历史军事地理著作。什么是历史军事地理?著名历史地理学家谭其骧先生认为：&#34;军事地理学研究军事与地理条件之间的关系，是人文地理的一个分支，也是军事科学的一个组成部分；其研究成果对指导军事行动具有重要意义。了解古代的军事地理是更好地认识当代军事地理的重要条件，因此，历史军事地理又是历史地理学，也是军事地理学中不可或缺的一部分篇章。&#34;(史念海《河山集·四集·谭其骧教授序》)饶胜文同志的这本书所论，是关于中国古代军事地理大势，虽然不是对古代军事地理作详细的考察，但其性质是历史军事地理著作，自无疑义。</p>    <p></p>    <p>　　本书是一本历史军事地理著作。政治兴亡常与军事成败相关，而地理又与军事密切相关，故探讨中国古代军事地理大势，对于深入认识中国历史上历代兴亡，实为一个重要关键。本书的一个鲜明特点，是把中国古代军事地...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>放在读者面前的这本书《布局天下——中国古代军事地理大势》，是一本历史军事地理著作。什么是历史军事地理?著名历史地理学家谭其骧先生认为：&#34;军事地理学研究军事与地理条件之间的关系，是人文地理的一个分支，也是军事科学的一个组成部分；其研究成果对指导军事行动具有重要意义。了解古代的军事地理是更好地认识当代军事地理的重要条件，因此，历史军事地理又是历史地理学，也是军事地理学中不可或缺的一部分篇章。&#34;(史念海《河山集·四集·谭其骧教授序》)饶胜文同志的这本书所论，是关于中国古代军事地理大势，虽然不是对古代军事地理作详细的考察，但其性质是历史军事地理著作，自无疑义。</p>    <p></p>    <p>　　本书是一本历史军事地理著作。政治兴亡常与军事成败相关，而地理又与军事密切相关，故探讨中国古代军事地理大势，对于深入认识中国历史上历代兴亡，实为一个重要关键。本书的一个鲜明特点，是把中国古代军事地理大势形象地概括为&#34;棋盘型格局&#34;。全书内容亦由此而展开。因有&#34;棋盘型&#34;，乃有&#34;四角&#34;的分析，即关中、河北、东南、四川；乃有&#34;四边&#34;的阐述，即山西、山东、湖北、汉中；乃有关于&#34;合天下之全势&#34;的中原的认识。全书从地理形势、军事成败入手，最后落实到政治局面的变化，即历史上统一与分裂的成因及其类型。概而言之，全书由地理而言军事，由军事地理而论政治得失。</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1207500/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1207500_short">
+        序<br/>
+        “在德不在险”（代前言）<br/>
+        第一章 棋盘型军事地理格局<br/>
+        第二章 四角的军事地理形势<br/>
+        第一节 山河四塞，百二秦关――关中<br/>
+        第二节 上洲之势，临驭六合――河北<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1207500_short').hide();$('#dir_1207500_full').show();$.get('/j/subject/j_dir_count',{id:1207500});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1207500_full" style="display:none">
+        序<br/>
+        “在德不在险”（代前言）<br/>
+        第一章 棋盘型军事地理格局<br/>
+        第二章 四角的军事地理形势<br/>
+        第一节 山河四塞，百二秦关――关中<br/>
+        第二节 上洲之势，临驭六合――河北<br/>
+        第三节 龙蟠虎踞，东南形胜――东南<br/>
+        第四节 山川险固，天府之土――四川<br/>
+        第三章 四边的军事地理形势<br/>
+        第一节 河东都会，用武之地――山西<br/>
+        第二节 依山凭河，战守之冲――山东<br/>
+        第三节 枢纽江汉，砥柱江南――湖北<br/>
+        第四节 南北胶着，东西伸展――汉中<br/>
+        第四章 中原的军事地理形势<br/>
+        第一节 合天下之全势<br/>
+        第二节 中原山川形势<br/>
+        第三节 对中原局势的判断与经营的得失<br/>
+        第四节 攻取洛阳的成功战例<br/>
+        第五节 中原地区东西之争与南北之争<br/>
+        第五章 统一与分裂<br/>
+        第一节 统一与分裂：政治与地理<br/>
+        第二节 统一与分裂：问题的转换<br/>
+        第三节 分裂的类型<br/>
+        第四节 统一的轨迹<br/>
+        后记<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1207500_full').hide();$('#dir_1207500_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共127个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/军事">军事</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/历史">历史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/军事地理">军事地理</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/地理">地理</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/历史地理">历史地理</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/古代军事地理">古代军事地理</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/中国">中国</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/兵法">兵法</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;布局天下&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/6848/?dcs=subject-rec&amp;dcm=douban&amp;dct=1207500" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/6848.jpg?v=1395396095.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/6848/" target="_blank">引力，或许只是个传说</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1129025/?dcs=subject-rec&amp;dcm=douban&amp;dct=1207500" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1129025.jpg?v=1395394808.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1129025/" target="_blank">剑桥倚天屠龙史</a>
+          </div>
+          <div class="price">
+              6.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1210652/?dcs=subject-rec&amp;dcm=douban&amp;dct=1207500" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1210652.jpg?v=1395394656.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1210652/" target="_blank">神经漫游者</a>
+          </div>
+          <div class="price">
+              7.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/315192/?dcs=subject-rec&amp;dcm=douban&amp;dct=1207500" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/315192.jpg?v=1395395912.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/315192/" target="_blank">浮生取义</a>
+          </div>
+          <div class="price">
+              21.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/237278/?dcs=subject-rec&amp;dcm=douban&amp;dct=1207500" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/237278.jpg?v=1395395954.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/237278/" target="_blank">思考的乐趣</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;布局天下&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3875719/" onclick="moreurl(this, {'total': 10, 'clicked': '3875719', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4097058.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3875719/" onclick="moreurl(this, {'total': 10, 'clicked': '3875719', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            中国古代战争的地理枢纽
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1247901/" onclick="moreurl(this, {'total': 10, 'clicked': '1247901', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s10009156.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1247901/" onclick="moreurl(this, {'total': 10, 'clicked': '1247901', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            中国历代军事战略（上下）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25791053/" onclick="moreurl(this, {'total': 10, 'clicked': '25791053', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27463525.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25791053/" onclick="moreurl(this, {'total': 10, 'clicked': '25791053', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            大汉帝国在巴蜀
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1314467/" onclick="moreurl(this, {'total': 10, 'clicked': '1314467', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1559133.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1314467/" onclick="moreurl(this, {'total': 10, 'clicked': '1314467', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            读史方舆纪要
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2006192/" onclick="moreurl(this, {'total': 10, 'clicked': '2006192', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s25996387.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2006192/" onclick="moreurl(this, {'total': 10, 'clicked': '2006192', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            中国战略思想史
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2042723/" onclick="moreurl(this, {'total': 10, 'clicked': '2042723', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s2359258.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2042723/" onclick="moreurl(this, {'total': 10, 'clicked': '2042723', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            先秦战略地理研究
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4154389/" onclick="moreurl(this, {'total': 10, 'clicked': '4154389', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4431887.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4154389/" onclick="moreurl(this, {'total': 10, 'clicked': '4154389', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            读史方舆纪要 (精装)
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10796986/" onclick="moreurl(this, {'total': 10, 'clicked': '10796986', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s10457802.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10796986/" onclick="moreurl(this, {'total': 10, 'clicked': '10796986', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            魏晋之际的政治权力与家族网络
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1228702/" onclick="moreurl(this, {'total': 10, 'clicked': '1228702', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s25061087.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1228702/" onclick="moreurl(this, {'total': 10, 'clicked': '1228702', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            汉初军事史研究
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1172077/" onclick="moreurl(this, {'total': 10, 'clicked': '1172077', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1302946.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1172077/" onclick="moreurl(this, {'total': 10, 'clicked': '1172077', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            秦汉魏晋史探微（重订本）
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1207500/comments/">全部 145 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="596172474">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-596172474" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-596172474" class="j a_show_login" data-cid="596172474">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Thomas.Xie/">蝉</a>
+                    <span>2013-11-17</span>
+                </span>
+            </h3>
+            <p class="comment-content">:E993.2/2770</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="158454247">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-158454247" class="vote-count">2</span>
+                        <a href="javascript:;" id="btn-158454247" class="j a_show_login" data-cid="158454247">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/gukangming/">江东子弟</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2010-08-19</span>
+                </span>
+            </h3>
+            <p class="comment-content">《兵家必争之地》一书包举万有，各处关山皆有涉及，但“多中心即是无中心”，洋洋洒洒，卷帙浩繁令人不能卒读。而饶胜文先生的《布局天下》言天下大势，详略得当，叙事生动，读来有如身临其境，且作者笔锋犀利，胸中当有万丈豪气！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="918510905">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-918510905" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-918510905" class="j a_show_login" data-cid="918510905">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/leftylaozuo/">老左</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2015-10-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">可反复品读增加见识</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="622424150">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-622424150" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-622424150" class="j a_show_login" data-cid="622424150">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/eater/">李二公子@心空万物，因果由然</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-11-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">没读过类似书目的可以看一看</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="688275289">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-688275289" class="vote-count">3</span>
+                        <a href="javascript:;" id="btn-688275289" class="j a_show_login" data-cid="688275289">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/50686375/">168 hours</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-04-23</span>
+                </span>
+            </h3>
+            <p class="comment-content">四角四边加中原的九个区域构建古代中国军事地理的格局，各区域的边角性质以及相邻间的互动与干扰构成军事史和王朝交替的演绎。猛然发现，九大区域与古九州的划分也不谋而合，唯一差异是九州的徐州不属于九大区域，作为山东与东南的过渡地带，汉中在古时也没有作用性大到能和雍州梁州并列的程度。从这个脉络中也能看出在长城以南的范围中（参考“本土十八省”概念）广大东南沿海岭南云贵基本没有在古代军事地理格局中占据重要作用，而在近现代这些地区扮演了突出的角色，甚至超过传统的中原地区，也能看出古代军事地理与近现代军事地理格局差异之大。其实本书虽在探讨古代，如能探讨古代与近现代为何差异如此巨大及相应历史发展脉络，上述地区在古时数千年间地位虽低，但其之后的演变过程又是怎样（包含差异及相对重要性的变化），效果会更好。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1199952925">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1199952925" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1199952925" class="j a_show_login" data-cid="1199952925">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/54434942/">江山入砚</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-06-08</span>
+                </span>
+            </h3>
+            <p class="comment-content">今年第16本。作者给3.5分，用围棋“四角四边天元”来比喻中国古代军事地理格局，形象新颖，虽然很不严谨。作为入门书籍很不错，可称为《读史方舆纪要之纪要》。但是车轱辘话过多，案例也过于重复，且有bug，作者明显对于隋唐以后比较陌生。另外编辑给负分，错别字这多的啊……王濬几乎都都是王溶，轘辕也几乎都是辕辕……</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1199704741">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1199704741" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1199704741" class="j a_show_login" data-cid="1199704741">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/48658788/">仙人扶顶白玉京</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">历史军事地理学入门，重在综合顾祖禹《读史方舆纪要》和各代史书对山川形势的论述。开篇首先提醒“在德不在险”，否定地理决定论，然后总述围棋型格局，其次分别论述关中、河北、东南、四川，山西、山东、湖北、汉中，中原的山川形势及历史攻防得失，最后总结历史分合政治因素与地理因素的相互影响。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1190681314">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1190681314" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1190681314" class="j a_show_login" data-cid="1190681314">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/4213776/">小浣熊二</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-15</span>
+                </span>
+            </h3>
+            <p class="comment-content">四边四角之论颇为醒目，只是论证过程多是重复史实，有时令人觉得浅、烦躁。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1189451091">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1189451091" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1189451091" class="j a_show_login" data-cid="1189451091">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/dgzy1644/">Ye-Tegin</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-12</span>
+                </span>
+            </h3>
+            <p class="comment-content">书生论兵，醺然有味。治古史不仅要看历史地图，还得要看地形图。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1180684897">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1180684897" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1180684897" class="j a_show_login" data-cid="1180684897">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/53936704/">旋转的狗</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-04-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">本书揭示了地利在军事成败、王朝更迭中起到的基础作用。少了地利这一维度，就难以理解诸多历史事件的客观条件，也就无法厘清中国历史的脉络。这方面的著作，目前尚比较空白，作者做了开拓性的工作。 这本书第二版到现在已经有十年了。如果能利用现在的条件再版，文句上做一些精炼，补充一些图示、图片，增强内容的直观性，相信可以利益到更多读者。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1207500/comments/">更多短评 145 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1207500/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            布局天下的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 12 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5079015">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5079015/" class="title-link">清晰的布局</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5079015"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/4211741/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/4211741/" class="author">
+      <span property="v:reviewer">ficus</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2011-08-27"
+      class="main-meta">2011-08-27 23:18:08</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5079015_short" class="review-short">
+            <div class="short-content">
+                  不错，中国古代地理形势主要分为4角、四边及中原，四角分别为关中、河北、东南及四川，在地利上关中最优、其次河北、其次东南及四川。这种表现在秦汉及初唐表现最为明显，关中即具有地利也是当时经济最为发达的地区；其后河北渐渐变得最为重要，地利稍弱但经济条件最为发达，河...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5079015_full" class="hidden">
+            <div id="review_5079015_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="2130579">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/2130579/" class="title-link">惊人之作</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-2130579"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/core_dump/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2850922-2.jpg"></a>
+    <a href="https://www.douban.com/people/core_dump/" class="author">
+      <span property="v:reviewer">core_dump</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2009-07-10"
+      class="main-meta">2009-07-10 19:53:39</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_2130579_short" class="review-short">
+            <div class="short-content">
+                  惊人之作，非常好的书，可视为《读史方與纪要》的简洁版。立意深远、文笔爽朗，分析透彻。一口气读完，廓清了许多疑惑。读史时置于案头，辅以“中国历史地图集”，大有裨益。
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">8有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_2130579_full" class="hidden">
+            <div id="review_2130579_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6651591">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6651591/" class="title-link">笔记摘录分享~</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6651591"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/65513926/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u65513926-4.jpg"></a>
+    <a href="https://www.douban.com/people/65513926/" class="author">
+      <span property="v:reviewer">醉胡尘</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2014-04-28"
+      class="main-meta">2014-04-28 22:06:14</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6651591_short" class="review-short">
+            <div class="short-content">
+                  0函谷关扼崤函之险，控制着关中与中原之间的往来通道；武关控秦岭东段之险，扼守着关中东南方向的进入通道；散关扼秦岭西端之险，控制着关中与汉中、巴蜀之间的交通咽喉；萧关扼陇山之险，守备着关中西北通道。四塞险固，闭关可以自守，出关可以进取。 —— 布局天下 0河北三面...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">5有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6651591_full" class="hidden">
+            <div id="review_6651591_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7334961">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7334961/" class="title-link">我的地缘启蒙书</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7334961"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/59362821/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u59362821-1.jpg"></a>
+    <a href="https://www.douban.com/people/59362821/" class="author">
+      <span property="v:reviewer">mp3</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2015-01-10"
+      class="main-meta">2015-01-10 21:32:54</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7334961_short" class="review-short">
+            <div class="short-content">
+                  书相当好，几年前读了这本书之后，我才了解孔明的《隆中对》是什么意思，为何伟大。这时，学这篇课文已过去了八年了，惭愧呵…… 将中国比作围棋，分为四边四角，金角银边草肚皮。结合史实，读起来还是相当有意思的。 尤其是对四边之一的湖北的地缘分析，让我对我的家乡荆州的...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7334961_full" class="hidden">
+            <div id="review_7334961_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6821038">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6821038/" class="title-link">读史不看图，读了也白读</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6821038"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/Niaofei618/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u3579034-3.jpg"></a>
+    <a href="https://www.douban.com/people/Niaofei618/" class="author">
+      <span property="v:reviewer">鸟飞</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2014-08-13"
+      class="main-meta">2014-08-13 22:22:54</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6821038_short" class="review-short">
+            <div class="short-content">
+                  俗话说读史不看图，读了也白读。  作者对中国地理「四边四角」的概括，非特新颖，亦有支撑，基本让我这个文科生都感觉到，当年中国地理是白学了。  军事地理其实并不复杂，无非是山川的组合，山构成阻挡和保护，河负责切割和通行，于是才有了那么多关隘和兵家必争之地：从关中...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6821038_full" class="hidden">
+            <div id="review_6821038_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评12篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1207500/annotation">共<span property="v:count">7</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="27268666">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xryutu/"><img src="https://img3.doubanio.com/icon/u3476889-14.jpg" alt="祥瑞御兔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/27268666/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/27268666/" class="">第29页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xryutu/" class=" " title="祥瑞御兔">祥瑞御兔</a>
+                (YM3(^__^)(+__+)(⊙_⊙))
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="27268666">
+              <div class="short">
+                
+                  <span class="">函谷关，即后来的潼关，在今陕西潼关附近，经历代多次营建，具体地点亦时有变迁，至东汉末始称潼关。黄河自上游而来，纳渭水后折而向东，南北两岸有华山、崤山与中条山夹河而立。关中与中原之间的通道，穿越华山和崤山北麓的山地，延绵数百里，极尽险阻。函谷关即当道依险而立，控制着关中与中原之间的通道。
+
+天雷……</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/27268666/">(<span class="">7回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-06-25 14:48</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>函谷关，即后来的潼关，在今陕西潼关附近，经历代多次营建，具体地点亦时有变迁，至东汉末始称潼关。黄河自上游而来，纳渭水后折而向东，南北两岸有华山、崤山与中条山夹河而立。关中与中原之间的通道，穿越华山和崤山北麓的山地，延绵数百里，极尽险阻。函谷关即当道依险而立，控制着关中与中原之间的通道。</q></blockquote><div style="padding-bottom:1em;"></div>天雷……
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/27268666/#comments">7回应</a>&nbsp;&nbsp;
+                  2013-06-25 14:48
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="20856400">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/guaililuanshen/"><img src="https://img1.doubanio.com/icon/u2132818-68.jpg" alt="上界司命" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/20856400/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/20856400/" class="">前言</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/guaililuanshen/" class=" " title="上界司命">上界司命</a>
+                (回归泉城)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="20856400">
+              <div class="short">
+                
+                  <span class="">吴起事魏武侯。武侯浮西河而下，中流，顾而谓吴起曰：“美哉乎！山河之固，此魏国之宝也！”起对曰：“在德不在险。昔三苗氏左洞庭，右彭蠡，德义不修，禹灭之；夏桀之居，左河济，右泰华，伊阙在其南，羊肠在其北，修政不仁，汤放之；殷纣之国，左龙门，右太行，常山在其北，大河经其南，修政不德，武王杀之。由此观之，在德不在险。若君不修德，舟中之人尽为敌国也。”
+——《史记》卷六十五《孙子吴起列传》
+…………
+天下没...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/20856400/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-09-04 16:07</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>吴起事魏武侯。武侯浮西河而下，中流，顾而谓吴起曰：“美哉乎！山河之固，此魏国之宝也！”起对曰：“在德不在险。昔三苗氏左洞庭，右彭蠡，德义不修，禹灭之；夏桀之居，左河济，右泰华，伊阙在其南，羊肠在其北，修政不仁，汤放之；殷纣之国，左龙门，右太行，常山在其北，大河经其南，修政不德，武王杀之。由此观之，在德不在险。若君不修德，舟中之人尽为敌国也。”
+——《史记》卷六十五《孙子吴起列传》</q></blockquote>
+…………
+<blockquote><q>天下没有攻不破的险要。
+潼关虽险，毕竟项羽曾入之，曹操曾入之，刘裕曾入之，安史叛军亦曾入之。瞿塘虽险，毕竟岑彭曾入之，桓温曾入之，朱龄石曾入之，刘光义曾入之，汤和曾入之。剑阁虽险，毕竟邢峦曾入之，尉迟迥曾入之，郭崇韬曾入之，王全斌曾入之。长江虽险，毕竟晋师曾渡之，隋师曾渡之，宋师曾渡之，元师又曾渡之。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/20856400/#comments">1回应</a>&nbsp;&nbsp;
+                  2012-09-04 16:07
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="29808598">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xryutu/"><img src="https://img3.doubanio.com/icon/u3476889-14.jpg" alt="祥瑞御兔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29808598/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29808598/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xryutu/" class=" " title="祥瑞御兔">祥瑞御兔</a>
+                (YM3(^__^)(+__+)(⊙_⊙))
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="29808598">
+              <div class="short">
+                
+                  <span class="">四角四边（尤其四边）之说大有商榷余地：四角需倚靠四边，但关中往往需要倚靠隐藏的一“边”陇西而非山西；河北不仅需要倚靠山西也需要倚靠塞北辽西；四川必须倚靠汉中，汉中仅对四川具有一“边”的意义；山东不是一个完整的“边”，青徐淮之间的广大地域都是。唯一正确的是指出荆襄作为一“边”对东南乃至天下的重要意义。</span>
+                <p class="pl">
+                  <span class="">2013-12-17 18:18</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                四角四边（尤其四边）之说大有商榷余地：四角需倚靠四边，但关中往往需要倚靠隐藏的一“边”陇西而非山西；河北不仅需要倚靠山西也需要倚靠塞北辽西；四川必须倚靠汉中，汉中仅对四川具有一“边”的意义；山东不是一个完整的“边”，青徐淮之间的广大地域都是。唯一正确的是指出荆襄作为一“边”对东南乃至天下的重要意义。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29808598/#comments">回应</a>&nbsp;&nbsp;
+                  2013-12-17 18:18
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="29536952">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/kistar/"><img src="https://img3.doubanio.com/icon/u1789257-10.jpg" alt="苏小蛇" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29536952/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29536952/" class="">第二章 四角的军事地理形 第四节 山川险固，天府之土――四川</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/kistar/" class=" " title="苏小蛇">苏小蛇</a>
+                (fly to me, if u dare.)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="29536952">
+              <div class="short">
+                
+                  <span class="">本书反复提到，发轫于四川的政权，没有一个统一了中国。
+
+但我认为刘邦就应该被算作发轫于四川。虽然他是从沛县一路攻到咸阳的，但就灭秦之后的天下布局而言，刘邦受封汉王，领地四川和汉中，确实应该算是一个从四川发起，统一全国的案例吧。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/29536952/">(<span class="">14回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-11-27 23:58</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                本书反复提到，发轫于四川的政权，没有一个统一了中国。<div style="padding-bottom:1em;"></div>但我认为刘邦就应该被算作发轫于四川。虽然他是从沛县一路攻到咸阳的，但就灭秦之后的天下布局而言，刘邦受封汉王，领地四川和汉中，确实应该算是一个从四川发起，统一全国的案例吧。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29536952/#comments">14回应</a>&nbsp;&nbsp;
+                  2013-11-27 23:58
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="26174898">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/65513926/"><img src="https://img3.doubanio.com/icon/u65513926-4.jpg" alt="醉胡尘" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/26174898/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/26174898/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/65513926/" class=" " title="醉胡尘">醉胡尘</a>
+                (信 达 侃 思 知 行 止)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="26174898">
+              <div class="short">
+                
+                  <span class="">0函谷关扼崤函之险，控制着关中与中原之间的往来通道；武关控秦岭东段之险，扼守着关中东南方向的进入通道；散关扼秦岭西端之险，控制着关中与汉中、巴蜀之间的交通咽喉；萧关扼陇山之险，守备着关中西北通道。四塞险固，闭关可以自守，出关可以进取。 —— 布局天下
+0河北三面山海环抱南面中原。燕山起着抗击塞北游牧民族南下的屏障作用，翼蔽河北乃至整个中原的安全。居庸关、山海关、松亭关、古北口、冷口、喜峰口等关隘，扼守...</span>
+                <p class="pl">
+                  <span class="">2013-05-04 22:40</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                0函谷关扼崤函之险，控制着关中与中原之间的往来通道；武关控秦岭东段之险，扼守着关中东南方向的进入通道；散关扼秦岭西端之险，控制着关中与汉中、巴蜀之间的交通咽喉；萧关扼陇山之险，守备着关中西北通道。四塞险固，闭关可以自守，出关可以进取。 —— 布局天下<div style="padding-bottom:1em;"></div>0河北三面山海环抱南面中原。燕山起着抗击塞北游牧民族南下的屏障作用，翼蔽河北乃至整个中原的安全。居庸关、山海关、松亭关、古北口、冷口、喜峰口等关隘，扼守穿越燕山山脉的几条交通孔道。太行山脉为河北的右侧翼的重要屏障。紫荆关、倒马关、井陉关、滏口等关隘扼守穿越太行山脉 —— 布局天下<div style="padding-bottom:1em;"></div>0古代长江下游易渡之处有二，一是采石渡，一是刮洲渡，分处建康（今南京）的上下游。建康方面也加强对两处渡口的防守。在这两处渡口的南岸，分别有京口（今江苏镇江）和采石，北岸分别有广陵（今江苏扬州）和历阳（今安徽和县），都置兵戊于守，立为重镇。淮河与长江相表里 —— 布局天下<div style="padding-bottom:1em;"></div>0主要是扼守淮河支流与淮河的交汇口。在淮西，主要是钟离（今安徽凤阳）和寿春（今安徽寿县），在淮东，主要是山阳（今江苏淮安）和盱眙。寿春正对颍口（颍河与淮河的交汇口），挡颍河或淮河上游方向的来敌；钟离正对涡口（涡河与淮河的交汇口），挡涡河之冲。 —— 布局天下<div style="padding-bottom:1em;"></div>0一个地域能否兴起强大的社会政治力量与这个地域的民风、社会文化特色及其发展水平有很大的关系。关中地近西戎，风俗劲勇，民皆习战；自商鞅变法，秦人以耕战为本，遗风流披，影响深远，形成了与东部地区迥然相异的社会风尚 —— 布局天下<div style="padding-bottom:1em;"></div>0 山西的山河形势使山西具有一种极为有利的内线作战的地位。山西地势高峻，足以俯瞰三面；通向外部的几个交通孔道，多是利于外出而不利于入攻。这是山西内线作战的有利条件，也是山西在北方枢纽地位得以形成的地理基础 —— 布局天下<div style="padding-bottom:1em;"></div>0 胶东半岛为古代海上运输的一大中转地。山东在南北之间尤居枢纽性地位。南北对峙之际，山东常是争夺的焦点。中国政治重心东移后，连接政治重心与经济重心的南北交通动脉大运河，正处在山东的监控之下，所以山东地位举足轻重。明初朱元璋北伐以攻占山东而打开大都门 —— 布局天下<div style="padding-bottom:1em;"></div>0方面者比比皆是。另外，从湖北藉汉水北上，还可经略中原，进图北方。襄阳、武昌、江陵是湖北境内的三大镇，犹如鼎之三足，撑开湖北形势，使湖北在面向不同的方向时显示出不同的战略意义。 —— 布局天下<div style="padding-bottom:1em;"></div>0 顾祖禹在谈到它们的战略意义时精辟地论道：“以天下言之，则重在襄阳；以东南言之，则重在武昌；以湖广言之，则重在荆州。” —— 布局天下<div style="padding-bottom:1em;"></div>0西汉水河谷低地提供了一条由汉中通往陇西的比较平坦的通道。陇西地势明显高于关中四川，自关中、四川仰攻陇西较难，而自陇西下攻关中和四川却较易。这就给在汉中、关陇一带的角逐者们提供了一个思路：与其在秦岭南北争一日之短长，不如取远势争陇西，取得一种地理上的有利态势。蜀汉北 —— 布局天下<div style="padding-bottom:1em;"></div>0南阳盆地像是关中、汉中、湖北与中原四者之间的一个旋转门，四面都可进入，四面都可出击。从全局的角度看，南阳盆地具有东西伸展、南北交汇的特点。襄阳和南阳分处于盆地的南北两端，这两座重镇的形成代表了南北双方在这片地域内利害关系的对峙和胶着 —— 布局天下<div style="padding-bottom:1em;"></div>0河内地区在山西与河南之间、在关中与河北之间都是往来的要冲。在河内与山西之间，太行关隘是是攻守的要点；在河内与河南之间，河阳孟津是攻守的要点。河内地区在东、西部之间与是往来要冲。从河内入轵关、经蒲津可趋关中；从河内循太行山东进，可趋河北。 —— 布局天下<div style="padding-bottom:1em;"></div>0在政治重心位于关中的时代，湖北是西北与东南之间衔接的纽带，地位比较重要；政治重心移至河北以后，随着关中地位的下降，湖北地位也有所下降，而山东则成了南北之间政治重心与经济重心联系的枢纽，地位举足轻重 —— 布局天下<div style="padding-bottom:1em;"></div>0北宋初，赵匡胤西巡洛阳，隐然有迁都洛阳之意，群臣不同意。赵匡胤叹息道：“迁河南未已，久当迁长安……欲据山河之险而去冗兵，循周汉故事，以安天下也。”看重的仍是关中优越的山河形势。 —— 布局天下<div style="padding-bottom:1em;"></div>0铜铁上好的林竹都是制造武器的好材料，属重要战略物资。历代建都关中之时，出于强干弱枝的考虑，又常迁徙人口以充实关中，故关中之地人口殷实。司马迁描述当时关中的富裕，称“故关中之地，于天下三分之一，而人众不过什三；然量其富，什居其六”。 —— 布局天下<div style="padding-bottom:1em;"></div>0苏秦、范雎游说秦王时，都将关中民风与关中地利并提，视为秦国霸业的两个重要条件。苏秦看到秦国“士民之众，兵法之教”，认为“可以吞天下，称帝而治。”范雎则将“怯于私斗而勇于公战”的泰国百姓称之为“王者之民”。秦汉时期流行有“关东出相，关西出将”的说法。 —— 布局天下<div style="padding-bottom:1em;"></div>0“唐之弱，以河北之强也；唐之亡，以河北之弱。”唐中后期重用蕃将，在唐末藩镇割据局面中，这些蕃将拥兵自重，骄悍难制。继唐之后的五代政权的兴衰都与这种势力有关。 —— 布局天下<div style="padding-bottom:1em;"></div>0论山川形势，武关之险不及潼关，自东南一入武关。便可径至蓝田，下临长安。且武关距长安道远，有紧急情况，救援不及。所以关东势力攻关中，也多取道武关。刘邦西伐关中，为避潼关之险，绕道南阳攻占武关，进抵蓝田，在蓝田击败秦军 —— 布局天<div style="padding-bottom:1em;"></div>0 还有一处渡口，亦为出入关中的重要通道，这就是蒲津。扼守蒲津渡口的重镇是蒲坂。蒲坂在今山西蒲州，西临黄河。这里是自山西进入关中的跳板，也是自关中进入山西的桥头堡。通常蒲坂为关中所守时，退可以阻挡山西方向的入侵，进可以窥取临汾、上党；如蒲坂不守，则关中险塞不可谓稳固。 —— 布局天下<div style="padding-bottom:1em;"></div>0大致经历了三个阶段，这三个阶段又分别是在关中的三个主要方向取得突破性进展。秦孝公时主要是在左侧翼山西方向打开局面，秦惠王时主要是在右侧翼汉中、巴、蜀方向打开局面，秦武王和秦昭襄王时期则在中原方向沿黄河、太行山脊岭一线取得突破性进展。 —— 布局天下<div style="padding-bottom:1em;"></div>0陇西在关中之西，而河西又在陇西之西。如果说陇西对关中拥有地理上的优势的话，那么河西对陇西同样拥有地理上的优势。陇西足以制关中，河西则足以制陇西。以关中而欲图陇西，可以联结河西，利用河西对陇西的地理优势，制陇西之后，夹击陇西。刘秀之结好窦融、李渊之结好李轨 —— 布局天下<div style="padding-bottom:1em;"></div>0陈东则沉痛呼吁：“曾不知无三关 、四镇（太原、河间、真定、中山），是弃河北也！弃河北，朝廷能复都大梁乎！” —— 布局天下<div style="padding-bottom:1em;"></div>0郭子仪率朔方精兵与李光弼合军以攻史思明，大破叛军。于是河北十余郡皆杀贼将而归朝廷。叛军交通线 又告断绝，叛军家在范阳者无不摇心。安禄山大怯，议弃洛阳而还范阳。不过，就在这时，哥舒翰兵败潼关，叛军攻入长安，唐玄宗被迫幸蜀。战局突变，郭李二人乃放弃河北，引兵还太原 —— 布局天下<div style="padding-bottom:1em;"></div>0执行此方略的要点是曹彬等幽州正面之军持重缓行，成功地牵制住辽军主力。但在具体实施的过程中，曹彬违背了这一点。他 贪功冒进，连太宗都“颇讶其进军之速”。辽援军到达后，在岐沟关（今啄州西南拒马河北）大败曹彬军。正面之师惨败，宋军全线溃退。 —— 布局天下<div style="padding-bottom:1em;"></div>0顾炎武、顾祖禹等对明朝的这种国防体系作了深刻的反思，对明廷放弃大宁、开平等燕山外围藩 篱更是提出了沉痛的批评。顾祖禹在《读史方舆纪要》中写道：“都燕京而弃大宁、弃开平，委东胜于榛芜，视辽左如秦越，是自剪羽翼，而 披其股肱也，欲求安全无患，其可得乎！ —— 布局天下<div style="padding-bottom:1em;"></div>0《隋书》地理志述东南民风，谓淮南一带“人性并躁劲，风气果决，包藏祸害，视死如归，战而贵诈，此则其旧风也。自平陈之后，其俗颇变，尚淳质，好俭约，丧纪婚姻，率渐于礼。”京口一带“其人本并习战，号为天下精兵。 —— 布局天下<div style="padding-bottom:1em;"></div>0 以守而言，则守淮河可藉淮南的广大地区作为纵深；以攻而言，则出淮北可以进取中原。淮河支流多源于淮北，特别是泗水，稍经开凿，即能连通黄河，从而使南方的力量能远投到黄河流域；而单守长江，则一处被突破，便已入其心腹 —— 布局天下<div style="padding-bottom:1em;"></div>0在唐以前，采石的重要性有过于京口。采石附近，江面较窄，京口一带，江面较宽，且京口以北，河湖密布，北骑驱驰不易；采石以北，隔淮西而直面中原，敌骑驱驰，容易抵达。北骑南来，趋采石较趋京口为易。故前人有言：“古来江南有事，从采石渡者十之九，从京口渡者十之一。” —— 布局天下<div style="padding-bottom:1em;"></div>0唐以后，形势稍有变化，一方面由于泥沙冲积，瓜洲一带江面稍稍变窄，另一方面，随着大运河的开凿和政治重心的东移，这里是运河与长江、北方政治重心与南方经济重心联系的衔接地带，因而地位有所上升。 —— 布局天下<div style="padding-bottom:1em;"></div>0《正淮论》言寿春之重要曰：“彼寿阳者，南引荆汝之利，东连三吴之富；北接梁宋，平途不过七百；西援陈许，水陆不出千里；外有江湖之阻，内有淮淝之固。龙泉之陂，良田万顷，舒、六之贡，利尽蛮越。” —— 布局天下<div style="padding-bottom:1em;"></div>00北伐总是一面旗帜，一面可以用以收拾人心、整合南方社会的旗帜。　　东南政权既然大多是乔迁政权，他们在北方少数民族占领北方地区之后，大都能整合南方社会，统一江南半壁江山。在他们整合南方社会的过程中，北伐、收复中原通常是其收拾人心的一面旗帜。 —— 布局天下<div style="padding-bottom:1em;"></div>00 祖逖北伐，晋廷并未给予实质性的支持。而当祖逖刚刚在河南打下基础，晋廷即派戴渊前往节制。祖逖想到自己“已翦荆棘，收河南地，而（戴）渊雍容，一旦来统之，意甚怏怏；又闻王敦与刘（隗）、刁（协）构隙，将有内难，知大功不遂，感激发病 —— 布局天下<div style="padding-bottom:1em;"></div>0元嘉七年北伐时，北魏崔浩曾对太武帝分析说：“臣始谓义隆军来，当屯止河中，两道北上，东道向冀州（今河北冀县），西道冲邺，如此则陛下当自讨之，不得徐行；今则不然，（宋军）东西列兵，径二千里，一处不过数千，形分势弱，以此观之，不过欲固河自守，无北渡意也。” —— 布局天下<div style="padding-bottom:1em;"></div>0至于攻取河南之后，止兵潼关而不攻关中，径攻河北而不攻山西，一方面正如朱元璋所分析的：“扩廓帖木尔、李思济、张思道皆百战之余，未肯遽下，急之则并力一隅，猝未易定，故出其不意，反旆而北，燕都既平，然后西征张、李，望绝势穷，可不战而克。 —— 布局天下<div style="padding-bottom:1em;"></div>0东汉岑彭讨公孙述，在江州（重庆）兵分两路，遣臧宫行内水，自率主力行外水；刘备入成都，取道内水；东晋时，恒温平李势，取道外水；刘裕遣刘敬宣讨焦纵，刘敬宣先从外水进攻，不利，后刘裕再遣朱龄石攻焦纵，密赦朱龄石以疑兵从内水进攻，仍以主力从外水取成都 —— 布局天下<div style="padding-bottom:1em;"></div>0以公孙述所建成家政权为典型，历代据蜀者大抵能利用四川的地理环境完成割据，但要摆脱割据而谋求更大的发展，则又反过来为四川的地理环境所限制。这是四川易于产生割据政权但又没有一个政权完成过统一天下大业的又一个重要原因。 —— 布局天下<div style="padding-bottom:1em;"></div>0四川惟有在一个整体的大棋局中，才显示出其不可忽视的战略地位。若仅为一种单独的割据势力所有，那么，构成其割据基础的地理因素同时便也构成了限制其向外发展的一个消极因素。 —— 布局天下<div style="padding-bottom:1em;"></div> 0隋仁寿四年(604年)，汉王杨谅在太原起兵时，部下裴文安自请为前锋，直入蒲津，并建议“王以大军继后，风行电击，顿于灞上，咸阳以东，可指麾而定。” [ 注：《资治通鉴》卷一百八十 隋纪四 ] 后来杨谅改变主意，只断河桥，遣军守蒲州。杨素潜军渡河，遂拔蒲州，进讨杨谅。 —— 布局天下<div style="padding-bottom:1em;"></div>0安史之乱时叛军占领河北、河南、关中，山西却始终在唐军的控制之下，监控着叛军从范阳至长安的漫长战线。在李泌谋划的战略反攻计划中即充分利用了这一态势：“今若令李光弼自太原出井陉，郭子仪自冯翊人河东，则思明、忠志不敢离范阳、常山，守忠、乾真不敢离长安，是以两军絷具四将也 —— 布局天下<div style="padding-bottom:1em;"></div>0关中和河北二地易于建立起局部的秩序。争雄北方的势力大多起于这两个地区。山西高原像一个巨大的楔子，楔入关中与河北之间，面向中原。无论是哪一方，要想兼并对方，统一北方，进而统一天下，都必须首先取得对山西的控制权，否则不可能打开局面。 —— 布局天下<div style="padding-bottom:1em;"></div>0宜守重镇于平阳，与彼蒲州相对，深沟高垒，运粮积甲，彼闭关不出，则稍蚕食其河东之地，日使穷蹙：彼若出兵，非十万以上不足为我敌，所资粮食，咸出关中；我军士年别—代，谷食丰饶，彼来求战，我则不应，彼若退去，我乘其弊。自长安以西，民疏城远，敌兵往来，实自艰难 —— 布局天下<div style="padding-bottom:1em;"></div>0在这片低山丘陵的西北侧有济南。济南南依泰山，北阻黄河。前人论济南地位，称“齐州当四达之冲。南不得齐州，则无以问河济；北不得齐州，则不敢窥淮泗；西不得齐州，则无从得志于临淄；东不得齐州，则无争衡于阿鄄。是故山东有难，齐州常为战守之冲 —— 布局天下<div style="padding-bottom:1em;"></div>0历史上著名的历下城即在济南城西。战国时，诸侯攻齐，每每战于历下。秦灭魏之后，挥师东进，屯兵历下，兵压齐境，齐王不战而降。楚汉战争时，辩士郦食其游说齐王田广附汉，使齐罢历下之戍，韩信遂得以透入齐境，略定三齐。南朝刘宋孝建年间，刘宋将青、冀二州州治移镇历城 —— 布局天下<div style="padding-bottom:1em;"></div>0在这片低山丘陵的西南侧有兖州、济宁，依山临河，控守一方。济宁城南即古之所谓亢父之险，苏秦曾称亢父之险“车不得方轨，骑不得比行，百人守险，千人不敢过也。” [ 注：《史记》卷六十九 苏秦列传 ] 古代南北水运交通动脉大运河即处在其监控之下。自此外出四略，地势便利 —— 布局天下<div style="padding-bottom:1em;"></div>0在这片低山丘陵的东北侧有青州，附近即古临淄，齐之国都。在山东诸要地中．论防护之固，无如临淄。顾祖禹称：“自太公建国以来，齐往往称雄于天下，历汉及晋，未始不以临淄为三齐根本。 —— 布局天下<div style="padding-bottom:1em;"></div>0关于山东地形的战略意义，顾祖禹曾作过中肯的评价：“山东以自守则易弱以亡，以攻人则足以自强而集事” 这一说法是有道理的。山东地形的封闭性不如其它边角之地，三面均可能受敌，不易固守；且山东低山丘陵方圆不过几百里，缺乏纵深，几处险要一被突破，全境即可能被击穿。 —— 布局天下<div style="padding-bottom:1em;"></div>0以南方而进取北方，出江淮正面，不如出两翼。从江淮正面北出，出淮河一线太远，其攻守便失去依托：而出两翼则有比较有利的山河形势可以凭恃。在南北对峙的形势下，荆襄上游对于东南的意义，自孙吴时起便为建康方面所重视，而经营山东以固东南、并藉以进取中原，则自刘裕始。 —— 布局天下<div style="padding-bottom:1em;"></div> 0刘裕一战而平南燕，收山东之地，改变了江南政权面向中原的态势。攻取山东，开创了恢复中原、进取关中、河北的有利局面。开山东巨野泽，将泗水与黄河连结起来，使江南的人力、物力能够便利地投送到北方地区，故山东一路对于此次北伐的意义尤其重大。 —— 布局天下<div style="padding-bottom:1em;"></div>0刘义隆北伐只图河南，却不知河南四战之地，即令能攻之，未必能守之。元嘉七年，北魏已将赫连夏逐出关中，这样，北魏以代北为根本，左拥河北，右据关中，虎视中原。实际上，刘义隆所面临的问题是如何遏止北魏咄咄逼人的南进势头，而不是河南的攻守。 —— 布局天下<div style="padding-bottom:1em;"></div>0刘兴祖吸取了前两次只争河南而无功的教训，建议自山东进兵河北堵塞太行山诸隘口，将北魏遏制在山西以内；若河北底定，河南自然落入宋军之手。当时北魏太武帝刚死，国内不安定，宋军进兵时机也有利。此策可谓极富胆略，且洞悉宋魏对峙的战略形势。不过，此策非雄才大略之主不能行之 —— 布局天下<div style="padding-bottom:1em;"></div>0 将领们多主张直取大都(北京)。朱元璋说：“元建都百年，城守必固。若悬师深入，不能即破。顿于坚城之下，馈饷不继，援兵四集，进不得战，退无所据，非我利也。吾欲先取山东，撤其屏蔽；旋师河南，断其羽翼；拔潼关而守之，据其户枢。天下形势，入我掌握。然后进兵元都，则彼势孤援绝 —— 布局天下<div style="padding-bottom:1em;"></div>0从湖北沿长江上溯，穿越三峡，是为古代入川的两大通道之一。东汉岑彭攻公孙述、刘备据益州、东晋桓温灭成汉李势、朱龄石平谯纵、北宋刘光义攻后蜀盂昶、明初汤和攻明升等战役，都曾由此进兵。南方政权要控制四川，确保整个江南地区的完整，湖北是一大关键。 —— 布局天下<div style="padding-bottom:1em;"></div>0遏川中势力之东出，做得最成功的当数陆逊、陆抗父子。陆逊在夷陵(今宜昌东)击败刘备，其后置立重镇，以备蜀汉。陆逊曾上疏孙权说：“西陵，国之西门，虽云易守，亦复易失。若有不守，非但失一郡，荆州非吴有也。如其有虞，当倾国争之。” —— 布局天下<div style="padding-bottom:1em;"></div>0时势变易，各方的利害关系和战略意图都会随之而变。从双方的战略意图看，刘备至少是声称以复兴汉室为己任，孙吴的意图则是保据江东 —— 布局天下<div style="padding-bottom:1em;"></div>0晋太元八年(383年)五月苻坚大举伐晋前夕，桓冲率众十万攻襄阳，企图收复襄阳，重建襄汉上游防御体系。苻坚遣兵援救。桓冲怯于秦军声势，只得退还。这年八月，前秦大举伐晋。荆襄方面，慕容垂率军自襄阳东下攻郧城(今安陆)。十月，攻拔郧城。这时，局势突变，苻坚在淝水大败 —— 布局天下<div style="padding-bottom:1em;"></div>0杭温北伐，取得一定影响的，都是自荆、襄出兵。只是桓温北伐的用意，似不全在收复北方。他兵临灞上却不采王猛之议径攻长安，进抵枋头而不采郗超之议直趋邺城，从此中似可窥见他虽专兵在外却意在建康的枭雄心态。正是这种枭雄心态妨碍了他北伐成就的进一步取得 —— 布局天下<div style="padding-bottom:1em;"></div> 0萧绎此时都江陵而不还建康实为失策。西魏已先据汉北之地，又夺占汉中、益州，且襄阳还有附庸于西魏的萧詧，江陵两面受敌，如何能为一国之都?承圣三年(554年)五月，散骑郎庾季才还提醒萧绎说：“臣恐建子之月有大兵入江陵，陛下宜留重臣镇江陵，整旆还都(建康)以避其患 —— 布局天下<div style="padding-bottom:1em;"></div>0宇文泰遣于谨、宇文护、杨忠率兵五万攻梁。长孙俭问于谨：“为萧绎之计，将如之何?”于谨说：“耀兵汉、沔，席卷渡江，直据丹 杨(东还建康)，上策也；移郭内居民退保子城，峻其陴堞，以待援军，中策也；若难于移动，据守罗郭，下策也。 —— 布局天下<div style="padding-bottom:1em;"></div>0刘宋泰始年间的内乱。内乱使南方失去了山东、淮北及淮西豫州之地，打破了南北双方的力量平衡。在此之前，南方尚有实力和机会问鼎中原，而在此之后，南方便再无问鼎中原的实力和机会了。第二个转折点是“侯景之乱”及其带来的梁室内乱。这次动乱使南方失去了巴蜀、襄汉上游及淮南之地 —— 布局天下<div style="padding-bottom:1em;"></div>0李纲建议以长安为西都，襄阳为南都，建康为东都，使金人难于选择战略目标；张浚也言“中兴当自关陕始，如金人先入陕、寇蜀，则东南不可保。”汪若海则言：“天下者，常山蛇势也，秦蜀为首，东南为尾，中原为脊。” —— 布局天下<div style="padding-bottom:1em;"></div>0秦岭东端有武关，西端有散关(两关详细情况见关中部分)，另有三条谷道穿越秦岭中部，可为汉中与关中之间的通道。它们是褒斜道、傥骆道、子午道。 —— 布局天下<div style="padding-bottom:1em;"></div>0 三条谷道连通关中与汉中。但以秦岭之高峻，每条谷道都曲折回旋，幽深险峻，不利于人力物力的大规模运动，尤其不利于粮草补给的运输。曹操在争汉中而未得后多次感叹“南郑直为天狱，中斜谷道为五百里石穴耳。” —— 布局天下<div style="padding-bottom:1em;"></div>0 汉中与四川之间的通道有二：金牛道和米仓道。金牛道北起陕西勉县，南至剑阁之大剑关口，中间越最高峰曰朝天岭，剑阁为其南端咽喉。金牛道最早为秦惠王伐蜀所开，其后，钟会攻蜀汉、尉迟迥取梁益州、郭崇韬攻前蜀、北宋平后蜀、蒙古攻南宋，都曾由此进兵。米仓道以越米仓山而得名 —— 布局天下<div style="padding-bottom:1em;"></div>0蜀汉法正建议刘备攻取汉中，他说：“曹操一举而降张鲁，定汉中，不因此势以图巴、蜀，而留夏侯渊、张郃屯守，身遽北还，此非其智不逮，而力不足也，必将内有忧逼故耳。今策渊、郃才略不胜国之将帅，举众往讨，必可克也；克之之日，广农积谷，观衅伺隙 —— 布局天下<div style="padding-bottom:1em;"></div>0其间，刘备驰书留守成都的诸葛亮请兵增援。诸葛亮问从事杨洪，杨洪回答说：“汉中，蜀之咽喉，存亡之机，若无汉中，则无蜀矣。此家门之祸，男子当战，女子当运，发兵何疑！” [ 注：《华阳国志》卷六 刘先主志 ] —— 布局天下<div style="padding-bottom:1em;"></div>0撤去诸围守兵，聚屯汉、乐二城，坚壁清野，试图纵敌入平地，待敌兵疲粮乏之际，再击其惰归。这一变动后来被证明是一种失策。若姜维专守汉中，那么，以姜维的战术才能，此策倒不失为一种积极的防御方案，它实际上是将蜀汉攻关中时“千里负粮以邀一日之战”的不利形势交给魏军来承受 —— 布局天下<div style="padding-bottom:1em;"></div> 0但姜维对魏用兵的重点却远在陇西，这样，撤掉扼秦岭谷口的诸围守兵便实在是一种失策。后来，姜维避祸，屯田沓中(今甘肃临潭西南)，汉中方面的防御仍未调整过来，这便铸成了致命的错误 —— 布局天下<div style="padding-bottom:1em;"></div> 0诸葛亮北伐多出陇西实是一种可进可退的战略。诸葛亮出陇西，从策略上讲，是避难就易，越秦岭谷道较难而趋陇上却较易。出兵攻陇西，顺利的话，可占据陇西，取得陇西的地理优势。陇西对关中的地理优势，可用以进取，为日后进一步北伐创造有利条件；陇西对四川的地理优势 —— 布局天下<div style="padding-bottom:1em;"></div>0通常，仇池氐人攻刘宋时，往往得到北魏的支持；攻北魏时，往往得到刘宋的支持。仇池攻刘宋，或自阴平袭扰益州，或下汉中以扰梁州；攻北魏则袭上邽(今甘肃大水)。这都涉及到了南北双方利害攸关的地区。刘宋失益州，则失上游之势；北魏失上邽，则关中形势将趋不利。 —— 布局天下<div style="padding-bottom:1em;"></div> 0东汉定都洛阳，以长安为西京，洛阳为东京，南阳为南都。三京成鼎足之势。　　曹魏也定都洛阳，但立五都之制，以谯(今毫县)为先人本国、许昌为汉之所居、长安为西京遗迹、邺为王业本基，均建为睹都，与洛闽一道，号为五都 —— 布局天下<div style="padding-bottom:1em;"></div> 0秦观曾经说过，“长安四塞之国，利于守；开封四通五达之郊，利于战：洛阳守不如雍，战不如梁，而不得洛阳，则雍、梁无以为重，故自古号为天下之咽喉。夫据洛阳之险固，资大粱之沃饶表里河山，提封万井，河北三郡，足以指挥燕赵；南阳、汝宁，足以控扼秦楚 —— 布局天下<div style="padding-bottom:1em;"></div> 0南阳盆地象是关中、汉中、中原与湖北四者之间的一个旋转门，四面都可进入，四面部可出击。以盆地腹地为中心，向西沿汉水干流上溯，可以进入汉中地区；西北入武关可进入关中；由襄阳下汉水则可进入两湖地区；由淅川河谷上溯可人伊洛河谷；其东面山地罅漏甚多，可以进入中原腹地。 —— 布局天下<div style="padding-bottom:1em;"></div> 0武关之险不及潼关，且距长安路途偏远，犹如关中的侧门，由三川河谷入攻潼关较难，而由南阳盆地入攻武关较易，故东部势力多不忽视由南阳入武关这条途径。由关中东出，出潼关即进入三川河谷，出武关即进入南阳盆地，三川河谷空间较小，易陷胶着的对峙，而南阳盆地空间较大，可以纵横四出 —— 布局天下<div style="padding-bottom:1em;"></div>0张巡、许远力战死守，守城极为艰难，左右谋弃城而去。二人谋曰：“睢阳，江淮之保障，若弃之去，贼必乘胜长驱，是无江淮也。”时北方残破，唐廷及平叛诸军的补给都依赖江南地区，张巡、许远守睢阳，阻遏了叛军向江淮方向深入，保证了江南的完整。 —— 布局天下<div style="padding-bottom:1em;"></div>0北伐后秦时，遣王镇恶、檀道济自淮水、淝水以趋许、洛，沈林子、刘遵考自汴水入黄河，主力则白洒水开巨野泽入黄河，刘宋元嘉北伐，均自淮河由泗水入黄河。陈代吴明彻北伐，进取淮北，大军亦自泗水北进。 —— 布局天下<div style="padding-bottom:1em;"></div> 0在颍河与淮河主干之间有汝水，汝南城据其上游，为淮河上游—大重镇。汝南在淮水、颖水之间，足以左右应接，在河南的大平原上纵横四出。南北朝时，汝南曾为司州寄治之地，域名悬瓠。北魏南下，多次激战于悬瓠城下。 —— 布局天下<div style="padding-bottom:1em;"></div>0窦建德宰军救援王世充，被阻虎牢，窦建德部下凌敬建议：“大王悉兵济河．攻取怀州，河阳，使重将守之，更鸣鼓建旗，逾太行，入上党，徇汾、晋，趣蒲津，如此有三利：一则蹈无人之境，取胜可以万全；二则拓地收众，形势益强；三则关中震骇，郑围白解。为今之策，尤以易此。 —— 布局天下<div style="padding-bottom:1em;"></div>0这时，齐人娄敬谒见刘邦，说，陛下欲都洛阳而与周室比隆，但是，陛下取天下与周室不同，周积善累德十有余世，国人争随之，诸侯自归之，遂以灭商，“及成王即位，周公相焉，乃营洛邑，以为此为天下之中也，诸侯四方纳贡职，道里均矣 —— 布局天下<div style="padding-bottom:1em;"></div>0历尽艰险，苦心经营，才扫平群雄，统一北方。曹操据中原以经略四方，看实不易，与他同时代的诸葛亮就曾经说过：“曹操智计．殊绝于人，其用兵也，仿佛孙、吴；然围于南阳，险于鸟巢，危于祁连，逼于黎阳，几败伯山，殆死潼关，然后伪定一时耳。” —— 布局天下<div style="padding-bottom:1em;"></div>0部下柴孝和建议李密先取关中作为基础，再东向以争天下，李密说；“君之所图，仆亦思之久矣，诚为卜策。但昏主尚在，纵兵犹众，我之所部，并山东人，既见未下洛阳，何肯相随西人！诸将出于群盗，留之各竞雌雄。若然者，殆将败矣。”李密后期兵势屡败，遂率余众人关降唐 —— 布局天下<div style="padding-bottom:1em;"></div>00薛公说：“使布出于上计，山东非汉之有也；出于中计．胜败之数未可知也；出于下计，陛下安枕而卧矣。东取吴，西取楚，并齐取鲁，传檄燕赵，固守其所，山东非汉之有也。东取吴，西取楚，并韩取魏，据敖仓之粟，塞成皋之口，胜败之数未可知也。东取吴，西取下蔡，归重于越，身归长沙 —— 布局天下<div style="padding-bottom:1em;"></div> 0汉武帝时，淮南王刘安进行过一场未遂的谋反。史载刘安日夜与属下研究天下形势，“按舆地图，部署兵所从入”。他问计于伍被，叙述其起兵的打算，并说到吴王的失误。他说：“且吴何知反，汉将一日过成皋者四十余人。今我令缓先邀成皋之口，周被下颍川兵塞轘辕、伊阙之遭 —— 布局天下<div style="padding-bottom:1em;"></div>0刘渊本欲效法汉高祖，灭司马氏政权后一统天下，所以他很注意处理胡汉关系。他建立政权都是打着汉家的旗号。刘渊遣大将刘景率军攻洛阳，刘景驱杀汉族百姓三万余人沉于黄河，刘渊闻讯大怒，曰：“景何面目见朕!且天道岂能容之!吾所欲除者，司马氏耳，细民何罪！ —— 布局天下<div style="padding-bottom:1em;"></div>0 至于项羽不都关中恐怕也是不得已的事。项羽所率领的军队是反秦战争中的主力。战争往往会使仇恨加剧，使矛盾更加尖锐。项羽在新安坑杀秦卒更是加剧而不是消弭了秦人与东方人之间的矛盾。所以，即令项羽立都关中，关中也不会是他的天府之国，而只会是他的肘腋之患。 —— 布局天下<div style="padding-bottom:1em;"></div>0当时形势，刘邦势单力薄，兵逃将亡，一般人都会觉得首先应该蓄精养锐，整军经武，积累力量，然后再出争天下。但是刘邦拜韩信为大将后，并没有像萧何当初所建议的那样，而是迅速出兵还定三秦。仅凭这一点，刘邦就收到了至少两个方面的好处。 —— 布局天下<div style="padding-bottom:1em;"></div>0首先是时机上的好处。所谓人心动则难静，静则难动。设使项羽咸阳罢兵之后，天下能有数年之安，则数年之后，诸侯各安其地，百姓各安其业，诸侯林立的分裂局面将成定局。再过几年，冒顿统一下的匈奴南下，有资格率中原诸侯反击冒顿的惟有项羽。 —— 布局天下<div style="padding-bottom:1em;"></div>0而领导中原诸侯反击匈奴正好提供了这种政治资本，藉以进一步整合天下。则天下之势必将重归项羽，那时刘邦再出争天下，形势就很不利了；即令能争，以当时岳峙之群雄十数辈，逐一扫平，事亦难矣。其次起到了以患了打回东方去的动力。这就是韩信所说的“以义兵从思东归之士，何所不散！ —— 布局天下<div style="padding-bottom:1em;"></div>0上述几次北方兼并南方的统一战争在布势上又表现出一定的相似性，都是东西齐举，上、下游并进；但局面的打开则都是从上游着手的。西晋灭吴，以王濬下益州，杜预等下荆襄；隋灭陈，以杨素下益州，杨俊等下汉水；蒙古则以攻克襄阳而取得上游之势。这是由南北对峙的基本地理形势所决定的 —— 布局天下<div style="padding-bottom:1em;"></div>0其军事上潜在的威胁存在于南方而不是北方。元、清两代对中原汉人始终怀着防范戒备之心。因此，对于他们来说，长城一线的意义就不大了。这样，运河一线画到河北北部后，不是垂直折成东西向，而是以其它方式继续向北延伸，以使河北作为农耕经济的中原与游牧经济的塞外之间的一个衔接地带 —— 布局天下<div style="padding-bottom:1em;"></div>0历史学给人最大的收益莫过于历史感的养成。历史感就像下围棋者的棋感，与其说是一种学问，不如说是一种修养。它是基于对历史这一凝重、雄浑而又巨大的动态过程力求作一种动态的把握而磨砺出的一种眼光。它直观、深厚而又犀利，能进过纷纭的表象把握历史大势 —— 布局天下<div style="padding-bottom:1em;"></div>0不过，这里面还须有一种至深的用世情怀。有用世的情怀，有用世的抱负，视史事若时事，视人之事若己之事，身在宁静的书房，心系历史的风云；与古人同历其难，共谋其事，才能与古人斟酌成败得失，商议治乱兴衰。如此反复揣摩，沉吟把玩，才能达于历史之智慧 —— 布局天下
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/26174898/#comments">回应</a>&nbsp;&nbsp;
+                  2013-05-04 22:40
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="29808598">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xryutu/"><img src="https://img3.doubanio.com/icon/u3476889-14.jpg" alt="祥瑞御兔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29808598/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29808598/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xryutu/" class=" " title="祥瑞御兔">祥瑞御兔</a>
+                (YM3(^__^)(+__+)(⊙_⊙))
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="29808598">
+              <div class="short">
+                
+                  <span class="">四角四边（尤其四边）之说大有商榷余地：四角需倚靠四边，但关中往往需要倚靠隐藏的一“边”陇西而非山西；河北不仅需要倚靠山西也需要倚靠塞北辽西；四川必须倚靠汉中，汉中仅对四川具有一“边”的意义；山东不是一个完整的“边”，青徐淮之间的广大地域都是。唯一正确的是指出荆襄作为一“边”对东南乃至天下的重要意义。</span>
+                <p class="pl">
+                  <span class="">2013-12-17 18:18</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                四角四边（尤其四边）之说大有商榷余地：四角需倚靠四边，但关中往往需要倚靠隐藏的一“边”陇西而非山西；河北不仅需要倚靠山西也需要倚靠塞北辽西；四川必须倚靠汉中，汉中仅对四川具有一“边”的意义；山东不是一个完整的“边”，青徐淮之间的广大地域都是。唯一正确的是指出荆襄作为一“边”对东南乃至天下的重要意义。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29808598/#comments">回应</a>&nbsp;&nbsp;
+                  2013-12-17 18:18
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="27268666">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xryutu/"><img src="https://img3.doubanio.com/icon/u3476889-14.jpg" alt="祥瑞御兔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/27268666/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/27268666/" class="">第29页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xryutu/" class=" " title="祥瑞御兔">祥瑞御兔</a>
+                (YM3(^__^)(+__+)(⊙_⊙))
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="27268666">
+              <div class="short">
+                
+                  <span class="">函谷关，即后来的潼关，在今陕西潼关附近，经历代多次营建，具体地点亦时有变迁，至东汉末始称潼关。黄河自上游而来，纳渭水后折而向东，南北两岸有华山、崤山与中条山夹河而立。关中与中原之间的通道，穿越华山和崤山北麓的山地，延绵数百里，极尽险阻。函谷关即当道依险而立，控制着关中与中原之间的通道。
+
+天雷……</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/27268666/">(<span class="">7回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-06-25 14:48</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>函谷关，即后来的潼关，在今陕西潼关附近，经历代多次营建，具体地点亦时有变迁，至东汉末始称潼关。黄河自上游而来，纳渭水后折而向东，南北两岸有华山、崤山与中条山夹河而立。关中与中原之间的通道，穿越华山和崤山北麓的山地，延绵数百里，极尽险阻。函谷关即当道依险而立，控制着关中与中原之间的通道。</q></blockquote><div style="padding-bottom:1em;"></div>天雷……
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/27268666/#comments">7回应</a>&nbsp;&nbsp;
+                  2013-06-25 14:48
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="29536952">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/kistar/"><img src="https://img3.doubanio.com/icon/u1789257-10.jpg" alt="苏小蛇" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29536952/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29536952/" class="">第二章 四角的军事地理形 第四节 山川险固，天府之土――四川</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/kistar/" class=" " title="苏小蛇">苏小蛇</a>
+                (fly to me, if u dare.)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="29536952">
+              <div class="short">
+                
+                  <span class="">本书反复提到，发轫于四川的政权，没有一个统一了中国。
+
+但我认为刘邦就应该被算作发轫于四川。虽然他是从沛县一路攻到咸阳的，但就灭秦之后的天下布局而言，刘邦受封汉王，领地四川和汉中，确实应该算是一个从四川发起，统一全国的案例吧。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/29536952/">(<span class="">14回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-11-27 23:58</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                本书反复提到，发轫于四川的政权，没有一个统一了中国。<div style="padding-bottom:1em;"></div>但我认为刘邦就应该被算作发轫于四川。虽然他是从沛县一路攻到咸阳的，但就灭秦之后的天下布局而言，刘邦受封汉王，领地四川和汉中，确实应该算是一个从四川发起，统一全国的案例吧。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29536952/#comments">14回应</a>&nbsp;&nbsp;
+                  2013-11-27 23:58
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="29808598">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xryutu/"><img src="https://img3.doubanio.com/icon/u3476889-14.jpg" alt="祥瑞御兔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29808598/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29808598/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xryutu/" class=" " title="祥瑞御兔">祥瑞御兔</a>
+                (YM3(^__^)(+__+)(⊙_⊙))
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="29808598">
+              <div class="short">
+                
+                  <span class="">四角四边（尤其四边）之说大有商榷余地：四角需倚靠四边，但关中往往需要倚靠隐藏的一“边”陇西而非山西；河北不仅需要倚靠山西也需要倚靠塞北辽西；四川必须倚靠汉中，汉中仅对四川具有一“边”的意义；山东不是一个完整的“边”，青徐淮之间的广大地域都是。唯一正确的是指出荆襄作为一“边”对东南乃至天下的重要意义。</span>
+                <p class="pl">
+                  <span class="">2013-12-17 18:18</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                四角四边（尤其四边）之说大有商榷余地：四角需倚靠四边，但关中往往需要倚靠隐藏的一“边”陇西而非山西；河北不仅需要倚靠山西也需要倚靠塞北辽西；四川必须倚靠汉中，汉中仅对四川具有一“边”的意义；山东不是一个完整的“边”，青徐淮之间的广大地域都是。唯一正确的是指出荆襄作为一“边”对东南乃至天下的重要意义。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29808598/#comments">回应</a>&nbsp;&nbsp;
+                  2013-12-17 18:18
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="29536952">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/kistar/"><img src="https://img3.doubanio.com/icon/u1789257-10.jpg" alt="苏小蛇" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29536952/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29536952/" class="">第二章 四角的军事地理形 第四节 山川险固，天府之土――四川</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/kistar/" class=" " title="苏小蛇">苏小蛇</a>
+                (fly to me, if u dare.)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="29536952">
+              <div class="short">
+                
+                  <span class="">本书反复提到，发轫于四川的政权，没有一个统一了中国。
+
+但我认为刘邦就应该被算作发轫于四川。虽然他是从沛县一路攻到咸阳的，但就灭秦之后的天下布局而言，刘邦受封汉王，领地四川和汉中，确实应该算是一个从四川发起，统一全国的案例吧。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/29536952/">(<span class="">14回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-11-27 23:58</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                本书反复提到，发轫于四川的政权，没有一个统一了中国。<div style="padding-bottom:1em;"></div>但我认为刘邦就应该被算作发轫于四川。虽然他是从沛县一路攻到咸阳的，但就灭秦之后的天下布局而言，刘邦受封汉王，领地四川和汉中，确实应该算是一个从四川发起，统一全国的案例吧。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29536952/#comments">14回应</a>&nbsp;&nbsp;
+                  2013-11-27 23:58
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="27268666">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xryutu/"><img src="https://img3.doubanio.com/icon/u3476889-14.jpg" alt="祥瑞御兔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/27268666/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/27268666/" class="">第29页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xryutu/" class=" " title="祥瑞御兔">祥瑞御兔</a>
+                (YM3(^__^)(+__+)(⊙_⊙))
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="27268666">
+              <div class="short">
+                
+                  <span class="">函谷关，即后来的潼关，在今陕西潼关附近，经历代多次营建，具体地点亦时有变迁，至东汉末始称潼关。黄河自上游而来，纳渭水后折而向东，南北两岸有华山、崤山与中条山夹河而立。关中与中原之间的通道，穿越华山和崤山北麓的山地，延绵数百里，极尽险阻。函谷关即当道依险而立，控制着关中与中原之间的通道。
+
+天雷……</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/27268666/">(<span class="">7回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-06-25 14:48</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>函谷关，即后来的潼关，在今陕西潼关附近，经历代多次营建，具体地点亦时有变迁，至东汉末始称潼关。黄河自上游而来，纳渭水后折而向东，南北两岸有华山、崤山与中条山夹河而立。关中与中原之间的通道，穿越华山和崤山北麓的山地，延绵数百里，极尽险阻。函谷关即当道依险而立，控制着关中与中原之间的通道。</q></blockquote><div style="padding-bottom:1em;"></div>天雷……
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/27268666/#comments">7回应</a>&nbsp;&nbsp;
+                  2013-06-25 14:48
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="26174898">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/65513926/"><img src="https://img3.doubanio.com/icon/u65513926-4.jpg" alt="醉胡尘" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/26174898/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/26174898/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/65513926/" class=" " title="醉胡尘">醉胡尘</a>
+                (信 达 侃 思 知 行 止)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="26174898">
+              <div class="short">
+                
+                  <span class="">0函谷关扼崤函之险，控制着关中与中原之间的往来通道；武关控秦岭东段之险，扼守着关中东南方向的进入通道；散关扼秦岭西端之险，控制着关中与汉中、巴蜀之间的交通咽喉；萧关扼陇山之险，守备着关中西北通道。四塞险固，闭关可以自守，出关可以进取。 —— 布局天下
+0河北三面山海环抱南面中原。燕山起着抗击塞北游牧民族南下的屏障作用，翼蔽河北乃至整个中原的安全。居庸关、山海关、松亭关、古北口、冷口、喜峰口等关隘，扼守...</span>
+                <p class="pl">
+                  <span class="">2013-05-04 22:40</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                0函谷关扼崤函之险，控制着关中与中原之间的往来通道；武关控秦岭东段之险，扼守着关中东南方向的进入通道；散关扼秦岭西端之险，控制着关中与汉中、巴蜀之间的交通咽喉；萧关扼陇山之险，守备着关中西北通道。四塞险固，闭关可以自守，出关可以进取。 —— 布局天下<div style="padding-bottom:1em;"></div>0河北三面山海环抱南面中原。燕山起着抗击塞北游牧民族南下的屏障作用，翼蔽河北乃至整个中原的安全。居庸关、山海关、松亭关、古北口、冷口、喜峰口等关隘，扼守穿越燕山山脉的几条交通孔道。太行山脉为河北的右侧翼的重要屏障。紫荆关、倒马关、井陉关、滏口等关隘扼守穿越太行山脉 —— 布局天下<div style="padding-bottom:1em;"></div>0古代长江下游易渡之处有二，一是采石渡，一是刮洲渡，分处建康（今南京）的上下游。建康方面也加强对两处渡口的防守。在这两处渡口的南岸，分别有京口（今江苏镇江）和采石，北岸分别有广陵（今江苏扬州）和历阳（今安徽和县），都置兵戊于守，立为重镇。淮河与长江相表里 —— 布局天下<div style="padding-bottom:1em;"></div>0主要是扼守淮河支流与淮河的交汇口。在淮西，主要是钟离（今安徽凤阳）和寿春（今安徽寿县），在淮东，主要是山阳（今江苏淮安）和盱眙。寿春正对颍口（颍河与淮河的交汇口），挡颍河或淮河上游方向的来敌；钟离正对涡口（涡河与淮河的交汇口），挡涡河之冲。 —— 布局天下<div style="padding-bottom:1em;"></div>0一个地域能否兴起强大的社会政治力量与这个地域的民风、社会文化特色及其发展水平有很大的关系。关中地近西戎，风俗劲勇，民皆习战；自商鞅变法，秦人以耕战为本，遗风流披，影响深远，形成了与东部地区迥然相异的社会风尚 —— 布局天下<div style="padding-bottom:1em;"></div>0 山西的山河形势使山西具有一种极为有利的内线作战的地位。山西地势高峻，足以俯瞰三面；通向外部的几个交通孔道，多是利于外出而不利于入攻。这是山西内线作战的有利条件，也是山西在北方枢纽地位得以形成的地理基础 —— 布局天下<div style="padding-bottom:1em;"></div>0 胶东半岛为古代海上运输的一大中转地。山东在南北之间尤居枢纽性地位。南北对峙之际，山东常是争夺的焦点。中国政治重心东移后，连接政治重心与经济重心的南北交通动脉大运河，正处在山东的监控之下，所以山东地位举足轻重。明初朱元璋北伐以攻占山东而打开大都门 —— 布局天下<div style="padding-bottom:1em;"></div>0方面者比比皆是。另外，从湖北藉汉水北上，还可经略中原，进图北方。襄阳、武昌、江陵是湖北境内的三大镇，犹如鼎之三足，撑开湖北形势，使湖北在面向不同的方向时显示出不同的战略意义。 —— 布局天下<div style="padding-bottom:1em;"></div>0 顾祖禹在谈到它们的战略意义时精辟地论道：“以天下言之，则重在襄阳；以东南言之，则重在武昌；以湖广言之，则重在荆州。” —— 布局天下<div style="padding-bottom:1em;"></div>0西汉水河谷低地提供了一条由汉中通往陇西的比较平坦的通道。陇西地势明显高于关中四川，自关中、四川仰攻陇西较难，而自陇西下攻关中和四川却较易。这就给在汉中、关陇一带的角逐者们提供了一个思路：与其在秦岭南北争一日之短长，不如取远势争陇西，取得一种地理上的有利态势。蜀汉北 —— 布局天下<div style="padding-bottom:1em;"></div>0南阳盆地像是关中、汉中、湖北与中原四者之间的一个旋转门，四面都可进入，四面都可出击。从全局的角度看，南阳盆地具有东西伸展、南北交汇的特点。襄阳和南阳分处于盆地的南北两端，这两座重镇的形成代表了南北双方在这片地域内利害关系的对峙和胶着 —— 布局天下<div style="padding-bottom:1em;"></div>0河内地区在山西与河南之间、在关中与河北之间都是往来的要冲。在河内与山西之间，太行关隘是是攻守的要点；在河内与河南之间，河阳孟津是攻守的要点。河内地区在东、西部之间与是往来要冲。从河内入轵关、经蒲津可趋关中；从河内循太行山东进，可趋河北。 —— 布局天下<div style="padding-bottom:1em;"></div>0在政治重心位于关中的时代，湖北是西北与东南之间衔接的纽带，地位比较重要；政治重心移至河北以后，随着关中地位的下降，湖北地位也有所下降，而山东则成了南北之间政治重心与经济重心联系的枢纽，地位举足轻重 —— 布局天下<div style="padding-bottom:1em;"></div>0北宋初，赵匡胤西巡洛阳，隐然有迁都洛阳之意，群臣不同意。赵匡胤叹息道：“迁河南未已，久当迁长安……欲据山河之险而去冗兵，循周汉故事，以安天下也。”看重的仍是关中优越的山河形势。 —— 布局天下<div style="padding-bottom:1em;"></div>0铜铁上好的林竹都是制造武器的好材料，属重要战略物资。历代建都关中之时，出于强干弱枝的考虑，又常迁徙人口以充实关中，故关中之地人口殷实。司马迁描述当时关中的富裕，称“故关中之地，于天下三分之一，而人众不过什三；然量其富，什居其六”。 —— 布局天下<div style="padding-bottom:1em;"></div>0苏秦、范雎游说秦王时，都将关中民风与关中地利并提，视为秦国霸业的两个重要条件。苏秦看到秦国“士民之众，兵法之教”，认为“可以吞天下，称帝而治。”范雎则将“怯于私斗而勇于公战”的泰国百姓称之为“王者之民”。秦汉时期流行有“关东出相，关西出将”的说法。 —— 布局天下<div style="padding-bottom:1em;"></div>0“唐之弱，以河北之强也；唐之亡，以河北之弱。”唐中后期重用蕃将，在唐末藩镇割据局面中，这些蕃将拥兵自重，骄悍难制。继唐之后的五代政权的兴衰都与这种势力有关。 —— 布局天下<div style="padding-bottom:1em;"></div>0论山川形势，武关之险不及潼关，自东南一入武关。便可径至蓝田，下临长安。且武关距长安道远，有紧急情况，救援不及。所以关东势力攻关中，也多取道武关。刘邦西伐关中，为避潼关之险，绕道南阳攻占武关，进抵蓝田，在蓝田击败秦军 —— 布局天<div style="padding-bottom:1em;"></div>0 还有一处渡口，亦为出入关中的重要通道，这就是蒲津。扼守蒲津渡口的重镇是蒲坂。蒲坂在今山西蒲州，西临黄河。这里是自山西进入关中的跳板，也是自关中进入山西的桥头堡。通常蒲坂为关中所守时，退可以阻挡山西方向的入侵，进可以窥取临汾、上党；如蒲坂不守，则关中险塞不可谓稳固。 —— 布局天下<div style="padding-bottom:1em;"></div>0大致经历了三个阶段，这三个阶段又分别是在关中的三个主要方向取得突破性进展。秦孝公时主要是在左侧翼山西方向打开局面，秦惠王时主要是在右侧翼汉中、巴、蜀方向打开局面，秦武王和秦昭襄王时期则在中原方向沿黄河、太行山脊岭一线取得突破性进展。 —— 布局天下<div style="padding-bottom:1em;"></div>0陇西在关中之西，而河西又在陇西之西。如果说陇西对关中拥有地理上的优势的话，那么河西对陇西同样拥有地理上的优势。陇西足以制关中，河西则足以制陇西。以关中而欲图陇西，可以联结河西，利用河西对陇西的地理优势，制陇西之后，夹击陇西。刘秀之结好窦融、李渊之结好李轨 —— 布局天下<div style="padding-bottom:1em;"></div>0陈东则沉痛呼吁：“曾不知无三关 、四镇（太原、河间、真定、中山），是弃河北也！弃河北，朝廷能复都大梁乎！” —— 布局天下<div style="padding-bottom:1em;"></div>0郭子仪率朔方精兵与李光弼合军以攻史思明，大破叛军。于是河北十余郡皆杀贼将而归朝廷。叛军交通线 又告断绝，叛军家在范阳者无不摇心。安禄山大怯，议弃洛阳而还范阳。不过，就在这时，哥舒翰兵败潼关，叛军攻入长安，唐玄宗被迫幸蜀。战局突变，郭李二人乃放弃河北，引兵还太原 —— 布局天下<div style="padding-bottom:1em;"></div>0执行此方略的要点是曹彬等幽州正面之军持重缓行，成功地牵制住辽军主力。但在具体实施的过程中，曹彬违背了这一点。他 贪功冒进，连太宗都“颇讶其进军之速”。辽援军到达后，在岐沟关（今啄州西南拒马河北）大败曹彬军。正面之师惨败，宋军全线溃退。 —— 布局天下<div style="padding-bottom:1em;"></div>0顾炎武、顾祖禹等对明朝的这种国防体系作了深刻的反思，对明廷放弃大宁、开平等燕山外围藩 篱更是提出了沉痛的批评。顾祖禹在《读史方舆纪要》中写道：“都燕京而弃大宁、弃开平，委东胜于榛芜，视辽左如秦越，是自剪羽翼，而 披其股肱也，欲求安全无患，其可得乎！ —— 布局天下<div style="padding-bottom:1em;"></div>0《隋书》地理志述东南民风，谓淮南一带“人性并躁劲，风气果决，包藏祸害，视死如归，战而贵诈，此则其旧风也。自平陈之后，其俗颇变，尚淳质，好俭约，丧纪婚姻，率渐于礼。”京口一带“其人本并习战，号为天下精兵。 —— 布局天下<div style="padding-bottom:1em;"></div>0 以守而言，则守淮河可藉淮南的广大地区作为纵深；以攻而言，则出淮北可以进取中原。淮河支流多源于淮北，特别是泗水，稍经开凿，即能连通黄河，从而使南方的力量能远投到黄河流域；而单守长江，则一处被突破，便已入其心腹 —— 布局天下<div style="padding-bottom:1em;"></div>0在唐以前，采石的重要性有过于京口。采石附近，江面较窄，京口一带，江面较宽，且京口以北，河湖密布，北骑驱驰不易；采石以北，隔淮西而直面中原，敌骑驱驰，容易抵达。北骑南来，趋采石较趋京口为易。故前人有言：“古来江南有事，从采石渡者十之九，从京口渡者十之一。” —— 布局天下<div style="padding-bottom:1em;"></div>0唐以后，形势稍有变化，一方面由于泥沙冲积，瓜洲一带江面稍稍变窄，另一方面，随着大运河的开凿和政治重心的东移，这里是运河与长江、北方政治重心与南方经济重心联系的衔接地带，因而地位有所上升。 —— 布局天下<div style="padding-bottom:1em;"></div>0《正淮论》言寿春之重要曰：“彼寿阳者，南引荆汝之利，东连三吴之富；北接梁宋，平途不过七百；西援陈许，水陆不出千里；外有江湖之阻，内有淮淝之固。龙泉之陂，良田万顷，舒、六之贡，利尽蛮越。” —— 布局天下<div style="padding-bottom:1em;"></div>00北伐总是一面旗帜，一面可以用以收拾人心、整合南方社会的旗帜。　　东南政权既然大多是乔迁政权，他们在北方少数民族占领北方地区之后，大都能整合南方社会，统一江南半壁江山。在他们整合南方社会的过程中，北伐、收复中原通常是其收拾人心的一面旗帜。 —— 布局天下<div style="padding-bottom:1em;"></div>00 祖逖北伐，晋廷并未给予实质性的支持。而当祖逖刚刚在河南打下基础，晋廷即派戴渊前往节制。祖逖想到自己“已翦荆棘，收河南地，而（戴）渊雍容，一旦来统之，意甚怏怏；又闻王敦与刘（隗）、刁（协）构隙，将有内难，知大功不遂，感激发病 —— 布局天下<div style="padding-bottom:1em;"></div>0元嘉七年北伐时，北魏崔浩曾对太武帝分析说：“臣始谓义隆军来，当屯止河中，两道北上，东道向冀州（今河北冀县），西道冲邺，如此则陛下当自讨之，不得徐行；今则不然，（宋军）东西列兵，径二千里，一处不过数千，形分势弱，以此观之，不过欲固河自守，无北渡意也。” —— 布局天下<div style="padding-bottom:1em;"></div>0至于攻取河南之后，止兵潼关而不攻关中，径攻河北而不攻山西，一方面正如朱元璋所分析的：“扩廓帖木尔、李思济、张思道皆百战之余，未肯遽下，急之则并力一隅，猝未易定，故出其不意，反旆而北，燕都既平，然后西征张、李，望绝势穷，可不战而克。 —— 布局天下<div style="padding-bottom:1em;"></div>0东汉岑彭讨公孙述，在江州（重庆）兵分两路，遣臧宫行内水，自率主力行外水；刘备入成都，取道内水；东晋时，恒温平李势，取道外水；刘裕遣刘敬宣讨焦纵，刘敬宣先从外水进攻，不利，后刘裕再遣朱龄石攻焦纵，密赦朱龄石以疑兵从内水进攻，仍以主力从外水取成都 —— 布局天下<div style="padding-bottom:1em;"></div>0以公孙述所建成家政权为典型，历代据蜀者大抵能利用四川的地理环境完成割据，但要摆脱割据而谋求更大的发展，则又反过来为四川的地理环境所限制。这是四川易于产生割据政权但又没有一个政权完成过统一天下大业的又一个重要原因。 —— 布局天下<div style="padding-bottom:1em;"></div>0四川惟有在一个整体的大棋局中，才显示出其不可忽视的战略地位。若仅为一种单独的割据势力所有，那么，构成其割据基础的地理因素同时便也构成了限制其向外发展的一个消极因素。 —— 布局天下<div style="padding-bottom:1em;"></div> 0隋仁寿四年(604年)，汉王杨谅在太原起兵时，部下裴文安自请为前锋，直入蒲津，并建议“王以大军继后，风行电击，顿于灞上，咸阳以东，可指麾而定。” [ 注：《资治通鉴》卷一百八十 隋纪四 ] 后来杨谅改变主意，只断河桥，遣军守蒲州。杨素潜军渡河，遂拔蒲州，进讨杨谅。 —— 布局天下<div style="padding-bottom:1em;"></div>0安史之乱时叛军占领河北、河南、关中，山西却始终在唐军的控制之下，监控着叛军从范阳至长安的漫长战线。在李泌谋划的战略反攻计划中即充分利用了这一态势：“今若令李光弼自太原出井陉，郭子仪自冯翊人河东，则思明、忠志不敢离范阳、常山，守忠、乾真不敢离长安，是以两军絷具四将也 —— 布局天下<div style="padding-bottom:1em;"></div>0关中和河北二地易于建立起局部的秩序。争雄北方的势力大多起于这两个地区。山西高原像一个巨大的楔子，楔入关中与河北之间，面向中原。无论是哪一方，要想兼并对方，统一北方，进而统一天下，都必须首先取得对山西的控制权，否则不可能打开局面。 —— 布局天下<div style="padding-bottom:1em;"></div>0宜守重镇于平阳，与彼蒲州相对，深沟高垒，运粮积甲，彼闭关不出，则稍蚕食其河东之地，日使穷蹙：彼若出兵，非十万以上不足为我敌，所资粮食，咸出关中；我军士年别—代，谷食丰饶，彼来求战，我则不应，彼若退去，我乘其弊。自长安以西，民疏城远，敌兵往来，实自艰难 —— 布局天下<div style="padding-bottom:1em;"></div>0在这片低山丘陵的西北侧有济南。济南南依泰山，北阻黄河。前人论济南地位，称“齐州当四达之冲。南不得齐州，则无以问河济；北不得齐州，则不敢窥淮泗；西不得齐州，则无从得志于临淄；东不得齐州，则无争衡于阿鄄。是故山东有难，齐州常为战守之冲 —— 布局天下<div style="padding-bottom:1em;"></div>0历史上著名的历下城即在济南城西。战国时，诸侯攻齐，每每战于历下。秦灭魏之后，挥师东进，屯兵历下，兵压齐境，齐王不战而降。楚汉战争时，辩士郦食其游说齐王田广附汉，使齐罢历下之戍，韩信遂得以透入齐境，略定三齐。南朝刘宋孝建年间，刘宋将青、冀二州州治移镇历城 —— 布局天下<div style="padding-bottom:1em;"></div>0在这片低山丘陵的西南侧有兖州、济宁，依山临河，控守一方。济宁城南即古之所谓亢父之险，苏秦曾称亢父之险“车不得方轨，骑不得比行，百人守险，千人不敢过也。” [ 注：《史记》卷六十九 苏秦列传 ] 古代南北水运交通动脉大运河即处在其监控之下。自此外出四略，地势便利 —— 布局天下<div style="padding-bottom:1em;"></div>0在这片低山丘陵的东北侧有青州，附近即古临淄，齐之国都。在山东诸要地中．论防护之固，无如临淄。顾祖禹称：“自太公建国以来，齐往往称雄于天下，历汉及晋，未始不以临淄为三齐根本。 —— 布局天下<div style="padding-bottom:1em;"></div>0关于山东地形的战略意义，顾祖禹曾作过中肯的评价：“山东以自守则易弱以亡，以攻人则足以自强而集事” 这一说法是有道理的。山东地形的封闭性不如其它边角之地，三面均可能受敌，不易固守；且山东低山丘陵方圆不过几百里，缺乏纵深，几处险要一被突破，全境即可能被击穿。 —— 布局天下<div style="padding-bottom:1em;"></div>0以南方而进取北方，出江淮正面，不如出两翼。从江淮正面北出，出淮河一线太远，其攻守便失去依托：而出两翼则有比较有利的山河形势可以凭恃。在南北对峙的形势下，荆襄上游对于东南的意义，自孙吴时起便为建康方面所重视，而经营山东以固东南、并藉以进取中原，则自刘裕始。 —— 布局天下<div style="padding-bottom:1em;"></div> 0刘裕一战而平南燕，收山东之地，改变了江南政权面向中原的态势。攻取山东，开创了恢复中原、进取关中、河北的有利局面。开山东巨野泽，将泗水与黄河连结起来，使江南的人力、物力能够便利地投送到北方地区，故山东一路对于此次北伐的意义尤其重大。 —— 布局天下<div style="padding-bottom:1em;"></div>0刘义隆北伐只图河南，却不知河南四战之地，即令能攻之，未必能守之。元嘉七年，北魏已将赫连夏逐出关中，这样，北魏以代北为根本，左拥河北，右据关中，虎视中原。实际上，刘义隆所面临的问题是如何遏止北魏咄咄逼人的南进势头，而不是河南的攻守。 —— 布局天下<div style="padding-bottom:1em;"></div>0刘兴祖吸取了前两次只争河南而无功的教训，建议自山东进兵河北堵塞太行山诸隘口，将北魏遏制在山西以内；若河北底定，河南自然落入宋军之手。当时北魏太武帝刚死，国内不安定，宋军进兵时机也有利。此策可谓极富胆略，且洞悉宋魏对峙的战略形势。不过，此策非雄才大略之主不能行之 —— 布局天下<div style="padding-bottom:1em;"></div>0 将领们多主张直取大都(北京)。朱元璋说：“元建都百年，城守必固。若悬师深入，不能即破。顿于坚城之下，馈饷不继，援兵四集，进不得战，退无所据，非我利也。吾欲先取山东，撤其屏蔽；旋师河南，断其羽翼；拔潼关而守之，据其户枢。天下形势，入我掌握。然后进兵元都，则彼势孤援绝 —— 布局天下<div style="padding-bottom:1em;"></div>0从湖北沿长江上溯，穿越三峡，是为古代入川的两大通道之一。东汉岑彭攻公孙述、刘备据益州、东晋桓温灭成汉李势、朱龄石平谯纵、北宋刘光义攻后蜀盂昶、明初汤和攻明升等战役，都曾由此进兵。南方政权要控制四川，确保整个江南地区的完整，湖北是一大关键。 —— 布局天下<div style="padding-bottom:1em;"></div>0遏川中势力之东出，做得最成功的当数陆逊、陆抗父子。陆逊在夷陵(今宜昌东)击败刘备，其后置立重镇，以备蜀汉。陆逊曾上疏孙权说：“西陵，国之西门，虽云易守，亦复易失。若有不守，非但失一郡，荆州非吴有也。如其有虞，当倾国争之。” —— 布局天下<div style="padding-bottom:1em;"></div>0时势变易，各方的利害关系和战略意图都会随之而变。从双方的战略意图看，刘备至少是声称以复兴汉室为己任，孙吴的意图则是保据江东 —— 布局天下<div style="padding-bottom:1em;"></div>0晋太元八年(383年)五月苻坚大举伐晋前夕，桓冲率众十万攻襄阳，企图收复襄阳，重建襄汉上游防御体系。苻坚遣兵援救。桓冲怯于秦军声势，只得退还。这年八月，前秦大举伐晋。荆襄方面，慕容垂率军自襄阳东下攻郧城(今安陆)。十月，攻拔郧城。这时，局势突变，苻坚在淝水大败 —— 布局天下<div style="padding-bottom:1em;"></div>0杭温北伐，取得一定影响的，都是自荆、襄出兵。只是桓温北伐的用意，似不全在收复北方。他兵临灞上却不采王猛之议径攻长安，进抵枋头而不采郗超之议直趋邺城，从此中似可窥见他虽专兵在外却意在建康的枭雄心态。正是这种枭雄心态妨碍了他北伐成就的进一步取得 —— 布局天下<div style="padding-bottom:1em;"></div> 0萧绎此时都江陵而不还建康实为失策。西魏已先据汉北之地，又夺占汉中、益州，且襄阳还有附庸于西魏的萧詧，江陵两面受敌，如何能为一国之都?承圣三年(554年)五月，散骑郎庾季才还提醒萧绎说：“臣恐建子之月有大兵入江陵，陛下宜留重臣镇江陵，整旆还都(建康)以避其患 —— 布局天下<div style="padding-bottom:1em;"></div>0宇文泰遣于谨、宇文护、杨忠率兵五万攻梁。长孙俭问于谨：“为萧绎之计，将如之何?”于谨说：“耀兵汉、沔，席卷渡江，直据丹 杨(东还建康)，上策也；移郭内居民退保子城，峻其陴堞，以待援军，中策也；若难于移动，据守罗郭，下策也。 —— 布局天下<div style="padding-bottom:1em;"></div>0刘宋泰始年间的内乱。内乱使南方失去了山东、淮北及淮西豫州之地，打破了南北双方的力量平衡。在此之前，南方尚有实力和机会问鼎中原，而在此之后，南方便再无问鼎中原的实力和机会了。第二个转折点是“侯景之乱”及其带来的梁室内乱。这次动乱使南方失去了巴蜀、襄汉上游及淮南之地 —— 布局天下<div style="padding-bottom:1em;"></div>0李纲建议以长安为西都，襄阳为南都，建康为东都，使金人难于选择战略目标；张浚也言“中兴当自关陕始，如金人先入陕、寇蜀，则东南不可保。”汪若海则言：“天下者，常山蛇势也，秦蜀为首，东南为尾，中原为脊。” —— 布局天下<div style="padding-bottom:1em;"></div>0秦岭东端有武关，西端有散关(两关详细情况见关中部分)，另有三条谷道穿越秦岭中部，可为汉中与关中之间的通道。它们是褒斜道、傥骆道、子午道。 —— 布局天下<div style="padding-bottom:1em;"></div>0 三条谷道连通关中与汉中。但以秦岭之高峻，每条谷道都曲折回旋，幽深险峻，不利于人力物力的大规模运动，尤其不利于粮草补给的运输。曹操在争汉中而未得后多次感叹“南郑直为天狱，中斜谷道为五百里石穴耳。” —— 布局天下<div style="padding-bottom:1em;"></div>0 汉中与四川之间的通道有二：金牛道和米仓道。金牛道北起陕西勉县，南至剑阁之大剑关口，中间越最高峰曰朝天岭，剑阁为其南端咽喉。金牛道最早为秦惠王伐蜀所开，其后，钟会攻蜀汉、尉迟迥取梁益州、郭崇韬攻前蜀、北宋平后蜀、蒙古攻南宋，都曾由此进兵。米仓道以越米仓山而得名 —— 布局天下<div style="padding-bottom:1em;"></div>0蜀汉法正建议刘备攻取汉中，他说：“曹操一举而降张鲁，定汉中，不因此势以图巴、蜀，而留夏侯渊、张郃屯守，身遽北还，此非其智不逮，而力不足也，必将内有忧逼故耳。今策渊、郃才略不胜国之将帅，举众往讨，必可克也；克之之日，广农积谷，观衅伺隙 —— 布局天下<div style="padding-bottom:1em;"></div>0其间，刘备驰书留守成都的诸葛亮请兵增援。诸葛亮问从事杨洪，杨洪回答说：“汉中，蜀之咽喉，存亡之机，若无汉中，则无蜀矣。此家门之祸，男子当战，女子当运，发兵何疑！” [ 注：《华阳国志》卷六 刘先主志 ] —— 布局天下<div style="padding-bottom:1em;"></div>0撤去诸围守兵，聚屯汉、乐二城，坚壁清野，试图纵敌入平地，待敌兵疲粮乏之际，再击其惰归。这一变动后来被证明是一种失策。若姜维专守汉中，那么，以姜维的战术才能，此策倒不失为一种积极的防御方案，它实际上是将蜀汉攻关中时“千里负粮以邀一日之战”的不利形势交给魏军来承受 —— 布局天下<div style="padding-bottom:1em;"></div> 0但姜维对魏用兵的重点却远在陇西，这样，撤掉扼秦岭谷口的诸围守兵便实在是一种失策。后来，姜维避祸，屯田沓中(今甘肃临潭西南)，汉中方面的防御仍未调整过来，这便铸成了致命的错误 —— 布局天下<div style="padding-bottom:1em;"></div> 0诸葛亮北伐多出陇西实是一种可进可退的战略。诸葛亮出陇西，从策略上讲，是避难就易，越秦岭谷道较难而趋陇上却较易。出兵攻陇西，顺利的话，可占据陇西，取得陇西的地理优势。陇西对关中的地理优势，可用以进取，为日后进一步北伐创造有利条件；陇西对四川的地理优势 —— 布局天下<div style="padding-bottom:1em;"></div>0通常，仇池氐人攻刘宋时，往往得到北魏的支持；攻北魏时，往往得到刘宋的支持。仇池攻刘宋，或自阴平袭扰益州，或下汉中以扰梁州；攻北魏则袭上邽(今甘肃大水)。这都涉及到了南北双方利害攸关的地区。刘宋失益州，则失上游之势；北魏失上邽，则关中形势将趋不利。 —— 布局天下<div style="padding-bottom:1em;"></div> 0东汉定都洛阳，以长安为西京，洛阳为东京，南阳为南都。三京成鼎足之势。　　曹魏也定都洛阳，但立五都之制，以谯(今毫县)为先人本国、许昌为汉之所居、长安为西京遗迹、邺为王业本基，均建为睹都，与洛闽一道，号为五都 —— 布局天下<div style="padding-bottom:1em;"></div> 0秦观曾经说过，“长安四塞之国，利于守；开封四通五达之郊，利于战：洛阳守不如雍，战不如梁，而不得洛阳，则雍、梁无以为重，故自古号为天下之咽喉。夫据洛阳之险固，资大粱之沃饶表里河山，提封万井，河北三郡，足以指挥燕赵；南阳、汝宁，足以控扼秦楚 —— 布局天下<div style="padding-bottom:1em;"></div> 0南阳盆地象是关中、汉中、中原与湖北四者之间的一个旋转门，四面都可进入，四面部可出击。以盆地腹地为中心，向西沿汉水干流上溯，可以进入汉中地区；西北入武关可进入关中；由襄阳下汉水则可进入两湖地区；由淅川河谷上溯可人伊洛河谷；其东面山地罅漏甚多，可以进入中原腹地。 —— 布局天下<div style="padding-bottom:1em;"></div> 0武关之险不及潼关，且距长安路途偏远，犹如关中的侧门，由三川河谷入攻潼关较难，而由南阳盆地入攻武关较易，故东部势力多不忽视由南阳入武关这条途径。由关中东出，出潼关即进入三川河谷，出武关即进入南阳盆地，三川河谷空间较小，易陷胶着的对峙，而南阳盆地空间较大，可以纵横四出 —— 布局天下<div style="padding-bottom:1em;"></div>0张巡、许远力战死守，守城极为艰难，左右谋弃城而去。二人谋曰：“睢阳，江淮之保障，若弃之去，贼必乘胜长驱，是无江淮也。”时北方残破，唐廷及平叛诸军的补给都依赖江南地区，张巡、许远守睢阳，阻遏了叛军向江淮方向深入，保证了江南的完整。 —— 布局天下<div style="padding-bottom:1em;"></div>0北伐后秦时，遣王镇恶、檀道济自淮水、淝水以趋许、洛，沈林子、刘遵考自汴水入黄河，主力则白洒水开巨野泽入黄河，刘宋元嘉北伐，均自淮河由泗水入黄河。陈代吴明彻北伐，进取淮北，大军亦自泗水北进。 —— 布局天下<div style="padding-bottom:1em;"></div> 0在颍河与淮河主干之间有汝水，汝南城据其上游，为淮河上游—大重镇。汝南在淮水、颖水之间，足以左右应接，在河南的大平原上纵横四出。南北朝时，汝南曾为司州寄治之地，域名悬瓠。北魏南下，多次激战于悬瓠城下。 —— 布局天下<div style="padding-bottom:1em;"></div>0窦建德宰军救援王世充，被阻虎牢，窦建德部下凌敬建议：“大王悉兵济河．攻取怀州，河阳，使重将守之，更鸣鼓建旗，逾太行，入上党，徇汾、晋，趣蒲津，如此有三利：一则蹈无人之境，取胜可以万全；二则拓地收众，形势益强；三则关中震骇，郑围白解。为今之策，尤以易此。 —— 布局天下<div style="padding-bottom:1em;"></div>0这时，齐人娄敬谒见刘邦，说，陛下欲都洛阳而与周室比隆，但是，陛下取天下与周室不同，周积善累德十有余世，国人争随之，诸侯自归之，遂以灭商，“及成王即位，周公相焉，乃营洛邑，以为此为天下之中也，诸侯四方纳贡职，道里均矣 —— 布局天下<div style="padding-bottom:1em;"></div>0历尽艰险，苦心经营，才扫平群雄，统一北方。曹操据中原以经略四方，看实不易，与他同时代的诸葛亮就曾经说过：“曹操智计．殊绝于人，其用兵也，仿佛孙、吴；然围于南阳，险于鸟巢，危于祁连，逼于黎阳，几败伯山，殆死潼关，然后伪定一时耳。” —— 布局天下<div style="padding-bottom:1em;"></div>0部下柴孝和建议李密先取关中作为基础，再东向以争天下，李密说；“君之所图，仆亦思之久矣，诚为卜策。但昏主尚在，纵兵犹众，我之所部，并山东人，既见未下洛阳，何肯相随西人！诸将出于群盗，留之各竞雌雄。若然者，殆将败矣。”李密后期兵势屡败，遂率余众人关降唐 —— 布局天下<div style="padding-bottom:1em;"></div>00薛公说：“使布出于上计，山东非汉之有也；出于中计．胜败之数未可知也；出于下计，陛下安枕而卧矣。东取吴，西取楚，并齐取鲁，传檄燕赵，固守其所，山东非汉之有也。东取吴，西取楚，并韩取魏，据敖仓之粟，塞成皋之口，胜败之数未可知也。东取吴，西取下蔡，归重于越，身归长沙 —— 布局天下<div style="padding-bottom:1em;"></div> 0汉武帝时，淮南王刘安进行过一场未遂的谋反。史载刘安日夜与属下研究天下形势，“按舆地图，部署兵所从入”。他问计于伍被，叙述其起兵的打算，并说到吴王的失误。他说：“且吴何知反，汉将一日过成皋者四十余人。今我令缓先邀成皋之口，周被下颍川兵塞轘辕、伊阙之遭 —— 布局天下<div style="padding-bottom:1em;"></div>0刘渊本欲效法汉高祖，灭司马氏政权后一统天下，所以他很注意处理胡汉关系。他建立政权都是打着汉家的旗号。刘渊遣大将刘景率军攻洛阳，刘景驱杀汉族百姓三万余人沉于黄河，刘渊闻讯大怒，曰：“景何面目见朕!且天道岂能容之!吾所欲除者，司马氏耳，细民何罪！ —— 布局天下<div style="padding-bottom:1em;"></div>0 至于项羽不都关中恐怕也是不得已的事。项羽所率领的军队是反秦战争中的主力。战争往往会使仇恨加剧，使矛盾更加尖锐。项羽在新安坑杀秦卒更是加剧而不是消弭了秦人与东方人之间的矛盾。所以，即令项羽立都关中，关中也不会是他的天府之国，而只会是他的肘腋之患。 —— 布局天下<div style="padding-bottom:1em;"></div>0当时形势，刘邦势单力薄，兵逃将亡，一般人都会觉得首先应该蓄精养锐，整军经武，积累力量，然后再出争天下。但是刘邦拜韩信为大将后，并没有像萧何当初所建议的那样，而是迅速出兵还定三秦。仅凭这一点，刘邦就收到了至少两个方面的好处。 —— 布局天下<div style="padding-bottom:1em;"></div>0首先是时机上的好处。所谓人心动则难静，静则难动。设使项羽咸阳罢兵之后，天下能有数年之安，则数年之后，诸侯各安其地，百姓各安其业，诸侯林立的分裂局面将成定局。再过几年，冒顿统一下的匈奴南下，有资格率中原诸侯反击冒顿的惟有项羽。 —— 布局天下<div style="padding-bottom:1em;"></div>0而领导中原诸侯反击匈奴正好提供了这种政治资本，藉以进一步整合天下。则天下之势必将重归项羽，那时刘邦再出争天下，形势就很不利了；即令能争，以当时岳峙之群雄十数辈，逐一扫平，事亦难矣。其次起到了以患了打回东方去的动力。这就是韩信所说的“以义兵从思东归之士，何所不散！ —— 布局天下<div style="padding-bottom:1em;"></div>0上述几次北方兼并南方的统一战争在布势上又表现出一定的相似性，都是东西齐举，上、下游并进；但局面的打开则都是从上游着手的。西晋灭吴，以王濬下益州，杜预等下荆襄；隋灭陈，以杨素下益州，杨俊等下汉水；蒙古则以攻克襄阳而取得上游之势。这是由南北对峙的基本地理形势所决定的 —— 布局天下<div style="padding-bottom:1em;"></div>0其军事上潜在的威胁存在于南方而不是北方。元、清两代对中原汉人始终怀着防范戒备之心。因此，对于他们来说，长城一线的意义就不大了。这样，运河一线画到河北北部后，不是垂直折成东西向，而是以其它方式继续向北延伸，以使河北作为农耕经济的中原与游牧经济的塞外之间的一个衔接地带 —— 布局天下<div style="padding-bottom:1em;"></div>0历史学给人最大的收益莫过于历史感的养成。历史感就像下围棋者的棋感，与其说是一种学问，不如说是一种修养。它是基于对历史这一凝重、雄浑而又巨大的动态过程力求作一种动态的把握而磨砺出的一种眼光。它直观、深厚而又犀利，能进过纷纭的表象把握历史大势 —— 布局天下<div style="padding-bottom:1em;"></div>0不过，这里面还须有一种至深的用世情怀。有用世的情怀，有用世的抱负，视史事若时事，视人之事若己之事，身在宁静的书房，心系历史的风云；与古人同历其难，共谋其事，才能与古人斟酌成败得失，商议治乱兴衰。如此反复揣摩，沉吟把玩，才能达于历史之智慧 —— 布局天下
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/26174898/#comments">回应</a>&nbsp;&nbsp;
+                  2013-05-04 22:40
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1207500/annotation">更多读书笔记（共7篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1207500/discussion/45156146/" title="后记" class="">后记</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/3742596/">悟仁</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2013-03-22</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1207500/discussion/56426285/" title="谁有比较好的山川水脉地形地图推荐" class="">谁有比较好的山川水脉地形地图推荐</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/28947461/">金克木</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2017-01-25</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1207500/discussion/50669069/" title="一点看法 &amp; 纠错" class="">一点看法 &amp; 纠错</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/ilovewaterfall/">QI</a></td>
+            <td class="pl"><span class="">9 回应</span></td>
+            <td class="pl"><span class="">2014-12-28</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1207500/discussion/1021404/" title="目的" class="">目的</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/1074524/">子荶</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2006-06-27</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1207500/discussion/43142158/" title="求购" class="">求购</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/5299062/">快掉坑里来</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2014-08-07</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/1207500/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D7-5065-4143-2&amp;subject=7506541432&amp;type=borrow&amp;library=10007&amp;link2key=8faabddec2" target="_blank">北京市公共图书馆(2)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7506541432&amp;subject=7506541432&amp;type=borrow&amp;library=10012&amp;link2key=8faabddec2" target="_blank">上海市中心图书馆(9)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D7506541432%26strSearchType%3Disbn&amp;subject=7506541432&amp;type=borrow&amp;library=10002&amp;link2key=8faabddec2" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.zslib.com.cn%3A8991%2FF%2F%3Ffunc%3Dfind-b%26find_code%3Disb%26request%3D7506541432&amp;subject=7506541432&amp;type=borrow&amp;library=10026&amp;link2key=8faabddec2" target="_blank">广东省立中山图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1207500/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/155676/" target="_blank">历史地理学</a>
+                <span class="pl">(畢加思索)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/40611824/" target="_blank">终余一生，也不能读完的书籍（精华）</a>
+                <span class="pl">(Deffrro-ZI)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/41108931/" target="_blank">37°暖书单（二）</a>
+                <span class="pl">(37°暖)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/3287224/" target="_blank">中国古代地理</a>
+                <span class="pl">(舒顏)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/38886695/" target="_blank">一个文科生的必读书目</a>
+                <span class="pl">(雲在青天)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/69876448/"><img src="https://img3.doubanio.com/icon/u69876448-2.jpg" class="pil" alt="萌茶茶" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/69876448/">萌茶茶</a><br/>
+      <div class="pl ll">          昨天          读过      </div>
+
+        <span class="allstar40" title="推荐"></span>
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/68261418/"><img src="https://img3.doubanio.com/icon/u68261418-1.jpg" class="pil" alt="盗梦者TJC" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/68261418/">盗梦者TJC</a><br/>
+      <div class="pl ll">          6月25日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/61732008/"><img src="https://img3.doubanio.com/icon/u61732008-26.jpg" class="pil" alt="薛定谔狗头" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/61732008/">薛定谔狗头</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1207500/doings">144人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1207500/collections">495人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1207500/wishes">1767人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1207500/offers">2本二手书欲转让</a>
+          <span class="">
+            (2.00
+                至 295.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有1767人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于布局天下的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1207500/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'RrWMjVVrZkw',
+            criteria = '7:军事|7:历史|7:军事地理|7:地理|7:历史地理|7:古代军事地理|7:中国|7:兵法|7:饶胜文|7:中国历史|3:/subject/1207500/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- hador13-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

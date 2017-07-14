@@ -1,0 +1,3367 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>需求 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/22229485/">
+<meta name="keywords" content="需求,[美] 亚德里安•斯莱沃斯基（Adrian J. Slywotzky）,[美]卡尔•韦伯 （Karl Weber）,浙江人民出版社,2013-6,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书需求 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/22229485/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">需求</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s26592330.jpg" title="需求">
+    <img src="https://img3.doubanio.com/lpic/s26592330.jpg" title="点击看大图" alt="需求"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E4%BA%9A%E5%BE%B7%E9%87%8C%E5%AE%89%E2%80%A2%E6%96%AF%E8%8E%B1%E6%B2%83%E6%96%AF%E5%9F%BA">[美] 亚德里安•斯莱沃斯基（Adrian J. Slywotzky）</a>
+        
+           /
+        
+        <a class="" href="/search/%E5%8D%A1%E5%B0%94%E2%80%A2%E9%9F%A6%E4%BC%AF">[美]卡尔•韦伯 （Karl Weber）</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 浙江人民出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 缔造伟大商业传奇的根本力量<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> demand<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E9%AD%8F%E8%96%87">魏薇</a>
+        
+           /
+        
+        <a class="" href="/search/%E9%BE%99%E5%BF%97%E5%8B%87">龙志勇</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2013-6<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 380<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 64.9<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787213053726<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 7.8 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">688</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:38px"></div>
+
+            <span class="rating_per">26.3%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">43.8%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:37px"></div>
+
+            <span class="rating_per">25.9%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:4px"></div>
+
+            <span class="rating_per">2.8%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:1px"></div>
+
+            <span class="rating_per">1.3%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-22229485-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-22229485-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-22229485-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-22229485-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-22229485-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-22229485-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-22229485-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-22229485-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-22229485">
+        <a href="#" data-url="https://book.douban.com/subject/22229485/" data-desc="" data-title="书籍《需求》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s26592330.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_22229485"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>《财富汇•需求:缔造伟大商业传奇的根本力量》内容简介：需求，是缔造伟大商业传奇的根本力量。《财富汇•需求:缔造伟大商业传奇的根本力量》呈现了人们无法拒绝、竞争对手无法复制的需求创造的六大关键，在人们无奈接受的现状和心中真正期待的理想的这道鸿沟之上，架设起了一道桥梁。</p>    <p>创造需求，需要解开一个谜团，这个谜团是人类学、心理学、科技、设计、经济学、基础设施以及其他众多因素综合而成的奇特组合。《财富汇•需求:缔造伟大商业传奇的根本力量》通过深度剖析富有智慧的需求创造者，解读他们是如何将那些令人们生活痛苦、不便、浪费，甚至危险的日常烦恼进行梳理，如何开发出令人们无法拒绝、也让竞争对手很难复制的优异产品，如何最终解决掉这些烦恼，成为顾客心中一个无法取代的图腾。</p>    <p>奈飞、亚马逊Kindle、彭博社、CareMore、魏格曼商店、Nespresso……破解全球最受顾客与...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>《财富汇•需求:缔造伟大商业传奇的根本力量》内容简介：需求，是缔造伟大商业传奇的根本力量。《财富汇•需求:缔造伟大商业传奇的根本力量》呈现了人们无法拒绝、竞争对手无法复制的需求创造的六大关键，在人们无奈接受的现状和心中真正期待的理想的这道鸿沟之上，架设起了一道桥梁。</p>    <p>创造需求，需要解开一个谜团，这个谜团是人类学、心理学、科技、设计、经济学、基础设施以及其他众多因素综合而成的奇特组合。《财富汇•需求:缔造伟大商业传奇的根本力量》通过深度剖析富有智慧的需求创造者，解读他们是如何将那些令人们生活痛苦、不便、浪费，甚至危险的日常烦恼进行梳理，如何开发出令人们无法拒绝、也让竞争对手很难复制的优异产品，如何最终解决掉这些烦恼，成为顾客心中一个无法取代的图腾。</p>    <p>奈飞、亚马逊Kindle、彭博社、CareMore、魏格曼商店、Nespresso……破解全球最受顾客与雇员欢迎的企业运营奥秘，你就是下一个需求创造大师。</p>    <p></p>    <p>海报：</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/22229485/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <span class="short">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>亚德里安斯莱沃斯基（Adrian J. Slywotzky）</p>    <p>毕业于哈佛大学，同时拥有哈佛商学院和哈佛法学院颁发的两个硕士学位。</p>    <p>《泰晤士报》将斯莱沃斯基评为50位顶尖商业思想家之一。《工业周刊》（Industry Week）将他评为6位最有影响力的管理思想家之一，称赞他“很有可能会拥有如彼得德鲁克在20世纪时的影响力，成为其他所有管理思想家的标杆。”</p>    <p>著有畅销书《发现利润区》（The Profit Zone）［入选《商业周刊》年度十佳著作］、《价值变迁》（Value Migration）、《微利时代的成长》（How to Grow When Markets Don’t），以及《战略风险管理》（The Upside）[入选《金融时报》2007年最佳商业书籍]。斯莱沃斯基也在《华尔街日报》和《哈佛商业评论》上发表过文章，并且在达沃斯世界经济论坛、微...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+
+            </span>
+            <span class="all hidden ">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>亚德里安斯莱沃斯基（Adrian J. Slywotzky）</p>    <p>毕业于哈佛大学，同时拥有哈佛商学院和哈佛法学院颁发的两个硕士学位。</p>    <p>《泰晤士报》将斯莱沃斯基评为50位顶尖商业思想家之一。《工业周刊》（Industry Week）将他评为6位最有影响力的管理思想家之一，称赞他“很有可能会拥有如彼得德鲁克在20世纪时的影响力，成为其他所有管理思想家的标杆。”</p>    <p>著有畅销书《发现利润区》（The Profit Zone）［入选《商业周刊》年度十佳著作］、《价值变迁》（Value Migration）、《微利时代的成长》（How to Grow When Markets Don’t），以及《战略风险管理》（The Upside）[入选《金融时报》2007年最佳商业书籍]。斯莱沃斯基也在《华尔街日报》和《哈佛商业评论》上发表过文章，并且在达沃斯世界经济论坛、微软CEO峰会、TED、财富CEO年会以及其他许多活动中被聘为特邀演讲嘉宾。</p>    <p>自1979年起，斯莱沃斯基便开始担任财富500强公司的咨询顾问，咨询领域覆盖各行各业，从零售到制造，从医疗到教育，从风险投资到金融资讯。</p>    <p>现为奥纬国际咨询公司（Oliver Wyman）的合伙人，这是一家全球领先的、专注金融行业策略和风险管理的著名咨询公司，它的客户涵盖了全球100家顶尖金融机构的大多数。</p>    <p>卡尔韦伯（Karl Weber）</p>    <p>商业和时事作家。</p>    <p>曾与亚德里安斯莱沃斯基在多本著作上合作。</p>    <p>合作伙伴还包括诺贝尔和平奖得主穆罕默德•尤努斯（Muhmmad Yunus）和洛斯酒店（Loews Hotels）CEO乔纳森•蒂施（Jonathan Tisch）。</p></div>
+
+            </span>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_22229485_short">
+        第一部分 打开需求的黑盒子<br/>
+        01让顾客无可救药地爱上你的产品<br/>
+        	真正的需求千奇百怪，潜藏在人性因素与其他一系列因素的相互关联之中。每个独一无二的需求故事都有着同样的起点：一个人、一个问题、一个点子。<br/>
+        	真正的需求创造大师们把所有的时间和精力都投入到对“人”的了解上。他们创造出的产品，令我们无法抗拒，更令竞争对手无法复制。<br/>
+        第二部分 成功创造需求的6大关键<br/>
+        02创造无法割舍的情感共鸣（关健1：魔力）<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_22229485_short').hide();$('#dir_22229485_full').show();$.get('/j/subject/j_dir_count',{id:22229485});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_22229485_full" style="display:none">
+        第一部分 打开需求的黑盒子<br/>
+        01让顾客无可救药地爱上你的产品<br/>
+        	真正的需求千奇百怪，潜藏在人性因素与其他一系列因素的相互关联之中。每个独一无二的需求故事都有着同样的起点：一个人、一个问题、一个点子。<br/>
+        	真正的需求创造大师们把所有的时间和精力都投入到对“人”的了解上。他们创造出的产品，令我们无法抗拒，更令竞争对手无法复制。<br/>
+        第二部分 成功创造需求的6大关键<br/>
+        02创造无法割舍的情感共鸣（关健1：魔力）<br/>
+        	赢家并不是先行者，而是第一个创造出情感共鸣并能把握住市场方向的产品的人。<br/>
+        	在需求的世界里，根本没有必然可言，你完全可以为顾客提供他们当时不具备的选择。<br/>
+        【需求创造大师】<br/>
+        Zipcar：赋予租车新自由<br/>
+        魏格曼超市：品类杀手中的“品类杀手”<br/>
+        03解决顾客没开口告诉你的困扰（关健2：麻烦）<br/>
+        	每个没有必要存在的步骤，每个引起用户失望的结果，都是麻烦地图上的一个摩擦点，而每个摩擦点正是代表着一个创造新需求的机会。<br/>
+        	无论在哪个领域，对于尚待实现的潜在需求而言，麻烦都是最先出现的提示线索和最早的闪光信号。需求，以解决顾客问题为中心，而不是满足需求为中心。<br/>
+        【需求创造大师】<br/>
+        苹果：一键世界的先锋<br/>
+        彭博社：精加工数据的信息帝国<br/>
+        CareMore：协作式医疗的典范<br/>
+        04看似无关的因素左右产品成败（关健3：背景因素）<br/>
+        	成就或摧毁一款产品的力量，通常隐藏在你看不见的地方。每一个附加的步骤，每一个多余的限制，每一个额外的部件，都会决定一款产品的成败。<br/>
+        	由背景因素构成的基础设施与消费需求之间，是共同成长、相互依存的关系。<br/>
+        【需求创造大师】<br/>
+        Kindle 真正起作用的是你看不到的东西<br/>
+        利乐包 做一件从来没人做过的事<br/>
+        05让“潜在”需求变为“真正”需求（关健4：激发力）<br/>
+        	人们的购买决定在很大程度上受控于惯性、疑虑、懒惰、习惯和冷漠。需求就像用钥匙打火发动汽车一样，在激发力的驱使下，一拧就着。<br/>
+        	激发力，商业设计中至关重要的一环，它可以让冷淡的骑墙派变得热情，并最终自觉自愿地成为魔力产品的客户。<br/>
+        【需求创造大师】<br/>
+        奈飞 开创在线电影租赁业的新纪元<br/>
+        Nespresso 舌尖上的探戈与咖啡中的阿玛尼<br/>
+        06缓慢的改进就等于平庸（关健5：45°精进曲线）<br/>
+        	以强大的45°角向上攀升，甩开无耻的模仿竞争者，这是将创造需求的赢家与落败者区分开来的关键。<br/>
+        	只有每个人都成为需求的协同创造者，才能实现真正陡峭的提升力。<br/>
+        【需求创造大师】<br/>
+        “为美国而教” 重塑教育，变革社会的力量<br/>
+        Pret A Manger 三明治 这辈子最棒的午餐<br/>
+        07一次增加一类顾客（关键6：去平均化）<br/>
+        	要设计出一款能满足所有客户的产品，永远都是浪费时间和金钱。<br/>
+        	用准确的眼光，抛弃“平均客户的迷思”，破解令他们心动的关键，了解他们的购买欲望、方式和心理价格，那么明天的客户必然存在于某个地方，随时等待被发现。<br/>
+        【需求创造大师】<br/>
+        美国交响乐团  强杀伤力听众待遇<br/>
+        西雅图歌剧院  一次改变一类客户<br/>
+        波特广场书店  永无结束的对话<br/>
+        英法海底隧道&amp; 欧洲之星 “世界第八大奇迹”<br/>
+        第三部分 完胜市场，就在最后这两步<br/>
+        08产品发布：不要成为阿喀琉斯之踵<br/>
+        	产品发布每错过一个月的时间，就等于给了市场一个转移的机会，给了竞争对手一个先发制人的机会，给了技术一个改变的机会，给了客户偏好一个转向的机会。<br/>
+        	产品发布是一场头脑游戏。决定成败的是人们的思维方式，以及战胜商业习惯和与生俱来人类本能的水平。<br/>
+        【需求创造大师】<br/>
+        丰田普锐斯 找到本田错过的需求<br/>
+        09产品组合：持续创造强劲的新需求<br/>
+        伟大的需求创造者想到的永远不是赌局，而是质量。创造需求就是创造“系统“。发布的不断成功，与经济形势、技术水平，甚至产品的类型全部无关。成功，只会回到那些懂得构建起需求创造“系统”的人身边。<br/>
+        【需求创造大师】<br/>
+        皮克斯 非典型电影公司的系列成功<br/>
+        默克公司 试错系统锁定重点药品<br/>
+        凯鹏华盈 创业投资中的非凡成功<br/>
+        第四部分 未来的需求在哪里<br/>
+        10 最亮的火花：科学发现与需求的未来<br/>
+        	科技创新正是创造需求的根基。<br/>
+        	实验室，放大并延伸人类智慧的地方，把思想转化成产品的地方。未来的需求创造者，从这里启航……<br/>
+        译者后记<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_22229485_full').hide();$('#dir_22229485_short').show();void(0);">收起</a>)
+</div>
+
+    
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">&#34;需求&#34;试读</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent">
+<p>2003年2月14日星期五晚上，斯科特•格里夫斯（Scott Griffith）在一天的紧张忙碌之后，终于踏上了回家的路。短短一天之中，竟发生了改变命运的大事。Zipcar的董事会决定任命他接替公司创始人罗宾•切斯（Robin Chase），执掌公司CEO的大印。
+格里夫斯很喜欢Zipcar业务的独特性和公司的远大抱负。这家公司提供一种买车的替代方案，可以同时实现省钱、省事和环保三个目标，并由此改变..</p>
+<ul class="col2-list clearfix">
+
+<li>
+    <a href="https://book.douban.com/reading/25167807/">如何让磁力强过地心引力？</a>
+</li>
+</ul>
+<div align="right">  · · · · · ·    (<a href="https://book.douban.com/subject/22229485/reading/">查看全部试读</a>)</div>
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共277个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/商业">商业</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/营销">营销</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/需求">需求</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/心理学">心理学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/用户行为">用户行为</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/产品">产品</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/互联网">互联网</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/思维">思维</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;需求&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/484790/?dcs=subject-rec&amp;dcm=douban&amp;dct=22229485" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/484790.jpg?v=1395395714.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/484790/" target="_blank">精益创业</a>
+          </div>
+          <div class="price">
+              5.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/867672/?dcs=subject-rec&amp;dcm=douban&amp;dct=22229485" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/867672.jpg?v=1395395237.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/867672/" target="_blank">定位</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/787967/?dcs=subject-rec&amp;dcm=douban&amp;dct=22229485" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/787967.jpg?v=1395395356.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/787967/" target="_blank">平台战略</a>
+          </div>
+          <div class="price">
+              8.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/3261215/?dcs=subject-rec&amp;dcm=douban&amp;dct=22229485" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/3261215.jpg?v=1396429466.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/3261215/" target="_blank">精益创业实战</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/10008525/?dcs=subject-rec&amp;dcm=douban&amp;dct=22229485" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/10008525.jpg?v=1432638622.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/10008525/" target="_blank">四步创业法</a>
+          </div>
+          <div class="price">
+              22.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;需求&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/20388034/" onclick="moreurl(this, {'total': 10, 'clicked': '20388034', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s24519741.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/20388034/" onclick="moreurl(this, {'total': 10, 'clicked': '20388034', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            大连接
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4243770/" onclick="moreurl(this, {'total': 10, 'clicked': '4243770', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4409486.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4243770/" onclick="moreurl(this, {'total': 10, 'clicked': '4243770', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            创新者的窘境
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5914587/" onclick="moreurl(this, {'total': 10, 'clicked': '5914587', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6474670.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5914587/" onclick="moreurl(this, {'total': 10, 'clicked': '5914587', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            启示录
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/19966132/" onclick="moreurl(this, {'total': 10, 'clicked': '19966132', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s22896015.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/19966132/" onclick="moreurl(this, {'total': 10, 'clicked': '19966132', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            自营销
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/24844993/" onclick="moreurl(this, {'total': 10, 'clicked': '24844993', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28021072.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/24844993/" onclick="moreurl(this, {'total': 10, 'clicked': '24844993', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            全新销售
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6753398/" onclick="moreurl(this, {'total': 10, 'clicked': '6753398', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s6808528.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6753398/" onclick="moreurl(this, {'total': 10, 'clicked': '6753398', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            创业的轨迹
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5914475/" onclick="moreurl(this, {'total': 10, 'clicked': '5914475', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6284822.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5914475/" onclick="moreurl(this, {'total': 10, 'clicked': '5914475', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            无价
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5394309/" onclick="moreurl(this, {'total': 10, 'clicked': '5394309', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4592217.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5394309/" onclick="moreurl(this, {'total': 10, 'clicked': '5394309', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            简约至上
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/11528220/" onclick="moreurl(this, {'total': 10, 'clicked': '11528220', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s11430191.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/11528220/" onclick="moreurl(this, {'total': 10, 'clicked': '11528220', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            系统之美
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10828002/" onclick="moreurl(this, {'total': 10, 'clicked': '10828002', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s11136690.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10828002/" onclick="moreurl(this, {'total': 10, 'clicked': '10828002', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            游戏改变世界
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/22229485/comments/">全部 243 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="696765222">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-696765222" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-696765222" class="j a_show_login" data-cid="696765222">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/fans_/">fan&#39;s</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2013-08-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">案例非常精良，直指要害！可惜分析还是不够透彻，不过话又说回来了，分析太透彻的东西肯定不能出现在四十几块钱的书里。找时间自己去挖了。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="809212416">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-809212416" class="vote-count">3</span>
+                        <a href="javascript:;" id="btn-809212416" class="j a_show_login" data-cid="809212416">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/jollychang/">白色的蓝💎</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-07-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">喜欢讲故事的书。&#39;Demand的释义为“人们对特定物品或服务的需要或渴望”，Requirement则是“某人需要或提出要求的东西”。相比之下，Demand一词更偏向于人们内心的渴求，而不是明确的索求。&#39;</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="680498909">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-680498909" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-680498909" class="j a_show_login" data-cid="680498909">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Thomas.Xie/">蝉</a>
+                    <span>2014-02-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">: 	
+F274/4843-3</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="950119982">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-950119982" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-950119982" class="j a_show_login" data-cid="950119982">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/chenqj/">陈庆吉</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-08-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">有些啰嗦</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="976457297">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-976457297" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-976457297" class="j a_show_login" data-cid="976457297">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/40253705/">李大水</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-11-30</span>
+                </span>
+            </h3>
+            <p class="comment-content">顺的老板的
+</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1205793105">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1205793105" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1205793105" class="j a_show_login" data-cid="1205793105">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/fremod/">金城武</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">需求来源于生活的不便。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1189993967">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1189993967" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1189993967" class="j a_show_login" data-cid="1189993967">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/133689754/">翡冷翠</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">好</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1181351965">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1181351965" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1181351965" class="j a_show_login" data-cid="1181351965">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/57157420/">卖画为生</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-23</span>
+                </span>
+            </h3>
+            <p class="comment-content">读了很久，有些借鉴作用。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1168100855">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1168100855" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1168100855" class="j a_show_login" data-cid="1168100855">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/68586419/">刘炎炜</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-03-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">本书透过需求谈论了打造伟大产品的种种方式，最终彻底满足用户需求。书中提出的观点虽说细碎而难成体系，但其带来的启发和崭新思路的意义对小白我来说却是毫无疑问的。市场千变万化，行业与行业之间则各有不同，但某些关键因素却共通，识别关键的关键却在观察和沟通。案例较新而且视角独特，值得一看。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1160280935">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1160280935" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1160280935" class="j a_show_login" data-cid="1160280935">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/65165792/">枫言</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">“从日常生活的麻烦事里面提炼需求；激发人们的情感共鸣，增强产品魔力；构建与产品相配合的背景因素和条件；寻找那些触动人心、激发购买行为的力量；打造陡峭的产品精进曲线，以甩开模仿竞争者；提供个性化、多样化的产品选择；严把产品发布关等。”</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/22229485/comments/">更多短评 243 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/22229485/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            需求的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 38 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6209217">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6209217/" class="title-link">书的案例有些亮点，但作者的归纳能力上还是有些欠缺</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6209217"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/76512695/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u76512695-3.jpg"></a>
+    <a href="https://www.douban.com/people/76512695/" class="author">
+      <span property="v:reviewer">冷月无灯</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2013-08-12"
+      class="main-meta">2013-08-12 00:09:47</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6209217_short" class="review-short">
+            <div class="short-content">
+                  下面是对每章案例的关键成功点分析，可以看出作者对案例关键成功点的归纳还是较弱，对规律性的东西总结得还不够深入！  成功创造需求的6大关键 魔力：书中指情感      Zipcar的成功关键在于方便（这个案例放第二章更适合），魏格曼超市的成功在于服务（类同海底捞，这个和情感...
+
+                    <a class="pl" href="https://book.douban.com/review/6209217/#comments">(2回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">33有用 / 4没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6209217_full" class="hidden">
+            <div id="review_6209217_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5957843">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5957843/" class="title-link">成功创造需求的六种模式</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5957843"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/riali/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2157561-25.jpg"></a>
+    <a href="https://www.douban.com/people/riali/" class="author">
+      <span property="v:reviewer">白小茉</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2013-05-15"
+      class="main-meta">2013-05-15 16:10:06</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5957843_short" class="review-short">
+            <div class="short-content">
+                  刊登于《中国证券报》4月20日  从去年12月份开始，媒体和坊间就不断传出对亚马逊Kindle阅读器入华的预测。从这样一个经久不息的著名“传言”中，足以看出大家对Kindle的翘首以盼。Kindle是如何成为一个被全世界人民欢迎，甚至改变全世界人民生活的产品的？ 很多人曾将Kindle的...
+
+                    <a class="pl" href="https://book.douban.com/review/5957843/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">25有用 / 2没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5957843_full" class="hidden">
+            <div id="review_5957843_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6135810">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6135810/" class="title-link">需求</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6135810"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/danlanyanjing/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2157656-5.jpg"></a>
+    <a href="https://www.douban.com/people/danlanyanjing/" class="author">
+      <span property="v:reviewer">淡蓝眼睛</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2013-06-27"
+      class="main-meta">2013-06-27 09:27:19</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6135810_short" class="review-short">
+            <div class="short-content">
+                  《需求-缔造伟大商业传奇的根本力量》案例给得相当精彩的一本新书，分析了那些伟大的产品和商业模式在需求创造过程中的六大关键，一款产品我们能在五分钟之内判断它是否有价值，然而左右我们做出重大决策的，通常是不起眼的小事，而让我们持续产生热爱和依赖的，则是它完善的背...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6135810_full" class="hidden">
+            <div id="review_6135810_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5996472">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5996472/" class="title-link">无处不在的需求</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5996472"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/suntotem/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2180485-5.jpg"></a>
+    <a href="https://www.douban.com/people/suntotem/" class="author">
+      <span property="v:reviewer">星腾</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2013-05-30"
+      class="main-meta">2013-05-30 01:08:49</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5996472_short" class="review-short">
+            <div class="short-content">
+                  最近几年，“需求”这个词非常热门，特别是互联网圈内，无论行业大佬还是业内人士都在发表自己的看法，在知名社会化问答网站知乎上，需求话题下就有110个问题。  需求的确也是一个很值得我们去思考的问题，当我们谈到需求，首先无法逃开的便是马斯洛的需求层次理论，从人类的生...
+
+                    <a class="pl" href="https://book.douban.com/review/5996472/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">8有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5996472_full" class="hidden">
+            <div id="review_5996472_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6188195">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6188195/" class="title-link">你永远无法了解其他用户的真实需求</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6188195"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/1465966/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1465966-3.jpg"></a>
+    <a href="https://www.douban.com/people/1465966/" class="author">
+      <span property="v:reviewer">边缘之吻</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2013-07-29"
+      class="main-meta">2013-07-29 16:12:27</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6188195_short" class="review-short">
+            <div class="short-content">
+                  除了我们自己，我们无法更深刻的去了解他人。我很害怕那种观点：因为我存在这种不便，有我这种款困难的人有多少人，所以这是一引强需求。以用户的名义，强加自己的观点。 这个世界的趋势是越来越分众化。我们会有越来越多的不同。不要再试图去了解他人的需求。也许今天是这种需...
+
+                    <a class="pl" href="https://book.douban.com/review/6188195/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6188195_full" class="hidden">
+            <div id="review_6188195_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评38篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/22229485/annotation">共<span property="v:count">46</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="25163608">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/riali/"><img src="https://img3.doubanio.com/icon/u2157561-25.jpg" alt="白小茉" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/25163608/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/25163608/" class="">第57页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/riali/" class=" " title="白小茉">白小茉</a>
+                (爱是我的信仰)
+              
+            </p>
+            <div class="reading-note" data-cid="25163608">
+              <div class="short">
+                
+                  <span class="">这不就是美国的海底捞吗？
+公司吸引到并留住这样一支团队，带来的直接成果，就是在魏格曼粉丝间广为流传的经典客服小段子。比如有一次，魏格曼的主厨成功解救了一名手足无措的顾客。这位顾客买了只感恩节火鸡，可没想到个头太大，放不进家中的烤箱。万般无奈，这位顾客只好拿着火鸡回到了魏格曼。没想到主厨灵机一动，在商店中帮她把火鸡烤好。类似的小事总能令顾客激动不已，而且每天都在上演。曾经有一次，一位顾客无意间抱怨说...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/25163608/">(<span class="">5回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-03-15 14:22</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                这不就是美国的海底捞吗？
+<blockquote><q>公司吸引到并留住这样一支团队，带来的直接成果，就是在魏格曼粉丝间广为流传的经典客服小段子。比如有一次，魏格曼的主厨成功解救了一名手足无措的顾客。这位顾客买了只感恩节火鸡，可没想到个头太大，放不进家中的烤箱。万般无奈，这位顾客只好拿着火鸡回到了魏格曼。没想到主厨灵机一动，在商店中帮她把火鸡烤好。类似的小事总能令顾客激动不已，而且每天都在上演。曾经有一次，一位顾客无意间抱怨说，昨天晚餐吃得不爽，听到顾客怨言的店员于是主动提出请这位顾客吃晚饭。而当一场急雨来袭时，很多员工会举着雨伞等在大门口，随时准备护送顾客回到车中。
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/25163608/#comments">5回应</a>&nbsp;&nbsp;
+                  2013-03-15 14:22
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28410775">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ZouYing/"><img src="https://img3.doubanio.com/icon/u2002715-5.jpg" alt="Typedef" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28410775/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28410775/" class="">第300页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ZouYing/" class=" " title="Typedef">Typedef</a>
+                (每天提升1%，70天提升一倍)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="28410775">
+              <div class="short">
+                
+                  <span class="">1、具备进行致命缺陷搜查的本能动力。
+2、启动组织内部的竞争
+3、充分理解“以模仿而实现的独特性”的价值
+4、永远铭记对产品进行情感化处理的重要性
+5、拥有独特的组织方程式
+6、在信息与畏惧之间保持精妙的平衡。
+7、在实现世界中，成功的发布不会是一天、甚至一个月的功夫。
+
+
+检验你的组织是否已经准备好进行需求创造的发布活动，
+1、领导者是否足够强势？
+2、团队是足够强韧
+3、资源来源是否足够强健?
+4、恐惧感...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/28410775/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-09-03 21:10</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                1、具备进行致命缺陷搜查的本能动力。<div style="padding-bottom:1em;"></div>2、启动组织内部的竞争<div style="padding-bottom:1em;"></div>3、充分理解“以模仿而实现的独特性”的价值<div style="padding-bottom:1em;"></div>4、永远铭记对产品进行情感化处理的重要性<div style="padding-bottom:1em;"></div>5、拥有独特的组织方程式<div style="padding-bottom:1em;"></div>6、在信息与畏惧之间保持精妙的平衡。<div style="padding-bottom:1em;"></div>7、在实现世界中，成功的发布不会是一天、甚至一个月的功夫。<div style="padding-bottom:1em;"></div>检验你的组织是否已经准备好进行需求创造的发布活动，<div style="padding-bottom:1em;"></div>1、领导者是否足够强势？<div style="padding-bottom:1em;"></div>2、团队是足够强韧<div style="padding-bottom:1em;"></div>3、资源来源是否足够强健?<div style="padding-bottom:1em;"></div>4、恐惧感是否足够强悍？<div style="padding-bottom:1em;"></div>答案越肯定，你成功的概率就越大。<div style="padding-bottom:1em;"></div>凯鹏华盈评价潜在价值产品：<div style="padding-bottom:1em;"></div>1、客户的即时价值---首次使用时解决的某个问题或创造的价值。<div style="padding-bottom:1em;"></div>2、病毒式 接纳----具有拉力，而不是推力，不需要直接的销售力量。<div style="padding-bottom:1em;"></div>3、尽量少的it投入，没有一种是完美的。<div style="padding-bottom:1em;"></div>4、简单、直接式的用户体验---无需培训即可使用。<div style="padding-bottom:1em;"></div>5、个性化用户体验--课定制<div style="padding-bottom:1em;"></div>6、基于应用或使用模板的简易配置。<div style="padding-bottom:1em;"></div>7、背景意识---能根据地点、人群、偏好、设备等等进行调整。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28410775/#comments">1回应</a>&nbsp;&nbsp;
+                  2013-09-03 21:10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37246268">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/rollingge/"><img src="https://img3.doubanio.com/icon/u67340171-704.jpg" alt="如林" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37246268/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37246268/" class="">第94页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/rollingge/" class=" " title="如林">如林</a>
+                (林无静树 川无停流)
+              
+            </p>
+            <div class="reading-note" data-cid="37246268">
+              <div class="short">
+                
+                  <span class="">你可以花1块钱在第一步把问题解决掉，也可以花30块钱在第十步把问题解决掉。</span>
+                <p class="pl">
+                  <span class="">2016-02-23 18:31</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>你可以花1块钱在第一步把问题解决掉，也可以花30块钱在第十步把问题解决掉。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37246268/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-23 18:31
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37244398">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/rollingge/"><img src="https://img3.doubanio.com/icon/u67340171-704.jpg" alt="如林" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37244398/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37244398/" class="">第49页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/rollingge/" class=" " title="如林">如林</a>
+                (林无静树 川无停流)
+              
+            </p>
+            <div class="reading-note" data-cid="37244398">
+              <div class="short">
+                
+                  <span class="">”魏格曼就是灭掉所有品类杀手的品类杀手。“</span>
+                <p class="pl">
+                  <span class="">2016-02-23 14:54</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>”魏格曼就是灭掉所有品类杀手的品类杀手。“</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37244398/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-23 14:54
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="27289997">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/63042357/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="benbenshu" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/27289997/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/27289997/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/63042357/" class=" " title="benbenshu">benbenshu</a>
+              
+            </p>
+            <div class="reading-note" data-cid="27289997">
+              <div class="short">
+                
+                  <span class="">理解客户情感上的诉求，在垂直领域内做到极致。</span>
+                <p class="pl">
+                  <span class="">2013-06-26 16:25</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                理解客户情感上的诉求，在垂直领域内做到极致。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/27289997/#comments">回应</a>&nbsp;&nbsp;
+                  2013-06-26 16:25
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28371812">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/48473973/"><img src="https://img1.doubanio.com/icon/u48473973-18.jpg" alt="模模糊糊" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28371812/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28371812/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/48473973/" class=" " title="模模糊糊">模模糊糊</a>
+                (听你千遍不厌倦)
+              
+            </p>
+            <div class="reading-note" data-cid="28371812">
+              <div class="short">
+                
+                  <span class="">有点意思</span>
+                <p class="pl">
+                  <span class="">2013-09-01 14:25</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                有点意思
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28371812/#comments">回应</a>&nbsp;&nbsp;
+                  2013-09-01 14:25
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="29963818">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/totemcai/"><img src="https://img3.doubanio.com/icon/u2349945-2.jpg" alt="totem" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29963818/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29963818/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/totemcai/" class=" " title="totem">totem</a>
+              
+            </p>
+            <div class="reading-note" data-cid="29963818">
+              <div class="short">
+                
+                  <span class="">看这本书，主要就是看案例。最大的感触就是，作为需求创造者，只有和用户走得很近，从近处，设身处地的理解他们的痛点，才能真正做出用户愿意买单的产品。
+
+一、成功创造需求的6大关键：
+1、魔力：创造无法割舍的情感共鸣
+2、麻烦：解决顾客没开口告诉你的困扰
+3、背景因素：隐藏的背后的因素左右产品成败
+4、激发力：让“潜在”需求变为“真正”需求
+5、45度精进曲线：缓慢改进等于平庸
+6、去平均化：一次增加一类顾客
+...</span>
+                <p class="pl">
+                  <span class="">2013-12-31 09:09</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                看这本书，主要就是看案例。最大的感触就是，作为需求创造者，只有和用户走得很近，从近处，设身处地的理解他们的痛点，才能真正做出用户愿意买单的产品。<div style="padding-bottom:1em;"></div>一、成功创造需求的6大关键：<div style="padding-bottom:1em;"></div>1、魔力：创造无法割舍的情感共鸣<div style="padding-bottom:1em;"></div>2、麻烦：解决顾客没开口告诉你的困扰<div style="padding-bottom:1em;"></div>3、背景因素：隐藏的背后的因素左右产品成败<div style="padding-bottom:1em;"></div>4、激发力：让“潜在”需求变为“真正”需求<div style="padding-bottom:1em;"></div>5、45度精进曲线：缓慢改进等于平庸<div style="padding-bottom:1em;"></div>6、去平均化：一次增加一类顾客<div style="padding-bottom:1em;"></div>二、完胜市场<div style="padding-bottom:1em;"></div>1、产品发布：没错过一个月，就等于给市场一个转移的机会<div style="padding-bottom:1em;"></div>2、产品组合：持续创造强劲的新需求
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29963818/#comments">回应</a>&nbsp;&nbsp;
+                  2013-12-31 09:09
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="34094348">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/50725036/"><img src="https://img3.doubanio.com/icon/u50725036-14.jpg" alt="龙少" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/34094348/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/34094348/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/50725036/" class=" " title="龙少">龙少</a>
+              
+            </p>
+            <div class="reading-note" data-cid="34094348">
+              <div class="short">
+                
+                  <span class="">好的需求创作者把精力和时间都投入到“人”的了解上，他们创造出来的产品令人无法抗拒，更令竞争对手无法复制。
+需求源于我的需求，他人需求。需求同时又分为硬需求，软需求。</span>
+                <p class="pl">
+                  <span class="">2015-01-23 09:03</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                好的需求创作者把精力和时间都投入到“人”的了解上，他们创造出来的产品令人无法抗拒，更令竞争对手无法复制。<div style="padding-bottom:1em;"></div>需求源于我的需求，他人需求。需求同时又分为硬需求，软需求。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/34094348/#comments">回应</a>&nbsp;&nbsp;
+                  2015-01-23 09:03
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="37246268">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/rollingge/"><img src="https://img3.doubanio.com/icon/u67340171-704.jpg" alt="如林" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37246268/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37246268/" class="">第94页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/rollingge/" class=" " title="如林">如林</a>
+                (林无静树 川无停流)
+              
+            </p>
+            <div class="reading-note" data-cid="37246268">
+              <div class="short">
+                
+                  <span class="">你可以花1块钱在第一步把问题解决掉，也可以花30块钱在第十步把问题解决掉。</span>
+                <p class="pl">
+                  <span class="">2016-02-23 18:31</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>你可以花1块钱在第一步把问题解决掉，也可以花30块钱在第十步把问题解决掉。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37246268/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-23 18:31
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37244398">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/rollingge/"><img src="https://img3.doubanio.com/icon/u67340171-704.jpg" alt="如林" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37244398/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37244398/" class="">第49页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/rollingge/" class=" " title="如林">如林</a>
+                (林无静树 川无停流)
+              
+            </p>
+            <div class="reading-note" data-cid="37244398">
+              <div class="short">
+                
+                  <span class="">”魏格曼就是灭掉所有品类杀手的品类杀手。“</span>
+                <p class="pl">
+                  <span class="">2016-02-23 14:54</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>”魏格曼就是灭掉所有品类杀手的品类杀手。“</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37244398/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-23 14:54
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37243643">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/rollingge/"><img src="https://img3.doubanio.com/icon/u67340171-704.jpg" alt="如林" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37243643/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37243643/" class="">第18页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/rollingge/" class=" " title="如林">如林</a>
+                (林无静树 川无停流)
+              
+            </p>
+            <div class="reading-note" data-cid="37243643">
+              <div class="short">
+                
+                  <span class="">▲需求洞察▲
+
+需求创造者对事物抱有很强的好奇心，精力十分旺盛，思维缜密，严于律己，自信十足，愿意不断进行自我挑战，为人谦逊并散发着富有品位的幽默感。他们总是一刻不停地去寻找客户身边尚未得到解决的麻烦。
+</span>
+                <p class="pl">
+                  <span class="">2016-02-23 13:34</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>▲需求洞察▲
+
+需求创造者对事物抱有很强的好奇心，精力十分旺盛，思维缜密，严于律己，自信十足，愿意不断进行自我挑战，为人谦逊并散发着富有品位的幽默感。他们总是一刻不停地去寻找客户身边尚未得到解决的麻烦。
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37243643/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-23 13:34
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37242786">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/rollingge/"><img src="https://img3.doubanio.com/icon/u67340171-704.jpg" alt="如林" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37242786/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37242786/" class="">第9页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/rollingge/" class=" " title="如林">如林</a>
+                (林无静树 川无停流)
+              
+            </p>
+            <div class="reading-note" data-cid="37242786">
+              <div class="short">
+                
+                  <span class="">▲需求洞察▲
+
+千千万万的人们在家中囤积了数不尽的东西，却依然被生活中各种麻烦带来的苦恼、不便、抱怨和风险所纠缠。不管我们进行了多少消费，我们真心想要的产品和服务与我们实际购买的东西之间，总是存在着一道巨大的鸿沟。而这道鸿沟，就代表着创造新需求的机会。里德·哈斯廷斯之所以取得了成功，就在于他发现了这条鸿沟的存在。
+</span>
+                <p class="pl">
+                  <span class="">2016-02-23 12:40</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>▲需求洞察▲
+
+千千万万的人们在家中囤积了数不尽的东西，却依然被生活中各种麻烦带来的苦恼、不便、抱怨和风险所纠缠。不管我们进行了多少消费，我们真心想要的产品和服务与我们实际购买的东西之间，总是存在着一道巨大的鸿沟。而这道鸿沟，就代表着创造新需求的机会。里德·哈斯廷斯之所以取得了成功，就在于他发现了这条鸿沟的存在。
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37242786/#comments">回应</a>&nbsp;&nbsp;
+                  2016-02-23 12:40
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/22229485/annotation">更多读书笔记（共46篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/22229485/discussion/53202097/" title="这本书什么时候有售？不是四月份出版吗？" class="">这本书什么时候有售？不是四月份出版吗？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/fantuanjet/">小队长先撤为敬</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2013-05-14</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/22229485/discussion/54297141/" title="现在连封面也要山寨么。。" class="">现在连封面也要山寨么。。</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/2087705/">Gunners007</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2013-08-01</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/22229485/discussion/57436297/" title="以创造顾客需求为导向 (试试手气免*费获得)" class="">以创造顾客需求为导向 (试试手气免*费获得)</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/summe88/">summer88</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2014-04-24</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/22229485/discussion/53636217/" title="kindle版在此，欢迎免费试读" class="">kindle版在此，欢迎免费试读</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/64927118/">kindle蜀黍</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2013-06-17</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 51.90元</span>
+        <span class="price"> <del>64.90元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=158824&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/31824616/?dcs=subject-buylink&amp;dcm=douban&amp;dct=22229485" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/31824616/?dcs=subject-buylink&amp;dcm=douban&amp;dct=22229485" class="">
+          <span class="buylink-price">
+            
+            <span class="">55.99 元</span>
+          </span>
+        </a>
+      </li>
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B00C1UKIWM2736048/?asin=B00C1UKIWM&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B00C1UKIWM&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">42.80 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4220&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=4870&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgRXElwSBCJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIRBVwcXBMdS0IJRmtIBUVANF8FZ2cIUyITAWN4d3EeTSJ1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBhZEgsUD1MrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVARAOUhxdCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=22229485&amp;type=bkbuy&amp;subject=22229485" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4220&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=4870&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgRXElwSBCJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIRBVwcXBMdS0IJRmtIBUVANF8FZ2cIUyITAWN4d3EeTSJ1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBhZEgsUD1MrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVARAOUhxdCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=22229485&amp;type=bkbuy&amp;subject=22229485" class="buylink-price ">
+                      <span class="">
+                        48.70 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4220&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=4280&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s22229485%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23252174&amp;cntvendor=3&amp;srcsubj=22229485&amp;type=bkbuy&amp;subject=22229485" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4220&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=4280&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s22229485%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23252174&amp;cntvendor=3&amp;srcsubj=22229485&amp;type=bkbuy&amp;subject=22229485" class="buylink-price ">
+                      <span class="">
+                        42.80 元
+                      </span>
+                    </a>
+
+                      
+                        <div class="more-info">
+                            <span class="buyinfo-promotion">
+                              优品换购6.20-6.26
+                            </span>
+                        </div>
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4220&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=4220&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5908047.htm&amp;cntvendor=3&amp;link2key=16f0697cc9&amp;srcsubj=22229485&amp;type=bkbuy&amp;subject=22229485" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4220&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=4220&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F5908047.htm&amp;cntvendor=3&amp;link2key=16f0697cc9&amp;srcsubj=22229485&amp;type=bkbuy&amp;subject=22229485" class="buylink-price ">
+                      <span class="">
+                        42.20 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/22229485/buylinks">
+              &gt; 查看3家网店价格
+                (42.20 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787213053726&amp;subject=7213053728&amp;type=borrow&amp;library=10012&amp;link2key=16f0697cc9" target="_blank">上海市中心图书馆(2)</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1039797">全部3</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/6829989/">未知出版社版</a>
+          2011-10 / 3人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/22516597/">未知出版社版</a>
+          2人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/22229485/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/2793079/" target="_blank">中国金融博物馆书院2013年7-9月推荐书单</a>
+                <span class="pl">(金融博物馆书院)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/310902/" target="_blank">零售相关--商品管理/买手/供应链/数据分析</a>
+                <span class="pl">(W)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1449607/" target="_blank">最新上架</a>
+                <span class="pl">(湛庐文化)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1417832/" target="_blank">2012-2014阅读发现，从现在出发。</a>
+                <span class="pl">(Moon)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1830192/" target="_blank">心理学 博弈论--2</a>
+                <span class="pl">(IVAN)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/134286803/"><img src="https://img3.doubanio.com/icon/u134286803-4.jpg" class="pil" alt="第二疯de狗" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/134286803/">第二疯de狗</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:商业 营销</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/6892328/"><img src="https://img3.doubanio.com/icon/u6892328-12.jpg" class="pil" alt="再次路过" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/6892328/">再次路过</a><br/>
+      <div class="pl ll">          昨天          读过      </div>
+
+        <span class="allstar30" title="还行"></span>
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/70302658/"><img src="https://img1.doubanio.com/icon/u70302658-8.jpg" class="pil" alt="少佐" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/70302658/">少佐</a><br/>
+      <div class="pl ll">          6月25日          读过      </div>
+
+        <span class="allstar40" title="推荐"></span>
+      <br/>
+
+      <span class="pl">tags:湛庐文化</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/84328287/"><img src="https://img3.doubanio.com/icon/u84328287-5.jpg" class="pil" alt="武夷姜君" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/84328287/">武夷姜君</a><br/>
+      <div class="pl ll">          6月24日          读过      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/22229485/doings">238人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/22229485/collections">805人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/22229485/wishes">3535人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/22229485/offers">3本二手书欲转让</a>
+          <span class="">
+            (15.00
+                至 20.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有3535人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于需求的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/22229485/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'DwNFNy2_LNo',
+            criteria = '7:商业|7:营销|7:需求|7:心理学|7:用户行为|7:产品|7:互联网|7:思维|7:湛庐文化|7:文化|3:/subject/22229485/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar7d-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

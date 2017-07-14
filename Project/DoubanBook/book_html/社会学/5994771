@@ -1,0 +1,2998 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>The Filter Bubble (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/5994771/">
+<meta name="keywords" content="The Filter Bubble,Eli Pariser,Penguin Press,2011-5-12,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书The Filter Bubble 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/5994771/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">The Filter Bubble</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s4647901.jpg" title="The Filter Bubble">
+    <img src="https://img3.doubanio.com/lpic/s4647901.jpg" title="点击看大图" alt="The Filter Bubble"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/Eli%20Pariser">Eli Pariser</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> Penguin Press<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> What the Internet Is Hiding from You<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2011-5-12<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 304<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> GBP 16.45<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> Hardcover<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9781594203008<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 7.4 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar35"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">39</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:21px"></div>
+
+            <span class="rating_per">15.4%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">46.2%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:46px"></div>
+
+            <span class="rating_per">33.3%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:7px"></div>
+
+            <span class="rating_per">5.1%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.0%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-5994771-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-5994771-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-5994771-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-5994771-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-5994771-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-5994771-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-5994771-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-5994771-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-5994771">
+        <a href="#" data-url="https://book.douban.com/subject/5994771/" data-desc="" data-title="书籍《The Filter Bubble》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s4647901.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_5994771"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>In December 2009, Google began customizing its search results for each user. Instead of giving you the most broadly popular result, Google now tries to predict what you are most likely to click on. According to MoveOn.org board president Eli Pariser, Google&#39;s change in policy is symptomatic of the most significant shift to take place on the Web in recent years-the rise of perso...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>In December 2009, Google began customizing its search results for each user. Instead of giving you the most broadly popular result, Google now tries to predict what you are most likely to click on. According to MoveOn.org board president Eli Pariser, Google&#39;s change in policy is symptomatic of the most significant shift to take place on the Web in recent years-the rise of personalization. In this groundbreaking investigation of the new hidden Web, Pariser uncovers how this growing trend threatens to control how we consume and share information as a society-and reveals what we can do about it.Though the phenomenon has gone largely undetected until now, personalized filters are sweeping the Web, creating individual universes of information for each of us. Facebook-the primary news source for an increasing number of Americans-prioritizes the links it believes will appeal to you so that if you are a liberal, you can expect to see only progressive links. Even an old-media bastion like T</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/5994771/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <span class="short">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>Eli Pariser is the board president and former executive director of MoveOn.org, which at five million members is one of the largest citizens&#39; organizations in American politics. During his time leading MoveOn, he sent 937,510,800 e-mails to members in his name. He has written op-eds for The Washington Post and The Wall Street Journal and has appeared on The Colbert Report, Good...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+
+            </span>
+            <span class="all hidden ">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>Eli Pariser is the board president and former executive director of MoveOn.org, which at five million members is one of the largest citizens&#39; organizations in American politics. During his time leading MoveOn, he sent 937,510,800 e-mails to members in his name. He has written op-eds for The Washington Post and The Wall Street Journal and has appeared on The Colbert Report, Good Morning America, Fresh Air, and World News Tonight.</p></div>
+
+            </span>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共52个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/互联网">互联网</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/internet">internet</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/social">social</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/新媒体">新媒体</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/network">network</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社会学">社会学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/个性化阅读">个性化阅读</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/社会科学">社会科学</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;The Filter Bubble&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/919296/?dcs=subject-rec&amp;dcm=douban&amp;dct=5994771" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/919296.jpg?v=1395395219.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/919296/" target="_blank">演员自我修养（第一部）</a>
+          </div>
+          <div class="price">
+              24.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/767824/?dcs=subject-rec&amp;dcm=douban&amp;dct=5994771" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/767824.jpg?v=1395395407.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/767824/" target="_blank">一键下单</a>
+          </div>
+          <div class="price">
+              3.60元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/335970/?dcs=subject-rec&amp;dcm=douban&amp;dct=5994771" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/335970.jpg?v=1395395896.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/335970/" target="_blank">筑巢引凤</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/2185887/?dcs=subject-rec&amp;dcm=douban&amp;dct=5994771" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/2185887.jpg?v=1395394002.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/2185887/" target="_blank">走出电商困局</a>
+          </div>
+          <div class="price">
+              5.75元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1901067/?dcs=subject-rec&amp;dcm=douban&amp;dct=5994771" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/1901067.jpg?v=1395393850.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1901067/" target="_blank">颠覆医疗 </a>
+          </div>
+          <div class="price">
+              30.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;The Filter Bubble&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5867755/" onclick="moreurl(this, {'total': 10, 'clicked': '5867755', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s10391591.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5867755/" onclick="moreurl(this, {'total': 10, 'clicked': '5867755', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            Program or Be Programmed
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4119747/" onclick="moreurl(this, {'total': 10, 'clicked': '4119747', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4321246.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4119747/" onclick="moreurl(this, {'total': 10, 'clicked': '4119747', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            The Future of the Internet--And Ho...
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4190147/" onclick="moreurl(this, {'total': 10, 'clicked': '4190147', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s6748518.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4190147/" onclick="moreurl(this, {'total': 10, 'clicked': '4190147', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            Cognitive Surplus
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1808426/" onclick="moreurl(this, {'total': 10, 'clicked': '1808426', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s29088461.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1808426/" onclick="moreurl(this, {'total': 10, 'clicked': '1808426', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            Shaping Things
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/17690736/" onclick="moreurl(this, {'total': 10, 'clicked': '17690736', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s26352006.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/17690736/" onclick="moreurl(this, {'total': 10, 'clicked': '17690736', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            To Save Everything, Click Here
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25791561/" onclick="moreurl(this, {'total': 10, 'clicked': '25791561', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s27219496.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25791561/" onclick="moreurl(this, {'total': 10, 'clicked': '25791561', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            It&#39;s Complicated
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5911900/" onclick="moreurl(this, {'total': 10, 'clicked': '5911900', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4594709.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5911900/" onclick="moreurl(this, {'total': 10, 'clicked': '5911900', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            Is the Internet Changing the Way Y...
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5909797/" onclick="moreurl(this, {'total': 10, 'clicked': '5909797', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s7010604.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5909797/" onclick="moreurl(this, {'total': 10, 'clicked': '5909797', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            The Net Delusion
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6779576/" onclick="moreurl(this, {'total': 10, 'clicked': '6779576', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s23109115.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6779576/" onclick="moreurl(this, {'total': 10, 'clicked': '6779576', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            The Lean Startup
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3058439/" onclick="moreurl(this, {'total': 10, 'clicked': '3058439', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s3055358.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3058439/" onclick="moreurl(this, {'total': 10, 'clicked': '3058439', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            The Future of the Internet--And Ho...
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/5994771/comments/">全部 12 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="770820938">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-770820938" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-770820938" class="j a_show_login" data-cid="770820938">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/ernest007/">擎天</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-01-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">冬季赖床期间读完…互联网时代获取免费服务是有代价的，没有人是活雷锋。If you&#39;re not paying for something, you&#39;re not the customer; you&#39;re the product being sold.</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="863952460">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-863952460" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-863952460" class="j a_show_login" data-cid="863952460">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/57902540/">浅度</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-01-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">有种感觉，摩尔指数的变化马上将在电视台与视频网站间见分晓</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="392553587">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-392553587" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-392553587" class="j a_show_login" data-cid="392553587">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/bugmanark/">方舟K][NGofARK</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-06-10</span>
+                </span>
+            </h3>
+            <p class="comment-content">A thought-provoking premise. A few strong points. A few anecdotes. A weak conclusion.</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="409206781">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-409206781" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-409206781" class="j a_show_login" data-cid="409206781">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/interskh/">interskh</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2011-07-15</span>
+                </span>
+            </h3>
+            <p class="comment-content">Personalization造就了一个巨大的Bubble 让我们丧失了了解世界的能力. 总结就是 - 看世界是要花力气的.
+
+没时间的话就看TED Talk吧: http://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles.html</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1046709912">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1046709912" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1046709912" class="j a_show_login" data-cid="1046709912">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/58104248/">Kirara知更鸟</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-07-15</span>
+                </span>
+            </h3>
+            <p class="comment-content">有段时间的书了，所以没什么太出人意料的部分。作者对新技术很批判很忧心忡忡，有警示作用，也提出了有效的建议，值得一看</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1046709912">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1046709912" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1046709912" class="j a_show_login" data-cid="1046709912">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/58104248/">Kirara知更鸟</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-07-15</span>
+                </span>
+            </h3>
+            <p class="comment-content">有段时间的书了，所以没什么太出人意料的部分。作者对新技术很批判很忧心忡忡，有警示作用，也提出了有效的建议，值得一看</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="863952460">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-863952460" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-863952460" class="j a_show_login" data-cid="863952460">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/57902540/">浅度</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-01-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">有种感觉，摩尔指数的变化马上将在电视台与视频网站间见分晓</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="819597228">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-819597228" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-819597228" class="j a_show_login" data-cid="819597228">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/siharaian/">南薰</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2014-06-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">we live in the bubble of biased information.those filtered bubble isolated us from others and other information. personalization 其实很可怕，他的负面影响就是我们的自我慢慢膨胀，而那些有营养的，可以让我们清楚认识自己的知识我们却无法接触。我们透过网路了解的世界只是别人希望我们了解的世界。可怕。
+
+本书立意很好，但是结构乱，读起来费劲。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="770820938">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-770820938" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-770820938" class="j a_show_login" data-cid="770820938">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/ernest007/">擎天</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-01-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">冬季赖床期间读完…互联网时代获取免费服务是有代价的，没有人是活雷锋。If you&#39;re not paying for something, you&#39;re not the customer; you&#39;re the product being sold.</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="763216916">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-763216916" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-763216916" class="j a_show_login" data-cid="763216916">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/1381589/">Linker</a>
+                        <span class="user-stars allstar20 rating" title="较差"></span>
+                    <span>2014-01-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">基于算法的网络个性化会让视野变得闭塞，降低创造力。一个对抗的办法是使用额外的选择。比如搜索时偶尔使用隐私模式；开发时不完全依赖算法，提供随机或抵触算法的选项（小概率）。面对一座座信息孤岛，开放互联网仍然任重而道远</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/5994771/comments/">更多短评 12 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/5994771/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            The Filter Bubble的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 3 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5693551">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5693551/" class="title-link">别让算法控制你——The Filter Bubble</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5693551"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/viperchaos/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u10732523-8.jpg"></a>
+    <a href="https://www.douban.com/people/viperchaos/" class="author">
+      <span property="v:reviewer">viperchaos</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2012-12-11"
+      class="main-meta">2012-12-11 10:20:33</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5693551_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-5693551-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5693551_full" class="hidden">
+            <div id="review_5693551_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7312864">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7312864/" class="title-link">泡沫里的世界</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7312864"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/57902540/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u57902540-10.jpg"></a>
+    <a href="https://www.douban.com/people/57902540/" class="author">
+      <span property="v:reviewer">浅度</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2015-01-02"
+      class="main-meta">2015-01-02 14:34:20</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7312864_short" class="review-short">
+            <div class="short-content">
+                  推荐算法给我们提供的世界是快乐的乌托邦，但是或许也是一剂无知无觉中的安乐死。我们从此居住在各自欢喜、彼此隔绝的世界里，老死不相往来而不自知。  快乐，并不一定是天堂恩泽的甘霖，或许也是撒旦手中的甜点。人类有着太多的弱点，我们天生喜欢被赞美，天生喜欢躲避思考，...
+
+                    <a class="pl" href="https://book.douban.com/review/7312864/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7312864_full" class="hidden">
+            <div id="review_7312864_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6824675">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6824675/" class="title-link">只剩消費者的星球</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6824675"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/1291946/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1291946-1.jpg"></a>
+    <a href="https://www.douban.com/people/1291946/" class="author">
+      <span property="v:reviewer">代替你</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2014-08-15"
+      class="main-meta">2014-08-15 17:42:14</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6824675_short" class="review-short">
+            <div class="short-content">
+                  看完全書，驚覺現今之世，人的存在價值已經越來越與其人之消費能力掛鉤，商家爲了把恰到好處的廣告送到人們面前，已經無所不用其極，不計後果。消費生產已經成爲社會的絕對價值，只要一股腦兒向着那個方向前進，幸福就會自然而然到來，無須猶疑，不用討論。  多年來，這種價值...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                        <span class="publisher left">
+                            未知出版社2012版</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6824675_full" class="hidden">
+            <div id="review_6824675_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评3篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/5994771/annotation">共<span property="v:count">21</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="39572006">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2518285/"><img src="https://img3.doubanio.com/icon/u2518285-2.jpg" alt="Prufrock" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39572006/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39572006/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2518285/" class=" " title="Prufrock">Prufrock</a>
+              
+            </p>
+            <div class="reading-note" data-cid="39572006">
+              <div class="short">
+                
+                  <span class="">一些资料汇总。
+
+1、作者在TED上的演讲
+
+https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn
+
+2、纽约时报评论
+http://cn.nytimes.com/opinion/20160524/c24bruni/
+
+
+3、豆瓣中的相关内容
+https://site.douban.com/210084/widget/notes/13304480/note/362158565/
+
+4、其他
+「怪我囉？」臉書研究撇清演算法造成言論濾泡挨轟
+http://technews.tw/2015/05/11/the-facebook-its-not-o...</span>
+                <p class="pl">
+                  <span class="">2016-10-11 09:11</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一些资料汇总。<div style="padding-bottom:1em;"></div>1、作者在TED上的演讲<div style="padding-bottom:1em;"></div><a rel="nofollow" href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn" target="_blank">https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn</a><div style="padding-bottom:1em;"></div>2、纽约时报评论
+<a rel="nofollow" href="http://cn.nytimes.com/opinion/20160524/c24bruni/" target="_blank">http://cn.nytimes.com/opinion/20160524/c24bruni/</a><div style="padding-bottom:1em;"></div>3、豆瓣中的相关内容
+<a rel="nofollow" href="https://site.douban.com/210084/widget/notes/13304480/note/362158565/">https://site.douban.com/210084/widget/notes/13304480/note/362158565/</a><div style="padding-bottom:1em;"></div>4、其他<div style="padding-bottom:1em;"></div>「怪我囉？」臉書研究撇清演算法造成言論濾泡挨轟
+<a rel="nofollow" href="http://technews.tw/2015/05/11/the-facebook-its-not-our-fault-study-claims-that-they-are-not-responsible-for-filter-bubble/" target="_blank">http://technews.tw/2015/05/11/the-facebook-its-not-our-fault-study-claims-that-they-are-not-responsible-for-filter-bubble/</a><div style="padding-bottom:1em;"></div>Echo chamber (media)
+<a rel="nofollow" href="https://en.wikipedia.org/wiki/Echo_chamber_" target="_blank">https://en.wikipedia.org/wiki/Echo_chamber_</a>(media)
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39572006/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-11 09:11
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="35082558">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/vieplivee/"><img src="https://img3.doubanio.com/icon/u1158543-372.jpg" alt="vieplivee" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/35082558/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/35082558/" class="">第三章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/vieplivee/" class=" " title="vieplivee">vieplivee</a>
+                (lililililililililililililili)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="35082558">
+              <div class="short">
+                
+                  <span class="">像 Page 把 citation criteria 弄到网页重要性计算里的事，感觉我成天在做的嘛…… 自己高兴一下先。
+
+In his seminal book The Act of Creation, Arthur Koestler describes creativity as “bisociation”—the intersection of two “matrices” of thought: “Discovery is an analogy no one has ever seen before.” Friedrich Kekule’s epiphany about the structure of a benzene molecule after a daydream about a sn...</span>
+                <p class="pl">
+                  <span class="">2015-05-14 11:03</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                像 Page 把 citation criteria 弄到网页重要性计算里的事，感觉我成天在做的嘛…… 自己高兴一下先。<div style="padding-bottom:1em;"></div><blockquote><q>In his seminal book The Act of Creation, Arthur Koestler describes creativity as “bisociation”—the intersection of two “matrices” of thought: “Discovery is an analogy no one has ever seen before.” Friedrich Kekule’s epiphany about the structure of a benzene molecule after a daydream about a snake eating its tail is an example. So is Larry Page’s insight to apply the technique of academic citation to search. “Discovery often means simply the uncovering of something which has always been there but was hidden from the eye by the blinkers of habit,” Koestler wrote. Creativity “uncovers, selects, re-shuffles, combines, synthesizes already existing facts, ideas, faculties, (and) skills.</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/35082558/#comments">回应</a>&nbsp;&nbsp;
+                  2015-05-14 11:03
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="35082266">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/vieplivee/"><img src="https://img3.doubanio.com/icon/u1158543-372.jpg" alt="vieplivee" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/35082266/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/35082266/" class="">第三章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/vieplivee/" class=" " title="vieplivee">vieplivee</a>
+                (lililililililililililililili)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="35082266">
+              <div class="short">
+                
+                  <span class="">这本书比我当初想象的要好看，很大一部分也许因为我个人是 data 的信徒，所以一边看一边想着如何 counter 这些现象，这么折腾下来，看着还算有点费脑不是纯鸡汤……（当然就作者的 intention 和做的功课而言，说他鸡汤实在有点太过分了。只不过这个标题后来被“鸡汤花”，唉唉）
+
+第三章 The Adderall Society 说到现在的 online recommendation system 不利于个体的 creativity，让我联想到人们对于“推荐”这件事既不必抱以太..</span>
+                <p class="pl">
+                  <span class="">2015-05-14 10:33</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                这本书比我当初想象的要好看，很大一部分也许因为我个人是 data 的信徒，所以一边看一边想着如何 counter 这些现象，这么折腾下来，看着还算有点费脑不是纯鸡汤……（当然就作者的 intention 和做的功课而言，说他鸡汤实在有点太过分了。只不过这个标题后来被“鸡汤花”，唉唉）<div style="padding-bottom:1em;"></div>第三章 The Adderall Society 说到现在的 online recommendation system 不利于个体的 creativity，让我联想到人们对于“推荐”这件事既不必抱以太大信心，更不必太过滥用。这里面是两方面的互博：一方面是 DS 试图提高自己的推荐系统的利用效率，另一方面是用户的不依赖心理。（其实，我觉得 DS 也可以致力于只提供必要的帮助，减少用户的依赖性，当然了这跟我的 outlier research 思路一样，可能会是五年后的 data 思维，而不算适用于现在吧）<div style="padding-bottom:1em;"></div><blockquote><q>In fact, the search for perfect relevance and the kind of serendipity that promotes creativity push in opposite directions. “If you like this, you’ll like that” can be a useful tool, but it’s not a source for creative ingenuity. By definition, ingenuity comes from the juxtaposition of ideas that are far apart, and relevance comes from finding ideas that are similar. Personalization, in other words, may be driving us toward an Adderall society, in which hyperfocus displaces general knowledge and synthesis.</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/35082266/#comments">回应</a>&nbsp;&nbsp;
+                  2015-05-14 10:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33930280">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/57902540/"><img src="https://img3.doubanio.com/icon/u57902540-10.jpg" alt="浅度" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33930280/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33930280/" class="">第130页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/57902540/" class=" " title="浅度">浅度</a>
+                (敢爱敢伤)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="33930280">
+              <div class="short">
+                
+                  <span class="">In 1973, the Department of Housing, Education, and Welfare under Nixon
+recommended that regulation center on what it called Fair Information Practices:
+• You should know who has your personal data, what data they have, and how it’s used.•
+You should be able to prevent information collected about you for one purpose from
+being used for others. • You should be able to correct inaccurat...</span>
+                <p class="pl">
+                  <span class="">2015-01-07 11:38</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                In 1973, the Department of Housing, Education, and Welfare under Nixon<div style="padding-bottom:1em;"></div>recommended that regulation center on what it called Fair Information Practices:<div style="padding-bottom:1em;"></div>• You should know who has your personal data, what data they have, and how it’s used.•<div style="padding-bottom:1em;"></div>You should be able to prevent information collected about you for one purpose from<div style="padding-bottom:1em;"></div>being used for others. • You should be able to correct inaccurate information about you.•<div style="padding-bottom:1em;"></div>Your data should be secure.
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33930280/#comments">回应</a>&nbsp;&nbsp;
+                  2015-01-07 11:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="39572006">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2518285/"><img src="https://img3.doubanio.com/icon/u2518285-2.jpg" alt="Prufrock" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39572006/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39572006/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2518285/" class=" " title="Prufrock">Prufrock</a>
+              
+            </p>
+            <div class="reading-note" data-cid="39572006">
+              <div class="short">
+                
+                  <span class="">一些资料汇总。
+
+1、作者在TED上的演讲
+
+https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn
+
+2、纽约时报评论
+http://cn.nytimes.com/opinion/20160524/c24bruni/
+
+
+3、豆瓣中的相关内容
+https://site.douban.com/210084/widget/notes/13304480/note/362158565/
+
+4、其他
+「怪我囉？」臉書研究撇清演算法造成言論濾泡挨轟
+http://technews.tw/2015/05/11/the-facebook-its-not-o...</span>
+                <p class="pl">
+                  <span class="">2016-10-11 09:11</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一些资料汇总。<div style="padding-bottom:1em;"></div>1、作者在TED上的演讲<div style="padding-bottom:1em;"></div><a rel="nofollow" href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn" target="_blank">https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn</a><div style="padding-bottom:1em;"></div>2、纽约时报评论
+<a rel="nofollow" href="http://cn.nytimes.com/opinion/20160524/c24bruni/" target="_blank">http://cn.nytimes.com/opinion/20160524/c24bruni/</a><div style="padding-bottom:1em;"></div>3、豆瓣中的相关内容
+<a rel="nofollow" href="https://site.douban.com/210084/widget/notes/13304480/note/362158565/">https://site.douban.com/210084/widget/notes/13304480/note/362158565/</a><div style="padding-bottom:1em;"></div>4、其他<div style="padding-bottom:1em;"></div>「怪我囉？」臉書研究撇清演算法造成言論濾泡挨轟
+<a rel="nofollow" href="http://technews.tw/2015/05/11/the-facebook-its-not-our-fault-study-claims-that-they-are-not-responsible-for-filter-bubble/" target="_blank">http://technews.tw/2015/05/11/the-facebook-its-not-our-fault-study-claims-that-they-are-not-responsible-for-filter-bubble/</a><div style="padding-bottom:1em;"></div>Echo chamber (media)
+<a rel="nofollow" href="https://en.wikipedia.org/wiki/Echo_chamber_" target="_blank">https://en.wikipedia.org/wiki/Echo_chamber_</a>(media)
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39572006/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-11 09:11
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33878740">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/57902540/"><img src="https://img3.doubanio.com/icon/u57902540-10.jpg" alt="浅度" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33878740/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33878740/" class="">第42页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/57902540/" class=" " title="浅度">浅度</a>
+                (敢爱敢伤)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="33878740">
+              <div class="short">
+                
+                  <span class="">At Yahoo’s popular Upshot news blog, a team of editors mine the data produced
+by streams of search queries to see what terms people are interested in, in real time. Then they produce articles responsive to those queries: When a lot of people search for
+“Obama’s birthday,” Upshot produces an article in response, and soon the searchers are landing on a Yahoo page and seeing Yahoo advertising. ...</span>
+                <p class="pl">
+                  <span class="">2015-01-02 14:23</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                At Yahoo’s popular Upshot news blog, a team of editors mine the data produced<div style="padding-bottom:1em;"></div>by streams of search queries to see what terms people are interested in, in real time. Then they produce articles responsive to those queries: When a lot of people search for<div style="padding-bottom:1em;"></div>“Obama’s birthday,” Upshot produces an article in response, and soon the searchers are landing on a Yahoo page and seeing Yahoo advertising. “We feel like the differentiator<div style="padding-bottom:1em;"></div>here, what separates us from a lot of our competitors is our ability to aggregate all this<div style="padding-bottom:1em;"></div>data,” the vice president of Yahoo Media told the New York Times. “This idea of creating<div style="padding-bottom:1em;"></div>content in response to audience insight and audience needs is one component of the<div style="padding-bottom:1em;"></div>strategy, but it’s a big component.”
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33878740/#comments">回应</a>&nbsp;&nbsp;
+                  2015-01-02 14:23
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33885667">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/57902540/"><img src="https://img3.doubanio.com/icon/u57902540-10.jpg" alt="浅度" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33885667/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33885667/" class="">第48页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/57902540/" class=" " title="浅度">浅度</a>
+                (敢爱敢伤)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="33885667">
+              <div class="short">
+                
+                  <span class="">This distorting effect is one of the challenges posed by personalized filters. Like a
+lens, the filter bubble invisibly transforms the world we experience by controlling what
+we see and donâ&euro;&trade;t see. It interferes with the interplay between our mental processes and
+our external environment. In some ways, it can act like a magnifying glass, helpfully
+expanding our view of a niche area of knowledg...</span>
+                <p class="pl">
+                  <span class="">2015-01-03 08:21</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                This distorting effect is one of the challenges posed by personalized filters. Like a<div style="padding-bottom:1em;"></div>lens, the filter bubble invisibly transforms the world we experience by controlling what<div style="padding-bottom:1em;"></div>we see and don’t see. It interferes with the interplay between our mental processes and<div style="padding-bottom:1em;"></div>our external environment. In some ways, it can act like a magnifying glass, helpfully<div style="padding-bottom:1em;"></div>expanding our view of a niche area of knowledge. But at the same time, personalized<div style="padding-bottom:1em;"></div>filters limit what we are exposed to and therefore affect the way we think and learn. They<div style="padding-bottom:1em;"></div>can upset the delicate cognitive balance that helps us make good decisions and come up<div style="padding-bottom:1em;"></div>with new ideas. And because creativity is also a result of this interplay between mind and<div style="padding-bottom:1em;"></div>environment, they can get in the way of innovation. If we want to know what the world<div style="padding-bottom:1em;"></div>really looks like, we have to understand how filters shape and skew our view of it.<div style="padding-bottom:1em;"></div>In two important ways, personalized filters can upset this cognitive balance<div style="padding-bottom:1em;"></div>between strengthening our existing ideas and acquiring new ones. First, the filter bubble<div style="padding-bottom:1em;"></div>surrounds us with ideas with which we’re already familiar (and already agree), making us<div style="padding-bottom:1em;"></div>overconfident in our mental frameworks. Second, it removes from our environment some<div style="padding-bottom:1em;"></div>of the key prompts that make us want to learn.
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33885667/#comments">回应</a>&nbsp;&nbsp;
+                  2015-01-03 08:21
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33885747">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/57902540/"><img src="https://img3.doubanio.com/icon/u57902540-10.jpg" alt="浅度" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33885747/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33885747/" class="">第50页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/57902540/" class=" " title="浅度">浅度</a>
+                (敢爱敢伤)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="33885747">
+              <div class="short">
+                
+                  <span class="">Once we’ve acquired schemata, we’re predisposed to strengthen them.
+Psychological researchers call this confirmation bias—a tendency to believe things that
+reinforce our existing views, to see what we want to see.</span>
+                <p class="pl">
+                  <span class="">2015-01-03 08:35</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                Once we’ve acquired schemata, we’re predisposed to strengthen them.<div style="padding-bottom:1em;"></div>Psychological researchers call this confirmation bias—a tendency to believe things that<div style="padding-bottom:1em;"></div>reinforce our existing views, to see what we want to see.
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33885747/#comments">回应</a>&nbsp;&nbsp;
+                  2015-01-03 08:35
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="39572006">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2518285/"><img src="https://img3.doubanio.com/icon/u2518285-2.jpg" alt="Prufrock" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39572006/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39572006/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2518285/" class=" " title="Prufrock">Prufrock</a>
+              
+            </p>
+            <div class="reading-note" data-cid="39572006">
+              <div class="short">
+                
+                  <span class="">一些资料汇总。
+
+1、作者在TED上的演讲
+
+https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn
+
+2、纽约时报评论
+http://cn.nytimes.com/opinion/20160524/c24bruni/
+
+
+3、豆瓣中的相关内容
+https://site.douban.com/210084/widget/notes/13304480/note/362158565/
+
+4、其他
+「怪我囉？」臉書研究撇清演算法造成言論濾泡挨轟
+http://technews.tw/2015/05/11/the-facebook-its-not-o...</span>
+                <p class="pl">
+                  <span class="">2016-10-11 09:11</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一些资料汇总。<div style="padding-bottom:1em;"></div>1、作者在TED上的演讲<div style="padding-bottom:1em;"></div><a rel="nofollow" href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn" target="_blank">https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=zh-cn</a><div style="padding-bottom:1em;"></div>2、纽约时报评论
+<a rel="nofollow" href="http://cn.nytimes.com/opinion/20160524/c24bruni/" target="_blank">http://cn.nytimes.com/opinion/20160524/c24bruni/</a><div style="padding-bottom:1em;"></div>3、豆瓣中的相关内容
+<a rel="nofollow" href="https://site.douban.com/210084/widget/notes/13304480/note/362158565/">https://site.douban.com/210084/widget/notes/13304480/note/362158565/</a><div style="padding-bottom:1em;"></div>4、其他<div style="padding-bottom:1em;"></div>「怪我囉？」臉書研究撇清演算法造成言論濾泡挨轟
+<a rel="nofollow" href="http://technews.tw/2015/05/11/the-facebook-its-not-our-fault-study-claims-that-they-are-not-responsible-for-filter-bubble/" target="_blank">http://technews.tw/2015/05/11/the-facebook-its-not-our-fault-study-claims-that-they-are-not-responsible-for-filter-bubble/</a><div style="padding-bottom:1em;"></div>Echo chamber (media)
+<a rel="nofollow" href="https://en.wikipedia.org/wiki/Echo_chamber_" target="_blank">https://en.wikipedia.org/wiki/Echo_chamber_</a>(media)
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39572006/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-11 09:11
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="35082558">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/vieplivee/"><img src="https://img3.doubanio.com/icon/u1158543-372.jpg" alt="vieplivee" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/35082558/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/35082558/" class="">第三章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/vieplivee/" class=" " title="vieplivee">vieplivee</a>
+                (lililililililililililililili)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="35082558">
+              <div class="short">
+                
+                  <span class="">像 Page 把 citation criteria 弄到网页重要性计算里的事，感觉我成天在做的嘛…… 自己高兴一下先。
+
+In his seminal book The Act of Creation, Arthur Koestler describes creativity as “bisociation”—the intersection of two “matrices” of thought: “Discovery is an analogy no one has ever seen before.” Friedrich Kekule’s epiphany about the structure of a benzene molecule after a daydream about a sn...</span>
+                <p class="pl">
+                  <span class="">2015-05-14 11:03</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                像 Page 把 citation criteria 弄到网页重要性计算里的事，感觉我成天在做的嘛…… 自己高兴一下先。<div style="padding-bottom:1em;"></div><blockquote><q>In his seminal book The Act of Creation, Arthur Koestler describes creativity as “bisociation”—the intersection of two “matrices” of thought: “Discovery is an analogy no one has ever seen before.” Friedrich Kekule’s epiphany about the structure of a benzene molecule after a daydream about a snake eating its tail is an example. So is Larry Page’s insight to apply the technique of academic citation to search. “Discovery often means simply the uncovering of something which has always been there but was hidden from the eye by the blinkers of habit,” Koestler wrote. Creativity “uncovers, selects, re-shuffles, combines, synthesizes already existing facts, ideas, faculties, (and) skills.</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/35082558/#comments">回应</a>&nbsp;&nbsp;
+                  2015-05-14 11:03
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="35082266">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/vieplivee/"><img src="https://img3.doubanio.com/icon/u1158543-372.jpg" alt="vieplivee" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/35082266/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/35082266/" class="">第三章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/vieplivee/" class=" " title="vieplivee">vieplivee</a>
+                (lililililililililililililili)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="35082266">
+              <div class="short">
+                
+                  <span class="">这本书比我当初想象的要好看，很大一部分也许因为我个人是 data 的信徒，所以一边看一边想着如何 counter 这些现象，这么折腾下来，看着还算有点费脑不是纯鸡汤……（当然就作者的 intention 和做的功课而言，说他鸡汤实在有点太过分了。只不过这个标题后来被“鸡汤花”，唉唉）
+
+第三章 The Adderall Society 说到现在的 online recommendation system 不利于个体的 creativity，让我联想到人们对于“推荐”这件事既不必抱以太..</span>
+                <p class="pl">
+                  <span class="">2015-05-14 10:33</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                这本书比我当初想象的要好看，很大一部分也许因为我个人是 data 的信徒，所以一边看一边想着如何 counter 这些现象，这么折腾下来，看着还算有点费脑不是纯鸡汤……（当然就作者的 intention 和做的功课而言，说他鸡汤实在有点太过分了。只不过这个标题后来被“鸡汤花”，唉唉）<div style="padding-bottom:1em;"></div>第三章 The Adderall Society 说到现在的 online recommendation system 不利于个体的 creativity，让我联想到人们对于“推荐”这件事既不必抱以太大信心，更不必太过滥用。这里面是两方面的互博：一方面是 DS 试图提高自己的推荐系统的利用效率，另一方面是用户的不依赖心理。（其实，我觉得 DS 也可以致力于只提供必要的帮助，减少用户的依赖性，当然了这跟我的 outlier research 思路一样，可能会是五年后的 data 思维，而不算适用于现在吧）<div style="padding-bottom:1em;"></div><blockquote><q>In fact, the search for perfect relevance and the kind of serendipity that promotes creativity push in opposite directions. “If you like this, you’ll like that” can be a useful tool, but it’s not a source for creative ingenuity. By definition, ingenuity comes from the juxtaposition of ideas that are far apart, and relevance comes from finding ideas that are similar. Personalization, in other words, may be driving us toward an Adderall society, in which hyperfocus displaces general knowledge and synthesis.</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/35082266/#comments">回应</a>&nbsp;&nbsp;
+                  2015-05-14 10:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33930280">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/57902540/"><img src="https://img3.doubanio.com/icon/u57902540-10.jpg" alt="浅度" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33930280/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33930280/" class="">第130页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/57902540/" class=" " title="浅度">浅度</a>
+                (敢爱敢伤)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="33930280">
+              <div class="short">
+                
+                  <span class="">In 1973, the Department of Housing, Education, and Welfare under Nixon
+recommended that regulation center on what it called Fair Information Practices:
+• You should know who has your personal data, what data they have, and how it’s used.•
+You should be able to prevent information collected about you for one purpose from
+being used for others. • You should be able to correct inaccurat...</span>
+                <p class="pl">
+                  <span class="">2015-01-07 11:38</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                In 1973, the Department of Housing, Education, and Welfare under Nixon<div style="padding-bottom:1em;"></div>recommended that regulation center on what it called Fair Information Practices:<div style="padding-bottom:1em;"></div>• You should know who has your personal data, what data they have, and how it’s used.•<div style="padding-bottom:1em;"></div>You should be able to prevent information collected about you for one purpose from<div style="padding-bottom:1em;"></div>being used for others. • You should be able to correct inaccurate information about you.•<div style="padding-bottom:1em;"></div>Your data should be secure.
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33930280/#comments">回应</a>&nbsp;&nbsp;
+                  2015-01-07 11:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/5994771/annotation">更多读书笔记（共21篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        <span>
+            <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=discuss">
+              <span>在这本书的论坛里发言</span>
+            </a>
+        </span>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9781594203008&amp;subject=1594203008&amp;type=borrow&amp;library=10001&amp;link2key=f7c56769a4" target="_blank">上海图书馆(1)</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1029162">全部2</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/10530966/">未知出版社版</a>
+          2012-3-1 / 29人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/5994771/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/84950/" target="_blank">TEDster 的书架</a>
+                <span class="pl">(Tony Yet)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1504507/" target="_blank">Lost Books List</a>
+                <span class="pl">(蒹葭)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/479876/" target="_blank">经管：定位/产品/组织/运营等2</a>
+                <span class="pl">(alenwg_cn)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/3029975/" target="_blank">Digital Media and Society</a>
+                <span class="pl">(Harry_Hzx)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/699250/" target="_blank">运营学习书单</a>
+                <span class="pl">(玉霖)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/ytuzi/"><img src="https://img3.doubanio.com/icon/u4558263-5.jpg" class="pil" alt="摔倒三郎" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/ytuzi/">摔倒三郎</a><br/>
+      <div class="pl ll">          6月15日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/wind_whisper/"><img src="https://img3.doubanio.com/icon/u35794279-4.jpg" class="pil" alt="梦溪" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/wind_whisper/">梦溪</a><br/>
+      <div class="pl ll">          6月2日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/32053366/"><img src="https://img3.doubanio.com/icon/u32053366-2.jpg" class="pil" alt="Rectina" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/32053366/">Rectina</a><br/>
+      <div class="pl ll">          5月13日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/5994771/doings">18人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/5994771/collections">42人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/5994771/wishes">289人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有289人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于The Filter Bubble的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/5994771/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'T365L6ueToA',
+            criteria = '7:互联网|7:internet|7:social|7:新媒体|7:network|7:社会学|7:个性化阅读|7:社会科学|7:大数据|7:Filter|3:/subject/5994771/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- hador13-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

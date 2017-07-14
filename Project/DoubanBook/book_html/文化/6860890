@@ -1,0 +1,3226 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>黑客 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/6860890/">
+<meta name="keywords" content="黑客,Steven Levy,机械工业出版社华章公司,2011-10-31,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书黑客 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/6860890/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">黑客</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s6951030.jpg" title="黑客">
+    <img src="https://img3.doubanio.com/lpic/s6951030.jpg" title="点击看大图" alt="黑客"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/Steven%20Levy">Steven Levy</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 机械工业出版社华章公司<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 计算机革命的英雄(二十五周年新版)<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> Hackers: Heroes of the Computer Revolution - 25th Anniversary Edition<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E8%B5%B5%E4%BF%90">赵俐</a>
+        
+           /
+        
+        <a class="" href="/search/%E5%88%81%E6%B5%B7%E9%B9%8F">刁海鹏</a>
+        
+           /
+        
+        <a class="" href="/search/%E7%94%B0%E4%BF%8A%E9%9D%99">田俊静</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2011-10-31<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 352<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 69.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787111358404<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.3 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">789</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:61px"></div>
+
+            <span class="rating_per">39.5%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">40.9%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:26px"></div>
+
+            <span class="rating_per">17.0%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:3px"></div>
+
+            <span class="rating_per">2.0%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.5%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-6860890-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-6860890-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-6860890-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6860890-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6860890-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6860890-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6860890-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-6860890-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-6860890">
+        <a href="#" data-url="https://book.douban.com/subject/6860890/" data-desc="" data-title="书籍《黑客》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s6951030.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_6860890"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>黑客文化和伦理的奠基之作，计算机专业人士必读。</p>    <p>二十五周年新版，涵盖比尔·盖茨、马克·扎克伯格、理查德·斯托曼、史蒂夫·沃兹尼克等著名黑客的最新资料。</p>    <p>多年前，射击游戏之父、Doom游戏的作者约翰·卡马克由于读到本书，坚定了游戏开发的决心。</p>    <p>谷歌首席信息官本·弗里德也是本书的忠实读者。</p>    <p>探寻黑客文化的本质，体会黑客精神的精髓。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/6860890/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <span class="short">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>Steven Levy这部经典力作的25周年版从20世纪50年代早期跨越到80年代后期，追述了计算机革命中初期黑客的丰功伟绩，他们都是最聪明和最富有个性的精英。他们勇于承担风险，勇于挑战规则，并把世界推向了一个全新的发展方向。本书更新了一些著名黑客的最新资料，包括比尔·盖茨、马克·扎克伯格、理查德·斯托曼和史蒂夫·沃兹尼亚克，并讲述了从早期计算机研究实验室到最初的家用计算机期间一些妙趣横生的故事。</p>    <p>在Levy的笔下，他们都是聪明而勤奋的人，他们极富想象力，他们另辟蹊径，发现了计算机工程问题的巧妙解决方案。他们都有一个共同的价值观，那就是至今仍然长盛不衰的“黑客道德”。本书描述了近代历史上的一个萌芽时期，描述了黑客用默默无闻的行动为当今的数字世界照亮了一条道路，描述了那些打破陈规“非法”访问穿孔卡片计算机的MIT的学生，也描述了缔造出Altair和Ap...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+
+            </span>
+            <span class="all hidden ">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>Steven Levy这部经典力作的25周年版从20世纪50年代早期跨越到80年代后期，追述了计算机革命中初期黑客的丰功伟绩，他们都是最聪明和最富有个性的精英。他们勇于承担风险，勇于挑战规则，并把世界推向了一个全新的发展方向。本书更新了一些著名黑客的最新资料，包括比尔·盖茨、马克·扎克伯格、理查德·斯托曼和史蒂夫·沃兹尼亚克，并讲述了从早期计算机研究实验室到最初的家用计算机期间一些妙趣横生的故事。</p>    <p>在Levy的笔下，他们都是聪明而勤奋的人，他们极富想象力，他们另辟蹊径，发现了计算机工程问题的巧妙解决方案。他们都有一个共同的价值观，那就是至今仍然长盛不衰的“黑客道德”。本书描述了近代历史上的一个萌芽时期，描述了黑客用默默无闻的行动为当今的数字世界照亮了一条道路，描述了那些打破陈规“非法”访问穿孔卡片计算机的MIT的学生，也描述了缔造出Altair和Apple II电脑这些伟大产品的DIY文化。</p></div>
+
+            </span>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_6860890_short">
+        前言 1<br/>
+        本书人物谱（也包括计算机）：“巫师”和他们的机器 3<br/>
+        第一部分 真正的黑客<br/>
+        剑桥：20世纪50年代和60年代<br/>
+        第1章 技术模型铁路俱乐部 11<br/>
+        第2章 黑客伦理 27<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_6860890_short').hide();$('#dir_6860890_full').show();$.get('/j/subject/j_dir_count',{id:6860890});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_6860890_full" style="display:none">
+        前言 1<br/>
+        本书人物谱（也包括计算机）：“巫师”和他们的机器 3<br/>
+        第一部分 真正的黑客<br/>
+        剑桥：20世纪50年代和60年代<br/>
+        第1章 技术模型铁路俱乐部 11<br/>
+        第2章 黑客伦理 27<br/>
+        第3章 太空大战 35<br/>
+        第4章 格林布莱特和高斯珀 49<br/>
+        第5章 午夜计算机改装组织 66<br/>
+        第6章 成功者和失败者 79<br/>
+        第7章 《生命》游戏 96<br/>
+        第二部分 硬件黑客<br/>
+        加州北部：20世纪70年代<br/>
+        第8章 2100年大叛乱 115<br/>
+        第9章 每个人都能成为上帝 137<br/>
+        第10章 家酿计算机俱乐部 153<br/>
+        第11章 Tiny BASIC 171<br/>
+        第12章 天才沃兹 188<br/>
+        第13章 秘密 208<br/>
+        第三部分 游戏黑客<br/>
+        Sierras：20世纪80年代<br/>
+        第14章 巫师和公主 219<br/>
+        第15章 联盟之道 235<br/>
+        第16章 第三代黑客 243<br/>
+        第17章 夏令营 257<br/>
+        第18章 《青蛙过河》 268<br/>
+        第19章 苹果节 284<br/>
+        第20章 巫师大比拼 300<br/>
+        第四部分 最后一名真正的黑客<br/>
+        剑桥：1983<br/>
+        最后一名真正的黑客 317<br/>
+        编后记：十年以后 329<br/>
+        编后记：2010 335<br/>
+        备注 347<br/>
+        致谢 351<br/>
+        作者简介 353<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_6860890_full').hide();$('#dir_6860890_short').show();void(0);">收起</a>)
+</div>
+
+    
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">&#34;黑客&#34;试读</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent">
+<p>我写本书的初衷是受到他们超凡魅力的感染，他们都是一些把计算视为世界上最重要事情的程序员和设计师。虽然业内有些人在使用“黑客”一词时略带贬义，要么暗指有点书呆气的无法融入社会的人，要么暗指那些专爱编写恶意的、“不标准的”计算机代码的“非专业”程序员。但我看到的却不同。在朴实无华的外表之下，他们是真正的冒险家、梦想者、勇于承担风险的人和艺术家……而且他们显然清楚...</p>
+<ul class="col2-list clearfix">
+
+<li>
+    <a href="https://book.douban.com/reading/14886770/">《黑客(计算机革命的英雄)》前言</a>
+</li>
+
+<li>
+    <a href="https://book.douban.com/reading/14886795/">本书人物谱（也包括计算机）</a>
+</li>
+
+<li>
+    <a href="https://book.douban.com/reading/15471848/">第1章 技术模型铁路俱乐部</a>
+</li>
+
+<li>
+    <a href="https://book.douban.com/reading/15472172/">第12章  天才沃兹</a>
+</li>
+</ul>
+<div align="right">  · · · · · ·    (<a href="https://book.douban.com/subject/6860890/reading/">查看全部试读</a>)</div>
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共316个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/黑客">黑客</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/计算机">计算机</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/计算机文化">计算机文化</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/Hacker">Hacker</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/互联网">互联网</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/历史">历史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/编程">编程</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/文化">文化</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;黑客&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/387525/?dcs=subject-rec&amp;dcm=douban&amp;dct=6860890" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/387525.jpg?v=1395395731.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/387525/" target="_blank">黑客与画家</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1885884/?dcs=subject-rec&amp;dcm=douban&amp;dct=6860890" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1885884.jpg?v=1395394151.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1885884/" target="_blank">程序员的思维修炼</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/387679/?dcs=subject-rec&amp;dcm=douban&amp;dct=6860890" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/387679.jpg?v=1395395846.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/387679/" target="_blank">编程大师访谈录</a>
+          </div>
+          <div class="price">
+              25.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/14318435/?dcs=subject-rec&amp;dcm=douban&amp;dct=6860890" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/14318435.jpg?v=1444455068.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/14318435/" target="_blank">七周七语言：理解多种编程范型</a>
+          </div>
+          <div class="price">
+              25.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/474698/?dcs=subject-rec&amp;dcm=douban&amp;dct=6860890" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/474698.jpg?v=1395394499.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/474698/" target="_blank">图灵的秘密</a>
+          </div>
+          <div class="price">
+              30.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;黑客&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5355285/" onclick="moreurl(this, {'total': 10, 'clicked': '5355285', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4549954.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5355285/" onclick="moreurl(this, {'total': 10, 'clicked': '5355285', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            编程人生
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1148282/" onclick="moreurl(this, {'total': 10, 'clicked': '1148282', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1113106.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1148282/" onclick="moreurl(this, {'total': 10, 'clicked': '1148282', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            计算机程序的构造和解释
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/19975498/" onclick="moreurl(this, {'total': 10, 'clicked': '19975498', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s22717420.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/19975498/" onclick="moreurl(this, {'total': 10, 'clicked': '19975498', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            掘金黑客
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1467587/" onclick="moreurl(this, {'total': 10, 'clicked': '1467587', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1631790.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1467587/" onclick="moreurl(this, {'total': 10, 'clicked': '1467587', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            UNIX编程艺术
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10432364/" onclick="moreurl(this, {'total': 10, 'clicked': '10432364', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s7038392.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10432364/" onclick="moreurl(this, {'total': 10, 'clicked': '10432364', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            奇思妙想
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1152971/" onclick="moreurl(this, {'total': 10, 'clicked': '1152971', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1488795.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1152971/" onclick="moreurl(this, {'total': 10, 'clicked': '1152971', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            DOOM启世录
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4163938/" onclick="moreurl(this, {'total': 10, 'clicked': '4163938', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6103451.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4163938/" onclick="moreurl(this, {'total': 10, 'clicked': '4163938', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            软件随想录
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4822685/" onclick="moreurl(this, {'total': 10, 'clicked': '4822685', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4379914.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4822685/" onclick="moreurl(this, {'total': 10, 'clicked': '4822685', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            编码
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5406042/" onclick="moreurl(this, {'total': 10, 'clicked': '5406042', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4571846.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5406042/" onclick="moreurl(this, {'total': 10, 'clicked': '5406042', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            设计原本
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6709783/" onclick="moreurl(this, {'total': 10, 'clicked': '6709783', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6807265.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6709783/" onclick="moreurl(this, {'total': 10, 'clicked': '6709783', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            浪潮之巅
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/6860890/comments/">全部 322 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="562531811">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-562531811" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-562531811" class="j a_show_login" data-cid="562531811">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/doorpost/">门柱</a>
+                    <span>2013-01-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">1.Sierra初期是个很rock/drug向的公司；2.EA创办者是苹果离职员工，一开始即秉持管理和技术的折中主义；3.以此书透露的信息，hacker史上最正面的正面角色当属史蒂夫·沃兹尼亚克</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="533450440">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-533450440" class="vote-count">3</span>
+                        <a href="javascript:;" id="btn-533450440" class="j a_show_login" data-cid="533450440">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/hgye/">面具@知道疯子</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-05-28</span>
+                </span>
+            </h3>
+            <p class="comment-content">great great great books// 不读这本书，你怎么可能理解SICP前言里面“We are fortunate to have been apprentice programmers at the feet of Bill Gosper and Richard Greenblatt.”这句话所体现出来的复杂情感呢？第一部分最好，真正的黑客</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="672973622">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-672973622" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-672973622" class="j a_show_login" data-cid="672973622">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/sqrabs/">天色已晚</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2015-11-09</span>
+                </span>
+            </h3>
+            <p class="comment-content">充满激情的年代</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="700550159">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-700550159" class="vote-count">4</span>
+                        <a href="javascript:;" id="btn-700550159" class="j a_show_login" data-cid="700550159">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/houkanshan/">灭灭</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2013-07-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">如果每个电气电子专业的孩子都能听听硬件黑客们的故事，也许他们中的某些就不会翘那些电路课，而最终成为前端工程师了。这本书遗憾之处是鲜有时间上的提示，结果看的时候很难找出一条大的时间线索，而且由于缺少可以对应上的历史背景而觉得不够尽兴（比如被从头喷到尾，却不知道到底做了什么的ibm）。另外对游戏无感所以第三代黑客的部分没细看〜</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="518264008">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-518264008" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-518264008" class="j a_show_login" data-cid="518264008">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/chain233/">Chain</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-04-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">接近神领域的异端者们，他们挑战规则，沉浸在0和1的世界中无法自拔，他们改变了整个世界，留下了数个传说，后人无法企及。Richard Stallman是史上最后一名纯粹的黑客</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1196353090">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1196353090" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1196353090" class="j a_show_login" data-cid="1196353090">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/155919028/">Risardo</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-30</span>
+                </span>
+            </h3>
+            <p class="comment-content">波澜壮阔</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1177163403">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1177163403" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1177163403" class="j a_show_login" data-cid="1177163403">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/43396727/">maomao</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-24</span>
+                </span>
+            </h3>
+            <p class="comment-content">几代黑客，理念的更迭，潮流的变化，精神的永存</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1176400913">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1176400913" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1176400913" class="j a_show_login" data-cid="1176400913">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/52942020/">Poorlife</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-04-10</span>
+                </span>
+            </h3>
+            <p class="comment-content">你不喜欢游戏那段。前面很精彩后面反应平平，真的不应该是科技历史书应有的效果</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1159673771">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1159673771" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1159673771" class="j a_show_login" data-cid="1159673771">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/JarkartaJIA/">CarbonJarkarta</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-03-03</span>
+                </span>
+            </h3>
+            <p class="comment-content">翻译的有点无趣，不过介绍了初代、次代和第三代的黑客文化</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1151763680">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1151763680" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1151763680" class="j a_show_login" data-cid="1151763680">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/143991335/">皮一蟹</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-02-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">我想再打一遍书名叫 Hacker: Heros of the Computer Revolution     Hacker:计算机革命的英雄。第一部分写MIT的那部分写得最好，几十年前，当大型计算机刚走进大学时，就出现了一批热爱计算机的人，他们有自己的黑客道德，一种文化。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/6860890/comments/">更多短评 322 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/6860890/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            黑客的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 24 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3557193">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3557193/" class="title-link">i wanna have control</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3557193"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/randomor/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1727396-5.jpg"></a>
+    <a href="https://www.douban.com/people/randomor/" class="author">
+      <span property="v:reviewer">randomor</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2010-08-17"
+      class="main-meta">2010-08-17 14:15:48</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3557193_short" class="review-short">
+            <div class="short-content">
+                  很久以前我还年轻得没有意识到自己有多年轻的时候，那时会电脑就等于会用五笔字型，我最崇拜的人是比尔盖茨。原因可能是他是世界首富。崇拜久了，就感觉自己可能是电脑天才。 好不容易考上个重点高中，要求老爸的奖励我一个电脑，我算是县城里幸福的孩子，于是老爸花了6000多块...
+
+                    <a class="pl" href="https://book.douban.com/review/3557193/#comments">(45回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">129有用 / 5没用</span>
+                        <span class="publisher left">
+                            O&#39;Reilly Media2010版</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3557193_full" class="hidden">
+            <div id="review_3557193_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5178772">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5178772/" class="title-link">那个还没有黑客的时代，那些还被称为巫师的他们</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5178772"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/Sedgewick/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u3516284-15.jpg"></a>
+    <a href="https://www.douban.com/people/Sedgewick/" class="author">
+      <span property="v:reviewer">Pope怯懦懦地</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2011-11-21"
+      class="main-meta">2011-11-21 19:27:10</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5178772_short" class="review-short">
+            <div class="short-content">
+                  这本书并不是很有吸引力，因为每翻过几页，就恨不得撇开书，抡起胳膊大干一场。 它说的是一帮天才，却不是Carmack那样的天才，他们是可以望及项背，甚至可以幻想那就是自己的升级升级版的天才。与其说这记录的是一段段传奇，不如说是为黑客文化传经布道。 这黑客文化的精神核心...
+
+                    <a class="pl" href="https://book.douban.com/review/5178772/#comments">(2回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">32有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5178772_full" class="hidden">
+            <div id="review_5178772_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5331991">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5331991/" class="title-link">读《黑客：计算机革命的英雄》</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5331991"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/dreamhead/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/dreamhead/" class="author">
+      <span property="v:reviewer">dreamhead</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2012-03-05"
+      class="main-meta">2012-03-05 13:25:21</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5331991_short" class="review-short">
+            <div class="short-content">
+                  多年前，我读过《DOOM启世录》，那是一个英雄传奇，看得我热血沸腾。那本书曾提及，有一本书让John Carmack产生了极大的共鸣，给予了它在这个领域前行的动力。Carmack的启示录是《黑客：计算机革命的英雄》(Hackers: Heroes of the Computer Revolution)。  我一直很好奇这是一...
+
+                    <a class="pl" href="https://book.douban.com/review/5331991/#comments">(4回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">17有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5331991_full" class="hidden">
+            <div id="review_5331991_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5710016">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5710016/" class="title-link">很不错的书，喜欢和热情是最重要的。</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5710016"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/63651460/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u63651460-5.jpg"></a>
+    <a href="https://www.douban.com/people/63651460/" class="author">
+      <span property="v:reviewer">公路</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2012-12-23"
+      class="main-meta">2012-12-23 11:41:12</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5710016_short" class="review-short">
+            <div class="short-content">
+                  一.分清黑客（Hacker）和骇客(Cracker)的区别。 或许大部分人眼中的黑客还是指入侵系统，盗取信息，犯罪之类的人。一般人这样认为很容易理解，但是如果是学CS的，那么就更应该分清这两个概念了。  二.七条黑客伦理。 1.对计算机的访问（以及任何可能帮助你认识我们这个世界的事...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5710016_full" class="hidden">
+            <div id="review_5710016_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5212091">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5212091/" class="title-link">说白了的黑客文化</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5212091"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/chentingpc/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u3084493-8.jpg"></a>
+    <a href="https://www.douban.com/people/chentingpc/" class="author">
+      <span property="v:reviewer">chentingpc</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2011-12-13"
+      class="main-meta">2011-12-13 21:53:23</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5212091_short" class="review-short">
+            <div class="short-content">
+                      曾经我也误解过黑客文化，以为黑客就是通过高科技手段搞破坏的；后来听国内一些文章描述所谓极客文化，才慢慢了解到真正所谓的黑客；我觉得，黑客就是黑客，去它的极客，我讨厌这个名字，别人不懂又怎样，黑客文化本非用来给人懂的。     究竟什么是黑客文化呢，这本书上提...
+
+                    <a class="pl" href="https://book.douban.com/review/5212091/#comments">(5回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">7有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5212091_full" class="hidden">
+            <div id="review_5212091_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评24篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/6860890/annotation">共<span property="v:count">41</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="22131415">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/lurenjia__/"><img src="https://img1.doubanio.com/icon/u1904653-8.jpg" alt="qhy15" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22131415/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22131415/" class="">第227页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/lurenjia__/" class=" " title="qhy15">qhy15</a>
+                (还记得大明湖畔的Sylar大人么)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="22131415">
+              <div class="short">
+                
+                  <span class="">在编程时，杰伊·沙利文就像一个度假的人，周密的计划自己的旅程，领略当地风景的细微特征，按照旅行指南，不断参观新的风景。而且，他仍然保持好奇心，在旅行过程中，可能会遇到分岔路，改变原计划，体验探索的乐趣，当反复迂回找到目标后，那种成就感非常美妙。</span>
+                <p class="pl">
+                  <span class="">2012-10-31 19:58</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>在编程时，杰伊·沙利文就像一个度假的人，周密的计划自己的旅程，领略当地风景的细微特征，按照旅行指南，不断参观新的风景。而且，他仍然保持好奇心，在旅行过程中，可能会遇到分岔路，改变原计划，体验探索的乐趣，当反复迂回找到目标后，那种成就感非常美妙。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22131415/#comments">回应</a>&nbsp;&nbsp;
+                  2012-10-31 19:58
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="19587343">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/11910619/"><img src="https://img3.doubanio.com/icon/u11910619-2.jpg" alt="Kevin" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/19587343/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/19587343/" class="">第87页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/11910619/" class=" " title="Kevin">Kevin</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="19587343">
+              <div class="short">
+                
+                  <span class="">在黑客眼中，最不可救药的失败者便是那些根本认不清哪种计算机才是真正最好的计算机，或者没法辨别哪种计算机语言才是真正最好的计算机语言，或者没法找到使用计算机真正最佳方法的人。</span>
+                <p class="pl">
+                  <span class="">2012-07-11 23:45</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                在黑客眼中，最不可救药的失败者便是那些根本认不清哪种计算机才是真正最好的计算机，或者没法辨别哪种计算机语言才是真正最好的计算机语言，或者没法找到使用计算机真正最佳方法的人。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/19587343/#comments">回应</a>&nbsp;&nbsp;
+                  2012-07-11 23:45
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="18204494">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/SunRiseV/"><img src="https://img3.doubanio.com/icon/u4064480-85.jpg" alt="Spring" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18204494/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18204494/" class="">全书摘记</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/SunRiseV/" class=" " title="Spring">Spring</a>
+                (又闻子规啼月夜，愁空山。)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="18204494">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/18204494/"><img src="https://img3.doubanio.com/view/page_note/small/public/p18204494-1.jpg"></a>
+                  </div>
+                  <span class=""> 
+
+
+
+第8章，2100年大叛乱，p121
+一切专制的核心就是保密
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/18204494/">(<span class="">6回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-05-08 21:30</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p18204494-1.jpg" alt="第3章，太空大战，p45"><br><span class="pic-title">第3章，太空大战，p45</span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p18204494-2.jpg" alt="第4章，格林布莱特和高斯珀，p60"><br><span class="pic-title">第4章，格林布莱特和高斯珀，p60</span></div><div style="padding-bottom:1em;"></div>第8章，2100年大叛乱，p121
+<blockquote><q>一切专制的核心就是保密</q></blockquote><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p18204494-3.jpg" alt="第9章，每个人都能成为上帝，p144"><br><span class="pic-title">第9章，每个人都能成为上帝，p144</span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p18204494-4.jpg" alt="第10章，家酿计算机俱乐部，p155"><br><span class="pic-title">第10章，家酿计算机俱乐部，p155</span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p18204494-5.jpg" alt="第10章，家酿计算机俱乐部，p159"><br><span class="pic-title">第10章，家酿计算机俱乐部，p159</span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p18204494-6.jpg" alt="第10章，家酿计算机俱乐部，p168"><br><span class="pic-title">第10章，家酿计算机俱乐部，p168</span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img1.doubanio.com/view/page_note/large/public/p18204494-7.jpg" alt="第10章，家酿计算机俱乐部，p170"><br><span class="pic-title">第10章，家酿计算机俱乐部，p170</span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img1.doubanio.com/view/page_note/large/public/p18204494-8.jpg" alt="第14章，巫师和公主，p226"><br><span class="pic-title">第14章，巫师和公主，p226</span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img1.doubanio.com/view/page_note/large/public/p18204494-9.jpg" alt="最后一名真正的黑客，p327"><br><span class="pic-title">最后一名真正的黑客，p327</span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18204494/#comments">6回应</a>&nbsp;&nbsp;
+                  2012-05-08 21:30
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="15920987">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/classicning/"><img src="https://img3.doubanio.com/icon/u1321053-24.jpg" alt="贝塔" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/15920987/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/15920987/" class="">第60页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/classicning/" class=" " title="贝塔">贝塔</a>
+                (胡萝卜素)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="15920987">
+              <div class="short">
+                
+                  <span class="">编写代码不仅仅是一件令人痴迷的行为，他还能带来身心的快感，更重要的是他是一项使命。你编写程序并按照黑客伦理指引的方向前行，你十分清楚那些效率及其低下且奢侈浪费的事（例如谈恋爱）会浪费太多的循环，占用太多的存储空间。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/15920987/">(<span class="">2回应</span>)</a>
+                <p class="pl">
+                  <span class="">2011-12-22 10:50</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>编写代码不仅仅是一件令人痴迷的行为，他还能带来身心的快感，更重要的是他是一项使命。你编写程序并按照黑客伦理指引的方向前行，你十分清楚那些效率及其低下且奢侈浪费的事（例如谈恋爱）会浪费太多的循环，占用太多的存储空间。</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/15920987/#comments">2回应</a>&nbsp;&nbsp;
+                  2011-12-22 10:50
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="17807594">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/fg0711/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="lionel" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/17807594/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/17807594/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/fg0711/" class=" " title="lionel">lionel</a>
+              
+            </p>
+            <div class="reading-note" data-cid="17807594">
+              <div class="short">
+                
+                  <span class="">fhjgdguiifdfuihfv</span>
+                <p class="pl">
+                  <span class="">2012-04-15 00:07</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                fhjgdguiifdfuihfv
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/17807594/#comments">回应</a>&nbsp;&nbsp;
+                  2012-04-15 00:07
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="18292056">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ymm/"><img src="https://img1.doubanio.com/icon/u1017510-9.jpg" alt="Love Scarlett" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18292056/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18292056/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ymm/" class=" " title="Love Scarlett">Love Scarlett</a>
+                (电影起码要看到100部吧)
+              
+            </p>
+            <div class="reading-note" data-cid="18292056">
+              <div class="short">
+                
+                  <span class=""> I believe their story—their vision, their intimacy with the machine itself,
+their experiences inside their peculiar world, and their sometimes dramatic, sometimes absurd “interfaces” with the outside world—is the real story of the computer revolution.果然是&quot;接口&quot;, 我还以为是借口. </span>
+                <p class="pl">
+                  <span class="">2012-05-14 07:29</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q> I believe their story—their vision, their intimacy with the machine itself,
+their experiences inside their peculiar world, and their sometimes dramatic, sometimes absurd “interfaces” with the outside world—is the real story of the computer revolution.</q></blockquote>果然是&quot;接口&quot;, 我还以为是借口. 
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18292056/#comments">回应</a>&nbsp;&nbsp;
+                  2012-05-14 07:29
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42811012">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/90624409/"><img src="https://img3.doubanio.com/icon/u90624409-3.jpg" alt="Live Poem" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42811012/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42811012/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/90624409/" class=" " title="Live Poem">Live Poem</a>
+                (只要醒着，就必须思考。)
+              
+            </p>
+            <div class="reading-note" data-cid="42811012">
+              <div class="short">
+                
+                  <span class="">1. 在朴实无华的外表之下，他们是真正的冒险家、梦想者、勇于承担风险的人和艺术家......这群人深知，他们对黑客思想的追求是永无止境的。 2. 我发现了他们的一个共同特点，那就是他们都奉行与计算机本身雅致的逻辑相一致的理念——共享、开放、分权，以及不惜一切代价亲自动手改进机器并改善整个世界。</span>
+                <p class="pl">
+                  <span class="">2017-04-02 18:57</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>1. 在朴实无华的外表之下，他们是真正的冒险家、梦想者、勇于承担风险的人和艺术家......这群人深知，他们对黑客思想的追求是永无止境的。</p><p>2. 我发现了他们的一个共同特点，那就是他们都奉行与计算机本身雅致的逻辑相一致的理念——共享、开放、分权，以及不惜一切代价亲自动手改进机器并改善整个世界。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42811012/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-02 18:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42811169">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/90624409/"><img src="https://img3.doubanio.com/icon/u90624409-3.jpg" alt="Live Poem" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42811169/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42811169/" class="">第11页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/90624409/" class=" " title="Live Poem">Live Poem</a>
+                (只要醒着，就必须思考。)
+              
+            </p>
+            <div class="reading-note" data-cid="42811169">
+              <div class="short">
+                
+                  <span class="">1. 在迷宫般的实验室和库房周围“侦察”，在机房中寻找电话交换机的秘密，在地下蒸汽管道中追踪电线或继电器的路线，这些行为都实属寻常，根本无需理由。 2. 如果没有人阻止你接近那台发出噪声的机器，你就会摸摸它，打开不断颤动的开关，看看反应，最后拧开螺丝，拆下一块板子，碰碰二极管，再拧拧几个接头。那时，只有搞清楚东西是如何工作的，才能理解它的意义。如果不动手，怎么能学到东西呢？ 3. 如果一个正在进行的项目或...</span>
+                <p class="pl">
+                  <span class="">2017-04-02 19:04</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>1. 在迷宫般的实验室和库房周围“侦察”，在机房中寻找电话交换机的秘密，在地下蒸汽管道中追踪电线或继电器的路线，这些行为都实属寻常，根本无需理由。</p><p>2. 如果没有人阻止你接近那台发出噪声的机器，你就会摸摸它，打开不断颤动的开关，看看反应，最后拧开螺丝，拆下一块板子，碰碰二极管，再拧拧几个接头。那时，只有搞清楚东西是如何工作的，才能理解它的意义。如果不动手，怎么能学到东西呢？</p><p>3. 如果一个正在进行的项目或正在构建的产品不仅仅是为了实现某个建设性目标，而且只要是参与进来就会有莫大的乐趣，那么这个项目就叫做一个“hack”。</p><p>4. 这些人往往为了能够省下一条或两条指令而废寝忘食。麦卡锡常常将这些学生比作滑雪爱好者。他们从“将代码效率发挥到极致”的精神中得到的快感就像狂热的滑雪爱好者从山坡上飞驰而下时体会到的那种感觉。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42811169/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-02 19:04
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="44411156">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/renzongxian/"><img src="https://img1.doubanio.com/icon/u62971124-7.jpg" alt="人总闲" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44411156/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44411156/" class="">第999页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/renzongxian/" class=" " title="人总闲">人总闲</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="44411156">
+              <div class="short">
+                
+                  <span class="">一方面，信息应该是昂贵的，因为它非常有价值。你在正确的地方得到正确的信息，就会改变你的人生。另一方面，信息应该是免费的，因为获得信息的成本不断地降低。这就是两者的矛盾所在。</span>
+                <p class="pl">
+                  <span class="">2017-05-29 17:57</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>一方面，信息应该是昂贵的，因为它非常有价值。你在正确的地方得到正确的信息，就会改变你的人生。另一方面，信息应该是免费的，因为获得信息的成本不断地降低。这就是两者的矛盾所在。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44411156/#comments">回应</a>&nbsp;&nbsp;
+                  2017-05-29 17:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42811380">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/90624409/"><img src="https://img3.doubanio.com/icon/u90624409-3.jpg" alt="Live Poem" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42811380/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42811380/" class="">第27页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/90624409/" class=" " title="Live Poem">Live Poem</a>
+                (只要醒着，就必须思考。)
+              
+            </p>
+            <div class="reading-note" data-cid="42811380">
+              <div class="short">
+                
+                  <span class="">1. 黑客伦理： (1) 对计算机的访问（以及任何可能帮助你认识我们这个世界的事物）应该是不受限制的、完全的。任何人都有动手尝试的权利！ (2) 所有的信息都应该可以自由获取。 (3) 不迷信权威——促进分权。 (4) 评判黑客的标准应该是他们的技术，而不是那些没有实际用途的指标，比如学位、年龄、种族或职位。 (5) 你可以在计算机上创造出艺术与美。 (6) 计算机可以让你的生活更美好。</span>
+                <p class="pl">
+                  <span class="">2017-04-02 19:20</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>1. 黑客伦理：</p><p>(1) 对计算机的访问（以及任何可能帮助你认识我们这个世界的事物）应该是不受限制的、完全的。任何人都有动手尝试的权利！</p><p>(2) 所有的信息都应该可以自由获取。</p><p>(3) 不迷信权威——促进分权。</p><p>(4) 评判黑客的标准应该是他们的技术，而不是那些没有实际用途的指标，比如学位、年龄、种族或职位。</p><p>(5) 你可以在计算机上创造出艺术与美。</p><p>(6) 计算机可以让你的生活更美好。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42811380/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-02 19:20
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42811169">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/90624409/"><img src="https://img3.doubanio.com/icon/u90624409-3.jpg" alt="Live Poem" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42811169/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42811169/" class="">第11页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/90624409/" class=" " title="Live Poem">Live Poem</a>
+                (只要醒着，就必须思考。)
+              
+            </p>
+            <div class="reading-note" data-cid="42811169">
+              <div class="short">
+                
+                  <span class="">1. 在迷宫般的实验室和库房周围“侦察”，在机房中寻找电话交换机的秘密，在地下蒸汽管道中追踪电线或继电器的路线，这些行为都实属寻常，根本无需理由。 2. 如果没有人阻止你接近那台发出噪声的机器，你就会摸摸它，打开不断颤动的开关，看看反应，最后拧开螺丝，拆下一块板子，碰碰二极管，再拧拧几个接头。那时，只有搞清楚东西是如何工作的，才能理解它的意义。如果不动手，怎么能学到东西呢？ 3. 如果一个正在进行的项目或...</span>
+                <p class="pl">
+                  <span class="">2017-04-02 19:04</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>1. 在迷宫般的实验室和库房周围“侦察”，在机房中寻找电话交换机的秘密，在地下蒸汽管道中追踪电线或继电器的路线，这些行为都实属寻常，根本无需理由。</p><p>2. 如果没有人阻止你接近那台发出噪声的机器，你就会摸摸它，打开不断颤动的开关，看看反应，最后拧开螺丝，拆下一块板子，碰碰二极管，再拧拧几个接头。那时，只有搞清楚东西是如何工作的，才能理解它的意义。如果不动手，怎么能学到东西呢？</p><p>3. 如果一个正在进行的项目或正在构建的产品不仅仅是为了实现某个建设性目标，而且只要是参与进来就会有莫大的乐趣，那么这个项目就叫做一个“hack”。</p><p>4. 这些人往往为了能够省下一条或两条指令而废寝忘食。麦卡锡常常将这些学生比作滑雪爱好者。他们从“将代码效率发挥到极致”的精神中得到的快感就像狂热的滑雪爱好者从山坡上飞驰而下时体会到的那种感觉。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42811169/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-02 19:04
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="42811012">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/90624409/"><img src="https://img3.doubanio.com/icon/u90624409-3.jpg" alt="Live Poem" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/42811012/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/42811012/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/90624409/" class=" " title="Live Poem">Live Poem</a>
+                (只要醒着，就必须思考。)
+              
+            </p>
+            <div class="reading-note" data-cid="42811012">
+              <div class="short">
+                
+                  <span class="">1. 在朴实无华的外表之下，他们是真正的冒险家、梦想者、勇于承担风险的人和艺术家......这群人深知，他们对黑客思想的追求是永无止境的。 2. 我发现了他们的一个共同特点，那就是他们都奉行与计算机本身雅致的逻辑相一致的理念——共享、开放、分权，以及不惜一切代价亲自动手改进机器并改善整个世界。</span>
+                <p class="pl">
+                  <span class="">2017-04-02 18:57</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>1. 在朴实无华的外表之下，他们是真正的冒险家、梦想者、勇于承担风险的人和艺术家......这群人深知，他们对黑客思想的追求是永无止境的。</p><p>2. 我发现了他们的一个共同特点，那就是他们都奉行与计算机本身雅致的逻辑相一致的理念——共享、开放、分权，以及不惜一切代价亲自动手改进机器并改善整个世界。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/42811012/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-02 18:57
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/6860890/annotation">更多读书笔记（共41篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/6860890/discussion/47952196/" title="编辑和翻译都挺渣的" class="">编辑和翻译都挺渣的</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/happia/">高兴</a></td>
+            <td class="pl"><span class="">6 回应</span></td>
+            <td class="pl"><span class="">2015-06-03</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/6860890/discussion/44508530/" title="几处翻译" class="">几处翻译</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/meantobe/">meantobe</a></td>
+            <td class="pl"><span class="">9 回应</span></td>
+            <td class="pl"><span class="">2014-04-23</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/6860890/discussion/57625572/" title="程序是怎样变成打孔纸带或卡片的？" class="">程序是怎样变成打孔纸带或卡片的？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/dyt401/">dyt401</a></td>
+            <td class="pl"><span class="">8 回应</span></td>
+            <td class="pl"><span class="">2017-02-13</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/6860890/discussion/56024292/" title="这本书里的几种计算机和芯片的wiki页面" class="">这本书里的几种计算机和芯片的wiki页面</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/2879572/">又见炊烟</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2015-11-17</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/6860890/discussion/49066321/" title="英文版谁有？" class="">英文版谁有？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/simplebutunique/">季风</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2012-11-07</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/6860890/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+        </ul>
+
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D978-7-111-35840-4&amp;subject=7111358406&amp;type=borrow&amp;library=10007&amp;link2key=1daefffd17" target="_blank">北京市公共图书馆(2)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787111358404&amp;subject=7111358406&amp;type=borrow&amp;library=10001&amp;link2key=1daefffd17" target="_blank">上海图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D9787111358404%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7111358406&amp;type=borrow&amp;library=10022&amp;link2key=1daefffd17" target="_blank">广州图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F58.154.49.3%3A8080%2Fopac%2Fopenlink.php%3FhistoryCount%3D1%26strText%3D978-7-111-35840-4%26doctype%3DALL%26strSearchType%3Disbn%26match_flag%3Dforward%26displaypg%3D20%26sort%3DCATA_DATE%26orderby%3Ddesc%26showmode%3Dlist%26location%3DALL&amp;subject=7111358406&amp;type=borrow&amp;library=10010&amp;link2key=1daefffd17" target="_blank">沈阳师范大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac3.wzlib.cn%2Fopac%2Fsearch%3FsearchWay%3Disbn%26q%3D978-7-111-35840-4%26booktype%3D%26marcformat%3D%26sortWay%3Dscore%26sortOrder%3Ddesc%26startPubdate%3D%26endPubdate%3D%26rows%3D10&amp;subject=7111358406&amp;type=borrow&amp;library=10020&amp;link2key=1daefffd17" target="_blank">温州市图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D978-7-111-35840-4%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7111358406&amp;type=borrow&amp;library=10021&amp;link2key=1daefffd17" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1022860">全部4</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/4814440/">O&#39;Reilly Media版</a>
+          2010-5-27 / 42人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1341632/">Penguin Books版</a>
+          2001-1 / 5人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1427681/">Anchor Press/Doubleday版</a>
+          1984年 / 10人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/6860890/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/25353/" target="_blank">IT好书100本</a>
+                <span class="pl">(左神神)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1375072/" target="_blank">北发图书网豆瓣网友优惠活动书目</a>
+                <span class="pl">(Alice)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/36764655/" target="_blank">2015-2017好书新发现</a>
+                <span class="pl">(Moon)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/41108931/" target="_blank">37°暖书单（二）</a>
+                <span class="pl">(37°暖)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/20172127/" target="_blank">闲着没事读读书（四）</a>
+                <span class="pl">(鹿小羽)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/tojafa/"><img src="https://img3.doubanio.com/icon/u135589192-1.jpg" class="pil" alt="何三才" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/tojafa/">何三才</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/leelddd/"><img src="https://img3.doubanio.com/icon/u83561959-6.jpg" class="pil" alt="leelddd" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/leelddd/">leelddd</a><br/>
+      <div class="pl ll">          6月24日          读过      </div>
+
+        <span class="allstar40" title="推荐"></span>
+      <br/>
+
+      <span class="pl">tags:计算机科学八卦书</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/6860890/doings">313人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/6860890/collections">860人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/6860890/wishes">4306人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/6860890/offers">7本二手书欲转让</a>
+          <span class="">
+            (1.00
+                至 150.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有4306人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于黑客的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/6860890/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = '6ZBUrITPJzU',
+            criteria = '7:黑客|7:计算机|7:计算机文化|7:Hacker|7:互联网|7:历史|7:编程|7:文化|7:计算机-安全|7:IT|3:/subject/6860890/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar15a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

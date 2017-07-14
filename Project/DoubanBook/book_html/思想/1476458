@@ -1,0 +1,3101 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>自我实现的人 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1476458/">
+<meta name="keywords" content="自我实现的人,马斯洛,生活.读书.新知三联书店,1987,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书自我实现的人 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1476458/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">自我实现的人</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s3514855.jpg" title="自我实现的人">
+    <img src="https://img3.doubanio.com/lpic/s3514855.jpg" title="点击看大图" alt="自我实现的人"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E9%A9%AC%E6%96%AF%E6%B4%9B">马斯洛</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 生活.读书.新知三联书店<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">原作名:</span> Self-Actualizing Man<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E8%AE%B8%E9%87%91%E5%A3%B0">许金声</a>
+        
+           /
+        
+        <a class="" href="/search/%E5%88%98%E9%94%8B">刘锋</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 1987<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">定价:</span> 0.85<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/526">新知文库</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">统一书号:</span> 2002-307<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.5 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">294</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">44.2%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:54px"></div>
+
+            <span class="rating_per">37.8%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:23px"></div>
+
+            <span class="rating_per">16.3%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:1px"></div>
+
+            <span class="rating_per">1.4%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.3%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1476458-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1476458-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1476458-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1476458-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1476458-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1476458-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1476458-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1476458-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1476458">
+        <a href="#" data-url="https://book.douban.com/subject/1476458/" data-desc="" data-title="书籍《自我实现的人》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s3514855.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1476458"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>“自我实现”在马斯洛那里有着特定的含义。从马斯洛的需要层次论来看自我实现，它是继人的生理需要、安全需要、归属需要、自尊需要等基本需要的优势出现之后，其优势一般才会出现的最高层次的基本需要。所谓需要的优势，是指某种需要在决定人的行为上所具有的力量和强度。优势需要，就是在决定人的行为上，具有最大的力量和强度的那种需要。关于自我实现需要，马斯洛在不同的地方，从不同的角度作过不少表述，最通俗的说法莫过于这段话：“一位音乐家必须作曲，一位画家必须绘画，一位诗人必须写诗，否则他就无法安静，人们都需要尽其所能，这一需要就称为‘自我实现需要’。”马斯洛还说：“自我实现也许可以大致描述为充分利用和开发天资、能力、潜力等等。这样的人似乎在竭尽所能，使自己趋于完美。”自我实现的本质特征是人的潜力和创造力的发挥。马斯洛的自我实现论无疑有它自己的出发点和特定的服务对象，但作为...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>“自我实现”在马斯洛那里有着特定的含义。从马斯洛的需要层次论来看自我实现，它是继人的生理需要、安全需要、归属需要、自尊需要等基本需要的优势出现之后，其优势一般才会出现的最高层次的基本需要。所谓需要的优势，是指某种需要在决定人的行为上所具有的力量和强度。优势需要，就是在决定人的行为上，具有最大的力量和强度的那种需要。关于自我实现需要，马斯洛在不同的地方，从不同的角度作过不少表述，最通俗的说法莫过于这段话：“一位音乐家必须作曲，一位画家必须绘画，一位诗人必须写诗，否则他就无法安静，人们都需要尽其所能，这一需要就称为‘自我实现需要’。”马斯洛还说：“自我实现也许可以大致描述为充分利用和开发天资、能力、潜力等等。这样的人似乎在竭尽所能，使自己趋于完美。”自我实现的本质特征是人的潜力和创造力的发挥。马斯洛的自我实现论无疑有它自己的出发点和特定的服务对象，但作为一种心理学说和管理思想，值得我们分析、借鉴。马斯洛的自我实现心理学有三个重要部分。第一，“需要层次论”：第二，“自我实现论”；第三，“高峰体验论”。</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1476458/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>马斯洛（A.H.Maslow，1908-1970）是世界著名心理学家，1967年-1968年曾任美国心理学学会主席，被称为“人本心理学精神之父”。马斯洛并不是第一个表述人本心理学思想的心理学家，但他的著作不仅兼容了人本心理学理论家们共有的全部概念的要点，而且使人本心理学的观点更加丰富和清晰。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1476458_short">
+        译者前言<br/>
+        自我实现的人：关于心理健康的研究<br/>
+        Z理论（两种不同类型的自我实现者）<br/>
+        自我实现者的爱情<br/>
+        引向自我实现的种种行为<br/>
+        创造性的态度<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1476458_short').hide();$('#dir_1476458_full').show();$.get('/j/subject/j_dir_count',{id:1476458});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1476458_full" style="display:none">
+        译者前言<br/>
+        自我实现的人：关于心理健康的研究<br/>
+        Z理论（两种不同类型的自我实现者）<br/>
+        自我实现者的爱情<br/>
+        引向自我实现的种种行为<br/>
+        创造性的态度<br/>
+        约拿情结<br/>
+        需要满足与心理健康<br/>
+        高级需要和低级需要的种种差异<br/>
+        论低级牢骚、高级牢骚和超级牢骚<br/>
+        论优良精神的管理<br/>
+        动机理论引言<br/>
+        正常、健康与价值<br/>
+        成长性动机和匮乏性动机<br/>
+        高峰体验；强烈的认同体验<br/>
+        高峰体验中的存在认知二<br/>
+        存在认知的一些危险<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1476458_full').hide();$('#dir_1476458_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共148个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/心理学">心理学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/马斯洛">马斯洛</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/自我实现">自我实现</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/人本主义">人本主义</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/自我实现的人">自我实现的人</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/心理">心理</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/人本心理学">人本心理学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/哲学">哲学</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/526">新知文库 (共81册)</a>,
+这套丛书还有
+《表现主义》,《罗兰·巴尔特》,《雅斯贝尔斯》,《知识论》,《当代法国哲学家》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;自我实现的人&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1224434/?dcs=subject-rec&amp;dcm=douban&amp;dct=1476458" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1224434.jpg?v=1395394511.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1224434/" target="_blank">寻路中国</a>
+          </div>
+          <div class="price">
+              7.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/2810274/?dcs=subject-rec&amp;dcm=douban&amp;dct=1476458" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/2810274.jpg?v=1395393555.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/2810274/" target="_blank">反脆弱</a>
+          </div>
+          <div class="price">
+              27.50元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;自我实现的人&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1475128/" onclick="moreurl(this, {'total': 10, 'clicked': '1475128', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1625613.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1475128/" onclick="moreurl(this, {'total': 10, 'clicked': '1475128', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            人的潜能和价值
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3074379/" onclick="moreurl(this, {'total': 10, 'clicked': '3074379', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s3089728.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3074379/" onclick="moreurl(this, {'total': 10, 'clicked': '3074379', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            存在心理学探索
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1761996/" onclick="moreurl(this, {'total': 10, 'clicked': '1761996', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s6516048.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1761996/" onclick="moreurl(this, {'total': 10, 'clicked': '1761996', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            人性能达的境界
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1419685/" onclick="moreurl(this, {'total': 10, 'clicked': '1419685', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s2376787.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1419685/" onclick="moreurl(this, {'total': 10, 'clicked': '1419685', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            动机与人格
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1171983/" onclick="moreurl(this, {'total': 10, 'clicked': '1171983', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s26291957.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1171983/" onclick="moreurl(this, {'total': 10, 'clicked': '1171983', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            洞察未来
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2116916/" onclick="moreurl(this, {'total': 10, 'clicked': '2116916', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s6002679.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2116916/" onclick="moreurl(this, {'total': 10, 'clicked': '2116916', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            动机与人格
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/2054823/" onclick="moreurl(this, {'total': 10, 'clicked': '2054823', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s3862809.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/2054823/" onclick="moreurl(this, {'total': 10, 'clicked': '2054823', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            權力與無知-暴力來自於無能、無知...
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1038909/" onclick="moreurl(this, {'total': 10, 'clicked': '1038909', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1197527.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1038909/" onclick="moreurl(this, {'total': 10, 'clicked': '1038909', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            马斯洛传
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1931681/" onclick="moreurl(this, {'total': 10, 'clicked': '1931681', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2167413.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1931681/" onclick="moreurl(this, {'total': 10, 'clicked': '1931681', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            罗杰斯著作精粹
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1477442/" onclick="moreurl(this, {'total': 10, 'clicked': '1477442', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s3872614.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1477442/" onclick="moreurl(this, {'total': 10, 'clicked': '1477442', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            为自己的人
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1476458/comments/">全部 54 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="662098220">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-662098220" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-662098220" class="j a_show_login" data-cid="662098220">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/littlecityfish/">小城鱼太郎</a>
+                        <span class="user-stars allstar20 rating" title="较差"></span>
+                    <span>2013-10-14</span>
+                </span>
+            </h3>
+            <p class="comment-content">因为一些原因，即使很多观点极为赞同也不得不打两星。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="393718464">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-393718464" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-393718464" class="j a_show_login" data-cid="393718464">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/min0taur/">[已注销]</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2011-05-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">改变人生态度的书</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="463994226">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-463994226" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-463994226" class="j a_show_login" data-cid="463994226">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Thomas.Xie/">蝉</a>
+                    <span>2013-11-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">:无</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="45310552">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-45310552" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-45310552" class="j a_show_login" data-cid="45310552">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/speak/">Johny</a>
+                    <span>2008-06-17</span>
+                </span>
+            </h3>
+            <p class="comment-content">找了好长时间不过如此/可能是时代问题吧/嗯,过时了</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="17040217">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-17040217" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-17040217" class="j a_show_login" data-cid="17040217">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/ogugu/">阿古</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2007-07-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">对我产生重要影响的书</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1196706066">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1196706066" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1196706066" class="j a_show_login" data-cid="1196706066">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/137603942/">木木山今</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-31</span>
+                </span>
+            </h3>
+            <p class="comment-content">马斯洛的语句很散乱，理论概念很复杂，很多东西和道、禅相通，可没有后者那么清澈明朗，不如多去读读佛经道经，西方的语言实在不太适合这东方的智慧。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1128299866">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1128299866" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1128299866" class="j a_show_login" data-cid="1128299866">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/61367246/">浅笑</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-12-29</span>
+                </span>
+            </h3>
+            <p class="comment-content">一部分深刻地描写出了我的内心，另一部分是我的内心希望成为的样子。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1124498415">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1124498415" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1124498415" class="j a_show_login" data-cid="1124498415">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/usrbin/">舟川</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-12-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">当时还真迷过一段时间马斯洛</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1082257955">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1082257955" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1082257955" class="j a_show_login" data-cid="1082257955">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/82980611/">宜佳啊宜佳</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2016-09-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">详尽地描述了需求层次的顶端，自我实现之人对爱情的看法，拥有的存在认知，高峰体验，是属于自我成长型人格。
+也分析了“存在认知”的不足，对高峰体验与宗教神秘学的交叉区域提出疑惑。
+在逻辑上我有些跟不上这书，但是整本书传达的意思是清晰的，起码对我在自我实现的道路上有所鼓舞。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1050919124">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1050919124" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1050919124" class="j a_show_login" data-cid="1050919124">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/jazzhippop/">Kami</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-06-11</span>
+                </span>
+            </h3>
+            <p class="comment-content">“存在认知的一些危险”那一章很有意思，主要还是如何整合自我的问题。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1476458/comments/">更多短评 54 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1476458/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            自我实现的人的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 10 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="4932715">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/4932715/" class="title-link">Notes</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-4932715"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/nwwfewx/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u9083557-8.jpg"></a>
+    <a href="https://www.douban.com/people/nwwfewx/" class="author">
+      <span property="v:reviewer">伊卡洛斯</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2011-05-03"
+      class="main-meta">2011-05-03 18:13:46</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_4932715_short" class="review-short">
+            <div class="short-content">
+                  　　自我实现也许可以大致描述为充分利用和开发天资、能力、潜力等等。这样的人似乎在竭尽所能，使自己趋于完美。自我实现意味着充分地、活跃地、忘我地、集中全力地、全神贯注地体验生活。  　　自我实现心理学有3个重要部分：1）需要层次论；2）自我实现论；3）高峰体验论。 ...
+
+                    <a class="pl" href="https://book.douban.com/review/4932715/#comments">(4回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">11有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_4932715_full" class="hidden">
+            <div id="review_4932715_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1392229">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1392229/" class="title-link">自我实现的人</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1392229"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/philosophia1979/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1137624-3.jpg"></a>
+    <a href="https://www.douban.com/people/philosophia1979/" class="author">
+      <span property="v:reviewer">野兽爱智慧</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2008-05-29"
+      class="main-meta">2008-05-29 11:13:24</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1392229_short" class="review-short">
+            <div class="short-content">
+                  野兽读书偶记（四） 　　1． 　　自我实现者具有奇妙的反复欣赏的能力,他们带着敬畏-兴奋-好奇甚至狂喜,精神饱满地-天真无邪地体验人生的天伦之乐,而对于其他人,这些体验也许已经变得陈旧.对于自我实现者,每一次日落都像第一次看见那样美妙,每一朵花都温馨馥郁,令人喜爱不已,甚...
+
+                    <a class="pl" href="https://book.douban.com/review/1392229/#comments">(7回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">32有用 / 2没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1392229_full" class="hidden">
+            <div id="review_1392229_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3426113">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3426113/" class="title-link">《自我实现的人》读书笔记</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3426113"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/iamsujie/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2355899-6.jpg"></a>
+    <a href="https://www.douban.com/people/iamsujie/" class="author">
+      <span property="v:reviewer">iamsujie</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2010-07-08"
+      class="main-meta">2010-07-08 21:55:40</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3426113_short" class="review-short">
+            <div class="short-content">
+                  我是去年7月住院时看的，对书中一些深以为然的观点摘录，比较乱，权作一个记录吧。  1	对现实更有效的洞察力 1.1	客观、冷静、理性，受情感影响小，甚至是不近人情 2	对自我、他人和自然的接受 2.1	努力去理解、接受他人做的任何事情 2.2	对于自然，敬畏并接受 2.3	经常把自己...
+
+                    <a class="pl" href="https://book.douban.com/review/3426113/#comments">(8回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">8有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3426113_full" class="hidden">
+            <div id="review_3426113_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="2257178">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/2257178/" class="title-link">马斯洛的Ｚ理论</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-2257178"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/beipo/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u2863220-9.jpg"></a>
+    <a href="https://www.douban.com/people/beipo/" class="author">
+      <span property="v:reviewer">倍魄</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2009-08-22"
+      class="main-meta">2009-08-22 01:25:26</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_2257178_short" class="review-short">
+            <div class="short-content">
+                   这本三联“新知文库”版的马斯洛的《自我实现的人》还是我1988年1月买的，定价1.85元。这是一本马斯洛著作和文章的摘译合集。与马斯洛的《动机与人格》一样，中译者都是许金声。本书的第二个论题是“Ｚ理论（两种不同类型的自我实现者）”，马斯洛在这里是借用了麦格雷戈的概...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">6有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_2257178_full" class="hidden">
+            <div id="review_2257178_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1233652">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1233652/" class="title-link">还是读马的三本原书好。</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1233652"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/otigoc/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1757506-30.jpg"></a>
+    <a href="https://www.douban.com/people/otigoc/" class="author">
+      <span property="v:reviewer">轩暂时离开豆瓣</span>
+    </a>    <span property="v:rating" class="allstar10 main-title-rating" title="很差"></span>
+  <span property="v:dtreviewed" content="2007-11-03"
+      class="main-meta">2007-11-03 22:12:48</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1233652_short" class="review-short">
+            <div class="short-content">
+                  该书是《动机与人格》、《人性发展能够到达的境界》（又名《人性能达的境界》）、《存在心理学探索》中论述“自我实现”章节的汇编。建议去看三本原书。
+
+                    <a class="pl" href="https://book.douban.com/review/1233652/#comments">(13回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">18有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1233652_full" class="hidden">
+            <div id="review_1233652_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评10篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1476458/annotation">共<span property="v:count">10</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="20817064">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/yeats_mx/"><img src="https://img3.doubanio.com/icon/u1295510-11.jpg" alt="玛莎" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/20817064/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/20817064/" class="">第245页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/yeats_mx/" class=" " title="玛莎">玛莎</a>
+                (Night is singing)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="20817064">
+              <div class="short">
+                
+                  <span class="">正是在这样一个人身上，自我力量达到了顶峰，但同时他又最易忘掉或超越自我，最能以问题为中心，最能自然行动，并且最能自主。在这样的人身上，对于知觉、行为、愉快和创造的专注可以是很完全的，很整合的和很纯粹的。
+人的匮乏性需要越强，专注于外界而不是专注于自我意识，自我中心和满足定向的能力就变得越困难。人越是受成长性动机促动，他就越是以问题中心，并且就越能在对待客观世界时把自我意识置于一旁。
+
+需要等级指引...</span>
+                <p class="pl">
+                  <span class="">2012-09-02 21:49</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>正是在这样一个人身上，自我力量达到了顶峰，但同时他又最易忘掉或超越自我，最能以问题为中心，最能自然行动，并且最能自主。在这样的人身上，对于知觉、行为、愉快和创造的专注可以是很完全的，很整合的和很纯粹的。
+人的匮乏性需要越强，专注于外界而不是专注于自我意识，自我中心和满足定向的能力就变得越困难。人越是受成长性动机促动，他就越是以问题中心，并且就越能在对待客观世界时把自我意识置于一旁。</q></blockquote><div style="padding-bottom:1em;"></div>需要等级指引着意识的方向，专注于自我的内省还是专注于外物，全情投入是无我的状态。<div style="padding-bottom:1em;"></div><blockquote><q>由于自我实现者基本上不用从事物中抽象出满足需要的性质，也不把人看做工具，所以他们更可能对他人持一种非评价的、非判断的、不干预的和不责备的态度，持一种没有所求的，一种没有选择的认识。这使得对何处有何物的知觉和理解更加清楚和敏锐。这是一种能理清问题而又不卷入其中的超然的知觉，这也正是外科医生和治疗家试图达到的，也是自我实现者不用费力就具有的。</q></blockquote><div style="padding-bottom:1em;"></div>下面马斯洛用了两个可爱的比喻描述两种不同的知觉，尤其功利性知觉的比喻：
+<blockquote><q>特别在当所注意的人和客体的结构是困难的、难以捉摸的和不清楚的时候，这种知觉方式上的差别是最重要的。观察者必须尊重客体的本质。因此知觉必须是文雅的，缜密的，非强迫性的和非强求的，并且能够被动地适合事物地本质，就好像水慢慢地渗入石缝一样。它绝不是那种由需要促动的方式形成的对事物的知觉，这种知觉以一种大吵大嚷、横冲直撞、目的明确的利用方式来塑造事物。那简直就像屠夫割肉。</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>...最大程度地受制于知觉之东西的内部组织，最小可能地受制于知觉者的性质。这种对具体事物同时存在的各个方面超脱的、道家式的、被动的和非干预性的知觉，与某些宗教体验和神秘体验的描写颇为相同。</q></blockquote>
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/20817064/#comments">回应</a>&nbsp;&nbsp;
+                  2012-09-02 21:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="19203715">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/classical87/"><img src="https://img1.doubanio.com/icon/u40404060-19.jpg" alt="雪堂" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/19203715/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/19203715/" class="">第166页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/classical87/" class=" " title="雪堂">雪堂</a>
+                (直入塔中，上寻相轮。)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="19203715">
+              <div class="short">
+                
+                  <span class=""> 判断生活的动机层次有各种各样的方法。例如，可以根据引起人们发笑的幽默的类型来判断他们生活的层次。生活在最低需要层次的人往往发现不友善的残酷的笑料很有趣。例如，他们可能嘲笑被狗咬的老妇人，被顽童们捉弄的乡下低能儿等等。亚伯拉罕·林肯式的幽默，是一种哲理式的、有教养的幽默。这种幽默带来的是微笑，而不是捧腹大笑，它很少有敌意、或征服的意图。然而，这种高级幽默完全不可能被生活在低层次的人们所理解。
+
+…..</span>
+                <p class="pl">
+                  <span class="">2012-06-25 02:12</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                 <blockquote><q>判断生活的动机层次有各种各样的方法。例如，可以根据引起人们发笑的幽默的类型来判断他们生活的层次。生活在最低需要层次的人往往发现不友善的残酷的笑料很有趣。例如，他们可能嘲笑被狗咬的老妇人，被顽童们捉弄的乡下低能儿等等。亚伯拉罕·林肯式的幽默，是一种哲理式的、有教养的幽默。这种幽默带来的是微笑，而不是捧腹大笑，它很少有敌意、或征服的意图。然而，这种高级幽默完全不可能被生活在低层次的人们所理解。
+
+……
+
+
+
+
+
+不能想象，有什么东西使人们得到完全满足，使人们不再需要新的东西。这种想法本身就是对人性的最佳状况的一种否定，它意味着达到某一点后，就再也不能改进了。这显然是荒谬的。不能设想，再经过在一百万年的进一步发展就会实现这种尽美尽善。不管有什么满足、什么好事、什么幸运，人们总是能够把它们塞进自己的胃口。这样，由于人们不安地看出事情能变得比此刻更完善，一旦他们习惯了已有的好事，就会忘掉它们，为了更加高级的好事把手伸向未来。在我看来，这是一种连续不断地进入未来的永恒过程。
+
+
+
+
+
+我之所以要着重强调这一点，主要是由于我在管理学文献中看到大量的失望与幻灭，以及对整个开明的管理哲学的暂时放弃，重新回到权力主义的管理。这是因为管理部门对于得不到感激、对于虽然条件好转而牢骚仍不断感到强烈失望。但是按照动机理论，我们决不应期待牢骚的中止，只应期待它们会变得越来越高级、也就是说，这些牢骚将从低级牢骚发展到高级牢骚，然后再从高级牢骚最后发展到超级牢骚。这一看法在原则上与我们关于人的动机的论述一致。
+
+
+我认为，人的动机永无休止，随着条件的改善不断向越来越高级的层次发展。这一看法也符合我关于挫折水平的概念。我拒绝认为挫折必然总是坏的。我设想，挫折是分层次的，从低层次挫折向高层次挫折的发展是一种福音，是一件大好事，是良好的社会状况、良好的个人成熟等的迹象。
+
+
+……
+
+
+
+
+我的论点是：不应当简单地把高层次牢骚等同于其他牢骚，必须将它看成是所有先决条件已经得到满足的表现，这种满足使牢骚的高度在理论上成为可能。
+
+如果一个文明的、明智的管理机构深刻地理解了这一切，那么这样的管理机构将会看到，条件的发送会提高上面概括过的牢骚层次和挫折水平，而不会指望发送了的条件将使一切牢骚消失。这样，他们就几乎不会因为在耗费大量的人力物力之后，仍然有牢骚存在而感到幻、懊恼。我们必须学会了解：这些牢骚是否在动机层次上已经提高了？
+
+                                      －－马斯洛《自我实现的人》P166
+
+
+
+</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/19203715/#comments">回应</a>&nbsp;&nbsp;
+                  2012-06-25 02:12
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16665868">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/Skrik/"><img src="https://img3.doubanio.com/icon/u2074830-52.jpg" alt="郢" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16665868/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16665868/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/Skrik/" class=" " title="郢">郢</a>
+              
+            </p>
+            <div class="reading-note" data-cid="16665868">
+              <div class="short">
+                
+                  <span class="">我并不在人性中尋求完美，尋求這樣的完美是一個大錯誤，它必定導致一生的不幸與幻想破滅。
+每一個權力主義者都既是施虐狂，也是受虐狂。哪一種傾向占上風，很大程度上取決于環境因素。
+整個思想史就是說人性壞話的歷史
+在高峰體驗中，你比那些身陷其境的人擁有一個更高的視點。因此，你便有了悲傷或者荒謬的感覺。你就好像坐在柵欄上觀看一場爭鬥，並且悲哀地喃喃自語：“這種衝突是荒謬的。”你可能既感到悲哀，又感到可笑。
+...</span>
+                <p class="pl">
+                  <span class="">2012-02-10 14:10</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                我并不在人性中尋求完美，尋求這樣的完美是一個大錯誤，它必定導致一生的不幸與幻想破滅。<div style="padding-bottom:1em;"></div>每一個權力主義者都既是施虐狂，也是受虐狂。哪一種傾向占上風，很大程度上取決于環境因素。<div style="padding-bottom:1em;"></div>整個思想史就是說人性壞話的歷史<div style="padding-bottom:1em;"></div>在高峰體驗中，你比那些身陷其境的人擁有一個更高的視點。因此，你便有了悲傷或者荒謬的感覺。你就好像坐在柵欄上觀看一場爭鬥，並且悲哀地喃喃自語：“這種衝突是荒謬的。”你可能既感到悲哀，又感到可笑。<div style="padding-bottom:1em;"></div>擁有太多過分自負的人，注定會變成一個偏執狂。如果對我們的缺陷過分關注，我們就會患神經癥。<div style="padding-bottom:1em;"></div>事實上這就是悲劇：人努力成為神，并因此受到命運的懲罰。<div style="padding-bottom:1em;"></div>自私常常與情感上感到不安全有關，無私則可能意味著在感情上感到安全，意味著自我實現和心理健康。<div style="padding-bottom:1em;"></div>大量表現為無私的行為產生於精神錯亂或者是自私的動機。我們不應該總是被無私行動的外表所迷惑，因為表面的無私下面也許掩蓋了驚人的敵意、嫉妒或者仇恨。<div style="padding-bottom:1em;"></div>在臨床上，通常假定自私、故意以及邪惡產生於個體的基本需要的滿足受到了阻撓。無論它們是源於過去還是現在。<div style="padding-bottom:1em;"></div>宿命感是不可抗拒的，而人們的意志是不可束縛的。<div style="padding-bottom:1em;"></div>                       
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16665868/#comments">回应</a>&nbsp;&nbsp;
+                  2012-02-10 14:10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="44052395">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/sahaja/"><img src="https://img1.doubanio.com/icon/u42033941-7.jpg" alt="公益霎哈嘉瑜伽" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44052395/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44052395/" class="">这就是高峰体验</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/sahaja/" class=" " title="公益霎哈嘉瑜伽">公益霎哈嘉瑜伽</a>
+                (霎哈嘉瑜伽微信服务号:sahajasz.)
+              
+            </p>
+            <div class="reading-note" data-cid="44052395">
+              <div class="short">
+                
+                  <span class="">“慢慢的，躯体的痛苦，情绪的沉抑，心身的耗竭让你忘却了行为的意义，甚至怀疑攀登的价值和现实性，你的内心挤满了渴望与逃避，冒险与胆怯、放弃与坚持的双向冲突，知觉变得凝重而迟缓，现实感消隐，意识逐步的缩窄。再后来，你的思想似乎停滞，感觉麻木，忘了自己是谁，在做什么和为什么要做，只是机械地向上走。你的意识界沉静而虚无，只有心灵那一丝光亮，仍在坚持和闪耀着。终于，你到达了那高耸卓绝的山顶，按理说积压太...</span>
+                <p class="pl">
+                  <span class="">2017-05-17 16:29</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>“慢慢的，躯体的痛苦，情绪的沉抑，心身的耗竭让你忘却了行为的意义，甚至怀疑攀登的价值和现实性，你的内心挤满了渴望与逃避，冒险与胆怯、放弃与坚持的双向冲突，知觉变得凝重而迟缓，现实感消隐，意识逐步的缩窄。再后来，你的思想似乎停滞，感觉麻木，忘了自己是谁，在做什么和为什么要做，只是机械地向上走。你的意识界沉静而虚无，只有心灵那一丝光亮，仍在坚持和闪耀着。终于，你到达了那高耸卓绝的山顶，按理说积压太长的期待会给你带来像爆炸一般的狂喜，但却没有发生。你似乎忘却了自我，忘却了存在，时间和空间消融在一起，没有边界，四周只有一片纯净的虚空，深邃而神秘。你甚至会有一瞬的迷茫，不知道你接下来要做什么？这时，一种像海潮般的愉悦和满足感从遥远的心灵深处释放、溢出、扩展，伴随着高峰上的洁净、安详，和谐席卷了你，你似乎听见了心灵的笑声，品尝到生命融入那种永恒与无限的感觉。慢慢的海潮过去，你的内心仍充满着充沛的活力和美妙无比的欣喜，灵感激荡，思想饱满而充实。在以后很长的日子里，你对自我的态度和对世界的感觉已经完全的不同。每当遇到困难的时候，回忆那不平凡的一刻，你的内心依然会荡漾出坚毅、活力和创造力，成为你自由、自信、自强不息的精神源泉，这就是高峰体验。”——马斯洛</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44052395/#comments">回应</a>&nbsp;&nbsp;
+                  2017-05-17 16:29
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="16188788">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/joangu/"><img src="https://img1.doubanio.com/icon/u1341454-58.jpg" alt="Joan" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16188788/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16188788/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/joangu/" class=" " title="Joan">Joan</a>
+                (生如夏花)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="16188788">
+              <div class="short">
+                
+                  <span class="">【创造性的态度】
+
+&quot;专注于此刻&quot;的能力是任何一种创造必不可少的前提。而且，任何领域内的创造的某些先决条件也陡河这种能够忘记时空与自我, 摆脱社会和历史限制的能力有关。
+
+1. 抛弃过去
+
+在处理一个当前问题时，最好的方式就是整个身心全部投入进去, 探究其本质, 在问题本身之中去发掘内在联系, 在问题本身之中去找出(而不是臆造)答案。
+
+2. 抛弃未来
+
+3. 纯真
+
+4. 缩小意识范围
+
+除了当前的情况，我们...</span>
+                <p class="pl">
+                  <span class="">2012-01-11 09:59</span>
+                  
+                    &nbsp;&nbsp;<span class="">4人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                【创造性的态度】<div style="padding-bottom:1em;"></div>&quot;专注于此刻&quot;的能力是任何一种创造必不可少的前提。而且，任何领域内的创造的某些先决条件也陡河这种能够忘记时空与自我, 摆脱社会和历史限制的能力有关。<div style="padding-bottom:1em;"></div>1. 抛弃过去<div style="padding-bottom:1em;"></div>在处理一个当前问题时，最好的方式就是整个身心全部投入进去, 探究其本质, 在问题本身之中去发掘内在联系, 在问题本身之中去找出(而不是臆造)答案。<div style="padding-bottom:1em;"></div>2. 抛弃未来<div style="padding-bottom:1em;"></div>3. 纯真<div style="padding-bottom:1em;"></div>4. 缩小意识范围<div style="padding-bottom:1em;"></div>除了当前的情况，我们已经变得很少意识到其它任何事物，即更少分心。十分重要的一点在于我们对他人，对他们与我们的关系，对责任，职责，恐惧和希望等等的意识有所降低。我们更加摆脱了他人的羁绊。这又意味着我们找到了自己，我们更自主，成为纯真的自我和真正的自身。<div style="padding-bottom:1em;"></div>事情之所以会这样，是因为我们不再与自己的真正自我相疏离，我们与自己的真正自我相疏离的最大原因就在于我们病态的与他人搅在一起，在于那种从儿童时代就已经存在着的长期威胁，在于非理性的移情作用，在这种情形下，过去和现在相混淆，成人的举止如同儿童一般。<div style="padding-bottom:1em;"></div>这意味这我们必需摘下面具，抛去想要影响，取悦别人，或给人留下美好印象以及赢得欢迎和爱戴的努力。可以这样说：如果我们没有观众，我们就不再是表演者，由于没有任何做作的必要，我们就能够忘我的献身于解决问题。<div style="padding-bottom:1em;"></div>5. 自我的遗忘, 自我与自我意识的丧失<div style="padding-bottom:1em;"></div>当你完全为非我所吸引时，你的自我意识和自我感受都减少了。<div style="padding-bottom:1em;"></div>同时，它又要求我们少去对经验进行批评和校正，评估和评价，选择和拒绝，判断和估量以及割裂和分析。<div style="padding-bottom:1em;"></div>6. 对(自我)意识力量的抑制<div style="padding-bottom:1em;"></div>7. 恐惧的消失<div style="padding-bottom:1em;"></div>8. 防御和抑制的减弱<div style="padding-bottom:1em;"></div>9. 力量和勇气<div style="padding-bottom:1em;"></div>创造性态度需要勇气和力量，许多关于创造性的研究已经报告了勇气的种种形式：顽强，独立，自信，某种自傲，性格的力量以及自我的力量等等。名望很少受到考虑。恐惧和怯懦会湮灭创造性，至少能使它不大可能出现。<div style="padding-bottom:1em;"></div>当人们的勇气增加时，他们会更易受到神秘的，陌生的，新奇的，模糊的，矛盾的和非同寻常的怪异事物的吸引。<div style="padding-bottom:1em;"></div>10. 积极的接受态度<div style="padding-bottom:1em;"></div>11. 信赖而非努力, 控制和奋斗<div style="padding-bottom:1em;"></div>以上发生的一切都意味着一种对自我的信赖和对世界的信赖，这个世界允许暂时放弃奋斗和努力，决断和控制有意识的应付和努力。<div style="padding-bottom:1em;"></div>12. 道家式的接受<div style="padding-bottom:1em;"></div>在创造力的原发期或灵感期，某种程度的接受性，非干扰或&quot;无为&quot;是关键特征，<div style="padding-bottom:1em;"></div>13. 存在认知者的整合(与分裂)<div style="padding-bottom:1em;"></div>14. 允许暂回原发过程<div style="padding-bottom:1em;"></div>人的整合过程从部分上说是无意识和前意识部分的恢复，尤其是原发过程(或者说是诗意的，隐喻的，神秘的，原始的和稚气的过程)的恢复。<div style="padding-bottom:1em;"></div>15. 审美的感悟而非抽象<div style="padding-bottom:1em;"></div>与那种以非干扰，非强加，非控制的方式进行品尝，欣赏，鉴赏和关注的审美的态度相比，抽象更具有积极干扰的性质，更少有道家精神，更具有选择－拒绝性质。<div style="padding-bottom:1em;"></div>16. 最大程度的自发性<div style="padding-bottom:1em;"></div>如果我们对当前的情况专心致志，专注于事物本身，而且心中又没有其它目的的话，我们就易于以自发的，不加努力的，本能般的，自动的不加思索的方式，即以最少阻碍的高度协调的方式，完全自主的充分发挥作用和表现出我们的能力。<div style="padding-bottom:1em;"></div>事物的内在本质。<div style="padding-bottom:1em;"></div>17. 独特性的充分表现<div style="padding-bottom:1em;"></div>极大的自发性使得自由发挥作用的机体的性质和风格能够真实的表现出来，使其独特性能够充分表现出来。<div style="padding-bottom:1em;"></div>唯一的决定因素就是当前事物的内在本质，人的内在本质，以及人们为了形成一个整体或单位而彼此互相适应的内在必要。<div style="padding-bottom:1em;"></div>18. 人与世界的融合<div style="padding-bottom:1em;"></div>&quot;如果你要画鸟，就必须变成一只鸟。&quot;<div style="padding-bottom:1em;"></div>【自我实现者】<div style="padding-bottom:1em;"></div>1. 对现实更有效的洞察力和更适意的关系<div style="padding-bottom:1em;"></div>2. 对自我, 他人和自然的接受<div style="padding-bottom:1em;"></div>3. 行为的自然流露<div style="padding-bottom:1em;"></div>4. 以问题为中心<div style="padding-bottom:1em;"></div>5. 超然独立的特性; 离群独处的需要<div style="padding-bottom:1em;"></div>6. 意志自由; 对于文化与环境的独立性<div style="padding-bottom:1em;"></div>7. 欣赏的时时更新 天真好奇<div style="padding-bottom:1em;"></div>8. 神秘体验; 海洋情感<div style="padding-bottom:1em;"></div>9. 社会情感<div style="padding-bottom:1em;"></div>10. 自我实现者的人际关系<div style="padding-bottom:1em;"></div>11. 民主的性格结构<div style="padding-bottom:1em;"></div>12. 区分手段与目的<div style="padding-bottom:1em;"></div>13. 富有哲理的, 善意的幽默感<div style="padding-bottom:1em;"></div>14. 创造力<div style="padding-bottom:1em;"></div>15. 对文化适应的抵抗<div style="padding-bottom:1em;"></div>自我实现者的缺陷<div style="padding-bottom:1em;"></div>价值与自我实现<div style="padding-bottom:1em;"></div>自我实现中二分的消失<div style="padding-bottom:1em;"></div>两种不同类型的自我实现者  超越性体验<div style="padding-bottom:1em;"></div>【自我实现者的爱情】<div style="padding-bottom:1em;"></div>- 自我实现者爱情关系中防卫的解除<div style="padding-bottom:1em;"></div>- 爱与被爱的能力<div style="padding-bottom:1em;"></div>- 自我实现者爱情中的性欲<div style="padding-bottom:1em;"></div>- 关心, 责任, 需要的分享<div style="padding-bottom:1em;"></div>- 健康爱情关系中的嬉戏与娱乐<div style="padding-bottom:1em;"></div>- 对他人个性的接受; 对他人的尊重<div style="padding-bottom:1em;"></div>- 爱情作为终极体验; 羡慕; 惊异; 敬畏<div style="padding-bottom:1em;"></div>- 分离与个性<div style="padding-bottom:1em;"></div>- 健康人的更高趣味和更强的感受力<div style="padding-bottom:1em;"></div>心理健康来自于爱的获得而不是爱的剥夺. <div style="padding-bottom:1em;"></div>只有当低级的东西得以建立起来的时候, 高级的东西才能够相应的建立起来; 但是一旦这些低级需要获得了满足, 它们便从意识中悄然退出, 我们对它们无须劳神费心, 穷追不舍.<div style="padding-bottom:1em;"></div>在这些人身上, 两极对立得到了解决, 个人变得既是主动的又是被动的, 既是自私的又是无私的, 既具有男子气又具有女子气, 既以自我为中心又隐没逃避自我.<div style="padding-bottom:1em;"></div>【引向自我实现的种种行为】<div style="padding-bottom:1em;"></div>1. 自我实现以为着充分，忘我，集中全力，全神贯注的体验生活。<div style="padding-bottom:1em;"></div>2. 让我们把生命看作是一个连续不断的选择过程，在每一个选择关头都有前进与倒退的冲突。有时可能回走向防卫，安全或畏缩，有时也会向成长迈出一部。一天数次的选择成长而不是畏缩也就是一天数次地走向自我实现。自我实现是一种连续不断的发展过程。<div style="padding-bottom:1em;"></div>3. 说道自我实现，那就意味着有一个自我需要实现出来。<div style="padding-bottom:1em;"></div>然而，我们绝大多数人，特别是儿童和青年，不是蜻蜓自己的声音，而是倾听父母的声音，倾听权利机构的声音，倾听老人的，权威的或者传统的声音。<div style="padding-bottom:1em;"></div>朝内看，用自己的舌尖品尝到酒的风味<div style="padding-bottom:1em;"></div>4. 在拿不准时，要诚实。<div style="padding-bottom:1em;"></div>每一次承担责任，都是自我的以此实现。<div style="padding-bottom:1em;"></div>5. 只有当一个人敢于在生活的每一关头倾听自己，倾听他本人的自我，并且镇定的说&quot;不，我不喜欢这般&quot;，他才能够明智的选择一种生活。<div style="padding-bottom:1em;"></div>6. 自我实现不仅是一种终极状态，而且是随时随刻，点点滴滴的实现个人潜能的过程。<div style="padding-bottom:1em;"></div>自我实现并不一定指做大事情，但它或许意味着经历一个艰苦，勤奋的准备过程，以便实现自己的潜力。<div style="padding-bottom:1em;"></div>7. 高峰体验是自我实现的短暂时刻，是一些心醉神迷的时刻。<div style="padding-bottom:1em;"></div>破除一种错觉，摆脱一种虚假的观念，了解自己不擅长什么，知道自己没有哪种潜能，这样做也是在发现自己到底是什么。<div style="padding-bottom:1em;"></div>8. 发现自己是谁，是哪种人，喜欢什么，不喜欢什么，什么对自己有好处，什么对自己有坏处，自己要向何处去，自己的使命是什么，也就是向自己敞开自己，这一切意味这心理病理的暴露。这也意味着识别防卫心理，这种防卫被识别后，就要寻求勇气来抛弃它们。这样做是痛苦的，因为防卫体系是针对某些不愉快的事而建立的。然而，放弃防卫事值得的。如果说心理分析文献没有告诉我们别的什么，至少已使我们明白牙医并不是解决问题的上策。<div style="padding-bottom:1em;"></div>例如，穿什么样的鞋脚会疼，是否喜欢吃茄子，啤酒喝多了时是否能熬夜。这一切就是真正自我的含义。<div style="padding-bottom:1em;"></div>【成长性动机和匮乏性动机】<div style="padding-bottom:1em;"></div>成长的欲望因满足而得到加强而不是压制。对他自己来讲，成长本身就是一个富有成效和令人激动的过程，诸如成为一个好医生之抱负的满足，获得小提琴或者一个出色木匠所具有的令人羡慕的机能；对人，宇宙以及自身的理解的稳步增长；在任何领域内的创造力；或最重要的，成为一个出色的人之抱负的发展。<div style="padding-bottom:1em;"></div>对环境的独立和依赖<div style="padding-bottom:1em;"></div>对于安全，归属，爱的关系和尊重的需要只能完全由他人给予满足，即仅仅来自这个人的外部。这也就意味着在很大程度上对于环境的依赖。处于这样的依赖地位的人不可能真正掌握自己的命运，或控制自己的命运。他必然受提供需要满足的来源的制约。他必须对那些制约他的人们的希望，性质，习惯和行动的规律让步。他一定是&quot;他人导向的&quot;，并且必须在一定程度上注意他人的赞许，情感和良好的祝愿。也就是说他必须能够适应和调整。他必须把自己变成可塑的和有责任心的人，并且通过改变自己本身去适应外部环境，环境是固定的，是自变量，而他是因变量。<div style="padding-bottom:1em;"></div>基本需要已经得到满足的自我实现的个体，却更少有依赖性，更少受控制，有更多的自主和自我导向。受成长性动机促动的人完全不需要他人，而且，他很可能受到其他人的阻碍。<div style="padding-bottom:1em;"></div>这样的人更加自我满足，更加独立自主。控制它们的决定因素首先使内部的，而不是社会的或环境的。这些决定因素是他们的内在的本质规律，他们的潜力和能力的规律，他们才能的规律，创造性冲动，了解自己的需求，明白自己的天职。<div style="padding-bottom:1em;"></div>有利害的人际关系和无利害的人机关系<div style="padding-bottom:1em;"></div>从本质上说，由匮乏性动机促进的人比成长性动机促动的人更依赖于他人。他更注重利害关系，更需要依恋渴望从他人那里得到满足。<div style="padding-bottom:1em;"></div>这种依赖性限制了人际关系，使人际关系带上了一种色彩。<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16188788/#comments">回应</a>&nbsp;&nbsp;
+                  2012-01-11 09:59
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16665868">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/Skrik/"><img src="https://img3.doubanio.com/icon/u2074830-52.jpg" alt="郢" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16665868/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16665868/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/Skrik/" class=" " title="郢">郢</a>
+              
+            </p>
+            <div class="reading-note" data-cid="16665868">
+              <div class="short">
+                
+                  <span class="">我并不在人性中尋求完美，尋求這樣的完美是一個大錯誤，它必定導致一生的不幸與幻想破滅。
+每一個權力主義者都既是施虐狂，也是受虐狂。哪一種傾向占上風，很大程度上取決于環境因素。
+整個思想史就是說人性壞話的歷史
+在高峰體驗中，你比那些身陷其境的人擁有一個更高的視點。因此，你便有了悲傷或者荒謬的感覺。你就好像坐在柵欄上觀看一場爭鬥，並且悲哀地喃喃自語：“這種衝突是荒謬的。”你可能既感到悲哀，又感到可笑。
+...</span>
+                <p class="pl">
+                  <span class="">2012-02-10 14:10</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                我并不在人性中尋求完美，尋求這樣的完美是一個大錯誤，它必定導致一生的不幸與幻想破滅。<div style="padding-bottom:1em;"></div>每一個權力主義者都既是施虐狂，也是受虐狂。哪一種傾向占上風，很大程度上取決于環境因素。<div style="padding-bottom:1em;"></div>整個思想史就是說人性壞話的歷史<div style="padding-bottom:1em;"></div>在高峰體驗中，你比那些身陷其境的人擁有一個更高的視點。因此，你便有了悲傷或者荒謬的感覺。你就好像坐在柵欄上觀看一場爭鬥，並且悲哀地喃喃自語：“這種衝突是荒謬的。”你可能既感到悲哀，又感到可笑。<div style="padding-bottom:1em;"></div>擁有太多過分自負的人，注定會變成一個偏執狂。如果對我們的缺陷過分關注，我們就會患神經癥。<div style="padding-bottom:1em;"></div>事實上這就是悲劇：人努力成為神，并因此受到命運的懲罰。<div style="padding-bottom:1em;"></div>自私常常與情感上感到不安全有關，無私則可能意味著在感情上感到安全，意味著自我實現和心理健康。<div style="padding-bottom:1em;"></div>大量表現為無私的行為產生於精神錯亂或者是自私的動機。我們不應該總是被無私行動的外表所迷惑，因為表面的無私下面也許掩蓋了驚人的敵意、嫉妒或者仇恨。<div style="padding-bottom:1em;"></div>在臨床上，通常假定自私、故意以及邪惡產生於個體的基本需要的滿足受到了阻撓。無論它們是源於過去還是現在。<div style="padding-bottom:1em;"></div>宿命感是不可抗拒的，而人們的意志是不可束縛的。<div style="padding-bottom:1em;"></div>                       
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16665868/#comments">回应</a>&nbsp;&nbsp;
+                  2012-02-10 14:10
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="21192508">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/1167306/"><img src="https://img1.doubanio.com/icon/u1167306-17.jpg" alt="Morningfly" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/21192508/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/21192508/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/1167306/" class=" " title="Morningfly">Morningfly</a>
+                (飞来飞去)
+              
+            </p>
+            <div class="reading-note" data-cid="21192508">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/21192508/"><img src="https://img3.doubanio.com/view/page_note/small/public/p21192508-1.jpg"></a>
+                  </div>
+                  <span class=""> </span>
+                <p class="pl">
+                  <span class="">2012-09-19 06:35</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p21192508-1.jpg" alt=""><br><span class="pic-title"></span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/21192508/#comments">回应</a>&nbsp;&nbsp;
+                  2012-09-19 06:35
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="29776470">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/paradiseimage/"><img src="https://img3.doubanio.com/icon/u64306053-11.jpg" alt="2666" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/29776470/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/29776470/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/paradiseimage/" class=" " title="2666">2666</a>
+                (读一些无关紧要的东西)
+              
+                <span class="allstar20" title="较差"></span>
+            </p>
+            <div class="reading-note" data-cid="29776470">
+              <div class="short">
+                
+                  <span class="">成为你自己；情状一般性反应</span>
+                <p class="pl">
+                  <span class="">2013-12-15 09:53</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                成为你自己；情状一般性反应
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/29776470/#comments">回应</a>&nbsp;&nbsp;
+                  2013-12-15 09:53
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="44052395">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/sahaja/"><img src="https://img1.doubanio.com/icon/u42033941-7.jpg" alt="公益霎哈嘉瑜伽" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44052395/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44052395/" class="">这就是高峰体验</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/sahaja/" class=" " title="公益霎哈嘉瑜伽">公益霎哈嘉瑜伽</a>
+                (霎哈嘉瑜伽微信服务号:sahajasz.)
+              
+            </p>
+            <div class="reading-note" data-cid="44052395">
+              <div class="short">
+                
+                  <span class="">“慢慢的，躯体的痛苦，情绪的沉抑，心身的耗竭让你忘却了行为的意义，甚至怀疑攀登的价值和现实性，你的内心挤满了渴望与逃避，冒险与胆怯、放弃与坚持的双向冲突，知觉变得凝重而迟缓，现实感消隐，意识逐步的缩窄。再后来，你的思想似乎停滞，感觉麻木，忘了自己是谁，在做什么和为什么要做，只是机械地向上走。你的意识界沉静而虚无，只有心灵那一丝光亮，仍在坚持和闪耀着。终于，你到达了那高耸卓绝的山顶，按理说积压太...</span>
+                <p class="pl">
+                  <span class="">2017-05-17 16:29</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>“慢慢的，躯体的痛苦，情绪的沉抑，心身的耗竭让你忘却了行为的意义，甚至怀疑攀登的价值和现实性，你的内心挤满了渴望与逃避，冒险与胆怯、放弃与坚持的双向冲突，知觉变得凝重而迟缓，现实感消隐，意识逐步的缩窄。再后来，你的思想似乎停滞，感觉麻木，忘了自己是谁，在做什么和为什么要做，只是机械地向上走。你的意识界沉静而虚无，只有心灵那一丝光亮，仍在坚持和闪耀着。终于，你到达了那高耸卓绝的山顶，按理说积压太长的期待会给你带来像爆炸一般的狂喜，但却没有发生。你似乎忘却了自我，忘却了存在，时间和空间消融在一起，没有边界，四周只有一片纯净的虚空，深邃而神秘。你甚至会有一瞬的迷茫，不知道你接下来要做什么？这时，一种像海潮般的愉悦和满足感从遥远的心灵深处释放、溢出、扩展，伴随着高峰上的洁净、安详，和谐席卷了你，你似乎听见了心灵的笑声，品尝到生命融入那种永恒与无限的感觉。慢慢的海潮过去，你的内心仍充满着充沛的活力和美妙无比的欣喜，灵感激荡，思想饱满而充实。在以后很长的日子里，你对自我的态度和对世界的感觉已经完全的不同。每当遇到困难的时候，回忆那不平凡的一刻，你的内心依然会荡漾出坚毅、活力和创造力，成为你自由、自信、自强不息的精神源泉，这就是高峰体验。”——马斯洛</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44052395/#comments">回应</a>&nbsp;&nbsp;
+                  2017-05-17 16:29
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="36973375">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/93869348/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="悠悠" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/36973375/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/36973375/" class="">全书</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/93869348/" class=" " title="悠悠">悠悠</a>
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="36973375">
+              <div class="short">
+                
+                  <span class="">人们不仅惧怕自己身上最坏的东西，也惧怕自身最好的东西，后一种现象称为逃避成长，约拿情结就是造成逃避的一个根源。
+儿童是睁大了眼睛，用毫不挑剔和纯真无邪的眼光来看待世界的，他们只是注意和观察事实是什么，对它并无争论或者要求，自我实现者也是以同样方式看待自己和他人人性的。当然，这并不同于东方的出世观念。自我实现者倾向于接受自然产物。……他们与自己的缺点甚至也能和睦相处，这些缺点最终（特别是在后来的生活...</span>
+                <p class="pl">
+                  <span class="">2016-01-12 20:45</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>人们不仅惧怕自己身上最坏的东西，也惧怕自身最好的东西，后一种现象称为逃避成长，约拿情结就是造成逃避的一个根源。</q></blockquote>
+<blockquote><q>儿童是睁大了眼睛，用毫不挑剔和纯真无邪的眼光来看待世界的，他们只是注意和观察事实是什么，对它并无争论或者要求，自我实现者也是以同样方式看待自己和他人人性的。当然，这并不同于东方的出世观念。</q></blockquote><blockquote><q>自我实现者倾向于接受自然产物。……他们与自己的缺点甚至也能和睦相处，这些缺点最终（特别是在后来的生活中）会变得使他人觉着根本不是缺点，而只是中性的个人特点。</q></blockquote>
+<blockquote><q>健康之人很少有不必要的罪恶感。他们确实为之感到内疚（羞耻、焦虑、忧伤或者防卫）的是：（1）可以改进的缺点，比如懒惰、漫不经心、发脾气、伤害他人；（2）不健康心理的顽固的残迹，如偏见、妒忌、猜疑；（3）虽然相对独立于性格结构，然而可能又是根深蒂固的一些习惯；（4）他们所属的种族、文化或群体的缺点。一般情况可能是这样：如果事实与最好成为什么或应当成为什么之间存在差异，就会使健康人感到不满意。</q></blockquote>
+若没有菲利亚，爱洛斯不可能持续长久。两个人的结合，建立在朋友之上。<blockquote><q>亚里士多德早就说过，“对具有理性的人的生活来说，最必要的是作为友情的爱。”若没有菲利亚（philia，西方传统中的第三种爱，它源自古希腊的亚里士多德，指两个人之间一种亲密的但非性欲的关系，这就是日常所谓的友谊或者兄弟般的爱），爱洛斯（第二种爱，婚姻之爱）不可能持续长久。P143</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/36973375/#comments">回应</a>&nbsp;&nbsp;
+                  2016-01-12 20:45
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="34811659">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/YoulovHellokity/"><img src="https://img3.doubanio.com/icon/u33467745-72.jpg" alt="年轻人就是干" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/34811659/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/34811659/" class="">第242页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/YoulovHellokity/" class=" " title="年轻人就是干">年轻人就是干</a>
+                (Seize the day:))
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="34811659">
+              <div class="short">
+                
+                  <span class="">6.种的一般目标和特殊目标
+  匮乏性需要是所有人类成员都具有的，并且在某种范围内其他物种也都具有。而自我实现却是特异性的，因为每一个人都有差别。对于缺乏，即人种的需要来说，在真正的个性能完整发展以前，它必须首先得到满足。
+  如同所有树木需要阳光，需要水和其他来自环境的养料一样，所有的人都需要从他们的环境中得到安全、爱和地位，然而在这两种情况下，这些仅仅是个性真正发展的开始，一旦这些基本的、种一般所必...</span>
+                <p class="pl">
+                  <span class="">2015-04-12 21:11</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                6.种的一般目标和特殊目标<div style="padding-bottom:1em;"></div>  匮乏性需要是所有人类成员都具有的，并且在某种范围内其他物种也都具有。而自我实现却是特异性的，因为每一个人都有差别。对于缺乏，即人种的需要来说，在真正的个性能完整发展以前，它必须首先得到满足。<div style="padding-bottom:1em;"></div>  如同所有树木需要阳光，需要水和其他来自环境的养料一样，所有的人都需要从他们的环境中得到安全、爱和地位，然而在这两种情况下，这些仅仅是个性真正发展的开始，一旦这些基本的、种一般所必需的需求得到满足，那么每一棵树和每一个人都会以自己独特的风格发展，并把这些必需品作为他（它）们的发展基础。在非常深远的意义上，以后的发展更取决于内部而不是外部。<div style="padding-bottom:1em;"></div>7.对环境的独立和依赖<div style="padding-bottom:1em;"></div>  对于安全、归属、爱的关系和尊重的需要只能完全由他人给予满足，即仅仅来自这个人的外部。这也就意味着在很大程度上对于环境的依赖。处于这样的依赖地位的人不可能真正掌握自己的命运，或者控制自己的命运。他必须受提供需要满足的来源的制约。为了确保提供满足的来源，他必须对那些制约他的人们的希望、兴致、习惯和行动的规律让步。他必须是“他人向导的”，并且必须注意他人的在一定程度上赞许，感情和良好祝愿。也就是说他必须能够适应和调整。既要如此，他就必须把自己变成可塑的和有责任心的人，并且通过改变自己本身去适合外部环境。环境是固定的，是自变量，而他是因变量。<div style="padding-bottom:1em;"></div>  正因为这样，由匮乏性动机促成的人更惧怕环境，因为环境可能经常不能满足他的要求或使他的希望落空。现在我们知道这种使人焦虑不安的依赖也会滋生敌对行为。所有这些都意味着自由的减少，它或多或少地依赖于个体的运气好坏。<div style="padding-bottom:1em;"></div>  相比之下，定义为基本需要已得到满足的自我实现的个体，却更少有依赖性，更少受控制，有更多的自主和自我导向。受成长性动机促动的人完全不需要他人，而且，他很可能受到其他人的阻碍。另外，我已经报告了他们特别喜欢隐居，超脱，喜欢处于一种沉思冥想的状态。<div style="padding-bottom:1em;"></div>  这样的人更加自我满足，更加独立自主。控制他们的决定因素现在首先是内部的，而不是社会的或者环境的。这些决定因素是他们的内在本质的规律，他们的潜力和能力的规律，他们的才能的规律，他们的潜在智力的规律，他们的创造性冲动的规律，他们了解自己和成为更加整合的独立的人的需要的规律，他们进一步明白自己实际上需要的是什么的规律，以及他们进一步明白自己的天职，命运和职业是什么的需要的规律。<div style="padding-bottom:1em;"></div>  由于他们很少依赖于他人，因此他们就很少与他人冲突，很少焦虑和敌意，很少需要他人的表扬和关怀。他们很少为威望、报酬 和荣誉操心。<div style="padding-bottom:1em;"></div>  意志自由或相对地独立于环境也意味着对诸如恶运、严重打击、悲剧、紧张、丧失等有害外部环境的相对独立。正如阿尔波特特别强调指出，把人看成仅具有反应功能的人，即由外部刺激决定的刺激——反应型的人的观念，对于自我实现者，完全是可笑的和站不住脚的。自我实现者的行为更多地是发源于内部的而不是反应性的。这种对外部世界以及它的希望和压力的相对独立，当然并不意味着不与世界相互沟通或不尊重它的“要求特性”。它仅仅意味着在这些接触中，最初的决定因素是自我实现者的希望和计划，而不是来自环境的压力。这里我说的是心理上的自由，和地理空间的自由是不同的。<div style="padding-bottom:1em;"></div>  生物学理论家们都一致把对环境刺激与日俱增的自发性和独立性看成是完整的个性、真正的自由和整个进化过程的明确特征。<div style="padding-bottom:1em;"></div>8.有利害关系的和无利害关系的人际关系<div style="padding-bottom:1em;"></div>  从本质上说，由匮乏性动机促进的人比成长性动机促进的人更依赖于他人。他更注重利害关系，更需要、依恋、渴望从他人那里得到满足。<div style="padding-bottom:1em;"></div>  这种依赖性限制了人际关系，使人际关系带上了一种色彩。把人看做主要是一个需要满足物或提供满足者是一种抽象活动。人们不是被看作整体的、复杂的和独一无二的个体，而是被看作某种实用的东西。他们身上那些与知觉者的需要无关的东西要么完全被忽略了，要么就令人讨厌、生气，或者对人构成威胁。这与我们同母牛、马和绵羊的关系，以及同侍者、出租汽车司机、门房、警察或其他受我们利用的人的关系相似。<div style="padding-bottom:1em;"></div>  对他人的完全无利害的关系的、一无所求的、客观的和利他主义的知觉只有当我们不需要从他人那里得到什么，我们不需要他人的时候才会成为可能。自我实现者，或处于自我实现瞬间的人，比常人或比一般情况更能对整个人具有一种特异性的审美感受。他们对他人的赞许、钦慕和爱很少是由于答谢，而更多地是由于他人客观的内在本质。他人受到称赞是由于他们具有应受赞美的性质，而不是由于他们说了奉承和颂扬的话。他们被爱是因为他们值得爱而不是因为他们给出了爱。下面我们将把这一点作为非需要性的爱来加以讨论。<div style="padding-bottom:1em;"></div> 与他人有“利害关系”以及”满足需要关系“的一个特点就是，在很大范围内这些满足需要的人是可以互相交换的。例如，青少年期的女孩子所需要的羡慕是羡慕本身，而谁提供这种羡慕却无关要紧的；这同样适用于爱的提供者和安全提供者。<div style="padding-bottom:1em;"></div>  当我们在进行那种没有利害关系的、不期望回报的，无益处的和无企求的感知的时候，我们是把他人作为一个独特的、独立的、以自身为目的的人来感知的，也就是说是把他作为一个人而不是作为一件工具来感知的。如果感知者对满足匮乏性需要的渴望越大，那么这种感知对他来说也就越困难。一种”高上限的”人际关系心理学，即对人类关系的最大可能发展的理解，是不能基于匮乏性的动机理论的。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/34811659/#comments">回应</a>&nbsp;&nbsp;
+                  2015-04-12 21:11
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="33244105">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/sahaja/"><img src="https://img1.doubanio.com/icon/u42033941-7.jpg" alt="公益霎哈嘉瑜伽" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/33244105/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/33244105/" class="">什么是高峰体验？ </a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/sahaja/" class=" " title="公益霎哈嘉瑜伽">公益霎哈嘉瑜伽</a>
+                (霎哈嘉瑜伽微信服务号:sahajasz.)
+              
+            </p>
+            <div class="reading-note" data-cid="33244105">
+              <div class="short">
+                
+                  <span class="">高峰体验与最佳状态显然有非常密切的关系，在很大程度上，高峰体验就是最佳状态本身。马斯洛在很多地方论述了高峰体验。他认为，高峰体验是一种强烈的同一性体验。为了说清楚这种同一性体验，马斯洛从不同的角度反复地来表达。马斯洛下面的这些描述看起来有重复之感，但是，实际上，它们对于我们多方位地理解高峰体验，找到自己关于高峰体验的感觉都是有帮助的。 
+超越者生活在存在水平，能自如、自然地说出存在语言。能更好地理..</span>
+                <p class="pl">
+                  <span class="">2014-10-27 09:37</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                高峰体验与最佳状态显然有非常密切的关系，在很大程度上，高峰体验就是最佳状态本身。马斯洛在很多地方论述了高峰体验。他认为，高峰体验是一种强烈的同一性体验。为了说清楚这种同一性体验，马斯洛从不同的角度反复地来表达。马斯洛下面的这些描述看起来有重复之感，但是，实际上，它们对于我们多方位地理解高峰体验，找到自己关于高峰体验的感觉都是有帮助的。 <div style="padding-bottom:1em;"></div>超越者生活在存在水平，能自如、自然地说出存在语言。能更好地理解寓言、修辞手段、悖论、音乐、艺术，进行非语言交流和沟通等。 <div style="padding-bottom:1em;"></div>1．处于高峰体验中的人有一种比其他任何时候更加整合（统一、完整、浑然一体）的自我感觉。<div style="padding-bottom:1em;"></div>　　他们更少分裂或者分离，更少自己与自己作战，对自己更加心平气和，体验的我与观察的我之间更加一致，目标更加集中，更加协调有机化，自身各部分更加有效地组织起来，非常良好地运作，具有更加有效的协同作用，更少有内在的摩擦，等等。 <div style="padding-bottom:1em;"></div>仔细地想一想：&quot;分裂&quot;、&quot;分离&quot;、&quot;自己与自己作战&quot;、&quot;内在的摩擦&quot;等是不是我们常常体会到内心的矛盾状况呢？与高峰体验相比，我们对这些状况显然是更加熟悉。 <div style="padding-bottom:1em;"></div>2．处于高峰体验中的人&quot;更加纯粹地成为他自己时，他就更能够与世界、与以前非我的东西融和。例如，挚爱者双方更加亲密地融为一体，而不再是两个人；'我与你'的一元关系更具可能性；创造者与他的产品合二而一；母亲与她的孩子合为一体；艺术观赏者化为音乐、绘画、舞蹈，而音乐、舞蹈、绘画，也就变成了他；&quot;&quot;这就是说，对于自我同一性、自然流露、或者自我的最完满的获得，本身就是对于自我的超越、突破和超出。此时，个体达到一种相对忘我的境界。&quot; <div style="padding-bottom:1em;"></div>3．处于高峰体验中的人通常感到正处于自身力量的顶峰，正在最佳地、最充分地发挥自己的潜能。他感到自己比其他任何时候更加聪明、更加敏锐、更加机智、更加强健、更加有风度。他处于自身的最佳状态，一种如矢在弦、跃跃欲试的状态，一种最高的竞技状态。&quot;&quot;他不再浪费力量自己与自己搏斗，不再压抑自己，……&quot;&quot;在一般情况下，我们只有部分能量用于行动，部分用于抑制这些能量的发挥，而现在不再有浪费，全部能量都用于行动。此时，他犹如一条一泻千里直奔大海的河流。&quot; <div style="padding-bottom:1em;"></div>4．当一个人处于最佳状态时，他的'充分发挥功能'还体现出一个很微妙的特点，这就是行动的轻松自如。往日刻不容缓、疲于奔命的苦差重负，现在做起来不再有老牛破车、苦苦挣扎之感，而是轻车熟路、势如破竹。优美的感情和优雅的风度现在浑然一体，伴随着充分发挥功能的得心应手，此时事事如水到渠成、瓜熟蒂落。 <div style="padding-bottom:1em;"></div>５． 处于高峰体验中的人比其他任何时候更富有责任心、更富有主动精神和创造力，更加感到自身就是自己行动和感知的中心。他更加真切地感到自己就是第一推动者，自己决定着自己的一切，而不再是被引动的、被决定的、被支配的、无能为力的、暮气沉沉的、只能够守株待兔的弱者。他感到自己就是自身的主宰，自己就是自己命运的主人，他充分体会到自己的'自由意志'，他既感到重任在肩、责无旁贷，又感到信心百倍、无坚不摧……。 <div style="padding-bottom:1em;"></div>６． 他现在最大限度地摆脱了阻滞、抑制、畏惧、疑虑、控制、自责、制动、谨小慎微。这些也许体现了他的价值情感的否定方面，体现了他的自承、自爱和自尊的否定方面……。 <div style="padding-bottom:1em;"></div>７． 他在行动上更具有自发性、表达性、纯真性，即正直、天真、诚实公正、坦率、童真、无防备、无防御。他在行动时更加自然、放松、简单、诚恳、不踌躇、不做作、直截了当，有一种特殊的淳朴。他更加不受控制、自由地奔涌出生命力…… <div style="padding-bottom:1em;"></div>８． 因此，他在一种特殊的意义上更加具有创造性。由于更大的自信以及疑虑的消除，他能够以道家那种顺其自然的方式，或者格式塔心理学家所描述的那种灵活的方式来造成自己的认知和行为。他能够根据行为本身固有的&quot;外在于我&quot;的要求，而不是根据自我中心和自我意识，根据其任务、天职或者游戏的本质让自己的行为处于某种状态。他的行为更具有即兴发挥、兴之所至，斐然成章的特色，更具有无中生有、鬼斧神工的特色，更加新颖独特、远离平庸、不再缩手缩脚。他也更少准备、计划、设计、预谋、练习、预测等等，总而言之，绝非三思而后行。…… <div style="padding-bottom:1em;"></div>９． 处于高峰体验中的人达到了自己独一无二的个性或者特质的顶点。如果所有的人在天赋上都互不相同，在高峰体验上他们更是特色各异。如果说人们在许多方面方面（他们的角色）可以互换，那么在高峰体验中，角色中断了（drop away），人们变得难以替代。 <div style="padding-bottom:1em;"></div>１０． 在高峰体验中，个体在各种意义上最大程度地摆脱了过去与未来，具有最强的活在此时此地之感，最接近全在的人。例如，既然他最少墨守成规与经验预推，他就能够排除干扰，比其他任何时候更好地全神贯注地倾听。 <div style="padding-bottom:1em;"></div>１１． 处于高峰体验中的人已经不完全是受世界法则支配的尘世之物，更多地是一种纯粹的精神。就内在的精神规律和外在的现实规律的区别而言，他更加受前者而不是后者的支配。 <div style="padding-bottom:1em;"></div>１２． 在非动机这个意义上，处于高峰体验中的人可以称为是神一样的人。因为大多数的神灵都被看成是所有方面都得到了满足的人。 <div style="padding-bottom:1em;"></div>１３． 在高峰体验中，表达和交流常常富有诗意，带有一种神秘和狂喜的色彩。这种诗意的语言仿佛是表达这种存在状态的一种自然而然的语言。 <div style="padding-bottom:1em;"></div>１４． 所有的高峰体验都可以理解为利维意义上的行动的完成（completion of the act），或者格式塔心理学意义上的闭合(closure)，或者典型的赖希（Reich）式的性欲高潮、彻底的释放与宣泄、倾泻一空、爽然若释、大功告成、完美极致，等等。 <div style="padding-bottom:1em;"></div>１５． 处于高峰体验中的人所体验的欢悦具有一种涵盖宇宙、肖似神明的性质，它超越了各种各样的恶意与敌视。 <div style="padding-bottom:1em;"></div>１６． 处于高峰体验中的人或者经历了高峰体验以后的人有一种源承神恩、三生有幸的特殊感怀。他们共同的感受就是&quot;受之有愧&quot;，常常因为高峰体验而&quot;喜出望外&quot;。 
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/33244105/#comments">回应</a>&nbsp;&nbsp;
+                  2014-10-27 09:37
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1476458/annotation">更多读书笔记（共10篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1476458/discussion/1113427/" title="引向自我实现的种种行为" class="">引向自我实现的种种行为</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/philosophia1979/">野兽爱智慧</a></td>
+            <td class="pl"><span class="">8 回应</span></td>
+            <td class="pl"><span class="">2013-04-23</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1476458/discussion/11204101/" title="高中图书馆" class="">高中图书馆</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/evonny_2007/">泠音</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2009-01-01</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1476458/discussion/50932649/" title="马斯洛：“人是永远不能满足的动物”" class="">马斯洛：“人是永远不能满足的动物”</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/sahaja/">公益霎哈嘉瑜伽</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2012-12-14</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1476458/discussion/47790512/" title="让你思考，充满乐趣的书" class="">让你思考，充满乐趣的书</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/stupid001/">corleone</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2012-07-31</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1476458/discussion/1057803/" title="重读后感觉实在不同" class="">重读后感觉实在不同</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/1053050/">健柒</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2007-03-22</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1476458/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/213526/" target="_blank">以心灵成长为主</a>
+                <span class="pl">(laoshan)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/42628/" target="_blank">野兽藏书</a>
+                <span class="pl">(野兽爱智慧)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/179202/" target="_blank">广告专业</a>
+                <span class="pl">(zoenan)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/126896/" target="_blank">老版三联新知文库</a>
+                <span class="pl">(小米=qdmimi)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/198751/" target="_blank">心理学</a>
+                <span class="pl">(山右一仁)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/142135360/"><img src="https://img3.doubanio.com/icon/u142135360-5.jpg" class="pil" alt="春天花卉开" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/142135360/">春天花卉开</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/Fiyoke/"><img src="https://img3.doubanio.com/icon/u30169365-40.jpg" class="pil" alt="Cheese奶酪" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/Fiyoke/">Cheese奶酪</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/60579315/"><img src="https://img3.doubanio.com/icon/u60579315-6.jpg" class="pil" alt="伏狐" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/60579315/">伏狐</a><br/>
+      <div class="pl ll">          6月22日          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:马斯洛 心理学</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/halfoxygen/"><img src="https://img3.doubanio.com/icon/u75974272-3.jpg" class="pil" alt="Tony" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/halfoxygen/">Tony</a><br/>
+      <div class="pl ll">          6月17日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1476458/doings">81人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1476458/collections">412人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1476458/wishes">1585人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1476458/offers">3本二手书欲转让</a>
+          <span class="">
+            (5.00
+                至 35.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有1585人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于自我实现的人的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1476458/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'e4lrs7tuCLA',
+            criteria = '7:心理学|7:马斯洛|7:自我实现|7:人本主义|7:自我实现的人|7:心理|7:人本心理学|7:哲学|7:弗罗姆|7:徐凌藏书|3:/subject/1476458/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar16a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

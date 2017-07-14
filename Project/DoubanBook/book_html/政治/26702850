@@ -1,0 +1,2811 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>大博弈 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/26702850/">
+<meta name="keywords" content="大博弈,彼得·霍普柯克,中国青年出版社,2015-12-1,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书大博弈 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/26702850/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">大博弈</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s28377884.jpg" title="大博弈">
+    <img src="https://img3.doubanio.com/lpic/s28377884.jpg" title="点击看大图" alt="大博弈"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E5%BD%BC%E5%BE%97%C2%B7%E9%9C%8D%E6%99%AE%E6%9F%AF%E5%85%8B">彼得·霍普柯克</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 中国青年出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 英俄帝国中亚争霸战<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> THE GREAT GAME: ON SECRET SERVICE IN HIGH ASIA<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E5%BC%A0%E6%9C%9B">张望</a>
+        
+           /
+        
+        <a class="" href="/search/%E5%B2%B8%E9%9D%92">岸青</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2015-12-1<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 589<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> CNY 72.00<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 精装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/12692">历史拼图译丛</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787515338705<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.8 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">129</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">51.9%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:45px"></div>
+
+            <span class="rating_per">37.2%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:13px"></div>
+
+            <span class="rating_per">10.9%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.0%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.0%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-26702850-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-26702850-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-26702850-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26702850-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26702850-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26702850-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26702850-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-26702850-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-26702850">
+        <a href="#" data-url="https://book.douban.com/subject/26702850/" data-desc="" data-title="书籍《大博弈》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s28377884.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_26702850"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <span class="short">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>大英帝国和沙俄帝国的秘密战争，浪漫主义和英雄主义的不朽史诗</p>    <p>大博弈开始，两大帝国相隔3000公里；大博弈结束，两国仅距30公里。</p>    <p>但在中亚的土地上，在丝绸之路的东西交汇点，博弈永不落幕。</p>    <p>19世纪初，英属印度和沙皇俄国中间横陈着广袤的沙漠和群山。这些地带不为人知,也未被测绘，只有布哈拉、撒马尔罕和塔什干这些蒙古汗国时代的古老地名还残存在人们遥远的记忆中。随着俄国不断向南扩张进入中亚腹地，英属印度不断向北扩张逼进克什米尔，两大帝国逐渐显示出碰撞的态势。在一个世纪的时间内，围绕潜在的威胁，英俄两大帝国在中亚展开了一场波澜壮阔而又如履薄冰的勘探、间谍、军事与外交博弈，史称“大博弈”。</p>    <p>本书讲述的就是这些参与者的故事。其中英国和俄国的年轻军官，他们不断探索，舍命涉险。他们扮作朝圣者、马贩子，绘制秘密山口的地图，搜集珍贵的情报，求得与当地最有权势的汗王结盟。有...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+       </span>
+      <span class="all hidden">
+        <div class="">
+          <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>大英帝国和沙俄帝国的秘密战争，浪漫主义和英雄主义的不朽史诗</p>    <p>大博弈开始，两大帝国相隔3000公里；大博弈结束，两国仅距30公里。</p>    <p>但在中亚的土地上，在丝绸之路的东西交汇点，博弈永不落幕。</p>    <p>19世纪初，英属印度和沙皇俄国中间横陈着广袤的沙漠和群山。这些地带不为人知,也未被测绘，只有布哈拉、撒马尔罕和塔什干这些蒙古汗国时代的古老地名还残存在人们遥远的记忆中。随着俄国不断向南扩张进入中亚腹地，英属印度不断向北扩张逼进克什米尔，两大帝国逐渐显示出碰撞的态势。在一个世纪的时间内，围绕潜在的威胁，英俄两大帝国在中亚展开了一场波澜壮阔而又如履薄冰的勘探、间谍、军事与外交博弈，史称“大博弈”。</p>    <p>本书讲述的就是这些参与者的故事。其中英国和俄国的年轻军官，他们不断探索，舍命涉险。他们扮作朝圣者、马贩子，绘制秘密山口的地图，搜集珍贵的情报，求得与当地最有权势的汗王结盟。有人一去不返。在今天的中亚，大博弈年代的野蛮和暴力仍然回响不绝。</p>    <p>阿富汗前总统穆罕默德·纳吉布拉计划将本书翻译为普什图语，他说：“（阿富汗人）能从中看到历史的重复……只有我们了解了自己的历史，才能打破这个循环。”翻译还未完成，1996年9月，塔利班武装攻入喀布尔，纳吉布拉被残酷处死。</p></div>
+
+        </div>
+      </span>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/26702850/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>彼得·霍普柯克（1930—2014）</p>    <p>彼得·霍普柯克的足迹遍布中亚、高加索、中国、印度、巴基斯坦、伊朗和东土耳其，撰写了六本与这些地区相关的书。在成为专职作家之前，他在独立电视新闻（ITN）做了两年记者，随后在《泰晤士报》工作了近二十年，其中五年是作为该报的高级记者，后期主要是作为中东及远东事务特派员。在上世纪50年代，他是西部非洲的新闻杂志《鼓》（Drum）的编辑，该杂志是一本声名远播的南非同名杂志的姊妹刊。在成为记者之前，他曾在英国皇家非洲步兵团服役，与后来的乌干达独裁者、当时的一等兵伊迪·阿明在一个营。他也曾经历险境，曾在古巴和中东两次被秘密警察拘禁，还被阿拉伯恐怖分子劫持过。他的作品被翻译成了十四种文字。1999年他被英国皇家学会亚洲事务部授予珀西·塞克斯爵士纪念勋章。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_26702850_short">
+        前言：一场新的大博弈<br/>
+        致谢<br/>
+        序言<br/>
+        前奏吹响<br/>
+        第一章	黄祸<br/>
+        第二章	拿破仑的噩梦<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_26702850_short').hide();$('#dir_26702850_full').show();$.get('/j/subject/j_dir_count',{id:26702850});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_26702850_full" style="display:none">
+        前言：一场新的大博弈<br/>
+        致谢<br/>
+        序言<br/>
+        前奏吹响<br/>
+        第一章	黄祸<br/>
+        第二章	拿破仑的噩梦<br/>
+        第三章	大博弈的预演<br/>
+        第四章	俄罗斯怪兽<br/>
+        第五章	条条大路通印度<br/>
+        第六章	最早的俄国参与者<br/>
+        第七章	两条狗的奇怪故事<br/>
+        第八章	阿姆河边的死亡<br/>
+        第九章	晴雨表在下降<br/>
+        竞逐上演<br/>
+        第十章	“大博弈”<br/>
+        第十一章 进入布哈拉的伯恩斯<br/>
+        第十二章 世界上最强大的堡垒<br/>
+        第十三章 神秘的维特克维奇<br/>
+        第十四章 赫拉特的英雄<br/>
+        第十五章 国王的缔造者<br/>
+        第十六章 角逐希瓦<br/>
+        第十七章 解放奴隶<br/>
+        第十八章 长刀之夜<br/>
+        第十九章 大灾难<br/>
+        第二十章 山口里的大屠杀<br/>
+        第二十一章	康诺利和斯托达特的最后时刻<br/>
+        第二十二章	中场休息<br/>
+        高潮年代<br/>
+        第二十三章	俄罗斯大进军的开始<br/>
+        第二十四章	塔什干雄狮<br/>
+        第二十五章	丝绸之路上的间谍<br/>
+        第二十六章	刀架颈上的寒意<br/>
+        第二十七章	来自北方的医生<br/>
+        第二十八章	伯纳比上尉的希瓦之行<br/>
+        第二十九章	喋血巴拉·希萨尔城堡<br/>
+        第三十章 土库曼人的最后抗争<br/>
+        第三十一章 战争的边缘<br/>
+        第三十二章	通往东方的铁路竞赛<br/>
+        第三十三章	三个帝国交汇的地方<br/>
+        第三十四章	帕米尔高原的导火索<br/>
+        第三十五章	奔向吉德拉尔的赛跑<br/>
+        第三十六章	结局的开始<br/>
+        第三十七章	大结局<br/>
+        译者后记<br/>
+        主要人物索引<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_26702850_full').hide();$('#dir_26702850_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共80个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/历史">历史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/国际关系">国际关系</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/中亚">中亚</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/英国">英国</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/俄国">俄国</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/政治">政治</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/国际关系史">国际关系史</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/亚洲史">亚洲史</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/12692">历史拼图译丛 (共14册)</a>,
+这套丛书还有
+《威廉·夏伊勒的二十世纪之旅II：噩梦年代》,《柏林1961》,《甘地的武器》,《威廉·夏伊勒的二十世纪之旅I：世纪初生》,《不死鸟》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;大博弈&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/21772242/?dcs=subject-rec&amp;dcm=douban&amp;dct=26702850" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/21772242.jpg?v=1464771403.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/21772242/" target="_blank">柏林1961</a>
+          </div>
+          <div class="price">
+              31.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/30853200/?dcs=subject-rec&amp;dcm=douban&amp;dct=26702850" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/30853200.jpg?v=1487655950.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/30853200/" target="_blank">奥斯曼帝国的衰亡</a>
+          </div>
+          <div class="price">
+              40.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/442617/?dcs=subject-rec&amp;dcm=douban&amp;dct=26702850" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/442617.jpg?v=1395395793.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/442617/" target="_blank">苏联行为的根源</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;大博弈&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26646483/" onclick="moreurl(this, {'total': 10, 'clicked': '26646483', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28321703.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26646483/" onclick="moreurl(this, {'total': 10, 'clicked': '26646483', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            不折之鹰
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26751893/" onclick="moreurl(this, {'total': 10, 'clicked': '26751893', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28758866.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26751893/" onclick="moreurl(this, {'total': 10, 'clicked': '26751893', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            哈布斯堡的灭亡
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26997145/" onclick="moreurl(this, {'total': 10, 'clicked': '26997145', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s29466850.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26997145/" onclick="moreurl(this, {'total': 10, 'clicked': '26997145', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            印加帝国的末日
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/25941939/" onclick="moreurl(this, {'total': 10, 'clicked': '25941939', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s28014298.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/25941939/" onclick="moreurl(this, {'total': 10, 'clicked': '25941939', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            21世纪的国防工业
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26717715/" onclick="moreurl(this, {'total': 10, 'clicked': '26717715', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28392811.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26717715/" onclick="moreurl(this, {'total': 10, 'clicked': '26717715', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            通往工业革命的漫长道路
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26848652/" onclick="moreurl(this, {'total': 10, 'clicked': '26848652', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28946462.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26848652/" onclick="moreurl(this, {'total': 10, 'clicked': '26848652', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            无需法律的秩序
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26392445/" onclick="moreurl(this, {'total': 10, 'clicked': '26392445', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28074934.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26392445/" onclick="moreurl(this, {'total': 10, 'clicked': '26392445', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            俄国与苏联海上力量史
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26431651/" onclick="moreurl(this, {'total': 10, 'clicked': '26431651', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28391363.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26431651/" onclick="moreurl(this, {'total': 10, 'clicked': '26431651', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            莫斯科的黄金时代
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26312791/" onclick="moreurl(this, {'total': 10, 'clicked': '26312791', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s28045461.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26312791/" onclick="moreurl(this, {'total': 10, 'clicked': '26312791', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            满铁调查（第一辑）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/26901940/" onclick="moreurl(this, {'total': 10, 'clicked': '26901940', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s29119540.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/26901940/" onclick="moreurl(this, {'total': 10, 'clicked': '26901940', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            征服者
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/26702850/comments/">全部 61 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="997587081">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-997587081" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-997587081" class="j a_show_login" data-cid="997587081">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/taiyunli/">远古善良战斗君</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-06-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">双方的英雄们当然尤其是大英帝国的英雄们永垂不朽</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="997617612">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-997617612" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-997617612" class="j a_show_login" data-cid="997617612">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/paramitawang/">吃瓜群众王看山</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-05-24</span>
+                </span>
+            </h3>
+            <p class="comment-content">内容原版内评，这个译本还是按照06那版，除了部分无关紧要的漏译和译名笔误整体不错，就问一句，hopkirk 其他五本能不能按照这个标准出新的中译本？</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1047696203">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1047696203" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1047696203" class="j a_show_login" data-cid="1047696203">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/lizn007/">魏连殳在竹林中</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-10-01</span>
+                </span>
+            </h3>
+            <p class="comment-content">东方帝国的对外策略受地理环境的影响似乎极大，并不为意识形态的转变而转变，作为饕餮的沙俄-苏联，作为黑体的大清-国朝，都享受或背负着自己的宿命。千百个劳伦斯的前辈燃烧了自己的生命，变成大英帝国回忆录里的一行行文字和边塞险道上小小的遗迹。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1028527996">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1028527996" class="vote-count">3</span>
+                        <a href="javascript:;" id="btn-1028527996" class="j a_show_login" data-cid="1028527996">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/leowski/">大梦难觉</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-04-05</span>
+                </span>
+            </h3>
+            <p class="comment-content">世界主义的商业帝国与修正主义的大陆强权在中亚地带上演的一场波澜壮阔的画卷。译笔生动流畅，除了一些粗心的瑕疵，整体算得上翻译佳作。对曾经的大英帝国来说，印度是一切的基础，失去印度便不复帝国。事实上俄罗斯帝国在中亚没能在一个相对简单的情境中获得明显优势——仅仅是新老帝国的简单博弈模式——而在近东地区受到更多的国际多边条约的束缚，再加上其在远东的失败，终于导致了最后的覆灭——修正主义的失败。同时大博弈的故事也提醒了那些自由主义者，所谓“修昔底德陷阱”是诱导绥靖主义的幌子，如果你顾虑于此而对修正主义做出让步，收获的不是谅解，而是“前进”。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1030717493">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1030717493" class="vote-count">4</span>
+                        <a href="javascript:;" id="btn-1030717493" class="j a_show_login" data-cid="1030717493">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/beimingke/">北溟客</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-05-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">科普性质的书，以一个个开拓者的个人经历为主线串联起英俄大博弈的全过程，思路清晰文笔流畅，相关的历史背景不管是国际局势还是英俄两国国内政治的变动也都统筹的不错，总之入坑用很合适。另书本身依据的都是一手史料和学术专著，但木有做引注，估计也是考虑到定位和可读性的问题【然而看完了之后印象最深的还是天朝相关，左宗棠西征、中国会永远存在之类的。。看的时候也一直在想汉唐清对西域的经营也应该有几本这样的著作才是；其次深的印象是“语言天赋真重要”“有个好身体、活得长真重要”=  ， =【再以及这书除了地图还应该配点自然风光图。看的超想去中亚旅游。。希望有一天真能去瞻仰大石林牙的国都和撒马尔罕吧~ </p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1190947148">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1190947148" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1190947148" class="j a_show_login" data-cid="1190947148">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/51355477/">raulwoo</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-16</span>
+                </span>
+            </h3>
+            <p class="comment-content">十九世纪中叶至二十世纪初的半个多世纪，俄国和英国围绕着中亚地区展开的一番势力范围的争夺，鲜明地展现了十九世纪帝国主义政治军事扩张的模式和形态。这篇古老而又贫瘠的土地见证了历史的兴衰，光荣与残酷。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1188869834">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1188869834" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1188869834" class="j a_show_login" data-cid="1188869834">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/1617520/">草上飞</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-24</span>
+                </span>
+            </h3>
+            <p class="comment-content">把英俄中亚争霸的历史置于一个个探险家的故事中，生动有趣，引人入胜</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1184427765">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1184427765" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1184427765" class="j a_show_login" data-cid="1184427765">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/138209256/">jsjtxietian</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">故事书，读多了也就那样，一开始还有新鲜感。。。不过还是值得一看的。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1179477172">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1179477172" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1179477172" class="j a_show_login" data-cid="1179477172">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/141277787/">榆木木木</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-18</span>
+                </span>
+            </h3>
+            <p class="comment-content">中亚地理位置太重要了，中东像阿富汗这么乱也是大国搅乱的啊。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1170256232">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1170256232" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1170256232" class="j a_show_login" data-cid="1170256232">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/52647200/">holyyang</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-03-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">少有关于英俄大博弈的历史。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/26702850/comments/">更多短评 61 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/26702850/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            大博弈的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 7 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1702676">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1702676/" class="title-link">新瓶旧酒的中亚棋局(08.10.18)</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1702676"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/algolwoo/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2435168-2.jpg"></a>
+    <a href="https://www.douban.com/people/algolwoo/" class="author">
+      <span property="v:reviewer">algolwoo</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2009-02-18"
+      class="main-meta">2009-02-18 23:35:21</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1702676_short" class="review-short">
+            <div class="short-content">
+                  ......将近一个世纪的时间里，世界两大强权——维多利亚英国和沙皇俄国——在中亚寂寥的隘口和沙漠展开了一场秘密战。那些战斗和阴谋的亲历者们把这场秘密战称为&#34;大棋局&#34;（the great game），这个词经由kipling的经典小说&#34;Kim&#34;而在当时广为人知。在19世纪初，这场大戏刚刚开场...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">9有用 / 0没用</span>
+                        <span class="publisher left">
+                            John Murray2006版</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1702676_full" class="hidden">
+            <div id="review_1702676_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="8173020">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/8173020/" class="title-link">谁才是“大博弈”真正的牺牲品？</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-8173020"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/songstergao/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u3410189-17.jpg"></a>
+    <a href="https://www.douban.com/people/songstergao/" class="author">
+      <span property="v:reviewer">老叮当</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2016-11-14"
+      class="main-meta">2016-11-14 05:25:33</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_8173020_short" class="review-short">
+            <div class="short-content">
+                  原载2016年11月13日东早书评和澎湃，转载请注明出处。  在被萨义德称作“帝国主义的杰作”的小说《基姆》（Kim，1901）中，吉卜林创造了一个小男孩基姆。基姆的父亲是英国驻印度军团里的一位爱尔兰士官，在父母穷困而死后，基姆成了在印度街头流浪的孤儿。一次偶然的机会，基姆...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">13有用 / 7没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_8173020_full" class="hidden">
+            <div id="review_8173020_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7920135">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7920135/" class="title-link">中亚其鹿，英俄共逐之</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7920135"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/daqiuzhang/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u36800340-10.jpg"></a>
+    <a href="https://www.douban.com/people/daqiuzhang/" class="author">
+      <span property="v:reviewer">Liu  zhanxiong</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2016-06-02"
+      class="main-meta">2016-06-02 10:07:57</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7920135_short" class="review-short">
+            <div class="short-content">
+                  历史上有无数次大国之间的博弈，作为专有名词的“大博弈”独一无二。  自拿破仑战争结束到1907年签订和约，英俄双方的竞争持续了近一百年。这是帝国与帝国的较量，一个称霸海上，全世界有4亿人口属于维多利亚女王的子民，地球上的24个时区均有英军驻扎，太阳无论何时都会照在她...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">8有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7920135_full" class="hidden">
+            <div id="review_7920135_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="8205310">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/8205310/" class="title-link">叙事视野宏大，研究视角稍偏</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-8205310"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/1080289/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1080289-1.jpg"></a>
+    <a href="https://www.douban.com/people/1080289/" class="author">
+      <span property="v:reviewer">Stanley</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2016-12-02"
+      class="main-meta">2016-12-02 14:16:40</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_8205310_short" class="review-short">
+            <div class="short-content">
+                  霍普柯克这部作品，看起来归为带学术性的通俗历史写作或科普读物一类可能更合适些。这么说毫无贬低之意，我也不认为哪个比哪个就一定更高。而且全书视野宏大，作者也投入了某种感情，读来不仅有知识上的提升，也令人为之动容。不论是俄罗斯帝国边疆军人的勃勃雄心，还是大英帝...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_8205310_full" class="hidden">
+            <div id="review_8205310_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="8393867">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/8393867/" class="title-link">简评</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-8393867"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/adelheid/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u57183607-1.jpg"></a>
+    <a href="https://www.douban.com/people/adelheid/" class="author">
+      <span property="v:reviewer">Adelheid</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2017-03-03"
+      class="main-meta">2017-03-03 10:06:31</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_8393867_short" class="review-short">
+            <div class="short-content">
+                  这一版的副标题被改成了The Struggle for Empire in Central Asia，用了美亚的试读确认是同一本书后购入，只要11块半。代价就是印刷质量，活脱脱一盗版书，居然字号偶有参差不齐，地图也不是很清晰，不过并不妨碍阅读。  作者基本上是站在英国的视角讲故事，因为有很多二手材料...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">0有用 / 0没用</span>
+                        <span class="publisher left">
+                            Kodansha International1992版</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_8393867_full" class="hidden">
+            <div id="review_8393867_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评7篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+      
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="44599704">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2930062/"><img src="https://img3.doubanio.com/icon/u2930062-1.jpg" alt="天意" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44599704/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44599704/" class="">第四章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2930062/" class=" " title="天意">天意</a>
+              
+            </p>
+            <div class="reading-note" data-cid="44599704">
+              <div class="short">
+                
+                  <span class="">英国为了再以后万一的战争中占领先机，派两位军官对中亚的沙漠地区进行勘探， 两位军官各自出发，通过伪装，经过三个月的历险，圆满完成任务。 作为基督徒的他们，需扮演伊斯兰教信徒使别人降低对他们的防备， 同时也写出了当时的中亚土匪横行，小镇林立，各自为政。如果一个地方想保持和平，就必须要有自己的军事防御以及士兵保护，同时又严格的进入制度。互相之间防备心很重。</span>
+                <p class="pl">
+                  <span class="">2017-06-05 15:49</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>英国为了再以后万一的战争中占领先机，派两位军官对中亚的沙漠地区进行勘探，</p><p>两位军官各自出发，通过伪装，经过三个月的历险，圆满完成任务。</p><p>作为基督徒的他们，需扮演伊斯兰教信徒使别人降低对他们的防备，</p><p>同时也写出了当时的中亚土匪横行，小镇林立，各自为政。如果一个地方想保持和平，就必须要有自己的军事防御以及士兵保护，同时又严格的进入制度。互相之间防备心很重。</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44599704/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-05 15:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="44599398">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2930062/"><img src="https://img3.doubanio.com/icon/u2930062-1.jpg" alt="天意" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44599398/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44599398/" class="">第三章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2930062/" class=" " title="天意">天意</a>
+              
+            </p>
+            <div class="reading-note" data-cid="44599398">
+              <div class="short">
+                
+                  <span class="">英法俄为了争夺印度占领权，对进攻印度的必经之国波斯的笼络。 波斯先是与英国结盟，但是在俄罗斯进攻波斯的时候，英国借助签订条约的漏洞并没有帮助波斯，使波斯放弃与英国结盟，转而与趁虚而入的法国结盟，但是法国也并没有像许诺的那样帮助波斯，最后被英国派过来的另外一个说客说服重新签署条约，重新结盟。 其条约的主要内容均是一旦开战，作为必经之路波斯要不要为结盟国让路或者不让路，附加结盟国为波斯提供军事援助。...</span>
+                <p class="pl">
+                  <span class="">2017-06-05 15:43</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>英法俄为了争夺印度占领权，对进攻印度的必经之国波斯的笼络。</p><p>波斯先是与英国结盟，但是在俄罗斯进攻波斯的时候，英国借助签订条约的漏洞并没有帮助波斯，使波斯放弃与英国结盟，转而与趁虚而入的法国结盟，但是法国也并没有像许诺的那样帮助波斯，最后被英国派过来的另外一个说客说服重新签署条约，重新结盟。</p><p>其条约的主要内容均是一旦开战，作为必经之路波斯要不要为结盟国让路或者不让路，附加结盟国为波斯提供军事援助。以及金钱的援助。</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44599398/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-05 15:43
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="44599704">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2930062/"><img src="https://img3.doubanio.com/icon/u2930062-1.jpg" alt="天意" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44599704/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44599704/" class="">第四章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2930062/" class=" " title="天意">天意</a>
+              
+            </p>
+            <div class="reading-note" data-cid="44599704">
+              <div class="short">
+                
+                  <span class="">英国为了再以后万一的战争中占领先机，派两位军官对中亚的沙漠地区进行勘探， 两位军官各自出发，通过伪装，经过三个月的历险，圆满完成任务。 作为基督徒的他们，需扮演伊斯兰教信徒使别人降低对他们的防备， 同时也写出了当时的中亚土匪横行，小镇林立，各自为政。如果一个地方想保持和平，就必须要有自己的军事防御以及士兵保护，同时又严格的进入制度。互相之间防备心很重。</span>
+                <p class="pl">
+                  <span class="">2017-06-05 15:49</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>英国为了再以后万一的战争中占领先机，派两位军官对中亚的沙漠地区进行勘探，</p><p>两位军官各自出发，通过伪装，经过三个月的历险，圆满完成任务。</p><p>作为基督徒的他们，需扮演伊斯兰教信徒使别人降低对他们的防备，</p><p>同时也写出了当时的中亚土匪横行，小镇林立，各自为政。如果一个地方想保持和平，就必须要有自己的军事防御以及士兵保护，同时又严格的进入制度。互相之间防备心很重。</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44599704/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-05 15:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="44599398">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2930062/"><img src="https://img3.doubanio.com/icon/u2930062-1.jpg" alt="天意" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44599398/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44599398/" class="">第三章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2930062/" class=" " title="天意">天意</a>
+              
+            </p>
+            <div class="reading-note" data-cid="44599398">
+              <div class="short">
+                
+                  <span class="">英法俄为了争夺印度占领权，对进攻印度的必经之国波斯的笼络。 波斯先是与英国结盟，但是在俄罗斯进攻波斯的时候，英国借助签订条约的漏洞并没有帮助波斯，使波斯放弃与英国结盟，转而与趁虚而入的法国结盟，但是法国也并没有像许诺的那样帮助波斯，最后被英国派过来的另外一个说客说服重新签署条约，重新结盟。 其条约的主要内容均是一旦开战，作为必经之路波斯要不要为结盟国让路或者不让路，附加结盟国为波斯提供军事援助。...</span>
+                <p class="pl">
+                  <span class="">2017-06-05 15:43</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>英法俄为了争夺印度占领权，对进攻印度的必经之国波斯的笼络。</p><p>波斯先是与英国结盟，但是在俄罗斯进攻波斯的时候，英国借助签订条约的漏洞并没有帮助波斯，使波斯放弃与英国结盟，转而与趁虚而入的法国结盟，但是法国也并没有像许诺的那样帮助波斯，最后被英国派过来的另外一个说客说服重新签署条约，重新结盟。</p><p>其条约的主要内容均是一旦开战，作为必经之路波斯要不要为结盟国让路或者不让路，附加结盟国为波斯提供军事援助。以及金钱的援助。</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44599398/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-05 15:43
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="44599704">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2930062/"><img src="https://img3.doubanio.com/icon/u2930062-1.jpg" alt="天意" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44599704/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44599704/" class="">第四章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2930062/" class=" " title="天意">天意</a>
+              
+            </p>
+            <div class="reading-note" data-cid="44599704">
+              <div class="short">
+                
+                  <span class="">英国为了再以后万一的战争中占领先机，派两位军官对中亚的沙漠地区进行勘探， 两位军官各自出发，通过伪装，经过三个月的历险，圆满完成任务。 作为基督徒的他们，需扮演伊斯兰教信徒使别人降低对他们的防备， 同时也写出了当时的中亚土匪横行，小镇林立，各自为政。如果一个地方想保持和平，就必须要有自己的军事防御以及士兵保护，同时又严格的进入制度。互相之间防备心很重。</span>
+                <p class="pl">
+                  <span class="">2017-06-05 15:49</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>英国为了再以后万一的战争中占领先机，派两位军官对中亚的沙漠地区进行勘探，</p><p>两位军官各自出发，通过伪装，经过三个月的历险，圆满完成任务。</p><p>作为基督徒的他们，需扮演伊斯兰教信徒使别人降低对他们的防备，</p><p>同时也写出了当时的中亚土匪横行，小镇林立，各自为政。如果一个地方想保持和平，就必须要有自己的军事防御以及士兵保护，同时又严格的进入制度。互相之间防备心很重。</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44599704/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-05 15:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="44599398">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2930062/"><img src="https://img3.doubanio.com/icon/u2930062-1.jpg" alt="天意" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44599398/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44599398/" class="">第三章</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2930062/" class=" " title="天意">天意</a>
+              
+            </p>
+            <div class="reading-note" data-cid="44599398">
+              <div class="short">
+                
+                  <span class="">英法俄为了争夺印度占领权，对进攻印度的必经之国波斯的笼络。 波斯先是与英国结盟，但是在俄罗斯进攻波斯的时候，英国借助签订条约的漏洞并没有帮助波斯，使波斯放弃与英国结盟，转而与趁虚而入的法国结盟，但是法国也并没有像许诺的那样帮助波斯，最后被英国派过来的另外一个说客说服重新签署条约，重新结盟。 其条约的主要内容均是一旦开战，作为必经之路波斯要不要为结盟国让路或者不让路，附加结盟国为波斯提供军事援助。...</span>
+                <p class="pl">
+                  <span class="">2017-06-05 15:43</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>英法俄为了争夺印度占领权，对进攻印度的必经之国波斯的笼络。</p><p>波斯先是与英国结盟，但是在俄罗斯进攻波斯的时候，英国借助签订条约的漏洞并没有帮助波斯，使波斯放弃与英国结盟，转而与趁虚而入的法国结盟，但是法国也并没有像许诺的那样帮助波斯，最后被英国派过来的另外一个说客说服重新签署条约，重新结盟。</p><p>其条约的主要内容均是一旦开战，作为必经之路波斯要不要为结盟国让路或者不让路，附加结盟国为波斯提供军事援助。以及金钱的援助。</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44599398/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-05 15:43
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        <span>
+            <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=discuss">
+              <span>在这本书的论坛里发言</span>
+            </a>
+        </span>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 57.60元</span>
+        <span class="price"> <del>72.00元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=161102&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B01HTIOCYK2736048/?asin=B01HTIOCYK&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B01HTIOCYK&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">30.60 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4680&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=5670&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEg5REl4VAyJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbA1weWxQdS0IJRmsTakZ4KFMabWBoVyV6CU5%252BRkAPSw1DDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBpSEQUbDlcrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVCxYOUBtaCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=26702850&amp;type=bkbuy&amp;subject=26702850" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4680&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=5670&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEg5REl4VAyJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIbA1weWxQdS0IJRmsTakZ4KFMabWBoVyV6CU5%252BRkAPSw1DDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBpSEQUbDlcrXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVCxYOUBtaCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=26702850&amp;type=bkbuy&amp;subject=26702850" class="buylink-price ">
+                      <span class="">
+                        56.70 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4680&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=5320&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26702850%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23851226&amp;cntvendor=3&amp;srcsubj=26702850&amp;type=bkbuy&amp;subject=26702850" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4680&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=5320&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s26702850%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D23851226&amp;cntvendor=3&amp;srcsubj=26702850&amp;type=bkbuy&amp;subject=26702850" class="buylink-price ">
+                      <span class="">
+                        53.20 元
+                      </span>
+                    </a>
+
+                      
+                        <div class="more-info">
+                            <span class="buyinfo-promotion">
+                              优品换购6.20-6.26
+                            </span>
+                        </div>
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4680&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=4680&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7104176.htm&amp;cntvendor=3&amp;link2key=3aecb0cb15&amp;srcsubj=26702850&amp;type=bkbuy&amp;subject=26702850" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=4680&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=4680&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F7104176.htm&amp;cntvendor=3&amp;link2key=3aecb0cb15&amp;srcsubj=26702850&amp;type=bkbuy&amp;subject=26702850" class="buylink-price ">
+                      <span class="">
+                        46.80 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/26702850/buylinks">
+              &gt; 查看3家网店价格
+                (46.80 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1005484">全部10</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/2969079/">John Murray版</a>
+          2006-3-27 / 11人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1494039/">Kodansha International版</a>
+          1992-5-15 / 8人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/26913673/">John Murray版</a>
+          1990-5-10 / 2人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/4732383/">Kodansha Amer Inc版</a>
+          1992-9 / 1人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/26702850/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/124992/" target="_blank">中亚西域</a>
+                <span class="pl">(Richthofen)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1822014/" target="_blank">广义人类学备忘录</a>
+                <span class="pl">(nothing传叔)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/41108931/" target="_blank">37°暖书单（二）</a>
+                <span class="pl">(37°暖)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/4056012/" target="_blank">海國圖志</a>
+                <span class="pl">(Kukulkan)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/41155218/" target="_blank">37°暖书单（一）</a>
+                <span class="pl">(37°暖)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/57986281/"><img src="https://img3.doubanio.com/icon/u57986281-2.jpg" class="pil" alt="咸鱼" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/57986281/">咸鱼</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/68743197/"><img src="https://img3.doubanio.com/icon/u68743197-3.jpg" class="pil" alt="越陌度阡" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/68743197/">越陌度阡</a><br/>
+      <div class="pl ll">          6月21日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/144128759/"><img src="https://img3.doubanio.com/icon/u144128759-4.jpg" class="pil" alt="一个少女" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/144128759/">一个少女</a><br/>
+      <div class="pl ll">          6月21日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/26702850/doings">45人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/26702850/collections">145人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/26702850/wishes">888人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/26702850/offers">2本二手书欲转让</a>
+          <span class="">
+            (25.00
+                至 43.50元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有888人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于大博弈的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/26702850/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'lr8wqSKFaDE',
+            criteria = '7:历史|7:国际关系|7:中亚|7:英国|7:俄国|7:政治|7:国际关系史|7:亚洲史|7:世界史|7:战争|3:/subject/26702850/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar16a-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,3252 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>小逻辑 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1034259/">
+<meta name="keywords" content="小逻辑,（德）黑格尔,商务印书馆,1997-02,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书小逻辑 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1034259/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">小逻辑</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s2702476.jpg" title="小逻辑">
+    <img src="https://img3.doubanio.com/lpic/s2702476.jpg" title="点击看大图" alt="小逻辑"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E9%BB%91%E6%A0%BC%E5%B0%94">（德）黑格尔</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 商务印书馆<br/>
+
+    
+    
+  
+
+    
+    
+  
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E8%B4%BA%E9%BA%9F">贺麟</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 1997-02<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 435<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 17.10<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/24">汉译世界学术名著丛书·哲学</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787100005586<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.5 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">2123</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">44.7%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:56px"></div>
+
+            <span class="rating_per">39.3%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:20px"></div>
+
+            <span class="rating_per">14.3%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:1px"></div>
+
+            <span class="rating_per">1.1%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.5%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1034259-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1034259-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1034259-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1034259-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1034259-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1034259-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1034259-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1034259-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1034259">
+        <a href="#" data-url="https://book.douban.com/subject/1034259/" data-desc="" data-title="书籍《小逻辑》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s2702476.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1034259"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>黑格尔的《小逻辑》是构成他的《哲学全书》的一个主要环节，本来是印发给学生的讲义性质。是黑格尔于最后十余年内的心血。它的好处在于把握住全系统的轮廓和重点，材料分配均匀，文字简奥紧凑，而义蕴深厚。初看似颇难解，及细加咀嚼，愈觉意味无穷，启发人深思。他的学生在他逝世后编订全集时，再附加以学生笔记作为附释，于是使得这书又有了明白晓畅、亲切感人的特点。尤其是关于思想对客观性的三种态度及概念的推论等，都是《大逻辑》所没有或极少见的，特别值得重视。</p>    <p></p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1034259/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <span class="short">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>黑格尔(1770～1831)，德国古典唯心主义辩证法哲学的集大成者，彻底的客观唯心主义者。他主张，理念是第一性的，它以纯概念的形式在逻辑学中不断发展，然后理念外化成为自然界，最后又在精神哲学的各门科学中回复到理念自身。这样，他建立了一个以理念为基础的、包括了一切科学的庞大的客观唯心主义体系。他在哲学史上的主要贡献是，把矛盾看作一切事物的真理与本质，论述了辩证法就是对立面的统一。他把整个的自然界、人类社会、人的思维都看作处于普遍联系与发展变化中。其辩证法的不彻底性在于，他的作为“绝对真理”的哲学体系是绝对的、永恒不变的。马克思和恩格斯在创立唯物辩证法时，批判地吸取了黑格尔哲学中的辩证法这一合理内核。主要著作有《精神现象学》、《逻辑学》、《哲学史讲演录》、《哲学全书纲要》等。后者分为“逻辑哲学”、“自然哲学”、“精神哲学”三部分，是对其全部哲学体系的阐述...</p><p><a href="javascript:void(0)" class="j a_show_full">(展开全部)</a></p></div>
+
+            </span>
+            <span class="all hidden ">
+                <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>黑格尔(1770～1831)，德国古典唯心主义辩证法哲学的集大成者，彻底的客观唯心主义者。他主张，理念是第一性的，它以纯概念的形式在逻辑学中不断发展，然后理念外化成为自然界，最后又在精神哲学的各门科学中回复到理念自身。这样，他建立了一个以理念为基础的、包括了一切科学的庞大的客观唯心主义体系。他在哲学史上的主要贡献是，把矛盾看作一切事物的真理与本质，论述了辩证法就是对立面的统一。他把整个的自然界、人类社会、人的思维都看作处于普遍联系与发展变化中。其辩证法的不彻底性在于，他的作为“绝对真理”的哲学体系是绝对的、永恒不变的。马克思和恩格斯在创立唯物辩证法时，批判地吸取了黑格尔哲学中的辩证法这一合理内核。主要著作有《精神现象学》、《逻辑学》、《哲学史讲演录》、《哲学全书纲要》等。后者分为“逻辑哲学”、“自然哲学”、“精神哲学”三部分，是对其全部哲学体系的阐述。</p></div>
+
+            </span>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1034259_short">
+        第一版序言<br/>
+        第二版序言<br/>
+        第三版序言<br/>
+        柏林大学的开讲辞<br/>
+        <br/>
+        导言 /逻辑学概念的初步规定<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1034259_short').hide();$('#dir_1034259_full').show();$.get('/j/subject/j_dir_count',{id:1034259});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1034259_full" style="display:none">
+        第一版序言<br/>
+        第二版序言<br/>
+        第三版序言<br/>
+        柏林大学的开讲辞<br/>
+        <br/>
+        导言 /逻辑学概念的初步规定<br/>
+        一. 思想对客观性的第一态度；形而上学<br/>
+        二. 思想对客观性的第二态度<br/>
+        三. 思想对客观性的第三态度<br/>
+        四. 逻辑学概念的进一步规定和部门划分<br/>
+        <br/>
+        第一篇　存在论<br/>
+        一. 质（Die QualitaBt）<br/>
+        二. 量（Die QuantitaBt）<br/>
+        三. 尺度（Das Maβ）<br/>
+        <br/>
+        第二篇　本质论<br/>
+        一. 本质作为实存的根据<br/>
+        二. 现象（Die Erscheinung）<br/>
+        三. 现实（Die Wirklichkeit）<br/>
+        <br/>
+        第三篇　概念论<br/>
+        一. 主观概念（DerSubjektiveBegri�e�e）<br/>
+        二. 客体（Das Objekt）<br/>
+        三. 理念（Die Idee）<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1034259_full').hide();$('#dir_1034259_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共379个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/哲学">哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/黑格尔">黑格尔</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/小逻辑">小逻辑</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/逻辑学">逻辑学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/德国">德国</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/西方哲学">西方哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/逻辑">逻辑</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/经典">经典</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/24">汉译世界学术名著丛书·哲学 (共231册)</a>,
+这套丛书还有
+《物性论》,《伦理学中的形式主义与质料的价值伦理学》,《保卫马克思》,《声音与现象》,《人生的亲证》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;小逻辑&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/20077289/?dcs=subject-rec&amp;dcm=douban&amp;dct=1034259" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/20077289.jpg?v=1459842521.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/20077289/" target="_blank">形而上学导论</a>
+          </div>
+          <div class="price">
+              11.05元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1193351/?dcs=subject-rec&amp;dcm=douban&amp;dct=1034259" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1193351.jpg?v=1395394399.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1193351/" target="_blank">精神现象学（下卷）</a>
+          </div>
+          <div class="price">
+              14.40元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/20076540/?dcs=subject-rec&amp;dcm=douban&amp;dct=1034259" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/20076540.jpg?v=1459907092.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/20076540/" target="_blank">路标</a>
+          </div>
+          <div class="price">
+              22.75元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1170563/?dcs=subject-rec&amp;dcm=douban&amp;dct=1034259" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1170563.jpg?v=1395394654.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1170563/" target="_blank">作为意志和表象的世界</a>
+          </div>
+          <div class="price">
+              27.12元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/443460/?dcs=subject-rec&amp;dcm=douban&amp;dct=1034259" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/443460.jpg?v=1395395793.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/443460/" target="_blank">基督教与罗马帝国的衰亡</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;小逻辑&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1012380/" onclick="moreurl(this, {'total': 10, 'clicked': '1012380', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s3013715.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1012380/" onclick="moreurl(this, {'total': 10, 'clicked': '1012380', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            精神现象学（上卷）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1216737/" onclick="moreurl(this, {'total': 10, 'clicked': '1216737', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1428491.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1216737/" onclick="moreurl(this, {'total': 10, 'clicked': '1216737', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            纯粹理性批判
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1050527/" onclick="moreurl(this, {'total': 10, 'clicked': '1050527', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s27266498.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1050527/" onclick="moreurl(this, {'total': 10, 'clicked': '1050527', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            逻辑学（上卷）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1783111/" onclick="moreurl(this, {'total': 10, 'clicked': '1783111', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1754405.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1783111/" onclick="moreurl(this, {'total': 10, 'clicked': '1783111', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            存在与时间
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1137244/" onclick="moreurl(this, {'total': 10, 'clicked': '1137244', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1105530.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1137244/" onclick="moreurl(this, {'total': 10, 'clicked': '1137244', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            判断力批判
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1077833/" onclick="moreurl(this, {'total': 10, 'clicked': '1077833', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6503751.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1077833/" onclick="moreurl(this, {'total': 10, 'clicked': '1077833', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            形而上学
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1075174/" onclick="moreurl(this, {'total': 10, 'clicked': '1075174', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s26741023.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1075174/" onclick="moreurl(this, {'total': 10, 'clicked': '1075174', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            逻辑学（下卷）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1223897/" onclick="moreurl(this, {'total': 10, 'clicked': '1223897', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1218653.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1223897/" onclick="moreurl(this, {'total': 10, 'clicked': '1223897', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            实践理性批判
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1004821/" onclick="moreurl(this, {'total': 10, 'clicked': '1004821', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1068535.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1004821/" onclick="moreurl(this, {'total': 10, 'clicked': '1004821', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            理想国
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1005354/" onclick="moreurl(this, {'total': 10, 'clicked': '1005354', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2704503.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1005354/" onclick="moreurl(this, {'total': 10, 'clicked': '1005354', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            逻辑哲学论
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1034259/comments/">全部 379 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="20752375">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-20752375" class="vote-count">3</span>
+                        <a href="javascript:;" id="btn-20752375" class="j a_show_login" data-cid="20752375">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/1624400/">大理寺卿</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2007-09-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">发现一个现象，不管是哲学专业还是非哲学专业的，提及黑格尔时，必说他们看过他的《小逻辑》，假如没有第二本的话。是的，该书很薄，和他 其他上比起来确实薄了很多，于是人们愿意花钱买轻松，以为哲学就是靠一本薄书就能掌握。《小逻辑》属于黑格尔哲学体系中较靠后的部分，因为很多概念在前面的著作中已经系统地解释过，所以在着这部著作中就不再解释，这也是它薄的原因，而非为省事写的哲学通俗本。
+强调一遍《小逻辑》在黑格尔的思想中的位置非常深。想读黑格尔，请从《精神现象学》开始。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="732260070">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-732260070" class="vote-count">2</span>
+                        <a href="javascript:;" id="btn-732260070" class="j a_show_login" data-cid="732260070">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/sandlong/">韩乾</a>
+                    <span>2013-10-04</span>
+                </span>
+            </h3>
+            <p class="comment-content">“我扬弃了她”</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="312916660">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-312916660" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-312916660" class="j a_show_login" data-cid="312916660">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/frejafoo/">Zeya™</a>
+                    <span>2010-11-08</span>
+                </span>
+            </h3>
+            <p class="comment-content">看死我了= =</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="938106624">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-938106624" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-938106624" class="j a_show_login" data-cid="938106624">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/carmelita/">Xaos Geneto</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2015-11-13</span>
+                </span>
+            </h3>
+            <p class="comment-content">读黑格尔好，锻炼思维，陶冶情操。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1001874376">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1001874376" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-1001874376" class="j a_show_login" data-cid="1001874376">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/4439991/">麵相</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2016-01-19</span>
+                </span>
+            </h3>
+            <p class="comment-content">讲实话，看了没懂于是忘了。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1199893933">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1199893933" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1199893933" class="j a_show_login" data-cid="1199893933">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/4506434/">dede100</a>
+                    <span>2017-06-08</span>
+                </span>
+            </h3>
+            <p class="comment-content">研一的寒假读到焦虑失眠 终于觉得自己有点读懂了 结果被一位老师莫名打击为“骄傲”。大概彼时的hegel于我有如今日的descartes吧。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1194435079">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1194435079" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1194435079" class="j a_show_login" data-cid="1194435079">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/DAHIPPOOO/">组织知道就行了</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-05-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">读了一学期终于快读完本质论 心很累</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1180477251">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1180477251" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1180477251" class="j a_show_login" data-cid="1180477251">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/ChingMingSan/">清明士人</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-04-21</span>
+                </span>
+            </h3>
+            <p class="comment-content">读不懂黑格尔。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1179196304">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1179196304" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1179196304" class="j a_show_login" data-cid="1179196304">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/seekformojo/">花蘑</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-17</span>
+                </span>
+            </h3>
+            <p class="comment-content">我24岁读小逻辑。（然而....）</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1174651835">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1174651835" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1174651835" class="j a_show_login" data-cid="1174651835">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/foxlss/">柳姗姗</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-04-06</span>
+                </span>
+            </h3>
+            <p class="comment-content">什么是形而上？什么是诡辩？我只是一个爱吃米线的小可爱，我并不知道。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1034259/comments/">更多短评 379 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1034259/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            小逻辑的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 39 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1569018">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1569018/" class="title-link">从小逻辑中学得的</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1569018"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/3273113/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/3273113/" class="author">
+      <span property="v:reviewer">[已注销]</span>
+    </a>  <span property="v:dtreviewed" content="2008-11-28"
+      class="main-meta">2008-11-28 16:50:11</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1569018_short" class="review-short">
+            <div class="short-content">
+                  　　《马恩选集４》中恩格斯的“自然辨证法”一节提出了“知性和理性”，能将它们在思维中客观的区分开来（通过思维的思维即思辩，才能理解客观的思维）。这是理解辨证法的关键。 　　人们向来“夸大”掌握的知识，经验的重要性，而忽视它们的局限性。用知识与经验去理解事物，...
+
+                    <a class="pl" href="https://book.douban.com/review/1569018/#comments">(14回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">26有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1569018_full" class="hidden">
+            <div id="review_1569018_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1308918">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1308918/" class="title-link">一点感受</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1308918"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/arobindo/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2241091-3.jpg"></a>
+    <a href="https://www.douban.com/people/arobindo/" class="author">
+      <span property="v:reviewer">金色的光</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2008-02-20"
+      class="main-meta">2008-02-20 21:59:40</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1308918_short" class="review-short">
+            <div class="short-content">
+                  这本书其实是综合了黑格尔的本体论和方法论的一部巨著，读起来费力我觉得需要注意一点，黑格尔强调反思，所以说读的时候不要从字面上强作理解。而是要求诸自己内心进行反思。因为很多表述没有相应的精神体验从字面上是很难理解的。比如多和一的统一，黑格尔强调超越感官的高级...
+
+                    <a class="pl" href="https://book.douban.com/review/1308918/#comments">(13回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">29有用 / 4没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1308918_full" class="hidden">
+            <div id="review_1308918_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="6186373">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/6186373/" class="title-link">读书笔记：黑格尔《小逻辑（Part I: Science of ...</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-6186373"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/jiangxulin/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u47643947-54.jpg"></a>
+    <a href="https://www.douban.com/people/jiangxulin/" class="author">
+      <span property="v:reviewer">江绪林</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2013-07-28"
+      class="main-meta">2013-07-28 10:54:54</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_6186373_short" class="review-short">
+            <div class="short-content">
+                  【按语：虽然在政治上黑格尔远远地逾越了启蒙立场，但在思想上黑格尔仍然是启蒙之子[黑格尔的思想吻合康德在《什么是启蒙》中对启蒙的理解即“敢于去认识”]：在逾越了知性逻辑（logic of understanding,同一律）的约束，抵达了流变（becoming）和具体之纯思（purely concrete ...
+
+                    <a class="pl" href="https://book.douban.com/review/6186373/#comments">(12回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">19有用 / 2没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_6186373_full" class="hidden">
+            <div id="review_6186373_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1036870">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1036870/" class="title-link">黑格尔哲学的入门书</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1036870"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/leeward/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1109451-11.jpg"></a>
+    <a href="https://www.douban.com/people/leeward/" class="author">
+      <span property="v:reviewer">與點狂生</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2006-04-09"
+      class="main-meta">2006-04-09 11:27:15</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1036870_short" class="review-short">
+            <div class="short-content">
+                  如果说普通逻辑是思维的形式,黑格尔的小逻辑就是逻辑的形式.如果你想要从这儿学习形式逻辑,你错了,大错特错.如黑格尔所说,他这儿的逻辑是纯粹思维的形式.  这本书不适合初学者,只适合研究者.尽管这是一本讲义,尽管恩格斯也说过这是黑格尔哲学的入门书,但这不是哲学入门书.  我...
+
+                    <a class="pl" href="https://book.douban.com/review/1036870/#comments">(19回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">10有用 / 4没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1036870_full" class="hidden">
+            <div id="review_1036870_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="4576999">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/4576999/" class="title-link">边读边记</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-4576999"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/johnathan/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u32930105-7.jpg"></a>
+    <a href="https://www.douban.com/people/johnathan/" class="author">
+      <span property="v:reviewer">竹直梅孤</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2011-01-12"
+      class="main-meta">2011-01-12 11:33:01</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_4576999_short" class="review-short">
+            <div class="short-content">
+                  翻开序言就发现果然又是本难读的书，还是不抱自己能在读完后还记得序言写了什么这种不现实的幻想先把读书笔记的架子搭出来随读随写吧。 *******杂感******** 为啥没人研究过各国都充斥的这种选民意识呢？从英国到普鲁士到俄美到日本，每个崛起后的国家都觉得自己就跟游戏或者漫...
+
+                    <a class="pl" href="https://book.douban.com/review/4576999/#comments">(6回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">6有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_4576999_full" class="hidden">
+            <div id="review_4576999_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评39篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1034259/annotation">共<span property="v:count">67</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="22713792">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/wac727/"><img src="https://img3.doubanio.com/icon/u1919118-1.jpg" alt="寒柳" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22713792/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22713792/" class="">第196页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/wac727/" class=" " title="寒柳">寒柳</a>
+                (去国十年老尽少年心)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="22713792">
+              <div class="short">
+                
+                  <span class="">其实哲学的教训正是要使人从那无穷的有限目的与个人愿望中解放出来，并使他觉得不管那些东西存在或不存在，对他简直完全无别。
+
+黑格尔这段内容是论证“有”与“无”的统一性，似乎吸收了佛教一些思想。事实上，哲学如果着重于精神，那么物质的存在也就次要了。佛教讲求“空”，依靠的是修行，而黑格尔依靠的是逻辑。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/22713792/">(<span class="">2回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-11-25 01:40</span>
+                  
+                    &nbsp;&nbsp;<span class="">7人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote><q>其实哲学的教训正是要使人从那无穷的有限目的与个人愿望中解放出来，并使他觉得不管那些东西存在或不存在，对他简直完全无别。</q></blockquote><div style="padding-bottom:1em;"></div>黑格尔这段内容是论证“有”与“无”的统一性，似乎吸收了佛教一些思想。事实上，哲学如果着重于精神，那么物质的存在也就次要了。佛教讲求“空”，依靠的是修行，而黑格尔依靠的是逻辑。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22713792/#comments">2回应</a>&nbsp;&nbsp;
+                  2012-11-25 01:40
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="27363720">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/49391038/"><img src="https://img3.doubanio.com/icon/u49391038-16.jpg" alt="Jamescc" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/27363720/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/27363720/" class="">第428页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/49391038/" class=" " title="Jamescc">Jamescc</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="27363720">
+              <div class="short">
+                
+                  <span class="">    最近看马列的东西，看到对于唯心唯物的分水岭的部分反看黑格尔，对黑格尔有了更新更系统的认识。我认为黑格尔他自己本身就是一个唯物主义，虽然他自己说自己是唯心，但其思想内容的很多立场观点全都是建立在唯物主义。他说过：从时间角度看，自然的存在早在思维存在前。但他更趋向于针对人的主观能动来解释社会关系。也就是说，要了解黑格尔，需要对时间空间的准确定位后，再用逻辑推演，才能得到其背后真实性目的性的本质。否...</span>
+                <p class="pl">
+                  <span class="">2013-07-01 01:36</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                    最近看马列的东西，看到对于唯心唯物的分水岭的部分反看黑格尔，对黑格尔有了更新更系统的认识。我认为黑格尔他自己本身就是一个唯物主义，虽然他自己说自己是唯心，但其思想内容的很多立场观点全都是建立在唯物主义。他说过：从时间角度看，自然的存在早在思维存在前。但他更趋向于针对人的主观能动来解释社会关系。也就是说，要了解黑格尔，需要对时间空间的准确定位后，再用逻辑推演，才能得到其背后真实性目的性的本质。否则都是片面和短视。我认为他多活几年就会彻底改变他自己称呼自己是唯心主义，自然科学的高速发展恰恰验证了唯物辩证法的成果并给出依据，而黑格尔则将能够吸收的。<div style="padding-bottom:1em;"></div>    不过不得不说，黑格尔对他自己发明的辩证法的自信是绝对高调的，他认为中国没有哲学，如果黑格尔看到中国2000多年前老子的《道德经》而不是当时主流的《论语》，可能就不那么嚣张了吧。因为完全就是一个辩证法雏形思维方式，我在刚接触《小逻辑》贺麟对几个定义词的时候就写了笔记，我认为这种思维方式就是中国的道德经，所谓的绝对精神以及绝对理念就是所谓的“道”。“道”通过自在自否而衍生万物，“道生一、一生二、直至衍生万物”。而道可道、非恒（原著是恒，违了汉朝皇帝刘恒的谥号遂改之）道，这里的非恒也就是所谓道的本身是自否而非固定的一种绝对。黑格尔将辩证法科学系统化的整理出来也是一种功绩，但落后了2000年。<div style="padding-bottom:1em;"></div>    另外很烦躁因其历史的社会背景因素，让现代德国哲学家都要将问题说的晦涩，背后化，这直接制造了大量思维惰性的人误解歪曲黑格尔的思想本意。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/27363720/#comments">回应</a>&nbsp;&nbsp;
+                  2013-07-01 01:36
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="24599676">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/49391038/"><img src="https://img3.doubanio.com/icon/u49391038-16.jpg" alt="Jamescc" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/24599676/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/24599676/" class="">第88页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/49391038/" class=" " title="Jamescc">Jamescc</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="24599676">
+              <div class="short">
+                
+                  <span class="">终于想明白了，是另外的一种认识观，换位思考即可。前提必须排除常规的认识观。思维已经是自在无限的实体，以这个为开始对外来对象进行一个画圆方式的统一。这个过程叫真理。这种认知方式与佛教内的本来“无一物何处惹尘埃”类似或者说是前后发展的关系。88页基本窥视其一二，黑不难理解。</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/24599676/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2013-02-16 04:08</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                终于想明白了，是另外的一种认识观，换位思考即可。前提必须排除常规的认识观。思维已经是自在无限的实体，以这个为开始对外来对象进行一个画圆方式的统一。这个过程叫真理。这种认知方式与佛教内的本来“无一物何处惹尘埃”类似或者说是前后发展的关系。88页基本窥视其一二，黑不难理解。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/24599676/#comments">1回应</a>&nbsp;&nbsp;
+                  2013-02-16 04:08
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="25968189">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/sunshineaming/"><img src="https://img3.doubanio.com/icon/u2675759-62.jpg" alt="醉醉醉止" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/25968189/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/25968189/" class="">第37页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/sunshineaming/" class=" " title="醉醉醉止">醉醉醉止</a>
+                (消解与颠覆的任何意义)
+              
+            </p>
+            <div class="reading-note" data-cid="25968189">
+              <div class="short">
+                
+                  <span class="">SS1
+人的意识，对于对象总是先形成表象，后才形成概念，而且唯有通过表象，依靠表象，人的能思的心灵才进而达到对于事物的思维的认识和把握。
+
+因为如果以一个当前直接的东西作为开端，就是提出一个假定，或者毋宁说，哲学的开端就是一个假定。
+
+SS2
+这种成见将情绪和思维截然分开，认为二者彼此对立，甚至认为二者彼此敌对，以为情绪，特别宗教情绪，可以被思维所谓所玷污，被思维引入歧途，甚至可以被思维所消灭。依这种成...</span>
+                <p class="pl">
+                  <span class="">2013-04-24 09:47</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                SS1<div style="padding-bottom:1em;"></div>人的意识，对于对象总是先形成表象，后才形成概念，而且唯有通过表象，依靠表象，人的能思的心灵才进而达到对于事物的思维的认识和把握。<div style="padding-bottom:1em;"></div>因为如果以一个当前直接的东西作为开端，就是提出一个假定，或者毋宁说，哲学的开端就是一个假定。<div style="padding-bottom:1em;"></div>SS2<div style="padding-bottom:1em;"></div>这种成见将情绪和思维截然分开，认为二者彼此对立，甚至认为二者彼此敌对，以为情绪，特别宗教情绪，可以被思维所谓所玷污，被思维引入歧途，甚至可以被思维所消灭。依这种成见，宗教和宗教热忱并不植根于思维，甚至在思维中毫无位置，作这种分离的人，忘记了只有人才能够有宗教，禽兽没有宗教，也说不上有法律和道德。<div style="padding-bottom:1em;"></div>SS3<div style="padding-bottom:1em;"></div>那些坚持宗教和思维分离的人，心目中所谓思维，大约是指一种后思，亦即反思。反思以思想的本身为内容，力求思想自觉为其思想。忽视了哲学对于思维所明确划分的这种区别，以致引起对于哲学许多粗陋的误解和非难。<div style="padding-bottom:1em;"></div>P40<div style="padding-bottom:1em;"></div>我们所意识到的情绪。直观、欲望、意志等规定，一般被称为表象。所以大体上我们可以说，哲学是以思想、范畴，或更确切地说，是以概念去代替表象。<div style="padding-bottom:1em;"></div>SS6<div style="padding-bottom:1em;"></div>哲学知识的形式是属于纯思和概念的范围。<div style="padding-bottom:1em;"></div>在日常生活中，任何幻想、错误、罪恶以及一切坏东西、一切腐败幻灭的存在，尽管人们都随便把它们叫做现实。但是，甚至在平常的感觉里，也会觉得一个偶然的存在不配享受现实的美名。<div style="padding-bottom:1em;"></div>认为合理性的东西就是现实性这种说法颇与一般的观念相违反。因为一般的表象，一方面大都认理念和理想为幻想，认为哲学不过是脑中虚构的幻想体系而已；另一方面，又认理念与理想为太高尚纯洁，没有现实性，或太软弱无力，不易实现其自身。但惯于运用理智的人特别喜欢把理念与现实分离开，他们把理智的抽象作用所产生的梦想当成真实可靠，以命令式的“应当”自夸，并且尤其喜欢在政治领域中去规定“应当”。这个世界好像是在静候他们的睿智，以便向他们学习什么是应当的，但有是这个世界所未曾达到的。因为，如果这个世界已经达到了“应当如此”的程度，哪里还有他们表现其老成深虑的余地呢？<div style="padding-bottom:1em;"></div>SS8<div style="padding-bottom:1em;"></div>有两方面不能满足理性的要求：<div style="padding-bottom:1em;"></div>第一，在另一个范围内，有许多对象为经验的知识所无法把握的，这就是：自由、精神和上帝。<div style="padding-bottom:1em;"></div>第二，主观的理性，按照它的形式，总要求比经验知识所提供的更进一步的满足。<div style="padding-bottom:1em;"></div>更进一步，哲学的要求可以说是这样的：精神，作为感觉和直观，以感性事物为对象；作为想象，以形象为对象；作为意志，以目的为对象。<div style="padding-bottom:1em;"></div>第一部 逻辑学<div style="padding-bottom:1em;"></div>SS19<div style="padding-bottom:1em;"></div>逻辑学是研究纯粹理念的科学，所谓纯粹理念就是思维的最抽象的要素所形成的理念。<div style="padding-bottom:1em;"></div>P75<div style="padding-bottom:1em;"></div>SS21<div style="padding-bottom:1em;"></div>感性的东西是个别的，是变灭的；而对于其中的永久性，我们必须通过反思才能认识。<div style="padding-bottom:1em;"></div>天上的星球，今夜我们看见在这里，明夜我们看见在那里，这种不规则的情形，我们心中总觉得不敢于信赖，因为我的心灵总相信一种秩序，一种简单恒常而有普遍性的规定。<div style="padding-bottom:1em;"></div>须知普遍作为普遍并不是存在于外面的。类作为类是不能被知觉的，星球运动的规律并不是写在天上的。所以普遍是人所不见不闻，而只是对精神儿存在的。宗教指引我们达到一个普遍，这普遍广包一切，为一切其他的东西所由以产生的绝对，此绝对也不是感官的对象，而只是精神和思想的对象。<div style="padding-bottom:1em;"></div>SS22<div style="padding-bottom:1em;"></div>我们可以说唯有借助于反思作用去改造直接的东西，才能达到实体性的东西，这是一切时代共有的信念。<div style="padding-bottom:1em;"></div>在日常生活中，我们也进行反思，但并未特别意识到单凭反思即可达到的真理；我们进行思考，不顾其他，只是坚决相信思想与事情是符合的，而这种信念确是异常重要。<div style="padding-bottom:1em;"></div>任何对象，外在的自然和内心的本性，举凡一切事物，其自身的真相，必然是思维所思的那样，所以思维即在于揭示出对象的真理。哲学的任务只在于使人类自古以来所相信于思维的性质，能得到明显的自觉而已。所以，哲学并无新的发明，我们这里通过我们的反思作用所提出的说法，已经是人人所直接固有的信念。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/25968189/#comments">回应</a>&nbsp;&nbsp;
+                  2013-04-24 09:47
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="22682455">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/yobalcony/"><img src="https://img1.doubanio.com/icon/u3402005-19.jpg" alt="yobalcony" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22682455/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22682455/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/yobalcony/" class=" " title="yobalcony">yobalcony</a>
+                (2111)
+              
+            </p>
+            <div class="reading-note" data-cid="22682455">
+              <div class="short">
+                
+                  <span class="">一、极端词汇的使用、各种强化性的语式句式、夸大性的词汇：
+1、纯粹，比如纯粹思想、纯粹思维形式；P83
+2、客观思想、真理、真相、思维对客观性的各种态度、直接意识。P93
+3、朴素、信仰、反思、玄思、过去的形而上学。P95
+4、事物的基本规定……坚持思想可以认识一切存在，因而凡是思维所想的，本身就是被认识了的。P95
+5、形而上学的对象诚然是大全，如灵魂、世界、上帝，本身都是属于理性的理念。P99
+6、独断论……两个..</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/22682455/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-11-23 18:07</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一、极端词汇的使用、各种强化性的语式句式、夸大性的词汇：<div style="padding-bottom:1em;"></div>1、纯粹，比如纯粹思想、纯粹思维形式；P83<div style="padding-bottom:1em;"></div>2、客观思想、真理、真相、思维对客观性的各种态度、直接意识。P93<div style="padding-bottom:1em;"></div>3、朴素、信仰、反思、玄思、过去的形而上学。P95<div style="padding-bottom:1em;"></div>4、事物的基本规定……坚持思想可以认识一切存在，因而凡是思维所想的，本身就是被认识了的。P95<div style="padding-bottom:1em;"></div>5、形而上学的对象诚然是大全，如灵魂、世界、上帝，本身都是属于理性的理念。P99<div style="padding-bottom:1em;"></div>6、独断论……两个相反的论断之中……肯定其一必真，而另一必错。独断论的对立面是怀疑论。<div style="padding-bottom:1em;"></div>7、形而上学的第一部分是本体论，即关于本质的抽象规定的学说……第二部分是理性心理学或灵魂学……第三部分是宇宙论……第四部分是自然的或理性的神学。P103<div style="padding-bottom:1em;"></div>8、经验，就其有别于单纯的个别事实的个别知觉而言，它有两个成分。一为个别的无限杂多的材料，一为具有普遍性与必然性的规定的形式。P115<div style="padding-bottom:1em;"></div>9、旧形而上学在于将上面这些经验的规定，用思维规定或相应的范畴去代替，于是产生了下面四个新的命题：（1）灵魂是一实体；（2）灵魂是一个简单的实体；（3）灵魂在它不同时间的特定存在里，数目上是同一的；（4）灵魂和空间有关系。……第二个无条件的对象就是世界……第三个理性的对象就是上帝。上帝也是必须认识的，换言之，也是必须通过思维去规定的。P129<div style="padding-bottom:1em;"></div>10、达到思维和存在的统一，并借以实现理性的理想之另一途径，是从思维的抽象物出发，以达到明确的规定。为了达到这个目的，便只剩下存在这个概念比较合用了。这就是对于上帝存在的本体论的证明所取的途径。在这里出现的对立，便是思维与存在的对立，而在前一途径里，存在是对立的双方所共同的，其对立所在，仅在于个体化的存在与普通的存在的对立。P139<div style="padding-bottom:1em;"></div>11、逻辑学可分为三部分：1、存在论。2、本质论。3、概念论和理念论。P185<div style="padding-bottom:1em;"></div>12、存在只是潜在的概念。P187<div style="padding-bottom:1em;"></div>13、定在或限有是具有一种规定性的存在，而这种规定性，作为直接的或存在着的规定性就是质。P202
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22682455/#comments">1回应</a>&nbsp;&nbsp;
+                  2012-11-23 18:07
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28870833">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/4898627/"><img src="https://img3.doubanio.com/icon/u4898627-11.jpg" alt="cy" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28870833/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28870833/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/4898627/" class=" " title="cy">cy</a>
+              
+            </p>
+            <div class="reading-note" data-cid="28870833">
+              <div class="short">
+                
+                  <span class="">已读。</span>
+                <p class="pl">
+                  <span class="">2013-10-08 18:06</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                已读。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28870833/#comments">回应</a>&nbsp;&nbsp;
+                  2013-10-08 18:06
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28912502">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/kwikwig/"><img src="https://img1.doubanio.com/icon/u70635786-7.jpg" alt="Danyang" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28912502/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28912502/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/kwikwig/" class=" " title="Danyang">Danyang</a>
+              
+            </p>
+            <div class="reading-note" data-cid="28912502">
+              <div class="short">
+                
+                  <span class="">大邏輯：
+客觀邏輯 - 本質論 存在論
+主觀邏輯 - 概念論</span>
+                <p class="pl">
+                  <span class="">2013-10-11 15:27</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                大邏輯：<div style="padding-bottom:1em;"></div>客觀邏輯 - 本質論 存在論<div style="padding-bottom:1em;"></div>主觀邏輯 - 概念論
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28912502/#comments">回应</a>&nbsp;&nbsp;
+                  2013-10-11 15:27
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="41722802">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/156940362/"><img src="https://img3.doubanio.com/icon/u156940362-5.jpg" alt="四月的四月天" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41722802/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41722802/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/156940362/" class=" " title="四月的四月天">四月的四月天</a>
+              
+                <span class="allstar20" title="较差"></span>
+            </p>
+            <div class="reading-note" data-cid="41722802">
+              <div class="short">
+                
+                  <span class="">看不懂。 经过反思，最初在感觉、直观、表象中的内容，必有所改变，因此只有通过以反思作为中介的改变，对象的真实本性才可呈现于意识前面。</span>
+                <p class="pl">
+                  <span class="">2017-02-16 19:24</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>看不懂。</p><p></p><blockquote>经过反思，最初在感觉、直观、表象中的内容，必有所改变，因此只有通过以反思作为中介的改变，对象的真实本性才可呈现于意识前面。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41722802/#comments">回应</a>&nbsp;&nbsp;
+                  2017-02-16 19:24
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="45155120">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/1051433/"><img src="https://img3.doubanio.com/icon/u1051433-93.jpg" alt="朝霞不出门" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/45155120/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/45155120/" class="">第229页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/1051433/" class=" " title="朝霞不出门">朝霞不出门</a>
+                (自反而缩，虽千万人，吾往矣。)
+              
+            </p>
+            <div class="reading-note" data-cid="45155120">
+              <div class="short">
+                
+                  <span class="">摘哲学诗一首 Ich häufe ungeheure Zahlen, Gebirge Millionen auf, Ich setze Zeit auf Zeit Und Welt auf Welt zu Auf, Und wenn ich von der grausen Höh Mit Schwindel wieder nach Dir seh: Ist alle Macht der Zahl, Vermehrt zu tausendmal, Noch nicht ein Teil von Dir. —Albrecht von Haller, „Unvollkommenes Gedicht über die Ewigkeit“. 我们积累起庞大的数字， 一山又一山，一万又一万， 世界之上，...</span>
+                <p class="pl">
+                  <span class="">2017-06-23 01:55</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>摘哲学诗一首</p><p></p><p>Ich häufe ungeheure Zahlen, </p><p>Gebirge Millionen auf, </p><p>Ich setze Zeit auf Zeit </p><p>Und Welt auf Welt zu Auf, </p><p>Und wenn ich von der grausen Höh </p><p>Mit Schwindel wieder nach Dir seh: </p><p>Ist alle Macht der Zahl, </p><p>Vermehrt zu tausendmal, </p><p>Noch nicht ein Teil von Dir. </p><p>—Albrecht von Haller, „Unvollkommenes Gedicht über die Ewigkeit“. </p><p>我们积累起庞大的数字， </p><p>一山又一山，一万又一万， </p><p>世界之上，我堆起世界， </p><p>时间之上，我堆起时间， </p><p>当我从可怕的高峰， </p><p>仰望着你，以眩晕的眼， </p><p>所有数的乘方， </p><p>再乘以万千遍， </p><p>距你的一部分还是很远。 </p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/45155120/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-23 01:55
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="45048055">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/rollin/"><img src="https://img3.doubanio.com/icon/u1095381-6.jpg" alt="叉叉小箭猪" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/45048055/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/45048055/" class="">第58页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/rollin/" class=" " title="叉叉小箭猪">叉叉小箭猪</a>
+                (Dr. Rollin)
+              
+            </p>
+            <div class="reading-note" data-cid="45048055">
+              <div class="short">
+                
+                  <span class="">即哲学是独立自为的，因而自己创造自己的对象，自己提供自己的对象。而且哲学开端所采取的直接的观点，必须在哲学体系发挥的过程里，转变为终点，亦即成为最后的结论。</span>
+                <p class="pl">
+                  <span class="">2017-06-19 23:49</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>即哲学是独立自为的，因而自己创造自己的对象，自己提供自己的对象。而且哲学开端所采取的直接的观点，必须在哲学体系发挥的过程里，转变为终点，亦即成为最后的结论。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/45048055/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-19 23:49
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="44810136">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/rollin/"><img src="https://img3.doubanio.com/icon/u1095381-6.jpg" alt="叉叉小箭猪" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/44810136/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/44810136/" class="">第45页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/rollin/" class=" " title="叉叉小箭猪">叉叉小箭猪</a>
+                (Dr. Rollin)
+              
+            </p>
+            <div class="reading-note" data-cid="44810136">
+              <div class="short">
+                
+                  <span class="">这些科学虽被称为哲学，我们却叫做经验科学，因为它们是以经验为出发点。但是这些科学所欲达到的目标，所欲创造的主要成绩，在于求得规律，普遍命题，或一种理论，简言之，在于求得关于当前事物的思想。</span>
+                <p class="pl">
+                  <span class="">2017-06-12 15:21</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>这些科学虽被称为哲学，我们却叫做经验科学，因为它们是以经验为出发点。但是这些科学所欲达到的目标，所欲创造的主要成绩，在于求得规律，普遍命题，或一种理论，简言之，在于求得关于当前事物的思想。</p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/44810136/#comments">回应</a>&nbsp;&nbsp;
+                  2017-06-12 15:21
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="41722802">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/156940362/"><img src="https://img3.doubanio.com/icon/u156940362-5.jpg" alt="四月的四月天" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41722802/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41722802/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/156940362/" class=" " title="四月的四月天">四月的四月天</a>
+              
+                <span class="allstar20" title="较差"></span>
+            </p>
+            <div class="reading-note" data-cid="41722802">
+              <div class="short">
+                
+                  <span class="">看不懂。 经过反思，最初在感觉、直观、表象中的内容，必有所改变，因此只有通过以反思作为中介的改变，对象的真实本性才可呈现于意识前面。</span>
+                <p class="pl">
+                  <span class="">2017-02-16 19:24</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>看不懂。</p><p></p><blockquote>经过反思，最初在感觉、直观、表象中的内容，必有所改变，因此只有通过以反思作为中介的改变，对象的真实本性才可呈现于意识前面。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41722802/#comments">回应</a>&nbsp;&nbsp;
+                  2017-02-16 19:24
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1034259/annotation">更多读书笔记（共67篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1034259/discussion/52637377/" title="柯匹《逻辑要义》更适合入门！" class="">柯匹《逻辑要义》更适合入门！</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/hinabook/">后浪</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2014-09-12</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1034259/discussion/29176766/" title="这本书要静下心来读。" class="">这本书要静下心来读。</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/ireno/">Reno</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2013-01-26</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1034259/discussion/10563303/" title="精品OF催眠" class="">精品OF催眠</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/song1960/">宋歪麦</a></td>
+            <td class="pl"><span class="">3 回应</span></td>
+            <td class="pl"><span class="">2011-07-17</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1034259/discussion/10563242/" title="TRASH" class="">TRASH</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/song1960/">宋歪麦</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2008-12-07</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1034259/discussion/16879167/" title="小逻辑" class="">小逻辑</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/lukuto/">9</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2009-06-09</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/1034259/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/20077924/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1034259" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/20077924/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1034259" class="">
+          <span class="buylink-price">
+            
+            <span class="">12.00 元</span>
+          </span>
+        </a>
+      </li>
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B009TQAREA2746492/?asin=B009TQAREA&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B009TQAREA&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">12.00 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1820&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=3090&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgRSGV4SCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIRAFceXB0dS0IJRmtiV0ZBL20MXGJGTwpyJHd%252FYH81TCl1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBtSFQsTBFErXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVARUFUBxTCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=1034259&amp;type=bkbuy&amp;subject=1034259" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1820&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=3090&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEgRSGV4SCiJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQIRAFceXB0dS0IJRmtiV0ZBL20MXGJGTwpyJHd%252FYH81TCl1Dh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBtSFQsTBFErXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsVARUFUBxTCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=1034259&amp;type=bkbuy&amp;subject=1034259" class="buylink-price ">
+                      <span class="">
+                        30.90 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1820&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=3990&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1034259%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24030477&amp;cntvendor=3&amp;srcsubj=1034259&amp;type=bkbuy&amp;subject=1034259" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1820&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=3990&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1034259%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D24030477&amp;cntvendor=3&amp;srcsubj=1034259&amp;type=bkbuy&amp;subject=1034259" class="buylink-price ">
+                      <span class="">
+                        39.90 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1820&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=1820&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F3550594.htm&amp;cntvendor=3&amp;link2key=c1fae82ebd&amp;srcsubj=1034259&amp;type=bkbuy&amp;subject=1034259" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=1820&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=1820&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F3550594.htm&amp;cntvendor=3&amp;link2key=c1fae82ebd&amp;srcsubj=1034259&amp;type=bkbuy&amp;subject=1034259" class="buylink-price ">
+                      <span class="">
+                        18.20 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/1034259/buylinks">
+              &gt; 查看3家网店价格
+                (18.20 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D7-100-00558-2&amp;subject=7100005582&amp;type=borrow&amp;library=10007&amp;link2key=c1fae82ebd" target="_blank">北京市公共图书馆(3)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7100005582%26otherloc%3Dtrue&amp;subject=7100005582&amp;type=borrow&amp;library=10011&amp;link2key=c1fae82ebd" target="_blank">上海市中心图书馆(5)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D7100005582%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7100005582&amp;type=borrow&amp;library=10022&amp;link2key=c1fae82ebd" target="_blank">广州图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D9787100005582%26strSearchType%3Disbn&amp;subject=7100005582&amp;type=borrow&amp;library=10002&amp;link2key=c1fae82ebd" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fourex.lib.sjtu.edu.cn%2Fprimo_library%2Flibweb%2Faction%2Fsearch.do%3Ffn%3Dsearch%26vl%28freeText0%29%3D7-100-00558-2&amp;subject=7100005582&amp;type=borrow&amp;library=10006&amp;link2key=c1fae82ebd" target="_blank">上海交通大学图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1009728">全部13</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1918328/">商务印书馆版</a>
+          1981 / 292人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/3986188/">世纪文景 上海人民出版社版</a>
+          2009-8 / 156人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1769823/">重庆出版社版</a>
+          2006-4 / 136人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1472294/">人民出版社版</a>
+          2002年12月1-1 / 102人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1034259/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/201409/" target="_blank">你们懂的01</a>
+                <span class="pl">(浮云)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/176014/" target="_blank">｜五颗星经典系列｜图书｜非小说类｜</a>
+                <span class="pl">(蜜蜂)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/76469/" target="_blank">哲学专业本科基本阅读书目</a>
+                <span class="pl">(大理寺卿)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/34263/" target="_blank">我的书目-哲学部分（译著）</a>
+                <span class="pl">(忆未名)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1432212/" target="_blank">100位文化名人推荐100本好书</a>
+                <span class="pl">(松岛)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/160639220/"><img src="https://img3.doubanio.com/icon/u160639220-1.jpg" class="pil" alt="XXXPPP" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/160639220/">XXXPPP</a><br/>
+      <div class="pl ll">          昨天          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:哲学 逻辑学 德国古典哲学</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/148956144/"><img src="https://img3.doubanio.com/icon/u148956144-1.jpg" class="pil" alt="空悟了" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/148956144/">空悟了</a><br/>
+      <div class="pl ll">          6月25日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/54522839/"><img src="https://img3.doubanio.com/icon/u54522839-1.jpg" class="pil" alt="不需往后看" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/54522839/">不需往后看</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1034259/doings">1245人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1034259/collections">2781人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1034259/wishes">7611人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有7611人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于小逻辑的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1034259/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'sKULDX1njcI',
+            criteria = '7:哲学|7:黑格尔|7:小逻辑|7:逻辑学|7:德国|7:西方哲学|7:逻辑|7:经典|7:形而上学|7:汉译名著|3:/subject/1034259/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar7c-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

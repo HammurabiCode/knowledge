@@ -1,0 +1,3336 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>程序员修炼之道 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1152111/">
+<meta name="keywords" content="程序员修炼之道,Andrew Hunt,David Thomas,电子工业出版社,2005-1,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书程序员修炼之道 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1152111/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/679e86fb2152913.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">程序员修炼之道</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s3957863.jpg" title="程序员修炼之道">
+    <img src="https://img3.doubanio.com/lpic/s3957863.jpg" title="点击看大图" alt="程序员修炼之道"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/Andrew%20Hunt">Andrew Hunt</a>
+        
+           /
+        
+        <a class="" href="/search/David%20Thomas">David Thomas</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 电子工业出版社<br/>
+
+    
+    
+  
+    <span class="pl">副标题:</span> 从小工到专家<br/>
+
+    
+    
+  
+    <span class="pl">原作名:</span> The Pragmatic Programmer<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E9%A9%AC%E7%BB%B4%E8%BE%BE">马维达</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2005-1<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 333<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 48.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787505397194<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.6 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">2052</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">45.9%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:57px"></div>
+
+            <span class="rating_per">41.3%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:16px"></div>
+
+            <span class="rating_per">11.7%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.7%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.3%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1152111-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1152111-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1152111-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1152111-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1152111-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1152111-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1152111-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1152111-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1152111">
+        <a href="#" data-url="https://book.douban.com/subject/1152111/" data-desc="" data-title="书籍《程序员修炼之道》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s3957863.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1152111"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>《程序员修炼之道》由一系列的独立的部分组成，涵盖的主题从个人责任、职业发展，直到用于使代码保持灵活、并且易于改编和复用的各种架构技术。利用许多富有娱乐性的奇闻轶事、有思想性的例子以及有趣的类比，全面阐释了软件开发的许多不同方面的最佳实践和重大陷阱。无论你是初学者，是有经验的程序员，还是软件项目经理，本书都适合你阅读。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1152111/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1152111_short">
+        译序<br/>
+        前言 <br/>
+        序<br/>
+        第1章 注重实效的哲学<br/>
+        第2章 注重实效的途径<br/>
+        第3章 基本工具<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1152111_short').hide();$('#dir_1152111_full').show();$.get('/j/subject/j_dir_count',{id:1152111});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1152111_full" style="display:none">
+        译序<br/>
+        前言 <br/>
+        序<br/>
+        第1章 注重实效的哲学<br/>
+        第2章 注重实效的途径<br/>
+        第3章 基本工具<br/>
+        第4章 注重实效的偏执<br/>
+        第5章 弯曲，或折断<br/>
+        第6章 当你编码时<br/>
+        第7章 在项目开始之前<br/>
+        第8章 注重实效的项目<br/>
+        附录A 资源<br/>
+        附录B 练习解答 <br/>
+        索引<br/>
+        注重实效的程序员之快速参考指南<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1152111_full').hide();$('#dir_1152111_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共561个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/软件开发">软件开发</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/编程">编程</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/程序员">程序员</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/程序员修炼之道">程序员修炼之道</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/计算机">计算机</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/软件工程">软件工程</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/程序人生">程序人生</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/programming">programming</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;程序员修炼之道&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/387525/?dcs=subject-rec&amp;dcm=douban&amp;dct=1152111" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/387525.jpg?v=1395395731.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/387525/" target="_blank">黑客与画家</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1885884/?dcs=subject-rec&amp;dcm=douban&amp;dct=1152111" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1885884.jpg?v=1395394151.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1885884/" target="_blank">程序员的思维修炼</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/379531/?dcs=subject-rec&amp;dcm=douban&amp;dct=1152111" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/379531.jpg?v=1395395858.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/379531/" target="_blank">高效程序员的45个习惯</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/198648/?dcs=subject-rec&amp;dcm=douban&amp;dct=1152111" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/198648.jpg?v=1395393782.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/198648/" target="_blank">CoffeeScript小书</a>
+          </div>
+          <div class="price">
+              1.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/500486/?dcs=subject-rec&amp;dcm=douban&amp;dct=1152111" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/500486.jpg?v=1395393506.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/500486/" target="_blank">打造Facebook</a>
+          </div>
+          <div class="price">
+              15.00元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;程序员修炼之道&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1477390/" onclick="moreurl(this, {'total': 10, 'clicked': '1477390', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1495029.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1477390/" onclick="moreurl(this, {'total': 10, 'clicked': '1477390', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            代码大全（第2版）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1467587/" onclick="moreurl(this, {'total': 10, 'clicked': '1467587', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1631790.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1467587/" onclick="moreurl(this, {'total': 10, 'clicked': '1467587', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            UNIX编程艺术
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1229923/" onclick="moreurl(this, {'total': 10, 'clicked': '1229923', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1669771.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1229923/" onclick="moreurl(this, {'total': 10, 'clicked': '1229923', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            重构
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1052241/" onclick="moreurl(this, {'total': 10, 'clicked': '1052241', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1074361.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1052241/" onclick="moreurl(this, {'total': 10, 'clicked': '1052241', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            设计模式
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4163938/" onclick="moreurl(this, {'total': 10, 'clicked': '4163938', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6103451.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4163938/" onclick="moreurl(this, {'total': 10, 'clicked': '4163938', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            软件随想录
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/3558788/" onclick="moreurl(this, {'total': 10, 'clicked': '3558788', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s3668809.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/3558788/" onclick="moreurl(this, {'total': 10, 'clicked': '3558788', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            卓有成效的程序员
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1102259/" onclick="moreurl(this, {'total': 10, 'clicked': '1102259', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1086045.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1102259/" onclick="moreurl(this, {'total': 10, 'clicked': '1102259', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            人月神话
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1140457/" onclick="moreurl(this, {'total': 10, 'clicked': '1140457', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1671095.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1140457/" onclick="moreurl(this, {'total': 10, 'clicked': '1140457', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            敏捷软件开发
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1148282/" onclick="moreurl(this, {'total': 10, 'clicked': '1148282', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1113106.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1148282/" onclick="moreurl(this, {'total': 10, 'clicked': '1148282', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            计算机程序的构造和解释
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1230413/" onclick="moreurl(this, {'total': 10, 'clicked': '1230413', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1470003.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1230413/" onclick="moreurl(this, {'total': 10, 'clicked': '1230413', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            深入理解计算机系统
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1152111/comments/">全部 430 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="119532672">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-119532672" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-119532672" class="j a_show_login" data-cid="119532672">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/yeka52/">叶卡</a>
+                    <span>2009-05-09</span>
+                </span>
+            </h3>
+            <p class="comment-content">2004十大IT好书，博文视点典藏系列。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="529319800">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-529319800" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-529319800" class="j a_show_login" data-cid="529319800">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/lemonhall2012/">[已注销]</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2012-05-08</span>
+                </span>
+            </h3>
+            <p class="comment-content">个人更喜欢这本...DSL和PERL很多</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="545213331">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-545213331" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-545213331" class="j a_show_login" data-cid="545213331">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/Thomas.Xie/">蝉</a>
+                    <span>2014-01-10</span>
+                </span>
+            </h3>
+            <p class="comment-content">: 	
+TP311.11/0225</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="994477814">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-994477814" class="vote-count">2</span>
+                        <a href="javascript:;" id="btn-994477814" class="j a_show_login" data-cid="994477814">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/jinkai719/">阅微草堂</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-01-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">从业者团队化和产品角度思考整体问题。附录有完整的思考指南和贴士</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="641567552">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-641567552" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-641567552" class="j a_show_login" data-cid="641567552">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/parala/">feiandxs</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2014-11-15</span>
+                </span>
+            </h3>
+            <p class="comment-content">4.5</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1204401865">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1204401865" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1204401865" class="j a_show_login" data-cid="1204401865">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/162408378/">‭Grace Lee</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-18</span>
+                </span>
+            </h3>
+            <p class="comment-content">前段时间看的，书中讲的许多原则都很实用，在两年来的开发经验中会找到感受点</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1192327390">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1192327390" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1192327390" class="j a_show_login" data-cid="1192327390">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/62923871/">Cyang</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2017-05-20</span>
+                </span>
+            </h3>
+            <p class="comment-content">“我的源码让猫给吃了”全书最有趣的一句话。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1187405462">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1187405462" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1187405462" class="j a_show_login" data-cid="1187405462">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/44190318/">绿草如茵</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-07</span>
+                </span>
+            </h3>
+            <p class="comment-content">真的是程序员修炼之道，非程序员的读不懂书中的源代码。对于书本来说，有些点是非程序员也是通用的，但是针对程序部分，这个就是非常专业性的东西了，读的有点难明白。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1160329088">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1160329088" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1160329088" class="j a_show_login" data-cid="1160329088">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/143745099/">云梦</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-03-04</span>
+                </span>
+            </h3>
+            <p class="comment-content">虽然有一些看不懂，但是那些看懂的部分已经让我收获很大！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1155797402">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1155797402" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1155797402" class="j a_show_login" data-cid="1155797402">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/renzongxian/">人总闲</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-02-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">写过一定代码，参与了一些项目后，对这本书中提到的内容会更有感触。理解这些思想是一回事，能不能做到又是另一回事了。
+ps.《Scala与Clojure函数式编程模式》的作者提到过这本书</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1152111/comments/">更多短评 430 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1152111/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            程序员修炼之道的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 115 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3030002">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3030002/" class="title-link">程序员自我提升阶段的首选书籍</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3030002"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/figure9/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u3707498-8.jpg"></a>
+    <a href="https://www.douban.com/people/figure9/" class="author">
+      <span property="v:reviewer">figure9</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2010-03-02"
+      class="main-meta">2010-03-02 21:54:53</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3030002_short" class="review-short">
+            <div class="short-content">
+                   其实两年之前（那是我还在上大三）就曾在书店里看到这本书，当时可能是被书名所蛊惑吧，看到&#34;修炼之道&#34;这四个字就感觉这本书书名太唬，拿起来翻了翻也没看到什么有关&#34;修炼&#34;的实质内容，于是就将它搁置了。  两年的时间里，实习和工作让我积攒起了一定的代码量和项目经验，同时...
+
+                    <a class="pl" href="https://book.douban.com/review/3030002/#comments">(29回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">189有用 / 1没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3030002_full" class="hidden">
+            <div id="review_3030002_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="2741775">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/2741775/" class="title-link">花了两天读了，写下了一些笔记与感想，贴出来和...</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-2741775"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/JeaoMachine/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u19191439-4.jpg"></a>
+    <a href="https://www.douban.com/people/JeaoMachine/" class="author">
+      <span property="v:reviewer">Jeao&amp;Leon</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2009-11-12"
+      class="main-meta">2009-11-12 19:35:33</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_2741775_short" class="review-short">
+            <div class="short-content">
+                  <p class="main-title-tip">
+                    这篇书评可能有关键情节透露
+                  </p>
+                  <div class="toggle_review">
+                    &gt;&nbsp;                    <a href="javascript:;" id="toggle-2741775-copy" class="unfold j" title="展开全文">                      没关系，可以显示全文                    </a>
+                  </div>
+            </div>
+          </div>
+          <div id="review_2741775_full" class="hidden">
+            <div id="review_2741775_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1579445">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1579445/" class="title-link">程序员基本素质的培养</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1579445"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/belltoy/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u2784650-13.jpg"></a>
+    <a href="https://www.douban.com/people/belltoy/" class="author">
+      <span property="v:reviewer">belltoy</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2008-12-09"
+      class="main-meta">2008-12-09 20:43:07</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1579445_short" class="review-short">
+            <div class="short-content">
+                  如果自己开公司给员工培训的话，朋友的观点是要给程序员培训算法。 我认为第一个要讲的就是这本书的内容，第二个就是时间管理。其实在程序员修炼之道里，就有很多关于时间管理的内容，它们是相互补充的。比如程序员的美德——懒惰，就是要提高效率，就是要节约时间。 为什么不...
+
+                    <a class="pl" href="https://book.douban.com/review/1579445/#comments">(12回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">29有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1579445_full" class="hidden">
+            <div id="review_1579445_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="2807502">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/2807502/" class="title-link">菜鸟的指南针</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-2807502"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/liqiang427/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u4308416-2.jpg"></a>
+    <a href="https://www.douban.com/people/liqiang427/" class="author">
+      <span property="v:reviewer">伸手向左走</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2009-11-30"
+      class="main-meta">2009-11-30 16:21:46</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_2807502_short" class="review-short">
+            <div class="short-content">
+                  很久以前买的这本书，忘记在哪里看到这部书的推荐了，有大牛很卖力的推荐，于是去买了一本。  坦白讲，那个时候自己是完完全全的菜鸟，从大学里出来，除了会编程啥也不懂，这本书在当时真的是指路明灯。  书中的道理很浅显，可是对于菜鸟却是至理名言。基本为你勾勒了一个成熟...
+
+                    <a class="pl" href="https://book.douban.com/review/2807502/#comments">(3回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">27有用 / 5没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_2807502_full" class="hidden">
+            <div id="review_2807502_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="2812334">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/2812334/" class="title-link">做项目修炼之道</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-2812334"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/pixel_32/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/pixel_32/" class="author">
+      <span property="v:reviewer">[已注销]</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2009-12-02"
+      class="main-meta">2009-12-02 09:35:16</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_2812334_short" class="review-short">
+            <div class="short-content">
+                  都说这书很好，机缘巧合我跟利未借了这本书。 我想从这本书找找有没有适合美术的修炼之道。 读的过程中，我发现的确有，而且老外归纳总结的很有条理。 分享如下：  关于个人的修炼  1、保持技术直觉，喜爱尝试并接受新事物 2、保持好奇心，喜欢提问 3、批判的思考者，不要盲从 ...
+
+                    <a class="pl" href="https://book.douban.com/review/2812334/#comments">(2回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">9有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_2812334_full" class="hidden">
+            <div id="review_2812334_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评115篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1152111/annotation">共<span property="v:count">89</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="16908975">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/suave/"><img src="https://img3.doubanio.com/icon/u1101594-6.jpg" alt="Suave" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16908975/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16908975/" class="">全书笔记</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/suave/" class=" " title="Suave">Suave</a>
+                (trust instinct, be visionary)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="16908975">
+              <div class="short">
+                
+                  <span class="">不要容忍破窗户（低劣的设计，错误的决策，或是糟糕的代码）不修，发现一个就修一个，置之不理会加速腐烂的进程。
+
+Remember the big picture.要持续不断的观察周围发生的事，而不是你自己在做的事。
+
+编程就像绘画，要知道何时止步，不然绘画就会迷失在绘制中。
+
+如果把知识看做资产，管理知识资产就和管理金融资产一样：
+1. 严肃的投资者一定定期投资
+2. 多元化是长期成功的关键
+3. 聪明的投资者在保守的投资和高风险、...</span>
+                <p class="pl">
+                  <span class="">2012-02-23 22:56</span>
+                  
+                    &nbsp;&nbsp;<span class="">9人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                不要容忍破窗户（低劣的设计，错误的决策，或是糟糕的代码）不修，发现一个就修一个，置之不理会加速腐烂的进程。<div style="padding-bottom:1em;"></div>Remember the big picture.要持续不断的观察周围发生的事，而不是你自己在做的事。<div style="padding-bottom:1em;"></div>编程就像绘画，要知道何时止步，不然绘画就会迷失在绘制中。<div style="padding-bottom:1em;"></div>如果把知识看做资产，管理知识资产就和管理金融资产一样：<div style="padding-bottom:1em;"></div>1. 严肃的投资者一定定期投资<div style="padding-bottom:1em;"></div>2. 多元化是长期成功的关键<div style="padding-bottom:1em;"></div>3. 聪明的投资者在保守的投资和高风险、高回报的投资之间平衡资产<div style="padding-bottom:1em;"></div>4. 投资者设法低买高卖，取得最大回报<div style="padding-bottom:1em;"></div>5. 应周期性的重新评估和平衡资产<div style="padding-bottom:1em;"></div>DRY：不要在系统中对知识进行重复<div style="padding-bottom:1em;"></div>正交性：不要把任何一项知识分散在系统各处<div style="padding-bottom:1em;"></div><blockquote><q>要把低级的知识放在代码中，把注释留给高级的知识。</q></blockquote><div style="padding-bottom:1em;"></div>关于正交性：<div style="padding-bottom:1em;"></div>如果两个或多个事物中的一个发生变化，不会影响到其他事物，这些实物就是正交的。必须要消除无关事物之间的影响。正交还能促进复用，组件如果有具体、良好的定义的责任，就易于与新组件组合在一起，且得到的结果往往不是M+N，而是M×N。<div style="padding-bottom:1em;"></div>原型制作是一种学习经验，其价值并不在于所产生的代码，而在于所学到的经验教训<div style="padding-bottom:1em;"></div><blockquote><q>早崩溃</q></blockquote>
+让错误尽可能在源头暴露，越晚发现越难解决<div style="padding-bottom:1em;"></div>代码中的 assert 只能用于检查“决不该发生的事”<div style="padding-bottom:1em;"></div>Heisenbug: 调式改变了被调试系统的行为<div style="padding-bottom:1em;"></div>编写“羞怯”的代码是有益的，方式有两种：不向别人暴露自己，不与太多人打交道<div style="padding-bottom:1em;"></div><blockquote><q>不要做历史的奴隶，不要让已有的代码支配将来的代码，如果不再适用，所有的代码都可被替换</q></blockquote><div style="padding-bottom:1em;"></div>怎样进行重构？Martin Flower给出了以下简单提示：
+<blockquote><q>
+1. 不要试图在重构的同时增加功能
+2. 在开始重构之前，确保你拥有良好的测试。尽可能进场运行这些测试。这样，如果你的改动破坏了任何东西，你就能很快知道
+3. 采取短小、深思熟虑的步骤。如果你的步骤保持短小，并在每个步骤之后进行测试，你将能够避免长时间的调试
+</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>完美，不是在没有什么需要增加，而是在没有什么需要去掉时达到的</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>需求不是架构，需求不是设计，也不是用户界面，需求是需要</q></blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16908975/#comments">回应</a>&nbsp;&nbsp;
+                  2012-02-23 22:56
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28856459">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/czshens/"><img src="https://img3.doubanio.com/icon/u6240148-2.jpg" alt="慎思" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28856459/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28856459/" class="">注重实效的途径</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/czshens/" class=" " title="慎思">慎思</a>
+                (只读经典需要充足经历的支撑)
+              
+            </p>
+            <div class="reading-note" data-cid="28856459">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/28856459/"><img src="https://img3.doubanio.com/view/page_note/small/public/p28856459-1.jpg"></a>
+                  </div>
+                  <span class="">一、重复的危害。DRY原则：Don‘t Repeat Yourself.
+
+这个原则的释义应为：系统中的每一项知识都必须具有单一、无歧义、权威的表示。
+每一个对象、属性都要有其唯一性，这是安全的要求。但远远不是这样，这是一种理想的状态，真正做到非常困难，特别是在时间有限、产品多变、要求敏捷、快速迭代的要求下。
+
+重复的种类有：
+
+1、强加的重复：
+
+作者列举了几种产生这种重复的可能性：
+
+1）信息的多种表达（注：跨平台、跨...</span>
+                <p class="pl">
+                  <span class="">2013-10-07 16:50</span>
+                  
+                    &nbsp;&nbsp;<span class="">1人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                一、重复的危害。DRY原则：<blockquote><q>Don‘t Repeat Yourself.</q></blockquote><div style="padding-bottom:1em;"></div>这个原则的释义应为：<blockquote><q>系统中的每一项知识都必须具有单一、无歧义、权威的表示。</q></blockquote>
+每一个对象、属性都要有其唯一性，这是安全的要求。但远远不是这样，这是一种理想的状态，真正做到非常困难，特别是在时间有限、产品多变、要求敏捷、快速迭代的要求下。<div style="padding-bottom:1em;"></div>重复的种类有：<div style="padding-bottom:1em;"></div>1、强加的重复：<div style="padding-bottom:1em;"></div>作者列举了几种产生这种重复的可能性：<div style="padding-bottom:1em;"></div><blockquote><q>1）信息的多种表达（注：跨平台、跨语言等问题）
+2）代码中的文档（注：注释与代码不同步）
+3）文档与代码（注：独立的文档未能更新）
+4）语言问题（注：不同语言）
+</q></blockquote><div style="padding-bottom:1em;"></div>总的来说是机制问题，我们尽量把机制的设计朝适合具体项目情况、减少重复上来。像信息的多种表达的问题，就需要有原数据、原规则、转换器，来保证多种表达之间的一致性。比如多平台之间不得不做重复的实现，但这不可避免，只能尽量共用基础类库减少多余的、可能产生歧义的内容。<div style="padding-bottom:1em;"></div>2、无意的重复：<div style="padding-bottom:1em;"></div>作者举了一个例子，一个类输出几个变量值，而值间有依赖计算关系，如果直接把这个几变量值输出，就是可能产生歧义的地方。最好的办法是提取出来原子数据，剩下的变量值通过公式动态由原子数据计算返回。<div style="padding-bottom:1em;"></div>3、无耐性的重复：<div style="padding-bottom:1em;"></div>这里显然就在说copy代码了，这对所有程序员都是一个很重的考验，在感觉有copy对象的时候如何去做到不copy，抑或是copy了不出错？最好的办法只能是告诉自己为了避免以后无休止的产生并不得不中断手头的工作去补现在copy代码带来的坑，现在尽量不要copy，即使要，也不如把原来一码一行一行copy，以确保自己知道这每一行确实是需要copy并且没有错误的（我的建议）。<div style="padding-bottom:1em;"></div>4、开发者之间的重复<div style="padding-bottom:1em;"></div>这就是是传说中的重复造轮子，可这个问题太难解决，只能提倡多参与、使用开源项目的代码，多交流。同时，多使用框架，多让代码模块化。<div style="padding-bottom:1em;"></div>二、正交性<div style="padding-bottom:1em;"></div>这个问题说白了就是“解耦合”、“模块化”、“组件化”，作者认为这样做的好友有：
+<blockquote><q>
+1）提高生产率
+2）降低风险
+</q></blockquote>
+具体到编码层面，作者给出的建议是：<div style="padding-bottom:1em;"></div><blockquote><q>“让你的代码保持解耦”、“避免使用全局数据”、“避免编写相似的函数”
+</q></blockquote>
+另外，在设计、测试、文档、选择工具库方面也要注意这种正交性，在此不赘述。<div style="padding-bottom:1em;"></div>三、可撤消性<div style="padding-bottom:1em;"></div>1、<blockquote><q>“如果某个想法是你惟一的想法，再没有什么比这更危险的事情了。”</q></blockquote>
+2、<blockquote><q>不存在最终决策</q></blockquote>
+3、做灵活的架构，无论你使用的是何种机制，让它可撤消，如果某样东西是自动添加的，它也可以自动去掉。没有人知道未来会怎么样，尤其是我们！所以要让代码学代摇滚，可以摇就摇，必须滚就滚。——也就是说，不要理那些看不见的，做你现在知道的，做得更灵活可变，并且随时准备着修改。<div style="padding-bottom:1em;"></div>四、曳光弹（Tracer Bullet）<div style="padding-bottom:1em;"></div>曳光弹用于在发射子弹时作为尝试，发射时带有光尾，如果它击中目标，则后面通过同样的角度、发射条件的子弹就可以跟着它去击中目标了。<div style="padding-bottom:1em;"></div>做一个新的需求不甚确定的项目，可以用这种方式，开发一份曳光代码，实现在目标共同的条件环境，如果它检验合格，再在它的基础上进行丰富，直到完成。<div style="padding-bottom:1em;"></div>它的优点：
+<blockquote><q>1）用户能够及早看到能工作的东西
+2）开发者构建了一个他们能在其中工作的结构
+3）你有了一个集成的平台（注：用于调试和测试）
+4）你有了可用于演示的东西
+5）你更能感觉到工作进展
+</q></blockquote><div style="padding-bottom:1em;"></div>注意事项：<div style="padding-bottom:1em;"></div>1）曳光弹并非总能击中目标<div style="padding-bottom:1em;"></div>2）曳光代码 vs 原型制作（注：原型用完就扔掉，可能用其他的快捷的方式、语言等去实现，比如GUI，而曳光代码需求考虑更多的实际条件，而且最终它会成为结果的骨干部分。所以原型制作可以看作”发射曳光弹之前的侦察和情报收集工作“）<div style="padding-bottom:1em;"></div>五、原型与便笺<div style="padding-bottom:1em;"></div><blockquote><q>为了分析和揭示风险，并以大大降低的代价，为修正提供机会，与轿车制造商一样，我们可以把原型用于测试项目的一个或多个具体方面。</q></blockquote><div style="padding-bottom:1em;"></div>”为了学习而制作原型“
+<blockquote><q>可以为以下事物制造原型：
+1）架构
+2）已有系统中的新功能
+3）外部数据的结构或内容
+4)第三方工具或组件
+5)性能问题
+6)用户界面设计
+
+原型制作是一种学习经验，其价值并不在于所产生的代码，而在于所学到的经验教训，那才是原型制作的要点所在。</q></blockquote><div style="padding-bottom:1em;"></div>可以忽略的细节有：
+<blockquote><q>1）正确性
+2）完整性
+3）健壮性
+4）风格</q></blockquote><div style="padding-bottom:1em;"></div>制造原型必须要放弃细节，但<blockquote><q>如果你发现自己处在不能放弃细节的环境，就需要问自己是否真的在构建原型，或许曳光开发方式更适合这种情况</q></blockquote><div style="padding-bottom:1em;"></div>所以在制作原型之前要确保每个人都能理解这是原型，而不是最终结果，这些代码用完就扔，不完整并且不可能完整。<div style="padding-bottom:1em;"></div>六、领域语言<div style="padding-bottom:1em;"></div><blockquote><q>”语言的界限就是一个人的世界的界限“</q></blockquote>，这里说的是语言在沟通、认知中的重要性。具体到本节书写的目的，就指的是在具体领域写具体领域专用的语言了。<div style="padding-bottom:1em;"></div><blockquote><q>设法使用应用领域的语汇来编写代码，在某些情况下，我们可以更进一层，采用领域的语汇、语法、语义——语言——实际进行编程。</q></blockquote><div style="padding-bottom:1em;"></div>这里指在需要的情况下，实现当前领域专用的小型语言，当然这需要编写专用的编译器，使用专用的文法；也可以扩展已有的语言，在这种方法上，实际上形成专用的类库；更简单的一种，用SQL、网页、XML等动态的数据形式来存储和传递动态数据，或者用指定命令作为输入，而其他的内容用固定的已有语言普通实现，然后使两者结合，所谓嵌入。<div style="padding-bottom:1em;"></div>做这件事最重要的应该是权衡清楚易开发性和易维护性两者。<div style="padding-bottom:1em;"></div>七、估算<div style="padding-bottom:1em;"></div>通过学习估算，你可以在接受需求时，直觉地知道它是否实际可行，在实现时，能够知道哪些子部分需要优化，哪些可以放在一边。从而避免了意外的发生。<div style="padding-bottom:1em;"></div>    1、估算首先要知道多准确才足够准确，需要知道对方需要的信息的目的和尺度。<div style="padding-bottom:1em;"></div>    2、你使用的单位会对别人对结果的角度造成影响。因为单位意味着不同级别的精度。因此，作者推荐的度量估算单位为（其他级别的单位选择也可以参考这种方式）：
+<div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p28856459-1.jpg" alt=""><br><span class="pic-title"></span></div>
+    3、估算的关键还是在于系统建模，建模的步骤为：1）请教做过类似事情的人；2）理解提问内容；3）建立系统模型。<div style="padding-bottom:1em;"></div>    4、建模是用模型的简单性来和精确性做交易，所以要认可不精确性的存在。<div style="padding-bottom:1em;"></div>    5、建模时可能还能发现关键节点的存在。这些节点存在底层模式与过程，当选择去除这些节点，你可能可以用比较小的某些特性的牺牲换来更多其他方面的收获，比如时间、成本的降低或效率、性能的提升。<div style="padding-bottom:1em;"></div>    6、建立了模型之后，可以把模型分解为不同的组件，组件的关键变量在于某些参数，之后需要做的就是确定每个参数了。在为参数逐一指定数值时，需要考虑哪些参数是倍数增长、减少，哪些参数会引起的只是少量加减。重视关键参数，从而提高估算的精确度。在得到所有参数之后，计算答案，并选择合适的单位和精度，给出一个合适的答案。<div style="padding-bottom:1em;"></div>    7、在得到答案时，可以答案是奇怪的，这里要排除几个嫌疑：计算错误、模型错误、问题理解错误。<div style="padding-bottom:1em;"></div>    8、<blockquote><q>“追踪你的估算能力”</q></blockquote>。特别是当估算错误之后，不要一笑而过，检查、反思，看看模型错在哪，或者是其他原因。这样你的下一次估算会更准确的。作者建议，从现在开始写估算日志，追踪每一次的精确程度，找到自己的估算瓶颈。<div style="padding-bottom:1em;"></div>    9、面临较大项目进度的估算，普通的方法常常会失效，除非在相同项目上有过经验，否则这是一个悖论。特别是当你实行增量开发、重复：检查需求、分析风险、设计+实现+集成、向用户确认，这样的步骤，一开始因为团队、技术要求、项目要求等等不同，你只能猜想，但在经过一轮迭代之后，基于经验，可以逐渐提炼优化原来对迭代次数、迭代所做内容的猜想，一次比一次好，对进度表的信心也将随之增长。这就是所谓“通过代码对进度表进行迭代”。<div style="padding-bottom:1em;"></div>    10、在被要求进行估算时，可以说<blockquote><q>“我等会再回答你”</q></blockquote>。利用这个时间，像前面所说一样，做一次检查和评估，再给出答案，将会是一个比较令人满意的结果。<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28856459/#comments">回应</a>&nbsp;&nbsp;
+                  2013-10-07 16:50
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="14451343">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/wheatdata/"><img src="https://img3.doubanio.com/icon/u43668717-2.jpg" alt="知其白守黑" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/14451343/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/14451343/" class="">全书</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/wheatdata/" class=" " title="知其白守黑">知其白守黑</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="14451343">
+              <div class="short">
+                
+                  <span class="">不要容忍破窗户（低劣的设计，错误决策或是糟糕的代码）：
+
+一个不修，会越来越多，迅速恶化。
+
+如果没有人处理项目的所有垃圾，找一个大型垃圾桶处理掉。不要遗留下来
+
+当你容忍项目中已存在的垃圾时，会是的自己也不断创造垃圾
+
+当项目中都是漂亮的代码时，你也会想法设法保持优雅
+
+即使暂时无法处理修补垃圾代码，也要把垃圾分离出去，使成为一个独立的附属，随时可以修补和去除
+
+
+
+知道何时停止：
+
+不可能存在...</span>
+                <p class="pl">
+                  <span class="">2011-09-09 15:05</span>
+                  
+                    &nbsp;&nbsp;<span class="">6人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                不要容忍破窗户（低劣的设计，错误决策或是糟糕的代码）：<div style="padding-bottom:1em;"></div>一个不修，会越来越多，迅速恶化。<div style="padding-bottom:1em;"></div>如果没有人处理项目的所有垃圾，找一个大型垃圾桶处理掉。不要遗留下来<div style="padding-bottom:1em;"></div>当你容忍项目中已存在的垃圾时，会是的自己也不断创造垃圾<div style="padding-bottom:1em;"></div>当项目中都是漂亮的代码时，你也会想法设法保持优雅<div style="padding-bottom:1em;"></div>即使暂时无法处理修补垃圾代码，也要把垃圾分离出去，使成为一个独立的附属，随时可以修补和去除<div style="padding-bottom:1em;"></div>知道何时停止：<div style="padding-bottom:1em;"></div>不可能存在完美的代码，完美的功能。<div style="padding-bottom:1em;"></div>知道下一步改进所带来的麻烦和改进是否合算<div style="padding-bottom:1em;"></div>学习新的知识：<div style="padding-bottom:1em;"></div>定期学习：即使学习量很小<div style="padding-bottom:1em;"></div>多元化：需要知道目前所用的特定技术的各种特性，掌握的技术越多，就越能更好的调整<div style="padding-bottom:1em;"></div>管理风险：不要把所有的技术放在同一个领域<div style="padding-bottom:1em;"></div>领先一步：在知识得到大规模肯定和应用之前学习它可能会得到高额回报，而不是总在追随流行的知识，类似于股票<div style="padding-bottom:1em;"></div>重新评估和平衡：或许上个月的热门技术已经冰冷，需要重温很久没用的某项知识，<div style="padding-bottom:1em;"></div>建议：<div style="padding-bottom:1em;"></div>每年至少学习一种新语言<div style="padding-bottom:1em;"></div>每季度阅读一本技术书籍<div style="padding-bottom:1em;"></div>也要阅读非技术书籍<div style="padding-bottom:1em;"></div>上课：培训等<div style="padding-bottom:1em;"></div>参加本地用户组织<div style="padding-bottom:1em;"></div>实验不同的环境<div style="padding-bottom:1em;"></div>跟上潮流<div style="padding-bottom:1em;"></div>持续投入：如果熟悉了某种新语言，继续前进<div style="padding-bottom:1em;"></div>不要重复你自己：<div style="padding-bottom:1em;"></div>软件中的每一项知识都必须单一,无歧义，权威的表示<div style="padding-bottom:1em;"></div>使修改时只用修改一处，永远不要期望自己记得与此项关联的其他项，保证只需要修改一处<div style="padding-bottom:1em;"></div>正交性：<div style="padding-bottom:1em;"></div>系统功能不相互依赖，保持良好的隔离性，使更好的复用，测试，结合<div style="padding-bottom:1em;"></div>可撤销性：<div style="padding-bottom:1em;"></div>应该允许突然的变动。如数据库系统，商业逻辑<div style="padding-bottom:1em;"></div>但随着项目的进展，一个个关键决策的作出，越来越难作出重大改变<div style="padding-bottom:1em;"></div>构建原型：<div style="padding-bottom:1em;"></div>使用高级的语言实现原型，推迟考虑许多细节，忽略完整性，可以使用虚设的数据，不使用文档和注释<div style="padding-bottom:1em;"></div>迅速产生一个演示，方便的进行展示，提供样本以修改，测试<div style="padding-bottom:1em;"></div>提供犯错误的机会，可以为不必要的开发做好准备<div style="padding-bottom:1em;"></div>在调试时小心“近视”:<div style="padding-bottom:1em;"></div>要抵制只修正你看到的症状的急迫愿望：有可能实际的故障就在旁边。<div style="padding-bottom:1em;"></div>要小心的改正每个错误，比编码更谨慎的态度去。因为错误的改正bug会导致真正bug更深次的隐藏<div style="padding-bottom:1em;"></div>代码生成：<div style="padding-bottom:1em;"></div>可用来解决“不要重复你自己”问题，不用复制粘贴代码，而采用一个源文件生成代码的方式来进行，永远保持生成代码<div style="padding-bottom:1em;"></div>通过合约进行设计：<div style="padding-bottom:1em;"></div>对前条件严格，传递好数据是调用者的责任。而允诺返回的东西要尽可能少。<div style="padding-bottom:1em;"></div>早崩溃，对于一个错误的参数，要直接了当的崩溃，明确错误<div style="padding-bottom:1em;"></div>软件中不可能发生的事情，也可能发生，要检查，断言：<div style="padding-bottom:1em;"></div>一个月少于28天<div style="padding-bottom:1em;"></div>c++:a=2;b=3;if(a+b!=5) exit(1);<div style="padding-bottom:1em;"></div>内角和不等于180度的三角形<div style="padding-bottom:1em;"></div>没有60秒的一分钟<div style="padding-bottom:1em;"></div>java：（a+1)&lt;=a<div style="padding-bottom:1em;"></div>永远要相信事情有可能发生，不要轻易断言<div style="padding-bottom:1em;"></div>要针对不同的问题，采取生成错误信息，或引发异常，或忽略！<div style="padding-bottom:1em;"></div>元数据驱动(扩展性)：<div style="padding-bottom:1em;"></div>把抽象放进代码，细节放进元数据<div style="padding-bottom:1em;"></div>对决定性的配置放在代码外，进行配置<div style="padding-bottom:1em;"></div>商业逻辑更应成为元数据<div style="padding-bottom:1em;"></div>如采购天数，定期备份等等，这些数据应放在配置文件中，单独列出<div style="padding-bottom:1em;"></div>清楚了解什么事物表示为程序的具体代码，什么应表示为外部的元数据<div style="padding-bottom:1em;"></div>其实也就是扩展性，应该把经常变动，或者需要变动事物列出，方便用户自主更改<div style="padding-bottom:1em;"></div>何时进行重构：<div style="padding-bottom:1em;"></div>重复：发现对DRY原则的违反<div style="padding-bottom:1em;"></div>非正交的设计<div style="padding-bottom:1em;"></div>过时的知识<div style="padding-bottom:1em;"></div>性能<div style="padding-bottom:1em;"></div>1.不要试图在重构同时增加功能<div style="padding-bottom:1em;"></div>2.在开始重构之前，确保拥有良好的测试，这样，如果改动破坏力任何东西，便能很快知道<div style="padding-bottom:1em;"></div>3.采取短小，深思熟虑的步骤<div style="padding-bottom:1em;"></div>不要使用你不理解的向导代码：<div style="padding-bottom:1em;"></div>特别是这些代码与你自己的代码交织一起，你就只能前进，而不知道修改，特别是GUI构建<div style="padding-bottom:1em;"></div>形式方法（UML)：<div style="padding-bottom:1em;"></div>它们无法表示有适应能力的动态系统<div style="padding-bottom:1em;"></div>鼓励专门化，需要专门去学习，把设计数据模型的人跟具体编码人分离<div style="padding-bottom:1em;"></div>代码测试：<div style="padding-bottom:1em;"></div>编一点，修一点<div style="padding-bottom:1em;"></div>sign your work!
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/14451343/#comments">回应</a>&nbsp;&nbsp;
+                  2011-09-09 15:05
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="28825306">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/czshens/"><img src="https://img3.doubanio.com/icon/u6240148-2.jpg" alt="慎思" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/28825306/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/28825306/" class="">注重实践的的哲学</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/czshens/" class=" " title="慎思">慎思</a>
+                (只读经典需要充足经历的支撑)
+              
+            </p>
+            <div class="reading-note" data-cid="28825306">
+              <div class="short">
+                
+                  <span class="">1、在犯错误时，提供各种选择，不要找蹩脚的借口
+2、软件的熵：“不要容忍破窗户”，有问题马上解决掉，比如低劣的设计、错误的决策、糟糕的代码，就算没有时间，请把问题代码注释掉或者注明TODO、或者用假数据（dummy data），使问题可控。一旦有破窗户出现，整个系统很快就会恶化、腐烂。
+3、”做变化的催化剂”，煮一锅石头汤总需要发起的人。在大家都觉得问题很大，启动很难时，先做点起始工作，让大家跟进，这确实是一个很..</span>
+                <p class="pl">
+                  <span class="">2013-10-05 04:15</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                1、在犯错误时，<blockquote><q>提供各种选择，不要找蹩脚的借口</q></blockquote>
+2、软件的熵：<blockquote><q>“不要容忍破窗户”</q></blockquote>，有问题马上解决掉，比如低劣的设计、错误的决策、糟糕的代码，就算没有时间，请把问题代码注释掉或者注明TODO、或者用假数据（dummy data），使问题可控。一旦有破窗户出现，整个系统很快就会恶化、腐烂。<div style="padding-bottom:1em;"></div>3、<blockquote><q>”做变化的催化剂”</q></blockquote>，煮一锅石头汤总需要发起的人。在大家都觉得问题很大，启动很难时，先做点起始工作，让大家跟进，这确实是一个很不错的主意，千里之行始于足下。还有一句话：<blockquote><q>“请求原谅比获取许可更容易”</q></blockquote>，这就是典型的先斩后奏。<div style="padding-bottom:1em;"></div>4、<blockquote><q>“记住大图景”</q></blockquote>，往往我们在处理日常琐碎问题的过程中确实容易忘记当初是为什么开始的，我们到底为了什么目标去进行的，所以要用各种办法来提醒自己，不时地提醒，总结、归纳、修正我们的目标，以保证从容和正确，防止温水煮青蛙。同时也要注意，自己做的目标是客观，还是主观的意愿，特别对于一个组织来说，我们在做催化剂时更需要考察这个问题。<div style="padding-bottom:1em;"></div>5、<blockquote><q>“使质量成为需求问题”</q></blockquote>，特别是在外包产品时更明显，让需求提出方为质量自己做出选择，这样与工程时间进行相关联，更能给出两方能接受的、实际可行的时间估计。因为”许多用户宁愿在今天用上有一些毛边的软件，也不愿等待一年后的多媒体版本“。及时给他们一个可以使用把玩的东西，他们的反馈能够把你引向一个最终的解决方案（不一定是最佳，但至少是他们最能接受的可行方案）。<div style="padding-bottom:1em;"></div>  对于质量问题，作为一个普通用户，他更关心的是产品价值，只要这个产品能够满足他的需求，能解决他的核心问题，一些小毛病确实也是无伤大雅。当然还是以可用为前提，不能一上来就Crash，那用户也无法用下去，前10秒决定用户的去留，用户都无法留下来，就谈不上用户价值了。而且，一个产品如果能够及时更新，修复问题，用户也会感觉到惊喜和收获，这使用户对产品以及产品团队的认同度得到提高，他也会觉得自己得到重视，并且看到希望。<div style="padding-bottom:1em;"></div>6、<blockquote><q>（知识资产）是有时效的资产（expiring asset），随着新技术、语言及环境的出现，你的知识会变得过时</q></blockquote>，所以，要在职业生涯获得成功，必须像管理金融资产一样，管理自己的知识资产，做到以下几条：
+<blockquote><q>1、严肃的投资者定期投资——作为习惯；
+2、多元化是长期成功的关键；
+3、聪明的投资者在保守的投资和高风险、高回报的投资之间平衡他们的资产。
+4、投资者设法低买高卖、以获取最大的回报；
+5、应周期性地重新评估和平衡资产。</q></blockquote>
+7、根据上述知识资产投资的要求，建议如下
+<blockquote><q>1、每年至少学习一种新语言；
+2、每季度阅读一本技术书籍；
+3、也要阅读非技术书籍；
+4、上课；
+5、参加本地用户组织；
+6、试验不同的环境(开发环境)；
+7、跟上潮流（商务杂志、技术及其他方面的刊物）；
+8、上网；</q></blockquote>
+8、与专家们打交道的礼节和教养：
+<blockquote><q>1、确切地知道你想要问什么，并尽量明确具体；
+2、小心而得体地组织你的问题。记住你是在请求帮助；不要显得好像是在要求对方回答；
+3、组织好问题之后，停下来，再找找答案，选出一些关键字，搜索Web。查找合适的FAQ；
+4、决定你是想公开提问还是私下提问；
+5、坐回椅子上，耐心等待。人们很忙，也许需要几天才能得到明确的答案。
+最后一定要感谢任何回应你的人。如果你看到有人提出你能够解答的问题，尽你的一份力，参与解答。
+</q></blockquote>
+9、作者建议：从现在开始做上面的建议，如读一本新书、学习一门新语言，更重要的，<blockquote><q>出去和与你当前项目无关的人、或是其他公司的人谈谈技术，在你们公司的自助餐厅里结识其他人，或者在本地用户组织聚会时寻找兴趣相投的人</q></blockquote>
+10、与人交流的注意事项
+<blockquote><q>1、知道你想要说什么 （做出规划、列出大纲，准备几种讲得清楚重点的策略）；
+2、了解你的听众（知道他们兴趣和擅长之处，知道对方的诉求）；
+3、选择时机（找对你说的话有需求的人，在他心情和状态、环境合适的时机）；
+4、选择风格（是正式还是随意，是长还是短，是详还是简，与对方提前确认）；
+5、让文档美观；
+6、让听众参与（让读者参与草稿的制作，获取他们的反馈，这也能建立良好的工作关系 ）；
+7、做倾听者（创造机会让听众说话，并且学会倾听，鼓励他们来提问，或者让他们总结你告诉他们的东西，把会议变成对话）；
+8、回复他人（及时回复邮件和消息，以示尊重）。</q></blockquote>
+11、使用电子邮件的技巧，归纳如下：<div style="padding-bottom:1em;"></div>     1）在发送电子邮件前一定要校对；<div style="padding-bottom:1em;"></div>     2）检查拼写；<div style="padding-bottom:1em;"></div>     3）尽量准备引文；<div style="padding-bottom:1em;"></div>     4）引用别人的邮件时一定要注明出处；<div style="padding-bottom:1em;"></div>     5）不要攻击别人；<div style="padding-bottom:1em;"></div>     6）检查收件人名单；<div style="padding-bottom:1em;"></div>     7）将收到和发送的重要邮件分类归档。<div style="padding-bottom:1em;"></div># 本章完.
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/28825306/#comments">回应</a>&nbsp;&nbsp;
+                  2013-10-05 04:15
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="12204560">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/pinchwang/"><img src="https://img3.doubanio.com/icon/u37118914-5.jpg" alt="pinchwang" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/12204560/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/12204560/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/pinchwang/" class=" " title="pinchwang">pinchwang</a>
+                (读书)
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="12204560">
+              <div class="short">
+                
+                  <span class="">讲的内容有点玄乎，对于初出茅庐的我们来说，没人指导的话很难想明白深层次的东西。这书啊，还是越有经验看着越有味道</span>
+                <p class="pl">
+                  <span class="">2011-04-04 23:37</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                讲的内容有点玄乎，对于初出茅庐的我们来说，没人指导的话很难想明白深层次的东西。这书啊，还是越有经验看着越有味道
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/12204560/#comments">回应</a>&nbsp;&nbsp;
+                  2011-04-04 23:37
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="12901462">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/1569079/"><img src="https://img3.doubanio.com/icon/u1569079-5.jpg" alt="阿来" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/12901462/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/12901462/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/1569079/" class=" " title="阿来">阿来</a>
+                (天啊 我竟然喜欢歌舞剧!)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="12901462">
+              <div class="short">
+                
+                  <span class="">霍炬的序：《程序员升级必备》
+当一个程序员水平不够的时候，永远不能认识到那些朴素道理的重要。而当水平达到的时候，这些道理自然会明白。所以一本帮助程序员进阶的书，很容易落到低手觉得是废话，高手也觉得是废话的悲惨境地。
+
+在我心目中，最好的入门书永远是《代码大全》，那也是对我影响最深的一本书。而这本不逊于代码大全的伟大著作。
+好书不会因为平台的变化和技术的变迁而消亡，好书只会成为经典。无论是《人月神话...</span>
+                <p class="pl">
+                  <span class="">2011-05-17 21:39</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                霍炬的序：《程序员升级必备》
+<blockquote><q>当一个程序员水平不够的时候，永远不能认识到那些朴素道理的重要。而当水平达到的时候，这些道理自然会明白。所以一本帮助程序员进阶的书，很容易落到低手觉得是废话，高手也觉得是废话的悲惨境地。</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>在我心目中，最好的入门书永远是《代码大全》，那也是对我影响最深的一本书。而这本不逊于代码大全的伟大著作。
+好书不会因为平台的变化和技术的变迁而消亡，好书只会成为经典。无论是《人月神话》还是《代码大全》，都在时间的长河中沉淀下来，传诵至今。这本书也有10年历史了，不过现在翻来看也毫不落伍，甚至感觉穿透了时间，看到了这些年中不少自己犯过的错误，我相信这也是一本经得起时间沉淀的书，只不过需要多点耐心。</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>正如本书开头所说：注重时效的程序员应该不断学习。我们都应该不断地学习下去。</q></blockquote><div style="padding-bottom:1em;"></div>徐宥的序：《程序员心底的小声音》
+<blockquote><q>在任何行业，适合新手的入门书很多，适合中手的书就很少。原因有两个，一来高手极少愿意耐心指点成长秘诀，即使写了，也是蜻蜓点水，因为这些经验啊，结论啊，都被他们本身提炼成了珠玑，他们觉得最重要的就是那么寥寥几句，说多了都是废话。而读者往往没有类似的经历，看到这些珠玑，也只是觉得把玩颇为有趣而已，极少能有同感。而没有同感，接受起来效果也不好。二来中手水平参差不齐，偏好不一，挑三拣四，自作聪明，所以也不太喜欢读这些书。
+但是还是有一些书的，比如《Pragmatic Programmer程序员修炼之道》《The Art of UNIX ProgrammingUNIX编程艺术》《Elements of Progarmming Style 程序风格珠玑》和《The Productive Programmer卓有成效的程序员》。</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>能否让正确的原则指导正确的行动本身，其实就是区分是否是高手的一个显著标志。比如KISS，很多人知道，但是能否内化，并用在自己写的程序里，这个可能就是区分中手和高手的标志了。</q></blockquote>
+<blockquote><q>如何将原则尽快内化成自己的行动？--- 就是说怎样尽快成为高手？
+第一条路需要有一个高强度的环境，没有高强度复杂的文本处理任务，很难内化正则表达式；没有大型多模块项目，很难内化自动化构建和测试。
+第二条路就是有意识的反复强化实践和反复提醒。想要内化这些小声音，还是要靠实践，如果不实践，即使你把这些小声音写在100块钱的高档笔记本上也没有用。不妨一段时间反复练习里面的几个tips，内化后再练习其他的。几个月可能就把所有的tips都实践过了。</q></blockquote>
+<blockquote><q>高手可以看这个书，很可能你对其中一些道理的认识比作者还要深刻。那有什么关系呢，能够帮助你提炼更加圆润的珠玑岂不是更好？</q></blockquote><div style="padding-bottom:1em;"></div>书籍正文的摘录和思考：<div style="padding-bottom:1em;"></div>第一章	注重实效的哲学
+<blockquote><q>注重实效的编程源于注重实效的思考的哲学。</q></blockquote><div style="padding-bottom:1em;"></div><blockquote><q>在所有的弱点中，最大的弱点就是害怕暴露弱点。</q></blockquote>
+注重实效的程序员对他自己的职业生涯负责，并不害怕承认无知或错误。遇到各种问题，尽量职业地处理他们。这意味着诚实和坦率。负责，并设法给出各种选择，而不是抱怨他人。<div style="padding-bottom:1em;"></div><blockquote><q>提供各种选择，不要找蹩脚的借口。</q></blockquote>
+这个就最好懂了。工作过的人都知道，谁也不喜欢满嘴借口的人。犯错不怕，就怕犯了错还不承认，不吸取教训，不想弥补。<div style="padding-bottom:1em;"></div><blockquote><q>不要容忍破窗户</q></blockquote>
+一个软件的腐烂可能就是从一个模块腐烂开始的，所以及时修补，省得代码越来越烂。这点驴哥有句话特别好：只要嗅到自己的代码有一点点坏的味道，就要及时修正。 反过来，如果一个项目代码整洁，设计良好，而且很优雅，你就很有可能会格外注意不要去把他弄脏。<div style="padding-bottom:1em;"></div><blockquote><q>请求原谅，比获取许可更容易。</q></blockquote>
+有时候你想做一个事情，畏首畏脚到处去争取许可和同意往往得不到许可和帮助。而你先开始做，让别人看到你的成果，或者起码看到你的勇气。再找资源和获得帮助就会容易得多。你需要做变化的催化剂，而不是等着变化。<div style="padding-bottom:1em;"></div>也让我想起了google做google books的一个原则：书籍先扫描收录（当然只是有限的页码），如果有作者提出不妥，再删除相应的部分。这样可能要比事先设法联系作者，请求许可要容易得多。如果google采取第二种办法，我甚至怀疑他还能不能做成这件事。<div style="padding-bottom:1em;"></div><blockquote><q>记住Big Picture</q></blockquote>
+这个和我在公司的经历差不多，leader总是教育我们要站在更高的层面思考。比如站在组长的层面，站在总监的层面。这样你做的事情才不会在方向上出问题，和上级的沟通也会更加的顺畅。记得翟鸿亮在他的《心路文集》（腾讯内部分享）里画过一张，个人能力和团队贡献度的图。即使你的个人能力箭头再长，和团队的方向不一致，给到团队的分力可能也不够。<div style="padding-bottom:1em;"></div><blockquote><q>使质量成为需求问题</q></blockquote>
+人们往往喜欢现在能用的还ok的软件，不喜欢后天才能用的完美的软件。<div style="padding-bottom:1em;"></div><blockquote><q>知道何时止步</q></blockquote>
+在某些方面，编程就像绘画。如果你不懂何时止步，所有的辛劳就会遭到破坏。如果你一层又一层，细节复细节的叠加，绘画就迷失在来绘画本身了。<div style="padding-bottom:1em;"></div><blockquote><q>知识上的投资总能得到最好的回报。</q></blockquote>
+你的知识经验是你最重要的职业财富。但遗憾的是，知识资产是有实效的。所以你要不停的学习。管理知识资产和管理我们通常意义上的资产有很多相似的地方，比如：<div style="padding-bottom:1em;"></div>1、严肃的投资者定期投资---作为习惯。（定期学习）<div style="padding-bottom:1em;"></div>2、多元化是长期成功的关键。（拓宽你的知识面，比如多种编程语言，你知道的事情越多，你就越有价值）<div style="padding-bottom:1em;"></div>3、聪明的投资者在保守的投资和高风险、高回报的投资之间做出平衡。（不要抱着铁饭碗的死脑筋。不要把你所有的技术鸡蛋放到）<div style="padding-bottom:1em;"></div>4、投资者设法低买高卖，以获取最大回报。（在一个知识大多数人接触前熟练掌握，往往可以使自己更吃香）<div style="padding-bottom:1em;"></div>5、应周期性的重新评估和平衡资产。（周期性的回顾自己的知识结构，看看哪方面需要重点提高）<div style="padding-bottom:1em;"></div><blockquote><q>批判地分析你读到的和听到的</q></blockquote>
+不要人云亦云，要有独立思考的精神和能力。现在这个社会，视图混淆你的视听，扰乱你的步伐的事情太多了。<div style="padding-bottom:1em;"></div>在社区提问时，切记提问的技巧。<div style="padding-bottom:1em;"></div>关于学习，作者也给出了一些实际行动的建议。<div style="padding-bottom:1em;"></div>每一年学习一门新语言。（新工作要求把C++的编程能力提高，或者可以去学一下smalltalk？）<div style="padding-bottom:1em;"></div>每一季度读一本技术书籍。（我的技术书籍不是太少了，而是消化得太少了）<div style="padding-bottom:1em;"></div><blockquote><q>关于交流：你说什么和你怎么说同样重要。</q></blockquote>
+这个在我的工作中体现得尤为明显，有的时候怎么说比说什么本身还重要... 交流越有效，你就越有影响力，真的这样。<div style="padding-bottom:1em;"></div>第二章	注重实效的途径<div style="padding-bottom:1em;"></div>上面一章讲得是哲学（就是讲道理），这一张开始讲途径（方法）。这本书的组织方式和我时间管理课程的思路有点像啊。这一章主要讲的是开发过程中要遵循的一些原则。<div style="padding-bottom:1em;"></div><blockquote><q>系统中的每一项知识，都必须有单一，权威，无歧义的唯一一个解释。这就是DRY原则。</q></blockquote>
+<blockquote><q>DRY---- Don't Repeat Yourself.</q></blockquote>
+两个方面理解：<div style="padding-bottom:1em;"></div>1、系统中不要存在自相矛盾的两个地方（比如文档和代码的不一致）<div style="padding-bottom:1em;"></div>2、自己不要做重复性的工作<div style="padding-bottom:1em;"></div>避免信息的人工多重表示。<div style="padding-bottom:1em;"></div>比如过多的注释可能造成你改代码时候不得不也改注释，注释很容易被遗忘而变得自相矛盾。改成由文本或代码生成器来生成会更好。<div style="padding-bottom:1em;"></div>而很多的重复也是可以在代码设计阶段解决的。比如一个表示线段的类:<div style="padding-bottom:1em;"></div>class Line {<div style="padding-bottom:1em;"></div>    public:<div style="padding-bottom:1em;"></div>        Point start;<div style="padding-bottom:1em;"></div>        Point end;<div style="padding-bottom:1em;"></div>        double length;<div style="padding-bottom:1em;"></div>}; <div style="padding-bottom:1em;"></div>其中，length显然是可以通过起点和终点坐标计算出来的。那么这里最好可以让他以函数的形式返回。<div style="padding-bottom:1em;"></div>class Line {<div style="padding-bottom:1em;"></div>    public:<div style="padding-bottom:1em;"></div>        Point start;<div style="padding-bottom:1em;"></div>        Point end;<div style="padding-bottom:1em;"></div>        double length() { return start.distanceTo(end); <div style="padding-bottom:1em;"></div>}; <div style="padding-bottom:1em;"></div>而每次这样求length显然很慢。有时候你不得不使用缓存而可能影响DRY原则。那么这么做的诀窍是尽量使得影响局部化。<div style="padding-bottom:1em;"></div>比如提供setStart setEnd接口，使得改变start 或者end都有标识，那么只有length()方法检测到起点或者终点有更新后，才更新length。<div style="padding-bottom:1em;"></div>这个例子还带出来了像Java C++这样面向对象语言的另一个重要的问题：在可能的情况下，总是使用accessor访问器来读写对象的属性。这样是的未来增加功能（比如缓存）变得容易很多。<div style="padding-bottom:1em;"></div>还有很多的重复是程序员偷懒造成的，比如直接拷贝粘贴代码段，而不是将公用的抽取出来做成公共库。比如原来的千年虫问题（程序员偷懒用两个数字代表年份，而不是参数指定）。这个就需要你知道一个道理：现在节省几分钟，可能会导致以后花费数周的时间偿还。<div style="padding-bottom:1em;"></div>开发者之间的重复也太常见了。比如公司内可能很多部门在写着差不多的函数库，比如很多部门在搞分布式数据平台... 比如大家都在写着自己的身份证验证合法性代码...  避免这个问题可能需要两个方面都给力一点，一个是要有强有力和方向明确的领导，各个部门或技术团队之间权责清晰。二个是鼓励技术人员之间的相互交流，比如腾讯的KM平台就是一个很好的例子。<div style="padding-bottom:1em;"></div><blockquote><q>让复用变得容易。</q></blockquote>
+你要做的就是营造一种环境，在其中找到并复用已有的东西比自己编写要容易。如果不容易，大家就不会去复用。就这么简单。<div style="padding-bottom:1em;"></div>正交性。比如MVC可能就比较符合正交性，你动用户界面，不会影响底层数据或者算法。我们就说界面和底层是正交的。比如直升机的控制器就不是正交的。<div style="padding-bottom:1em;"></div><blockquote><q>所以我们说，尽量降低无关事物之间的影响。</q></blockquote>
+你的系统都是正交的组件的话，好处非常的多。<div style="padding-bottom:1em;"></div>1、可以提高生产率，因为正交的系统往往更好测试，往往相乘后的到的组合功能会最大化。<div style="padding-bottom:1em;"></div>2、无疑可以降低变更的风险，正交系统可以得到更好的测试。<div style="padding-bottom:1em;"></div>工作中的正交性不只体现在编码上。团队的任务分配如果正交性太差，则很容易出现相互不符合DRY原则和扯皮的情况发生。成员也就会对责任感困惑。（想想自己原来的团队）<div style="padding-bottom:1em;"></div>在系统设计上，典型的正交性原则是分层设计、模块化和基于组件。<div style="padding-bottom:1em;"></div>在编码上，保持你编写模块的高内聚，低耦合很重要。说白了就是编写羞怯的代码。如果你要改变某个对象的属性，让这个对象自己去完成。<div style="padding-bottom:1em;"></div>测试，建议每个模块都拥有自己的、内建在代码中的单元测试，并让这测试作为常规构建过程的一部分自动运行。（想到了make test）<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/12901462/#comments">回应</a>&nbsp;&nbsp;
+                  2011-05-17 21:39
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="13152906">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ybaipd/"><img src="https://img3.doubanio.com/icon/u46843483-2.jpg" alt="逆游的鱼" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/13152906/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/13152906/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ybaipd/" class=" " title="逆游的鱼">逆游的鱼</a>
+              
+            </p>
+            <div class="reading-note" data-cid="13152906">
+              <div class="short">
+                
+                  <span class="">我在读书的时候就听过着本书的大名，现在网上也有这本书的pdf分享版本。一直就觉得计算机方面的书籍太贵了，致使很都先进的知识得不到有效的普及。程序员修炼之道这本书，以程序员职业规划、所需知识等为线索，提到了一些代码优化，整合知识，但是不够全面。更多www.nsdupiwu.com计算机信息。</span>
+                <p class="pl">
+                  <span class="">2011-06-02 13:55</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                我在读书的时候就听过着本书的大名，现在网上也有这本书的pdf分享版本。一直就觉得计算机方面的书籍太贵了，致使很都先进的知识得不到有效的普及。程序员修炼之道这本书，以程序员职业规划、所需知识等为线索，提到了一些代码优化，整合知识，但是不够全面。更多<a rel="nofollow" href="http://www.nsdupiwu.com" target="_blank">www.nsdupiwu.com</a>计算机信息。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/13152906/#comments">回应</a>&nbsp;&nbsp;
+                  2011-06-02 13:55
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="13585587">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2629271/"><img src="https://img1.doubanio.com/icon/user_normal.jpg" alt="wltan" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/13585587/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/13585587/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2629271/" class=" " title="wltan">wltan</a>
+                (新年快乐)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="13585587">
+              <div class="short">
+                
+                  <span class="">软件项目永恒的敌人就是不能按期交付，项目经理的任务在掌握有限资源的情况下，不断地同它做斗争。这需要注意多个方面：
+
+首先最重要的是确定方向，同时要细化最终的完成目标，即可交付物是什么。讨论项目的关键驱动因素、约束和浮动因素，列出项目的优先级。这可以在两难的时候帮助取舍，要让你的上级和投资人都进入到这个环节中，这有助于将来抵制出资人过多的功能变更需求等外部压力。其中的难点在于预测未来，识别真正的驱动...</span>
+                <p class="pl">
+                  <span class="">2011-07-04 17:33</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                软件项目永恒的敌人就是不能按期交付，项目经理的任务在掌握有限资源的情况下，不断地同它做斗争。这需要注意多个方面：<div style="padding-bottom:1em;"></div>首先最重要的是确定方向，同时要细化最终的完成目标，即可交付物是什么。讨论项目的关键驱动因素、约束和浮动因素，列出项目的优先级。这可以在两难的时候帮助取舍，要让你的上级和投资人都进入到这个环节中，这有助于将来抵制出资人过多的功能变更需求等外部压力。其中的难点在于预测未来，识别真正的驱动因素。之后制定项目章程模板，主要包括远景、需求、目标、成功标准、ROI（投资回报率）估算。<div style="padding-bottom:1em;"></div>然后细化其中的每项，配备人员，制定发布条件以及项目风险列表。<div style="padding-bottom:1em;"></div>从项目本身来说，新Bug的发现与修正是早成延期的主要原因，所以要采用先进的生命周期组织方式来管理项目，安排好日程，尽量预测未来风险，同时让项目组内的每个人都意识到这一点。反馈及时，迅速发现错误并修正。将错误留到最后会消耗比当初多几倍的经历成本。<div style="padding-bottom:1em;"></div>安排项目日程也很有学问，原则是注重实效、简单。使用低技术含量的工具安排项目日程，比如贴纸、白板等。识别和避免日程安排游戏，主要就是自欺欺人，盲目乐观可以在某个时间点完成。<div style="padding-bottom:1em;"></div>估算工作的一个技巧就是使用“小石子”，即把项目分成一个一个可以在一两天之内完成的小单元，单元内部应该不可再分，只有“完成”和“未完成”两种状态。<div style="padding-bottom:1em;"></div>要掌控项目，及时回顾。保持项目节奏，持续集成。重点强调，减少技术债务。创建并使用项目仪表板，量化指标。尽量不要在同一时间管理多个项目，项目结束时无论成功与否都要进行总结。<div style="padding-bottom:1em;"></div>会议不可避免，管理会议，需要举行的和不需要举行的。每次会议都能达到目的，不要浪费整个组的时间。<div style="padding-bottom:1em;"></div>人的因素是另外一个主要因素：创建出色的项目团队，招募需要的人，形成团队凝聚力。知道如何应对人。 
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/13585587/#comments">回应</a>&nbsp;&nbsp;
+                  2011-07-04 17:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="39818615">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/152638913/"><img src="https://img3.doubanio.com/icon/u152638913-1.jpg" alt="Catch the falli" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39818615/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39818615/" class="">注重实效的途径</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/152638913/" class=" " title="Catch the falli">Catch the falli</a>
+              
+            </p>
+            <div class="reading-note" data-cid="39818615">
+              <div class="short">
+                
+                  <span class="">
+DRY原则，不要重复。重复分为强加的重复，无意的重复，无耐性的重复以及开发之间的重复。我觉得其中最容易发生的是无耐性的重复，拷贝一个大致相同的函数，修改一些参数完成类似的功能，看起来似乎合理又省事，但的确会留下隐患。开发者之间的重复就提到一个比较高的层次了，首先是代码的架构和分工需要非常合理，否则必然会造成一定程度的重复以及事倍功半的效果，还有一部分也是需要大家之间的交流，不要因为完成的功能模块不..</span>
+                <p class="pl">
+                  <span class="">2016-10-23 23:33</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                
+DRY原则，不要重复。重复分为强加的重复，无意的重复，无耐性的重复以及开发之间的重复。我觉得其中最容易发生的是无耐性的重复，拷贝一个大致相同的函数，修改一些参数完成类似的功能，看起来似乎合理又省事，但的确会留下隐患。开发者之间的重复就提到一个比较高的层次了，首先是代码的架构和分工需要非常合理，否则必然会造成一定程度的重复以及事倍功半的效果，还有一部分也是需要大家之间的交流，不要因为完成的功能模块不尽相同而各做各的。<div style="padding-bottom:1em;"></div>正交性，即写的程序或是组件具有一定的独立性，不会影响到其他。这样做的好处有很多，一是在你自己写代码的时候可以不用过多考虑之前的代码，这样真的很省事；二是当你在修改一部分代码的时候就完全不用担心会对其他造成影响甚至改动大局，可以实现局部修改；三是代码与代码之间的独立，使得两者组合能带来更大的效益。如何在写代码的时候保持正交性，一方面保持解耦，一方面避免使用全局数据，还有就是避免写相似的函数，其实一些命名的不规范也会导致这个问题。<div style="padding-bottom:1em;"></div>可撤销性，即多给自己的代码留条退路。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39818615/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-23 23:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="39818119">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/152638913/"><img src="https://img3.doubanio.com/icon/u152638913-1.jpg" alt="Catch the falli" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/39818119/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/39818119/" class="">注意实效的哲学</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/152638913/" class=" " title="Catch the falli">Catch the falli</a>
+              
+            </p>
+            <div class="reading-note" data-cid="39818119">
+              <div class="short">
+                
+                  <span class="">
+       不要为错误找借口，当出现一个程序错误的时候，要勇于承认并尽快解决掉它，而不是逃避问题逃避责任。
+
+       “破窗户理论”：一扇破窗户如果不能得到及时的修理，就会给人一种放弃感，从而产生越来越多的破窗户。
+        写程序也是一样，一些不规范的命名，有逻辑问题的代码，甚至是一些错误的决定和有问题的设计都是一扇破窗户，只有及时改掉这些小毛病，才能避免更大的错误出现，至少是减小了几率产生吧。
+
+
+       ...</span>
+                <p class="pl">
+                  <span class="">2016-10-23 22:38</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                
+       不要为错误找借口，当出现一个程序错误的时候，要勇于承认并尽快解决掉它，而不是逃避问题逃避责任。<div style="padding-bottom:1em;"></div>       “破窗户理论”：一扇破窗户如果不能得到及时的修理，就会给人一种放弃感，从而产生越来越多的破窗户。<div style="padding-bottom:1em;"></div>        写程序也是一样，一些不规范的命名，有逻辑问题的代码，甚至是一些错误的决定和有问题的设计都是一扇破窗户，只有及时改掉这些小毛病，才能避免更大的错误出现，至少是减小了几率产生吧。<div style="padding-bottom:1em;"></div>         煮石头：当你想做一件事的时候，不要什么也不做就向别人伸手，而是自己先努力去做，让别人看到一些成果或是希望，这样才能吸引大家，使大家心甘情愿地也参与进来。<div style="padding-bottom:1em;"></div>       足够好的软件，就是让客户参与进来，尊重客户的意见，给客户机会让他们参与决定你制作的东西是否足够好。明天做的软件并不一定比今天做的软件好，或许有一些功能得到了提升，甚至是开辟了新的功能，但是许多用户可能不愿意升级，包括我自己也是，除非出了非常吸引我的功能，我都不愿意升级，基本上是习惯问题，用户的习惯决定了他们对产品的满意度。<div style="padding-bottom:1em;"></div>       知识资产：要想提高自己的知识资产，我认为有两点，一个是广度，一个是深度。在广度上拓宽，可以学习一些新的技术，如果能摸清前沿方向，及时抓住新技术的潮流，那带来的收益就像股市买了一支低价股一样丰厚。在深度上挖深，一些东西只停留在表面的话可能永远也掌握不到它的真谛，我始终相信，一件事你不停的往下做一点，可能暂时不会有什么成效，但当你的深度达到一个点的时候，可能会有质的突破。<div style="padding-bottom:1em;"></div> 
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/39818119/#comments">回应</a>&nbsp;&nbsp;
+                  2016-10-23 22:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="38006681">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/62719021/"><img src="https://img3.doubanio.com/icon/u62719021-6.jpg" alt="寻海" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/38006681/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/38006681/" class="">书山有路第十一期：程序员修炼之道-第七章--在项目开始之前--第十九天</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/62719021/" class=" " title="寻海">寻海</a>
+                (天涯就是天涯，怎么比邻！)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="38006681">
+              <div class="short">
+                
+                  <span class="">
+第三节：等你准备好
+1.当面对一件任务时，如果你反复感觉到疑虑，或是体验到某种勉强，要注意它，并给它时间，你的疑虑可能结晶成为某种更坚实的东西，某种你可以处理的东西。
+ps：这种感觉就相当于到了自己能力的边界，你没有十足的把握，当最后消除这种疑虑的时候，你也是进步了。
+第四节：规范陷阱
+2.健康的开发过程鼓励把来自实现和测试的意见反馈到规范中。而不是用规范来限制实现和测试。
+第五节：圆圈与箭头
+3.不要...</span>
+                <p class="pl">
+                  <span class="">2016-06-21 15:19</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                
+第三节：等你准备好<div style="padding-bottom:1em;"></div>1.当面对一件任务时，如果你反复感觉到疑虑，或是体验到某种勉强，要注意它，并给它时间，你的疑虑可能结晶成为某种更坚实的东西，某种你可以处理的东西。<div style="padding-bottom:1em;"></div>ps：这种感觉就相当于到了自己能力的边界，你没有十足的把握，当最后消除这种疑虑的时候，你也是进步了。<div style="padding-bottom:1em;"></div>第四节：规范陷阱<div style="padding-bottom:1em;"></div>2.健康的开发过程鼓励把来自实现和测试的意见反馈到规范中。而不是用规范来限制实现和测试。<div style="padding-bottom:1em;"></div>第五节：圆圈与箭头<div style="padding-bottom:1em;"></div>3.不要做形式方法的奴隶。<div style="padding-bottom:1em;"></div>ps：我们喜欢有些技术和方法，但我们相信，盲目地采用任何技术，而不把它放进你的开发实践和能力环境中，这样的处理方法肯定会让你失望。
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/38006681/#comments">回应</a>&nbsp;&nbsp;
+                  2016-06-21 15:19
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="37018467">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/yuedongchen/"><img src="https://img3.doubanio.com/icon/u52101321-4.jpg" alt="yuedong" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/37018467/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/37018467/" class="">程序员修为之道</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/yuedongchen/" class=" " title="yuedong">yuedong</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="37018467">
+              <div class="short">
+                
+                  <span class="">
+在所有的弱点中，最大的弱点就是暴露弱点
+不要容忍破窗户
+不要留着破窗户（低劣的设计，错误决策，糟糕的代码）不修，发现一个就修一个，如果没有时间修理，就将代码放入注释，显示“未实现”字样。
+管理知识资产
+	我们喜欢把程序员所知道的关于计算技术和他们所工作的应用领域的全部事实，以及他们的所有经验视为他们的知识资产（knowledge portfolios）
+	定期投资。就像金融投资一样，你必须定期为你的知识资产投资，即使...</span>
+                <p class="pl">
+                  <span class="">2016-01-19 20:24</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                
+在所有的弱点中，最大的弱点就是暴露弱点<div style="padding-bottom:1em;"></div>不要容忍破窗户<div style="padding-bottom:1em;"></div>不要留着破窗户（低劣的设计，错误决策，糟糕的代码）不修，发现一个就修一个，如果没有时间修理，就将代码放入注释，显示“未实现”字样。<div style="padding-bottom:1em;"></div>管理知识资产<div style="padding-bottom:1em;"></div>	我们喜欢把程序员所知道的关于计算技术和他们所工作的应用领域的全部事实，以及他们的所有经验视为他们的知识资产（knowledge portfolios）<div style="padding-bottom:1em;"></div>	定期投资。就像金融投资一样，你必须定期为你的知识资产投资，即使投资量很小，习惯自身也和总量一样重要。<div style="padding-bottom:1em;"></div>	多元化。你知道的不同的事情越多，你就越有价值。作为底线，你需要知道你目前所有的特定技术的各种特性。但不要就此止步，计算技术的面貌变化很快，你掌握的技术越多，你就越能更好的进行调整，赶上变化<div style="padding-bottom:1em;"></div>	管理风险。从高风险、可能有高回报，到低风险、低回报，技术存在于这样一条谱带上，把你所有的金钱都投入可能突然崩盘的高风险股票并不是一个好主意；你也不应太保守，错过可能的机会。不要把你所有的技术鸡蛋放在一个篮子里。<div style="padding-bottom:1em;"></div>	低买高卖。在新兴的技术流行之前学习它可能就和找到被低估的股票一样困难，但所得到的就和那样的股票带来的收益一样。<div style="padding-bottom:1em;"></div>	重新评估和平衡。这是一个非常动荡的行业，你上个月开始研究的热门技术现在也许已像石头一样冰冷。也许你需要重温你有一阵子没有使用的数据库技术，又或许，如果你之前试用过另一种语言，你就会更有可能获得那个新职位。。。<div style="padding-bottom:1em;"></div>总之，定期为你的知识资产投资。<div style="padding-bottom:1em;"></div>什么是获得智力资本，从而为你的资产提供资金的最佳方式呢？有一些建议：<div style="padding-bottom:1em;"></div>	每年至少学习一种新语言。不同语言以不同方式解决相同的问题。通过学习若干不同的方法，可以帮助你扩宽你的思维，并避免墨守成规。此外，现在学习许多语言已容易了很多。<div style="padding-bottom:1em;"></div>	每季度阅读一本技术书籍。讨论与你当前的项目有关的话题。一旦你养成读书习惯，就一个月读一本书。在你掌握了你正在使用的技术之后，扩宽范围，阅读一些与你的项目无关的书籍。<div style="padding-bottom:1em;"></div>	也要阅读非技术书籍。记住计算机是由人使用的，不要忘了等式中人这一边。<div style="padding-bottom:1em;"></div>	上课。在本地的学院或大学，或是将要来临的下一次会展上寻找有趣的课程。<div style="padding-bottom:1em;"></div>	参加本地用户组织。不要只是去听讲，而要主动参与，于是隔绝对你的职业生涯来说可能是致命的；打听一下你们公司以外的人都在做什么。<div style="padding-bottom:1em;"></div>	实验不同的环境。如果你在Windows上工作，就在家玩一玩Unix，如果你只用过makefile和编辑器，就试一试IDE。<div style="padding-bottom:1em;"></div>	跟上潮流。订阅商务杂志和其他期刊，选择所涵盖的技术与你当前的项目不同的刊物。<div style="padding-bottom:1em;"></div>	上网。信息来源。<div style="padding-bottom:1em;"></div>最后，批判的思考你所读到的和听到的。警惕声称他们的信条提供了唯一答案的狂热者。<div style="padding-bottom:1em;"></div>交流<div style="padding-bottom:1em;"></div>知道你想要说什么<div style="padding-bottom:1em;"></div>了解你的听众<div style="padding-bottom:1em;"></div>选择时机<div style="padding-bottom:1em;"></div>选择风格<div style="padding-bottom:1em;"></div>	调整你的交流风格，让其适应你的听众。<div style="padding-bottom:1em;"></div>让文档美观<div style="padding-bottom:1em;"></div>让听众参与<div style="padding-bottom:1em;"></div>	我们常常发现，与制作文档的过程相比，我们制作出的文档最后并没有那么重要，如果可能，让你的读者参与文档的早期草稿的制作。获取他们的反馈，并汲取他们的智慧，你将建立良好的工作关系，并很可能在此过程中制作更好的文档。<div style="padding-bottom:1em;"></div>做倾听者<div style="padding-bottom:1em;"></div>回复他人<div style="padding-bottom:1em;"></div>你说什么和你怎么说同样重要<div style="padding-bottom:1em;"></div>注重实效的途径<div style="padding-bottom:1em;"></div>不要重复你自己<div style="padding-bottom:1em;"></div>让复用变得容易<div style="padding-bottom:1em;"></div>消除无关失误之间的影响（正交性）<div style="padding-bottom:1em;"></div>不存在最终决策（可变因素很多）<div style="padding-bottom:1em;"></div>	灵活的架构<div style="padding-bottom:1em;"></div>曳光弹<div style="padding-bottom:1em;"></div>	用曳光弹找到目标，曳光弹优点：<div style="padding-bottom:1em;"></div>	用户能够及早看到能工作的东西<div style="padding-bottom:1em;"></div>	开发者构架了一个他们能在其中工作的结构<div style="padding-bottom:1em;"></div>	你有了一个集成平台<div style="padding-bottom:1em;"></div>	你有了可用于演示的东西<div style="padding-bottom:1em;"></div>	你将更能够感觉到工作进展<div style="padding-bottom:1em;"></div>曳光弹告诉你击中的是什么，那不一定总是目标，于是你调整准星，知道完全击中目标为止，这正是要点所在。<div style="padding-bottom:1em;"></div>制作架构原型<div style="padding-bottom:1em;"></div>	为了学习而制作原型。许多原型被构造出来，是要为在考虑之下的整个系统建模，与曳光弹不同，在原型系统中，单个模块不需要能行驶特定的功能。事实上，要制作架构原型，你甚至不一定需要进行编码，你可以用便签或索引卡片，在白板上制作原型，你寻求的是了解系统怎样结合成为一个整体，并推迟考虑细节，下面是一些你可以在架构原型中寻求解答的具体问题：<div style="padding-bottom:1em;"></div>	主要组件的责任是否得到了良好定义？是否适当？<div style="padding-bottom:1em;"></div>	主要组件间的协作是否得到良好定义？<div style="padding-bottom:1em;"></div>	耦合是否得以最小化？<div style="padding-bottom:1em;"></div>	你能否确定重复的潜在来源？<div style="padding-bottom:1em;"></div>	借口定义和各项约定是否可接受？<div style="padding-bottom:1em;"></div>	每个模块在执行过程中是否能访问到其所需的数据？是否能在需要时进行访问？<div style="padding-bottom:1em;"></div>根据我们制作原型的经验，最后一项往往会产生最让人惊讶和最有价值的结果<div style="padding-bottom:1em;"></div>领域语言<div style="padding-bottom:1em;"></div>	语言的界限就是一个人的世界的界限<div style="padding-bottom:1em;"></div>靠近问题领域编程<div style="padding-bottom:1em;"></div>	考虑到大多数应用都会超过预期的使用期限，你可能最好咬紧牙关，先就采用更复杂、可读性更好的语言，最初的努力将在降低支持与维护费用方面得到许多倍的回报。<div style="padding-bottom:1em;"></div>估算<div style="padding-bottom:1em;"></div>	估算，以避免发生意外。我们发现，为项目确定进度的唯一途径常常是在相同的项目上获取经验。增量开发是步骤：检查需求、分析风险、设计，实现，集成、想用户确认。<div style="padding-bottom:1em;"></div>	于是你完成了初始功能的编码与测试。并将此标记为第一轮增量开发的结束，基于这样的经验，你可以提炼你原来对迭代次数，以及在每次迭代中可以包含的内容的猜想，提炼会变得一次比一次好，对进度表的信心也将随之增长。<div style="padding-bottom:1em;"></div>	通过代码对进度表进行迭代。<div style="padding-bottom:1em;"></div>基本工具<div style="padding-bottom:1em;"></div>	花时间学习使用这些工具，有一天你将会惊奇的发现，你的手指在键盘上移动，操纵文本，却不用进行有意识的思考，工具将变成你的双手的延伸。<div style="padding-bottom:1em;"></div>纯文本的威力<div style="padding-bottom:1em;"></div>	我们搜集需求，将其变为知识，随后又在我们的设计，实现，测试、以及文档中表达这些知识，而且我们相信，持久的存储知识的最佳格式是纯文本。<div style="padding-bottom:1em;"></div>Shell的优势<div style="padding-bottom:1em;"></div>	每个木匠都需要好用、坚固、可靠的工作台，用以在加工工件时把工件放置在方便的高度上，工作台成为木工房的中心，随着工件的成型，木匠会一次次回到工作台的近旁。<div style="padding-bottom:1em;"></div>	对于操纵文本文件的程序员，工作台就是命令shell。在shell提示下，你可以调用你的全套工具，并使用管道，以这些工具原来的开发者从未想过的方式把它们组合在一起。<div style="padding-bottom:1em;"></div>	Shell命令可以被组合进脚本文件中，你可以构建命令序列，是你常做的事情自动化。<div style="padding-bottom:1em;"></div>强力编辑<div style="padding-bottom:1em;"></div>	我们认为你最好是精通一种编辑器，并将其用于所有的编辑任务。重要的是精通。<div style="padding-bottom:1em;"></div>源码控制<div style="padding-bottom:1em;"></div>	可撤销（undo）与重做（redo）的源码控制系统可提高你的效率。<div style="padding-bottom:1em;"></div>	把整个项目置于源码控制系统的保护之下具有一项很大的、隐蔽的好处：你可以进行自动的和可重复的产品构建。（rcs）<div style="padding-bottom:1em;"></div>调试<div style="padding-bottom:1em;"></div>	要修正问题，而不是发出指责。Bug是你的过错还是别人的过错，并不是真的很有关系。它仍然是你的问题。<div style="padding-bottom:1em;"></div>调试第一准则：不要恐慌<div style="padding-bottom:1em;"></div>	一个脑细胞都不要浪费在”但那不可能发生“的思路上。<div style="padding-bottom:1em;"></div>使数据可视化<div style="padding-bottom:1em;"></div>	直截了当的”variable name=data value“（看变量的值）<div style="padding-bottom:1em;"></div>坏变量？检查它们的邻居<div style="padding-bottom:1em;"></div>	先快速的查看一下这个坏变量周围的内存。<div style="padding-bottom:1em;"></div>但是，如果没有显而易见的地方让你着手查看，你总是可以依靠好用的老式二分查找。看症状是否出现在代码中的两个远端之一，然后看中间，如果问题出现了，则bug位于起点与中点之间；否则，它就在中点与终点之间。以这种方式，你可以让范围越来越小，直到确定问题所在。<div style="padding-bottom:1em;"></div>不要假定，要证明<div style="padding-bottom:1em;"></div>	当你遇到让人吃惊的bug时，除了只是修正它以外，你还需要确定先前为什么没有找出这个故障。考虑你是否需要改进单元测试或其他测试，以让它们有能力找出这个故障。<div style="padding-bottom:1em;"></div>	还有，如果bug是一些坏数据的结果，这些数据在造成爆发之前传播通过了若干层面，看一看在这些例程中进行更好的参数检查是否能更早的隔离它。<div style="padding-bottom:1em;"></div>	如果一个bug花了很长时间修正，你是否可以做点什么，让下一次修改这个bug更容易。<div style="padding-bottom:1em;"></div>学习一种文本操纵语言<div style="padding-bottom:1em;"></div>	如Perl。<div style="padding-bottom:1em;"></div>	我们几乎每天都使用文本操纵语言，与我们注意到的其他任何语言相比，本书中的许多想法都可以用这些语言更简单地实现，这些语言使我们能够轻松的编写代码生成器。<div style="padding-bottom:1em;"></div>代码生成器<div style="padding-bottom:1em;"></div>	编写能编写代码的代码。<div style="padding-bottom:1em;"></div>	被动代码生成器减少敲键次数。它们本质上是参数化模板，根据一组输入生成给定的输出形式。被动代码生成器用途：<div style="padding-bottom:1em;"></div>		创建新的源文件<div style="padding-bottom:1em;"></div>		在编程语言之间进行一次性转换<div style="padding-bottom:1em;"></div>		生成查找表及其他在运行时计算很昂贵的资源<div style="padding-bottom:1em;"></div>	主动代码生成器只是一种便利手段。通过其你可以取某项只是的一种表示形式，将其转换为你的应用需要的所有形式，这不是重复，因为衍生出的形式可以用过就扔，并且是由代码生成器按需生成的。<div style="padding-bottom:1em;"></div>	让输入格式保持简单，代码生成器就会变得简单。你可以用代码生成器生成几乎任何输出：HTML、XML、纯文本（不一定要生成代码）<div style="padding-bottom:1em;"></div>断言式编程<div style="padding-bottom:1em;"></div>	如果它不可能发生，用断言确保它不会发生<div style="padding-bottom:1em;"></div>	原型：void assert( int expression )<div style="padding-bottom:1em;"></div>	assert的作用是现计算表达式 expression ，如果其值为假（即为0），那么它先向stderr打印一条出错信息，然后通过调用 abort 来终止程序运行。<div style="padding-bottom:1em;"></div>#include &lt;stdio.h&gt;<div style="padding-bottom:1em;"></div>#include &lt;assert.h&gt;<div style="padding-bottom:1em;"></div>#include &lt;stdlib.h&gt;<div style="padding-bottom:1em;"></div>int main( void )<div style="padding-bottom:1em;"></div>{
+       FILE *fp;<div style="padding-bottom:1em;"></div>       fp = fopen( &quot;test.txt&quot;, &quot;w&quot; );//以可写的方式打开一个文件，如果不存在就创建一个同名文件<div style="padding-bottom:1em;"></div>       assert( fp );                           //所以这里不会出错<div style="padding-bottom:1em;"></div>       fclose( fp );<div style="padding-bottom:1em;"></div>       fp = fopen( &quot;noexitfile.txt&quot;, &quot;r&quot; );//以只读的方式打开一个文件，如果不存在就打开文件失败<div style="padding-bottom:1em;"></div>       assert( fp );                           //所以这里出错<div style="padding-bottom:1em;"></div>       fclose( fp );                           //程序永远都执行不到这里来<div style="padding-bottom:1em;"></div>       return 0;<div style="padding-bottom:1em;"></div>}
+已放弃使用assert()的原因是，频繁的调用会极大的影响程序的性能，增加额外的开销。在调试结束后，可以通过在包含         #include &lt;assert.h&gt;的语句之前插入 #define NDEBUG 来禁用assert调用，示例代码如下：<div style="padding-bottom:1em;"></div>#include &lt;stdio.h&gt;<div style="padding-bottom:1em;"></div>#define NDEBUG<div style="padding-bottom:1em;"></div>#include &lt;assert.h&gt;<div style="padding-bottom:1em;"></div>按合约设计<div style="padding-bottom:1em;"></div>	按合约规定编写软件。<div style="padding-bottom:1em;"></div>	使用DBC的最大好处也许是它迫使需求与保证的问题走到前台来。<div style="padding-bottom:1em;"></div>何时使用异常<div style="padding-bottom:1em;"></div>	我们相信，异常很少应作为程序的正常流程的一部分使用；异常应保留给意外事件，假定某个未被抓住的异常会终止你的程序，问问你自己：“如果我移走所有的异常处理器，这些代码是否仍然能运行？”如果答案是“否”，那么异常也许就正在被用在非异常的情形中。<div style="padding-bottom:1em;"></div>错误处理器是另外一种选择<div style="padding-bottom:1em;"></div>	错误处理器是检测到错误时调用的例程，你可以登记一个例程处理特定范畴的错误，处理器会在其中一种错误发生时被调用。<div style="padding-bottom:1em;"></div>怎样配平资源<div style="padding-bottom:1em;"></div>	要有始有终。分配资源的例程也应该释放它。<div style="padding-bottom:1em;"></div>	对于一次需要一只一个资源的例程，可以对资源分配的基本模式进行扩展，有两个另外的建议：<div style="padding-bottom:1em;"></div>	以与资源分配的次序相反的次序解除资源的分配，这样，如果一个资源含有对另一个资源的引用，你就不会造成资源被遗弃。<div style="padding-bottom:1em;"></div>	在代码的不同地方分配同一组资源时，总是以相同的次序分配它们，这将降低发生死锁的可能性（如果进程A申请了resource1，并正要申请resource2.而进程B申请了resource2，并试图获得resource1.这两个进程就会永远等待下去）。<div style="padding-bottom:1em;"></div>无论是谁分配的资源，它都应该负责解除该资源的分配。<div style="padding-bottom:1em;"></div>元程序设计<div style="padding-bottom:1em;"></div>	再多的天才也无法胜过对细节的专注。<div style="padding-bottom:1em;"></div>动态配置<div style="padding-bottom:1em;"></div>	要配置，不要集成。<div style="padding-bottom:1em;"></div>	元数据到底是什么？严格的说，元数据是关于数据的数据，最为常见的例子可能是数据库schema或数据词典。元数据是任何对应于应用进行描述的数据——应用该怎样运行，它应该使用什么资源等等。在典型情况下，元数据在运行时，而不是编译时被访问和使用。你每时每刻都在使用元数据——至少你的程序是这样。假定你点击某个选项，隐藏你的web浏览器上的工具栏，浏览器将把该偏好作为元数据存储在某种内部数据库中。<div style="padding-bottom:1em;"></div>元数据的应用<div style="padding-bottom:1em;"></div>	我们想要尽可能多的通过元数据配置和驱动应用。我们的目标是以声明方式思考（规定要做什么，而不是怎么做），并创建高度灵活和可适应的程序。<div style="padding-bottom:1em;"></div>商业逻辑<div style="padding-bottom:1em;"></div>	于是你让数据库引擎的选择变成了配置选项，并提供了元数据来确定用户界面风格。<div style="padding-bottom:1em;"></div>	对于不那么复杂的逻辑，可以使用小型语言加以表达，从而消除在环境变化时重新编译和重新部署的需要。<div style="padding-bottom:1em;"></div>协作式配置<div style="padding-bottom:1em;"></div>	操作系统在启动时已经针对硬件进行了配置，而web浏览器会自动用新组件更新自己。<div style="padding-bottom:1em;"></div>	没有元数据，你的代码就不可能获得它应用的适应性与灵活性。<div style="padding-bottom:1em;"></div>黑板<div style="padding-bottom:1em;"></div>	没看懂。<div style="padding-bottom:1em;"></div>	用黑板协调工作流。<div style="padding-bottom:1em;"></div>	黑板系统让我们完全解除了我们的对象之间的耦合，并提供了一个“论坛”，知识消费者和生产者可以在那里匿名、异步的交换数据。如你可能会猜想的那样，它还减少了我们必须编写的代码的数量<div style="padding-bottom:1em;"></div>	基于计算机的黑板系统最初是在人工智能中应用而发明的。在那样的应用中，要解决的问题大而复杂——语音识别、基于知识的推理系统，等等。<div style="padding-bottom:1em;"></div>	现代的分布式类黑板（blackboard-like）系统，比如javaspaces和t spaces，以一种键值对模型为基础；这种模型首先在Linda中得到推广，在其中被称为元祖空间（tuple space）<div style="padding-bottom:1em;"></div>第六章 当你编码时 While you are coding<div style="padding-bottom:1em;"></div>	注重实效的程序员批判的思考所有的代码，包括我们自己的。我们不断的在我们的程序和设计中看到改进的余地。在“重构”中，我们将讨论一些即使我们还处在项目中期，也能帮助我们修正现有代码的技术。<div style="padding-bottom:1em;"></div>	只要你在制作代码，你就应当记住，有一天你必须对其进行测试，要让代码易于测试，这样你将增加它实际通过测试的可能性。<div style="padding-bottom:1em;"></div>不要靠巧合编程<div style="padding-bottom:1em;"></div>	对于你调用的例程，要只依靠记入了文档的行为，如果出于任何原因你无法做到这一点，那就充分的把你的各种假定记入文档。<div style="padding-bottom:1em;"></div>	怎样深思熟虑的编程：<div style="padding-bottom:1em;"></div>	总是意识到你在做什么。<div style="padding-bottom:1em;"></div>	不要盲目的编程，试图构建你不完全理解的应用，或是使用你不熟悉的技术，就是希望自己被巧合误导。<div style="padding-bottom:1em;"></div>	按照计划行事。<div style="padding-bottom:1em;"></div>	依靠可靠的事物。<div style="padding-bottom:1em;"></div>	为你的假定建立文档（“按合约编程”）有助于澄清你头脑中的假定，并且有助于把它们传达给别人。<div style="padding-bottom:1em;"></div>	不要只是测试你的代码，还要测试你的假定。不要猜测，要实际尝试它。<div style="padding-bottom:1em;"></div>	为你的工作划分优先级。把时间花在重要的方面；很有可能，它们是最难得部分。如果你的基本原则或基础设施不正确，再花哨的铃声和口哨也是没有用的。<div style="padding-bottom:1em;"></div>	不要做历史的奴隶，不要让已有的代码支配将来的代码。如果不再适用，所有的代码都可被替换，即使是在一个程序中，也不要让你已经做完的事情约束你下一步要做的事情——准备好进行重构，这一决策可能会影响项目的进度，我们的假定是其影响将小于不进行改动造成的影响。<div style="padding-bottom:1em;"></div>所以下次有什么东西看起来能工作，而你却不知道为什么，要确定它不是巧合。<div style="padding-bottom:1em;"></div>算法速率<div style="padding-bottom:1em;"></div>	注重实效的程序员几乎每天都要使用：估计算法使用的资源——时间、处理器、内存。等等<div style="padding-bottom:1em;"></div>	一般输入越多，运行时间就越长，或者使用的内存就越多。<div style="padding-bottom:1em;"></div>O()表示法<div style="padding-bottom:1em;"></div>	就是时间复杂度。<div style="padding-bottom:1em;"></div>	各种算法运行时间：<div style="padding-bottom:1em;"></div>一些常见的O()算法：<div style="padding-bottom:1em;"></div>	O(1)	常量型（访问数组元素，简单语句）<div style="padding-bottom:1em;"></div>	O(lg(n))	对数型（二分查找），lg(n)表示法是log2(n)de 简写。<div style="padding-bottom:1em;"></div>	O(n)	线性型（顺序查找）<div style="padding-bottom:1em;"></div>	O(nlg(n))	比线性差，但不会差很多（快速排序、堆排序的平均运行时间）<div style="padding-bottom:1em;"></div>	O(㎡)	平方律型(选择和插入排序)<div style="padding-bottom:1em;"></div>	O(㎥)	平方型（2m*m矩阵相乘）<div style="padding-bottom:1em;"></div>	 	指数型（旅行商问题，集合划分）<div style="padding-bottom:1em;"></div>常识估算：<div style="padding-bottom:1em;"></div>	简单循环。如果某个简单循环从1运行到n，那么算法很可能就是O(n)<div style="padding-bottom:1em;"></div>	嵌套循环。如果你需要在循环中嵌套另外的循环，那么你的算法就变成了O(m*n),这里的m和n是两个循环的界限，这通常发生在简单的排序算法中。如冒泡排序。<div style="padding-bottom:1em;"></div>	二分法。如果你的算法在每次循环时把事物集合一分为二，那么它很可能是对数型O(lg(n))算法，对有序列表的二分查找、遍历二叉树、以及查找机器字中的第一个置位了的位，都可能是O(nln(n)).<div style="padding-bottom:1em;"></div>	分而治之。划分其输入，并独立的在两个部分上进行处理，然后再把结果组合起来的算法可能是O(nln(n)),经典例子是快速排序。<div style="padding-bottom:1em;"></div>	组合。只要算法考虑事物的排列，其运行时间就有可能失去控制。这是因为排列涉及到阶乘n!，得出5个元素的组合算法所需时间是1,6个元素需要6倍的时间，7个元素需要42倍的时间。<div style="padding-bottom:1em;"></div>估算你的算法的阶<div style="padding-bottom:1em;"></div>你可以通过一些途径处理潜在的问题。如果你有一个O(㎥)算法，设法找到能使其将至O(nln(n))的分而治之的途径。<div style="padding-bottom:1em;"></div>考虑你在代码自身中所做的事情。对于较小的n值，简单的O(n^2)循环的性能可能会比复杂的O(nln(n))算法更好，特别是当O(nlg(n))算法有昂贵的内循环时。<div style="padding-bottom:1em;"></div>如果要获得准确的计时很棘手，就用代码剖析器（code profiler）获得你的算法中的不同步骤的执行次数。并针对输入的规模绘制这些数字。<div style="padding-bottom:1em;"></div>最好的算法对于你的工作并非总是最好的。如果你选择的算法有高昂的设置开销，你也需要注意，对于小输入集，这些设置时间可能会使运行时间相型见拙，并使得算法变得不再适用。<div style="padding-bottom:1em;"></div>易于测试的代码<div style="padding-bottom:1em;"></div>	我们需要从一开始就把可测试件（testability）构建进软件中，并且在把各个部分连接在一起之前对每个部分进行彻底的测试。<div style="padding-bottom:1em;"></div>单元测试<div style="padding-bottom:1em;"></div>	在隔离状态下对每个模块进行测试，目的是检验其行为，一旦我们在受控的（甚至是人为的）条件下对模块进行了彻底的测试、我们就能够更好的了解模块在广阔的世界上将怎样反应。<div style="padding-bottom:1em;"></div>针对合约进行测试<div style="padding-bottom:1em;"></div>	我们喜欢把单元测试视为针对合约的测试，我们想要编写测试用例，确保给定的单元遵守其合约。这将告诉我们两件事：代码是否符合合约，以及合约的含义是否与我那么所认为的儿一样。我们想要通过广泛的测试用例与边界条件，测试模块是否实现了它允诺的功能。<div style="padding-bottom:1em;"></div>	为测试而设计<div style="padding-bottom:1em;"></div>	当你设计模块，甚或是单个例程时，你应该既设计其合约，也设计测试该合约的代码。通过设计能够通过测试，并履行其合约的代码，你可以仔细的考虑边界条件和其他非如此便不会发现的问题。<div style="padding-bottom:1em;"></div>构建测试窗口<div style="padding-bottom:1em;"></div>	我们可以提供模块的内部状态的各种视图，而又不使用调试器。<div style="padding-bottom:1em;"></div>	含有跟踪消息的日志文件就是这样一种机制，日志消息的格式应该正规，一致，你也许想要自动解析它们，以推断程序所用的处理时间或逻辑路径，格式糟糕或不一致的诊断信息就像是一堆呕吐物——它们既难以阅读，也无法解析。<div style="padding-bottom:1em;"></div>	了解运行中的代码的内部状况的另一种机制是“热键”序列，按下特定的键组合，就会弹出一个诊断控制窗口，显示状态消息等信息，你通常不会想把这样的热键透露给最终用户，但这对于客户服务人员却非常方便。<div style="padding-bottom:1em;"></div>测试文化<div style="padding-bottom:1em;"></div>	尽管有着黑客的名声，Perl社群对单元测试和回归测试非常认真。Perl的标准模块安装过程支持回归测试：<div style="padding-bottom:1em;"></div>	%make test<div style="padding-bottom:1em;"></div>	在这方面Perl自身并无任何神奇之处，Perl使得比较和分析测试结果变得更为容易，以确保顺应性（compliance）——测试被放在特定的地方，并且有着某种预期的输出。测试时技术，但更是文化；不管所用语言是什么，我们都可以让这样的测试文化慢慢浸入项目中。<div style="padding-bottom:1em;"></div>测试你的软件，否则你的用户就得测试。<div style="padding-bottom:1em;"></div>邪恶的向导<div style="padding-bottom:1em;"></div>	如果你真的使用向导，却不理解它制作出的所有代码，你就无法理解你自己的应用。你没有能力维护它，而且在调试时会遇到很大的困难。<div style="padding-bottom:1em;"></div>	不要使用你不理解的向导代码。<div style="padding-bottom:1em;"></div>	他们说，开发者每天都在依赖他们不完全理解的事物——集成电路的量子力学、处理器的中断结构，用于调度进程的算法，系统提供的库里的代码，等等。我们同意。而且如果向导只是开发者可以依赖的一组库调用火标准的操作系统服务，我们队向导的感觉也是一样的。但它们不是，向导生成的代码变成了应用的完整组成部分。向导代码并没有被分解出来，放在整洁的接口后面——它一行一行的与joe编写的功能交织在一起。最后，它不再是向导的代码，而是开始变成joe的代码。没有人应该制作他们不完全理解的代码。<div style="padding-bottom:1em;"></div>解开不可能解开的谜题<div style="padding-bottom:1em;"></div>自由度<div style="padding-bottom:1em;"></div>	问题并不在于你是在盒子里面思考，还是在盒子外面思考，而在于找到盒子——确定真正的约束。<div style="padding-bottom:1em;"></div>	如果问题是“不可能解决的”这正是你退回一步，问问自己以下问题的时候：<div style="padding-bottom:1em;"></div>	有更容易的方法吗？<div style="padding-bottom:1em;"></div>	你是在设法解决真正的问题，还是被外围的技术问题转移了注意力？<div style="padding-bottom:1em;"></div>	这件事情为什么是一个问题？<div style="padding-bottom:1em;"></div>	是什么使它如此难以解决？<div style="padding-bottom:1em;"></div>	它必须以这种方式完成吗？<div style="padding-bottom:1em;"></div>	它真的必须完成吗？<div style="padding-bottom:1em;"></div>等你准备好<div style="padding-bottom:1em;"></div>	有时犹豫的人会得以保全<div style="padding-bottom:1em;"></div>	了不起的表演者有一个共同的特征：他们知道何时开始，何时等待。跳水运动员站在高台上，等待完美的时刻起跳。指挥站在乐队前面，手臂举起，直到她感觉到某个瞬间适于开始演奏。<div style="padding-bottom:1em;"></div>	倾听反复出现的疑惑——等你准备好再开始<div style="padding-bottom:1em;"></div>	当你面对一件任务时，如果你反复感觉到疑虑，或是体验到某种勉强，要注意它。你可能无法准确的指出问题所在，但给它时间，你的疑惑很可能就会结晶成某种更坚实的东西，某种你可以处理的东西。软件开发仍然不是科学，让你的直觉为你的表演做出贡献。<div style="padding-bottom:1em;"></div>是良好的判断，还是拖延<div style="padding-bottom:1em;"></div>	当你做出决定，把构建原型当做调查你的不适的一种方法时，一定要记住你为何这样做，你最不想看到的事情就是，你花了几个星期认真的进行开发，然后才想起你一开始知识要写一个原型。<div style="padding-bottom:1em;"></div>规范陷阱<div style="padding-bottom:1em;"></div>	编写规范是一项重要职责<div style="padding-bottom:1em;"></div>	有些事情“做”胜于“描述”<div style="padding-bottom:1em;"></div>	随着规范越来越详细，你得到的回报会递减，甚至会是负回报。<div style="padding-bottom:1em;"></div>	你越是把规范当做安乐毯，不让开发者进入可怕的编码世界，进入编码阶段就越困难。不要掉进这样的规范螺旋中：在某个时刻，你需要开始编码！如果你发现你的团队全部包裹在暖和、舒适的规范中，把他们赶出来，考虑构建原型，或是考虑曳光弹开发。<div style="padding-bottom:1em;"></div>圆圈与箭头<div style="padding-bottom:1em;"></div>	计算技术从不缺少意图使程序设计更像工程的方法。<div style="padding-bottom:1em;"></div>	有一些开发者盲目的追求新方法会一无所获。<div style="padding-bottom:1em;"></div>	不要做形式方法的奴隶<div style="padding-bottom:1em;"></div>是否使用形式方法<div style="padding-bottom:1em;"></div>	绝对应该。但始终要记住，形式开发方法只是工具箱里的有一种工具。如果在仔细分析之后，你觉得需要使用形式方法，那就采用它——但要记住谁是主人，不要变成方法学的奴隶。<div style="padding-bottom:1em;"></div>	注重实效的程序员批判的看待方法学，并从各种方法学中提取精华，融合成每个月都在变得更好的一套工作习惯。这至关重要。你应该不断努力提炼和改善你的开发过程，绝不要把方法学的呆板限制当做你的世界的边界。<div style="padding-bottom:1em;"></div>	昂贵的工具比一定能制作出更好的设计<div style="padding-bottom:1em;"></div>	形式方法在开发中肯定有其位置。但是，如果你遇到一个项目，其哲学是：“类图就是应用，其余的只是机械的编码”，你知道，你看到的是一个浸满水的项目团队和一个路途遥远的家。<div style="padding-bottom:1em;"></div>第八章 注重实效的项目<div style="padding-bottom:1em;"></div>注重实效的团队<div style="padding-bottom:1em;"></div>不要留破窗户<div style="padding-bottom:1em;"></div>团队作为一个整体，不应该容忍破窗户，团队必须为产品的质量负责。<div style="padding-bottom:1em;"></div>在有些团队方法学中有质量官员——团队会把保证产品质量的责任委派给他。这显然是荒谬的：责任只可能源于全体团队成员都做出自己的贡献。<div style="padding-bottom:1em;"></div>煮青蛙<div style="padding-bottom:1em;"></div>	确保每个人都主动的监视环境的变化。对新需求进行持续的度量，团队无需拒绝无法控制的变化——你只需注意到它们正在发生。否则，你就会置身于热水中。<div style="padding-bottom:1em;"></div>交流<div style="padding-bottom:1em;"></div>	显然，团队中的开发者必须相互交谈。人们很容易忘记，团队本身也存在于更大的组织中，团队作为实体需要同外界明晰的交流。<div style="padding-bottom:1em;"></div>	对外界而言，看上去沉闷寡言的项目团队是最糟糕的团队，它们文档混乱：没有统一的术语。<div style="padding-bottom:1em;"></div>	有一个简单的营销诀窍，能帮助团队作为整体与外界交流：创立品牌。当你启动项目是，给它取一个名字，最好是不寻常的名字。它能给你的团队一个用于建设的身份标识，并给外界某种难忘的、可以与你们的工作相关联的东西。<div style="padding-bottom:1em;"></div>不要重复你自己<div style="padding-bottom:1em;"></div>	有些团队指定某个成员的担任项目资料管理员，负责协调文档和代码仓库。其他团队成员在查找资料时，可以首先找这个人。通过阅读正在处理的材料，好的资料管理员还能发现正在迫近的重复。当项目太大时，可以指定多人负责各个方面。<div style="padding-bottom:1em;"></div>正交性<div style="padding-bottom:1em;"></div>	这里有一个隐含的层级关系——按照对你的授权，你越接近用户，级别就越高。<div style="padding-bottom:1em;"></div>	认为项目的各种活动——分析、设计、编码、测试——会孤立地发生，这是一个错误。它们不会孤立地发生。它们是看待同一问题的不同方式，人为的分隔它们会带来许多麻烦。离代码的用户有两、三层远的程序员不大可能注意到他们的工作的应用语境。他们将无法做出有见识的决策。<div style="padding-bottom:1em;"></div>	围绕功能，而不是工作职务进行组织<div style="padding-bottom:1em;"></div>	我们喜欢按照功能划分团队。把你的人划分成小团队。分别负责最终系统的特定方面的功能。让各团队按照各人的能力，在内部自行进行组织。每个团队都按照他们约定的承诺，对项目中的其他团队负责。承诺的确切内容随项目而变化，团队间的人员分配也是如此。这种分组方式能够极大的减少各个开发者的工作之间的相互影响、缩短时间标度、提高质量、并减少缺陷的数目。但是，只有在项目拥有负责的开发者、以及强有力的项目管理时，这种途径才有效。一个项目至少需要两个“头”——一个主管技术，一个主管行政。<div style="padding-bottom:1em;"></div>自动化<div style="padding-bottom:1em;"></div>	自动化是每个项目团队的必要组成部分。为了确保事情得以自动化，指定一个或多个团队成员担任工具构建员，构造和部署项目中的苦差事自动化的工具，让它们制作makefile、shell脚本、编辑器模板，使用程序，等等。<div style="padding-bottom:1em;"></div>知道何时停止绘画<div style="padding-bottom:1em;"></div>	要记住，团队是由个体组成的，让每个成员都能以他们自己的方式闪亮。给他们足够的空间、以支持他们，并确保项目的交付能够符合需求。然后，要像“足够好的软件”中画家一样，抵抗不断画下去的诱惑。<div style="padding-bottom:1em;"></div>无处不在的自动化<div style="padding-bottom:1em;"></div>	文明通过增加我们不假思索就能完成的重要操作的数目而取得进步<div style="padding-bottom:1em;"></div>	无论是构建和发布流程、是书面的代码复查工作、还是其他任何在项目中反复出现的任务，都必须是自动的。我们也许必须在一开始就构建启动器和喷油器，但它们一旦完成、我们从此只需转动钥匙就可以了。<div style="padding-bottom:1em;"></div>一切都要自动化<div style="padding-bottom:1em;"></div>	Shell脚本或批处理文件能以相同的次序、反复执行同样的指令。它们能被置于源码的控制之下，你因而也可以检查流程的修改历史。<div style="padding-bottom:1em;"></div>	另一个特别受欢迎的自动化工具是cron（或Windows NT上的at）。它允许我们安排无人照管的任务周期性的运行——通常是在午夜。使用cron，我们可以自动安排备份、夜间构建、网站维护、以及其他任何可以无人照管的完成的事情。<div style="padding-bottom:1em;"></div>项目编译<div style="padding-bottom:1em;"></div>	我们通常通过makefile编译项目、即使是在使用IDE环境时。使用makefile有若干好处。它是校本化，自动化的流程。我们可以增加挂钩，让其为我们生成代码，并自动运行回归测试。<div style="padding-bottom:1em;"></div>回归测试<div style="padding-bottom:1em;"></div>	你还可以让makefile为你运行回归测试，或是针对单个模块，或是针对整个子系统。<div style="padding-bottom:1em;"></div>构建自动化<div style="padding-bottom:1em;"></div>	构建是这样一个过程：取一个空目录（和一个已知的编译环境），从头开始构建项目，产生所有你希望产生的，最终交付的东西。在典型情况下，项目构建将包括以下几个步骤：<div style="padding-bottom:1em;"></div>	从仓库中签出源码<div style="padding-bottom:1em;"></div>	从头开始构建项目，在典型情况下是从顶层的makefile开始，每次构建都会标注某种形式的发布或版本号，或是日期戳。<div style="padding-bottom:1em;"></div>	创建可分发映像。这个过程可能需要确定文件所有权和权限，并严格按照发运时所需的格式，产生所有的例子、文档、README文件，以及将随同产品发运的任何东西。<div style="padding-bottom:1em;"></div>	运行规定的测试（make test）。<div style="padding-bottom:1em;"></div>如果你没有定期运行测试，你可能会发现，应用因为3个月前做出的代码改动而失败，但愿你有足够的好运气找到它。<div style="padding-bottom:1em;"></div>最终构建<div style="padding-bottom:1em;"></div>	我们喜欢使用一个单独的make目标（比如make final）,一次完成所有这些参数设置。<div style="padding-bottom:1em;"></div>	要记住，如果产品的编译方式与先前的版本不同，你必须针对这个版本再次进行所有测试。<div style="padding-bottom:1em;"></div>鞋匠的孩子<div style="padding-bottom:1em;"></div>	我们有制作更好的工具所需的所有原材料，我们有cron，在Windows和Unix平台上，我们都有make，我们还有Perl和其他一些高级脚本语言，可用于快速开发自制的工具、网页生成器、代码生成器、测试装备、等等。<div style="padding-bottom:1em;"></div>	让计算机去做重复，庸常的事情——它会做得比我们更好，我们有更重要、更困难的事情要做。<div style="padding-bottom:1em;"></div>无情的测试<div style="padding-bottom:1em;"></div>	注重实效的程序员知道，现在就要找到我们的bug，以免以后经受由别人找到我们的bug所带来的羞耻。<div style="padding-bottom:1em;"></div>	早测试，常测试，自动测试。<div style="padding-bottom:1em;"></div>	bug被发现得越早，进行修补的成本就越低。事实上，好的项目拥有的测试代码可能比产品代码还要多。编写这些测试代码所花的时间是值得的。长远来看，它最后会便宜得多，而你实际上有希望制作出接近零缺陷的产品。<div style="padding-bottom:1em;"></div>	此外，你通过了测试将给你高度的自信：一段代码已经“完成”了<div style="padding-bottom:1em;"></div>	要到通过全部测试，编码才算完成。<div style="padding-bottom:1em;"></div>单元测试<div style="padding-bottom:1em;"></div>	单元测试是对某个模块进行演练的代码。<div style="padding-bottom:1em;"></div>集成测试<div style="padding-bottom:1em;"></div>	集成测试说明组成项目的主要子系统能工作，并且能很好的协同。<div style="padding-bottom:1em;"></div>验证和校验<div style="padding-bottom:1em;"></div>	一旦你有了可执行的用户界面或原型，你需要回答一个最重要的问题：用户告诉了你他们需要什么，但那是他们需要的吗？<div style="padding-bottom:1em;"></div>	没有bug、但回答的问题本身是错误的，这样的系统不会太有用，要注意用户的访问模式、以及这些模式与开发者所用的测试数据的不同。<div style="padding-bottom:1em;"></div>性能测试<div style="padding-bottom:1em;"></div>	软件是否能满足现实世界的条件下的性能需求——预期的用户数、连接数、或每秒事物数，它可以伸缩吗？<div style="padding-bottom:1em;"></div>可用性测试<div style="padding-bottom:1em;"></div>	它是由真正的用户、在真实的环境条件下进行的。<div style="padding-bottom:1em;"></div>回归测试<div style="padding-bottom:1em;"></div>	回归测试把当前测试的输出与先前的值进行对比。我们可以确定我们今天对bug的修正没有破坏昨天可以工作的代码。<div style="padding-bottom:1em;"></div>	我们到目前为止提到过的所有测试都可作为回归测试进行，确保我们在开发新代码时没有损失任何领地。<div style="padding-bottom:1em;"></div>对测试进行测试<div style="padding-bottom:1em;"></div>	通过“蓄意破坏”测试你的测试<div style="padding-bottom:1em;"></div>	测试状态覆盖，而不是代码覆盖。<div style="padding-bottom:1em;"></div>何时进行测试<div style="padding-bottom:1em;"></div>	许多项目往往会把测试留到最后一分钟——最后期限马上就要来临时，我们需要比这早得多的开始测试，任何产品代码一旦存在，就需要进行测试。<div style="padding-bottom:1em;"></div>把网收紧<div style="padding-bottom:1em;"></div>	一个bug只抓一次<div style="padding-bottom:1em;"></div>	一旦测试人员找到了某个bug，这应该是测试人员最后一次发现这个bug。我们必须把时间花在编写新的代码——以及新的bug——上<div style="padding-bottom:1em;"></div>全部都是写<div style="padding-bottom:1em;"></div>	注重实效的程序员会把文档当作整个开发过程的完整组成部分加以接受。不进行重复劳动，不浪费时间，并且把文档放在手边——如果可能，就放在代码本身当中，文档的撰写就可以变得更容易。<div style="padding-bottom:1em;"></div>	把英语当作有一种编程语言<div style="padding-bottom:1em;"></div>	为项目制作的文档基本上有两种；内部文档和外部文档。内部文档包括源码注释、设计与测试文档，等等。外部文档是发布到外界的任何东西，比如用户手册。<div style="padding-bottom:1em;"></div>	把文档建在里面，不要拴在外面。<div style="padding-bottom:1em;"></div>代码中的注释<div style="padding-bottom:1em;"></div>	代码应该有注释，但太多的注释可能和太少一样糟。<div style="padding-bottom:1em;"></div>	注释源码给你了完美的机会，让你去把项目的那些难以描述、容易忘记，却又不能记载在别的任何地方的东西记载下载：工程上的权衡、为何要做出某些决策、放弃了哪些替代方案，等等。<div style="padding-bottom:1em;"></div>	下面是不应爱出现在源码注释中的一些内容：<div style="padding-bottom:1em;"></div>	文件中的代码导出的函数的列表。有些程序可以为你分析源码，使用它们，列表就保证是最新的。<div style="padding-bottom:1em;"></div>	修订历史。就是源码控制系统的用途所在，但是，在注释中包括最后更改日期和更改人的信息可能是有用的。<div style="padding-bottom:1em;"></div>	该文件使用的其他文件的列表。使用自动工具可以更准确的确定这些信息。<div style="padding-bottom:1em;"></div>	文件名。<div style="padding-bottom:1em;"></div>在源文件里应该出现的最重要的信息之一是作者的姓名——不一定是最后编辑文件的人、而是文件的所有者。使责任和义务与源码联系起来，能够奇迹般的使人保持诚实。<div style="padding-bottom:1em;"></div>可执行文档<div style="padding-bottom:1em;"></div>	如果你的文档是作为带有标记（makeup）命令（例如，使用HTML、LaTeX或troff）的纯文档存储的，那么你可以使用像Perl这样的工具自动提取schema，并重新对其进行格式化。<div style="padding-bottom:1em;"></div>标记语言<div style="padding-bottom:1em;"></div>	现在许多技术作者使用了DocBook来定义他们的文档，DocBook是一种基于SGML的标记语言，它仔细的标识了文档中的每一个组成成分，通过DSSSL处理器，文档可绘制成任意多种不同格式、Linux文档项目使用了DocBook来以RTF、TEX、info、PostScript和HTML格式发布信息。<div style="padding-bottom:1em;"></div>	文档和代码是同一底层模型的不同视图，但视图是唯一应该不同的东西。不要让文档编程二等公民，被排除在项目主要工作流之外。对待文档要像代码一样用心，用户（还有后来的维护者）会为你唱赞歌的。<div style="padding-bottom:1em;"></div>极大的期望<div style="padding-bottom:1em;"></div>	在现实中，项目的成功是由它在多大程度上满足了用户的期望来衡量的。<div style="padding-bottom:1em;"></div>	温和的超出用户的期望。<div style="padding-bottom:1em;"></div>交流期望<div style="padding-bottom:1em;"></div>	用户在一开始就带着想要的东西来到你面前，那可能不完整，不一致，或是在技术上不可能做到。你的部分角色就是要就此进行交流：与你的用户一同工作，以使他们正确的理解你将要交付的产品，并且要在整个开发过程中进行这样的交流。绝不要忘了你的应用要解决的商业问题。<div style="padding-bottom:1em;"></div>额外的一英里<div style="padding-bottom:1em;"></div>	给用户的东西要比用户的期望多一点。给系统增加某种面向用户的特性所需的一点额外努力将一次又一次在商誉上带来回报。<div style="padding-bottom:1em;"></div>	随着项目的进展，听取你的用户的意见，了解什么特性会使他们真的高兴。你可以相对容易的增加、并让一般用户觉得很好的特性包括：<div style="padding-bottom:1em;"></div>	气球式帮助或工具提示帮助<div style="padding-bottom:1em;"></div>	快捷键<div style="padding-bottom:1em;"></div>	作为用户手册的补充材料的快速参考指南<div style="padding-bottom:1em;"></div>	彩色化<div style="padding-bottom:1em;"></div>	日志文件分析器<div style="padding-bottom:1em;"></div>	自动化安装<div style="padding-bottom:1em;"></div>	用于检查系统完整性的工具<div style="padding-bottom:1em;"></div>	运行系统的多个版本、以进行培训的能力<div style="padding-bottom:1em;"></div>	为他们的机构定制的splash屏幕（交互式软件显示的初始画面——译注）<div style="padding-bottom:1em;"></div>每一项特性都告诉你的用户，开发团队想要开发出了不起的系统，要用于实际的系统。只是要记住，不要因为增加这些新特性而破坏系统。<div style="padding-bottom:1em;"></div>傲慢与偏见<div style="padding-bottom:1em;"></div>	注重实效的程序员不会逃避责任。相反，我们乐于接受挑战，乐于使我们的专业知识广为人知。如果我们在负责一项设计，或是一段代码，我们是在做可以引以自豪的工作。<div style="padding-bottom:1em;"></div>	在你的作品上签名<div style="padding-bottom:1em;"></div>匿名（尤其是在大型项目中）可能会为邋遢、错误、懒惰和糟糕的代码提供繁殖地。你的签名应该被视为质量的保证。<div style="padding-bottom:1em;"></div>附录<div style="padding-bottom:1em;"></div>	两个世界级的程序员专业协会：Association for Computing Machinery(ACM)和IEEE Computer Society，我们建议所有的程序员都加入其中一个，或是两个都加入。<div style="padding-bottom:1em;"></div>期刊<div style="padding-bottom:1em;"></div>	IEEE Computer<div style="padding-bottom:1em;"></div>	IEEE Software<div style="padding-bottom:1em;"></div>	Communications of the ACM<div style="padding-bottom:1em;"></div>	SIGPLAN<div style="padding-bottom:1em;"></div>	Dr.Dobbs Journal<div style="padding-bottom:1em;"></div>	The Perl Journal<div style="padding-bottom:1em;"></div>	Software Development Magazine<div style="padding-bottom:1em;"></div>书籍<div style="padding-bottom:1em;"></div>分析与设计：<div style="padding-bottom:1em;"></div>	Object_Oriented Software Construction,2nd Edition<div style="padding-bottom:1em;"></div>	Design Patterns<div style="padding-bottom:1em;"></div>	Analysis Patterns<div style="padding-bottom:1em;"></div>团队与项目：<div style="padding-bottom:1em;"></div>	The Mythical Man Month<div style="padding-bottom:1em;"></div>	Dynamics of Software Development<div style="padding-bottom:1em;"></div>	Surviving Object-Oriented Project：A Manager’s Guide<div style="padding-bottom:1em;"></div>Web：<div style="padding-bottom:1em;"></div>	Slashdot。宣称是“痴迷者的新闻、重要的资料”。Slashdot是Linux社群的网络之家中的一个。除了定期更新Linux新闻之外，该网站还提供关于各种很棒的技术和影响开发者的问题的信息。<div style="padding-bottom:1em;"></div>	Cetus Links。关于面向对象话题的数千链接。<div style="padding-bottom:1em;"></div>	WiWiWikiWeb。Portland Pattern Repository和模式讨论，这不仅是一个很好的网站，其“对各种想法进行集体编辑”的做法也是一项有趣的试验。<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/37018467/#comments">回应</a>&nbsp;&nbsp;
+                  2016-01-19 20:24
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1152111/annotation">更多读书笔记（共89篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1152111/discussion/19468682/" title="《程序员修炼之道》读书笔记" class="">《程序员修炼之道》读书笔记</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/broadview/">博文视点</a></td>
+            <td class="pl"><span class="">3 回应</span></td>
+            <td class="pl"><span class="">2012-02-14</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1152111/discussion/1026912/" title="会让人犯困的书" class="">会让人犯困的书</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/xyb/">xyb</a></td>
+            <td class="pl"><span class="">5 回应</span></td>
+            <td class="pl"><span class="">2008-12-22</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1152111/discussion/20579505/" title="这本书能够给你带来的益处无可替代" class="">这本书能够给你带来的益处无可替代</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/2288827/">何艳</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2009-12-02</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1152111/discussion/19240811/" title="假设我们今天才写这本书，会有什么不同吗？" class="">假设我们今天才写这本书，会有什么不同吗？</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/2288827/">何艳</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2009-11-25</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1152111/discussion/1208045/" title="此书英文注释版出版了" class="">此书英文注释版出版了</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/turing/">刘江</a></td>
+            <td class="pl"><span class="">3 回应</span></td>
+            <td class="pl"><span class="">2010-11-22</span></td>
+        </tr>
+</table>
+
+
+            <p class="pl" align="right">&gt;
+                <a href="https://book.douban.com/subject/1152111/discussion/">浏览更多话题</a>
+            </p>
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+    
+  
+  
+  <div class="gray_ad">
+    
+  
+
+  <h2>
+    <span class="">其他版本在豆瓣书店有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+    <div class="market-banner">
+        <a class="publish" href="https://book.douban.com/subject/5387402/" target="_blank">电子工业出版社版</a><br/>
+      <span class="title">
+        纸质版&nbsp;
+      </span>
+      <span class="price"> 44.00元</span>
+        <span class="price"> <del>55.00元</del></span>
+      <span class="promotion-info">满48元包邮</span>
+      <span class="actions">
+        <a class="buy-btn buy" target="_blank" href="https://market.douban.com/cart/checkout/?sku_id=119509&utm_campaign=douban_book_subject_buy_btn&utm_source=douban&utm_medium=pc_web">
+          去购买
+        </a>
+          <a class="j a_show_login buy-btn cart" href="javascript:;">加入购物车</a>
+      </span>
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-printed" class="no-border">
+        
+  
+
+  <h2>
+    <span class="">其他版本有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline">
+            
+              <li class="">
+                  
+                  <a target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=3690&amp;pos=1&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1152111%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D21006215&amp;srcsubj=1152111&amp;type=bkbuy&amp;subject=5387402">
+                    当当网
+                  </a>
+                  <a class="buylink-price" target="_blank" href="https://book.douban.com/link2/?pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=3690&amp;pos=1&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1152111%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D21006215&amp;srcsubj=1152111&amp;type=bkbuy&amp;subject=5387402">
+                    <span class=""> 36.90 元</span>
+                  </a>
+                  <p class="publish">
+                    <a href="https://book.douban.com/subject/5387402/" onclick="moreurl(this,{buylink:'other'})"
+                    class=" ">电子工业出版社版</a>
+                  </p>
+                </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D7-5053-9719-2&amp;subject=7505397192&amp;type=borrow&amp;library=10007&amp;link2key=685fdf6b5f" target="_blank">北京市公共图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7505397192%26otherloc%3Dtrue&amp;subject=7505397192&amp;type=borrow&amp;library=10011&amp;link2key=685fdf6b5f" target="_blank">上海市中心图书馆(4)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D7505397192%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7505397192&amp;type=borrow&amp;library=10023&amp;link2key=685fdf6b5f" target="_blank">广州其他馆藏(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F218.62.1.221%3A8080%2Fopac%2Fopenlink.php%3FstrText%3D7505397192%26strSearchType%3Disbn&amp;subject=7505397192&amp;type=borrow&amp;library=10002&amp;link2key=685fdf6b5f" target="_blank">吉林省图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fourex.lib.sjtu.edu.cn%2Fprimo_library%2Flibweb%2Faction%2Fsearch.do%3Ffn%3Dsearch%26vl%28freeText0%29%3D7-5053-9719-2&amp;subject=7505397192&amp;type=borrow&amp;library=10006&amp;link2key=685fdf6b5f" target="_blank">上海交通大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D7-5053-9719-2%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7505397192&amp;type=borrow&amp;library=10021&amp;link2key=685fdf6b5f" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1010430">全部6</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/5387402/">电子工业出版社版</a>
+          2011-1 / 692人读过 / 有售
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1417047/">Addison-Wesley Professional版</a>
+          1999-10-30 / 305人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1119873/">中国电力出版社版</a>
+          2003-8-1 / 91人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/2336183/">人民邮电出版社版</a>
+          2007-12 / 65人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1152111/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/995755/" target="_blank">程序员最应该读的图书（中译版）</a>
+                <span class="pl">(hongqn)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/31441/" target="_blank">我的编程之路</a>
+                <span class="pl">(风中纸页)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/2012097/" target="_blank">ThoughtWorks程序员读书雷达（2013）</a>
+                <span class="pl">(张凯峰)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/634490/" target="_blank">团队分享</a>
+                <span class="pl">(Fenng)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/215704/" target="_blank">网编，产品，运营，项目经理</a>
+                <span class="pl">(44)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/161835477/"><img src="https://img3.doubanio.com/icon/u161835477-1.jpg" class="pil" alt="melin" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/161835477/">melin</a><br/>
+      <div class="pl ll">          6月25日          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:程序员</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/154194462/"><img src="https://img3.doubanio.com/icon/u154194462-1.jpg" class="pil" alt="烈" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/154194462/">烈</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:程序员</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/chungechunyemen/"><img src="https://img3.doubanio.com/icon/u39760248-2.jpg" class="pil" alt="提莫" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/chungechunyemen/">提莫</a><br/>
+      <div class="pl ll">          6月24日          想读      </div>
+
+      <br/>
+
+      <span class="pl">tags:软件开发</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1152111/doings">765人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1152111/collections">2434人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1152111/wishes">7057人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1152111/offers">14本二手书欲转让</a>
+          <span class="">
+            (1.00
+                至 56.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有7057人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于程序员修炼之道的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1152111/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'KW6eCQH8Vfw',
+            criteria = '7:软件开发|7:编程|7:程序员|7:程序员修炼之道|7:计算机|7:软件工程|7:程序人生|7:programming|7:程序设计|7:编程艺术|3:/subject/1152111/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar17d-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

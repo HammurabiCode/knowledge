@@ -1,0 +1,3387 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Linux/Unix设计思想 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/7564417/">
+<meta name="keywords" content="Linux/Unix设计思想,甘卡兹,人民邮电出版社,2012-3-28,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书Linux/Unix设计思想 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/7564417/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">Linux/Unix设计思想</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s9022362.jpg" title="Linux/Unix设计思想">
+    <img src="https://img3.doubanio.com/lpic/s9022362.jpg" title="点击看大图" alt="Linux/Unix设计思想"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E7%94%98%E5%8D%A1%E5%85%B9">甘卡兹</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 人民邮电出版社<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">原作名:</span> Linux and the Unix Philosophy<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E6%BC%86%E7%8A%87">漆犇</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2012-3-28<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 168<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 39.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787115266927<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 7.7 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar40"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">542</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:30px"></div>
+
+            <span class="rating_per">22.7%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">47.6%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:35px"></div>
+
+            <span class="rating_per">26.4%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:4px"></div>
+
+            <span class="rating_per">3.1%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.2%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-7564417-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-7564417-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-7564417-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-7564417-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-7564417-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-7564417-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-7564417-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-7564417-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-7564417">
+        <a href="#" data-url="https://book.douban.com/subject/7564417/" data-desc="" data-title="书籍《Linux/Unix设计思想》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s9022362.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_7564417"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>《Linux\Unix设计思想/图灵程序设计丛书》内容简介：将Linux的开发方式与Unix的原理有效地结合起来，总结出Linux与Unix软件开发中的设计原则。《Linux\Unix设计思想/图灵程序设计丛书》前8章分别介绍了Linux与Unix中9条基本的哲学准则和10条次要准则。第9章和第10章将Unix系统的设计思想与其他系统的设计思想进行了对比。最后介绍了Unix哲学准则在其他领域中的应用。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/7564417/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_7564417_short">
+        目 录<br/>
+        译者序 5<br/>
+        序言 6<br/>
+        前言 10<br/>
+        第1章 Unix哲学：集思广益的智慧 17<br/>
+        1.1 “非我发明”综合症 18<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_7564417_short').hide();$('#dir_7564417_full').show();$.get('/j/subject/j_dir_count',{id:7564417});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_7564417_full" style="display:none">
+        目 录<br/>
+        译者序 5<br/>
+        序言 6<br/>
+        前言 10<br/>
+        第1章 Unix哲学：集思广益的智慧 17<br/>
+        1.1 “非我发明”综合症 18<br/>
+        1.2 Unix的开发 19<br/>
+        1.3 Linux: 一个人加上一百万人的智慧 20<br/>
+        1.4 Unix哲学的概况 21<br/>
+        第2章 人类的一小步 24<br/>
+        2.1 “小即是美” 25<br/>
+        2.2 让软件工程变得轻松 27<br/>
+        2.2.1 小程序易于理解 27<br/>
+        2.2.2 小程序易于维护 28<br/>
+        2.2.3 小程序消耗的系统资源较少 28<br/>
+        2.2.4 小程序容易与其它工具相结合 29<br/>
+        2.3 对“昆虫（bug）”的研究 30<br/>
+        2.4 准则2：让每一个程序做好一件事情 30<br/>
+        第3章 快速建立原型的乐趣和好处 33<br/>
+        3.1 知识与学习曲线 34<br/>
+        3.1.1事实是，每个人有自己的学习曲线 34<br/>
+        3.1.2 大师们也知道，变化不可避免 35<br/>
+        3.1.3 为什么软件会被称为“软件”？ 36<br/>
+        3.2 尽快建立一个原型 37<br/>
+        3.2.1 原型的建立是一个学习的过程 38<br/>
+        3.2.2 建立早期原型能够降低风险 38<br/>
+        3.3 人类创造的三种系统 38<br/>
+        3.4 人类的“第一个系统” 39<br/>
+        3.4.1 在背水一战的情况下，人类创建了“第一个系统” 39<br/>
+        3.4.2 他没有足够的时间将事情做好 39<br/>
+        3.4.3 人们独自开发出“第一个系统”，或最多也只是一小群人 40<br/>
+        3.4.4 “第一个系统”是一个“精简、中庸的计算机器” 41<br/>
+        3.4.5 “第一个系统”的概念可以激发他人的创造力 41<br/>
+        3.5 人类的“第二个系统” 42<br/>
+        3.5.1 “专家”使用“第一个系统”验证过的想法来创建“第二个系统” 42<br/>
+        3.5.2 “第二个系统”拥有一个设计委员会 43<br/>
+        3.5.3 “第二个系统”是臃肿和缓慢的 43<br/>
+        3.5.4 “第二个系统”被誉为是一个伟大的成就 44<br/>
+        3.6 人类的“第三个系统” 45<br/>
+        3.6.1 “第三个系统”由那些为“第二个系统”所累的人们创建 45<br/>
+        3.6.2 “第三个系统”通常涉及到对“第二个系统”的名称变更 45<br/>
+        3.6.3 最初的概念依然不变，它还是很明显 46<br/>
+        3.6.4 “第三个系统”结合了第一和第二系统的最佳特性 46<br/>
+        3.6.5 “第三个系统”的设计者时间充裕，足以将任务做好 46<br/>
+        3.7 Linux既是“第三个系统”，又是“第二个系统” 47<br/>
+        3.8 建立“第三个系统” 47<br/>
+        第4章 可移植性的高优先级 51<br/>
+        4.1 准则4：舍高效率而取“可移植性” 53<br/>
+        4.1.1 下_的硬件将会跑得更快 53<br/>
+        4.1.2 不要花太多时间去优化程序 54<br/>
+        4.1.3最高效的方法通常不具备可移植性 55<br/>
+        4.1.4 可移植的软件还减少了用户培训的需求 56<br/>
+        4.1.5 好程序永不消失——它们会被移植到新的硬件平台 56<br/>
+        4.2 准则5：采用纯文本文件来存储数据 59<br/>
+        4.2.1文本是一种常见的可转换格式 59<br/>
+        4.2.2文本文件易于阅读和编辑 60<br/>
+        4.2.3文本文件数据简化了Unix文本工具的使用 60<br/>
+        4.2.4 可移植性的增强克服了速度欠佳这一缺点 61<br/>
+        4.2.5速度欠佳这一缺点会被明年的机器克服 62<br/>
+        第5章 软件的杠杆效应! 65<br/>
+        5.1 准则六：充分利用软件的杠杆效应 67<br/>
+        5.1.1 好的程序员编写好的代码；伟大的程序员借用好的代码 67<br/>
+        5.1.2 避免“非我发明（NIH）综合症” 68<br/>
+        5.1.3 允许他人使用你的代码来发挥软件杠杆效应 70<br/>
+        5.1.4将一切自动化 71<br/>
+        5.2 准则7：使用shell脚本来提高杠杆效应和可移植性 72<br/>
+        5.2.1 Shell脚本带给你无与伦比的杠杆效应 73<br/>
+        5.2.2 Shell脚本还可以充分发挥时间的杠杆效应 75<br/>
+        5.2.3 Shell脚本比C程序更具有可移植性 76<br/>
+        5.2.4 抵制采用C语言来重写shell脚本的愿望 76<br/>
+        第6章 交互式程序的高风险 79<br/>
+        6.1 准则8：避免捕获性的用户界面（CUI） 81<br/>
+        6.1.1 CUI假定用户是人类 83<br/>
+        6.1.2 CUI命令解析器的规模总是很大，并难以编写 84<br/>
+        6.1.3 CUI倾向于采用“大即是美”的做法 85<br/>
+        6.1.4 拥有CUI的程序难以与其他项目相结合 85<br/>
+        6.1.5 CUI没有良好的扩展性 86<br/>
+        6.1.6 最重要的是，CUI无法利用软件的杠杆效应 86<br/>
+        6.1.7 “谁在乎CUI程序？人们都不愿意打字了” 87<br/>
+        6.2 准则9：让每一个程序都成为过滤器 88<br/>
+        6.2.1 自有计算技术以来，人们编写的每一个程序都是过滤器 88<br/>
+        6.2.2 程序不创建数据，只有人类才会创建数据 88<br/>
+        6.2.3 计算机将数据从一种形式转换成另一种形式 89<br/>
+        6.3 Linux环境：将程序作为过滤器使用 89<br/>
+        第7章 更多Unix哲学：十条小准则 92<br/>
+        7.1 允许用户定制环境 93<br/>
+        7.2 尽量使操作系统的内核小而轻巧 94<br/>
+        7.3 使用小写字母并尽量简短 95<br/>
+        7.4 保护树木 96<br/>
+        7.5 沉默是金 97<br/>
+        7.6 并行思考（Think parallel） 99<br/>
+        7.7 各部分之和大于整体 100<br/>
+        7.8 寻求90%的解决方案 102<br/>
+        7.9 更糟糕的反而效果更好（Worse is better） 103<br/>
+        7.10 层次思考（Think hierarchically） 104<br/>
+        第8章 让 Unix 做好一件事情 106<br/>
+        8.1 Unix哲学：综述 110<br/>
+        第9章 Unix和其他操作系统的哲学 114<br/>
+        9.1雅达利家用电脑：人类工程的艺术 115<br/>
+        9.2 MS-DOS：七千多万用户的选择不会错 118<br/>
+        9.3 VMS系统：Unix的对立面？ 120<br/>
+        第10章 拨开重重迷雾：Linux与Windows 的比较 123<br/>
+        10.1这就是内容,傻瓜! 126<br/>
+        10.1.1视觉内容：“用我自己的眼睛去看” 127<br/>
+        10.1.2有声内容：“听得到吗？” 129<br/>
+        10.1.3文字内容：“视频可以终结广播明星，却消灭不了小报” 130<br/>
+        第11章 大教堂？多么怪异！ 140<br/>
+        第12章 Unix的勇敢新世界 149<br/>
+        关于作者 164<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_7564417_full').hide();$('#dir_7564417_short').show();void(0);">收起</a>)
+</div>
+
+    
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">&#34;Linux/Unix设计思想&#34;试读</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+<div class="indent">
+<p>
+这个世纪的哲学会成为下一个世纪的常识。
+——中国幸运饼干  
+许多人都将发明Unix操作系统的殊荣授予AT&amp;T公司的Ken Thompson，从某种意义上来说，他们是对的。1969年在新泽西州美利山AT＆T公司的贝尔实验室，Thompson编写出了Unix的第一个版本。它作为Space Travel程序的平台运行在Digital PDP-7小型机上。此前，Space Travel程序运行在由麻省理工学院开发的Multics系统上。
+Uni...</p>
+<ul class="col2-list clearfix">
+
+<li>
+    <a href="https://book.douban.com/reading/17304352/">第一章：Unix哲学</a>
+</li>
+
+<li>
+    <a href="https://book.douban.com/reading/17304649/">摘录：为什么软件会被称为“软件”</a>
+</li>
+</ul>
+<div align="right">  · · · · · ·    (<a href="https://book.douban.com/subject/7564417/reading/">查看全部试读</a>)</div>
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共169个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/Linux">Linux</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/Unix">Unix</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/计算机">计算机</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/设计">设计</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/编程">编程</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/计算机科学">计算机科学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/操作系统">操作系统</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/UNIX">UNIX</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;Linux/Unix设计思想&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/388053/?dcs=subject-rec&amp;dcm=douban&amp;dct=7564417" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/388053.jpg?v=1395395845.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/388053/" target="_blank">布道之道</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/387525/?dcs=subject-rec&amp;dcm=douban&amp;dct=7564417" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/387525.jpg?v=1395395731.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/387525/" target="_blank">黑客与画家</a>
+          </div>
+          <div class="price">
+              12.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/1885884/?dcs=subject-rec&amp;dcm=douban&amp;dct=7564417" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/1885884.jpg?v=1395394151.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/1885884/" target="_blank">程序员的思维修炼</a>
+          </div>
+          <div class="price">
+              18.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/14318435/?dcs=subject-rec&amp;dcm=douban&amp;dct=7564417" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/14318435.jpg?v=1444455068.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/14318435/" target="_blank">七周七语言：理解多种编程范型</a>
+          </div>
+          <div class="price">
+              25.00元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/6473199/?dcs=subject-rec&amp;dcm=douban&amp;dct=7564417" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/6473199.jpg?v=1415885035.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/6473199/" target="_blank">白帽子讲Web安全</a>
+          </div>
+          <div class="price">
+              5.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;Linux/Unix设计思想&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10591096/" onclick="moreurl(this, {'total': 10, 'clicked': '10591096', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s9976449.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10591096/" onclick="moreurl(this, {'total': 10, 'clicked': '10591096', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            正则指引
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1467587/" onclick="moreurl(this, {'total': 10, 'clicked': '1467587', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s1631790.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1467587/" onclick="moreurl(this, {'total': 10, 'clicked': '1467587', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            UNIX编程艺术
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10746113/" onclick="moreurl(this, {'total': 10, 'clicked': '10746113', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s11329547.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10746113/" onclick="moreurl(this, {'total': 10, 'clicked': '10746113', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            HTTP权威指南
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/4163938/" onclick="moreurl(this, {'total': 10, 'clicked': '4163938', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6103451.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/4163938/" onclick="moreurl(this, {'total': 10, 'clicked': '4163938', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            软件随想录
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5355285/" onclick="moreurl(this, {'total': 10, 'clicked': '5355285', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s4549954.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5355285/" onclick="moreurl(this, {'total': 10, 'clicked': '5355285', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            编程人生
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/10797189/" onclick="moreurl(this, {'total': 10, 'clicked': '10797189', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s10328621.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/10797189/" onclick="moreurl(this, {'total': 10, 'clicked': '10797189', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            编写可读代码的艺术
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/6003832/" onclick="moreurl(this, {'total': 10, 'clicked': '6003832', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s4656028.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/6003832/" onclick="moreurl(this, {'total': 10, 'clicked': '6003832', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            软件框架设计的艺术
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/11614538/" onclick="moreurl(this, {'total': 10, 'clicked': '11614538', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s11194203.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/11614538/" onclick="moreurl(this, {'total': 10, 'clicked': '11614538', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            程序员的职业素养
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/5980062/" onclick="moreurl(this, {'total': 10, 'clicked': '5980062', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s7673571.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/5980062/" onclick="moreurl(this, {'total': 10, 'clicked': '5980062', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            Java Performance
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/21964984/" onclick="moreurl(this, {'total': 10, 'clicked': '21964984', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s25812589.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/21964984/" onclick="moreurl(this, {'total': 10, 'clicked': '21964984', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            领域特定语言
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/7564417/comments/">全部 245 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="524018694">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-524018694" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-524018694" class="j a_show_login" data-cid="524018694">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/supersheep/">山大芋早就想</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-12-25</span>
+                </span>
+            </h3>
+            <p class="comment-content">讲完九条准则就在不断论证了，后程有点不耐烦，前半本还是看的蛮舒畅的</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="556798558">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-556798558" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-556798558" class="j a_show_login" data-cid="556798558">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/gcd0318/">壶碟会上探花郎</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-07-22</span>
+                </span>
+            </h3>
+            <p class="comment-content">这本书一直在回答一个问题：为什么我那么喜欢Unix，以及，为什么Unix注定只能是非主流。抽空我要写点读后感，而且从编程以外的角度来谈，继续尝试打通文理</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="524255291">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-524255291" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-524255291" class="j a_show_login" data-cid="524255291">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/lightory/">Light</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-05-06</span>
+                </span>
+            </h3>
+            <p class="comment-content">Linux 设计为与程序交互，Windows 设计为与人交互。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="527636570">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-527636570" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-527636570" class="j a_show_login" data-cid="527636570">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/kidrane/">Mars</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-05-03</span>
+                </span>
+            </h3>
+            <p class="comment-content">还好，是不是我以前读过啊，感觉没新意。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="524012760">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-524012760" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-524012760" class="j a_show_login" data-cid="524012760">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/andersc/">催眠</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2012-11-04</span>
+                </span>
+            </h3>
+            <p class="comment-content">Unix类系统有诸多经历了时间考验的设计理念，这些已渗透到计算机行业的很多领域。要更深入和全面地理解计算机，还是多看看Unix吧。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1194814440">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1194814440" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1194814440" class="j a_show_login" data-cid="1194814440">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/116036563/">uncat</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-02</span>
+                </span>
+            </h3>
+            <p class="comment-content">解答了我心中的几个疑惑，不错。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1179423428">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1179423428" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1179423428" class="j a_show_login" data-cid="1179423428">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/141574639/">Liu</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-05-03</span>
+                </span>
+            </h3>
+            <p class="comment-content">非常不错的一本 Unix “哲学”（原则）小书。第8章中的“Unix 哲学：综述”基本上概括并梳理了本书90％左右的内容，只想翻翻的人看看这几页就行了。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1129699099">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1129699099" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1129699099" class="j a_show_login" data-cid="1129699099">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/141994048/">Zingphoy</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-12-31</span>
+                </span>
+            </h3>
+            <p class="comment-content">更准确的来说，书里讲的是Unix的设计哲学，既然是哲学，那么肯定就会惹来非议，见仁见智。虽然我见识尚浅，但确实还是比较认同作者大多数观点的。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1127474768">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1127474768" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1127474768" class="j a_show_login" data-cid="1127474768">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/DreamAndDead/">DreamAndDead</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-12-28</span>
+                </span>
+            </h3>
+            <p class="comment-content">闲来无事重翻书</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1125707953">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1125707953" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1125707953" class="j a_show_login" data-cid="1125707953">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/136883888/">汤威</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2016-12-24</span>
+                </span>
+            </h3>
+            <p class="comment-content">有点薄，但是思维不错</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/7564417/comments/">更多短评 245 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/7564417/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            Linux/Unix设计思想的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 24 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5516854">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5516854/" class="title-link">Linux/Unix设计思想：关于世界观，是不是程序员...</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5516854"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/gcd0318/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u1204566-17.jpg"></a>
+    <a href="https://www.douban.com/people/gcd0318/" class="author">
+      <span property="v:reviewer">壶碟会上探花郎</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2012-07-23"
+      class="main-meta">2012-07-23 00:42:27</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5516854_short" class="review-short">
+            <div class="short-content">
+                  http://gcd0318.wordpress.com/2012/07/23/linuxunix%E8%AE%BE%E8%AE%A1%E6%80%9D%E6%83%B3%EF%BC%9A%E5%85%B3%E4%BA%8E%E4%B8%96%E7%95%8C%E8%A7%82%EF%BC%8C%E6%98%AF%E4%B8%8D%E6%98%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E5%8F%88%E5%A6%82%E4%BD%95/  这本书从头到尾都在回答两...
+
+                    <a class="pl" href="https://book.douban.com/review/5516854/#comments">(11回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">24有用 / 6没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5516854_full" class="hidden">
+            <div id="review_5516854_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5757630">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5757630/" class="title-link">软件的最终目的是为人类工作的</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5757630"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/JH_Gao/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u16242241-6.jpg"></a>
+    <a href="https://www.douban.com/people/JH_Gao/" class="author">
+      <span property="v:reviewer">JH_Gao</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2013-01-27"
+      class="main-meta">2013-01-27 23:34:00</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5757630_short" class="review-short">
+            <div class="short-content">
+                  《Linux/Unix设计思想》属于那种可以再零碎时间阅读的书，每一章节都介绍一个Unix/Linux的特性，自成体系，同时合起来有大致总结了Linux/Unix的设计上的特点。这些特点，平时使用Linux时肯定会注意到，但未必弄总结出来。 1. “小即是美”。也就是KISS原则。能简单的不要弄复杂...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">3有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5757630_full" class="hidden">
+            <div id="review_5757630_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="7247355">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/7247355/" class="title-link">为什么Unix不能成为主流</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-7247355"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/memorybox/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1770817-2.jpg"></a>
+    <a href="https://www.douban.com/people/memorybox/" class="author">
+      <span property="v:reviewer">memorybox</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2014-12-15"
+      class="main-meta">2014-12-15 08:14:44</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_7247355_short" class="review-short">
+            <div class="short-content">
+                  书中的内容不新鲜，大多散布在文档中，代码中，口口相传中，不过有人总结出来读一遍挺有意思的。  &#34;unix为何不能成为主流&#34;，这种老掉牙的论战问题，记一下书里面的看法:  1.寿命:unix和Windows的寿命是不可同日而语的，如果从1969年开算的话，unix有将近45年的历史了，而window...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_7247355_full" class="hidden">
+            <div id="review_7247355_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5769954">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5769954/" class="title-link">值得学习的思想</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5769954"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/47679906/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u47679906-5.jpg"></a>
+    <a href="https://www.douban.com/people/47679906/" class="author">
+      <span property="v:reviewer">郗晓勇</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2013-02-06"
+      class="main-meta">2013-02-06 15:16:28</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5769954_short" class="review-short">
+            <div class="short-content">
+                  第一章:Unix或者说Linux代表的是一种开发的态度,正义的态度.不遮遮掩掩.不要看不上别人,则其善者而从之,其不善者而改之.或者说有则改之,无则加勉. 第二章:小即是美说的就是尽可能的让自己能掌控当前的局面，而最好的办法就是将需要掌控的东西分割成小块，而不是盲目的一口吞。...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">1有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5769954_full" class="hidden">
+            <div id="review_5769954_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5411121">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5411121/" class="title-link">总体来说一般，达不到哲学的高度</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5411121"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/53574843/"><img width="48" height="48" src="https://img1.doubanio.com/icon/user_normal.jpg"></a>
+    <a href="https://www.douban.com/people/53574843/" class="author">
+      <span property="v:reviewer">雪山飞狐</span>
+    </a>    <span property="v:rating" class="allstar30 main-title-rating" title="还行"></span>
+  <span property="v:dtreviewed" content="2012-05-01"
+      class="main-meta">2012-05-01 17:30:42</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5411121_short" class="review-short">
+            <div class="short-content">
+                  所提到的这些准则或许是作者人生经历的提炼。但这些准则至少在当今已经不完全成立，也不适用于所有的软件开发场合。 该书用于linux初学者的入门的课外读物的话，或许有用。毕竟作者看着linux/unix一路从无到有的发展过来。  总体来说，还行，但远达不到哲学的高度。  建议持批...
+
+                    <a class="pl" href="https://book.douban.com/review/5411121/#comments">(1回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">2有用 / 2没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5411121_full" class="hidden">
+            <div id="review_5411121_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评24篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/7564417/annotation">共<span property="v:count">45</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="18057812">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ben_duyujie/"><img src="https://img3.doubanio.com/icon/u32063510-11.jpg" alt="ben" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18057812/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18057812/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ben_duyujie/" class=" " title="ben">ben</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="18057812">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/18057812/"><img src="https://img3.doubanio.com/view/page_note/small/public/p18057812-1.jpg"></a>
+                  </div>
+                  <span class=""> </span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/18057812/">(<span class="">6回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-04-30 17:33</span>
+                  
+                    &nbsp;&nbsp;<span class="">7人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p18057812-1.jpg" alt="《Linux/Unix设计思想》 "><br><span class="pic-title">《Linux/Unix设计思想》 </span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18057812/#comments">6回应</a>&nbsp;&nbsp;
+                  2012-04-30 17:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="19086662">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/1137319/"><img src="https://img3.doubanio.com/icon/u1137319-1.jpg" alt="coolzsb" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/19086662/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/19086662/" class="">第152页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/1137319/" class=" " title="coolzsb">coolzsb</a>
+              
+                <span class="allstar30" title="还行"></span>
+            </p>
+            <div class="reading-note" data-cid="19086662">
+              <div class="short">
+                
+                  <span class="">翻译得真差，微博上的托真多：下次要记得@fenng推荐的书不要花自己的钱去买！</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/19086662/">(<span class="">3回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-06-19 23:02</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                翻译得真差，微博上的托真多：下次要记得@fenng推荐的书不要花自己的钱去买！
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/19086662/#comments">3回应</a>&nbsp;&nbsp;
+                  2012-06-19 23:02
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="24204281">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/cp4/"><img src="https://img3.doubanio.com/icon/u1060691-6.jpg" alt="cp4" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/24204281/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/24204281/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/cp4/" class=" " title="cp4">cp4</a>
+                (使世界更复杂一点点)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="24204281">
+              <div class="short">
+                
+                  <span class="">在Unix环境中，可移植性的含义通常意味着人们要转而采用shell脚本来编写软件。
+.
+微优化（micro-optimization）：Unix提供了prof和其他一些工具来定位使用最频繁的程序。优化它们就够了。
+.
+提高性能的另一种方法是研究如何处理数据。
+.
+Unix常用工具及其说明：
+awk     对字段组织的文本进行操作
+cut      从文本中提取特殊的文本列
+diff
+expand  将制表符转换成空格
+expr    从一个字串中提取部分字符
+fmt      简单...</span>
+                <p class="pl">
+                  <span class="">2013-01-27 14:42</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                在Unix环境中，可移植性的含义通常意味着人们要转而采用shell脚本来编写软件。<div style="padding-bottom:1em;"></div>.
+微优化（micro-optimization）：Unix提供了prof和其他一些工具来定位使用最频繁的程序。优化它们就够了。<div style="padding-bottom:1em;"></div>.
+提高性能的另一种方法是研究如何处理数据。<div style="padding-bottom:1em;"></div>.
+Unix常用工具及其说明：<div style="padding-bottom:1em;"></div>awk     对字段组织的文本进行操作<div style="padding-bottom:1em;"></div>cut      从文本中提取特殊的文本列<div style="padding-bottom:1em;"></div>diff<div style="padding-bottom:1em;"></div>expand  将制表符转换成空格<div style="padding-bottom:1em;"></div>expr    从一个字串中提取部分字符<div style="padding-bottom:1em;"></div>fmt      简单的段落格式化工具<div style="padding-bottom:1em;"></div>grep<div style="padding-bottom:1em;"></div>head   显示文件前n行<div style="padding-bottom:1em;"></div>lex       对文件流进行词法分析<div style="padding-bottom:1em;"></div>more<div style="padding-bottom:1em;"></div>paste  将单列文本拆分成多列<div style="padding-bottom:1em;"></div>roff      综合性文本格式化和排版设置工具<div style="padding-bottom:1em;"></div>sed     非互动形式文本编辑器<div style="padding-bottom:1em;"></div>sort     对文本排序<div style="padding-bottom:1em;"></div>tail      显示后n行<div style="padding-bottom:1em;"></div>test     比较两个字符串<div style="padding-bottom:1em;"></div>tr        替换文本中选定字符<div style="padding-bottom:1em;"></div>wc      计算文件行数、字数和字符数<div style="padding-bottom:1em;"></div>.
+如果像取得非凡的成就，你就必须放大自己对这个世界的影响力。<div style="padding-bottom:1em;"></div>“杠杆效应”<div style="padding-bottom:1em;"></div>.
+要么坐看自己的利润空间被压缩为零，要么通过增值标准化应用程序来维持利润空间。<div style="padding-bottom:1em;"></div>.
+软件绝对没有什么神奇公式。任何一个有着合理逻辑思维的人都可以编写出像样的代码。<div style="padding-bottom:1em;"></div>.
+在节省了编写操作系统和应用程序集的成本之后，他们可以集中精力改善自己的应用程序，提供优质、增值的定制解决方案。……经常采取这种运作方式的公司可以出售自己的专业知识，而不是软件本身。软件公司就变成了提供咨询和定制服务的机构，而不是软件的开发商。<div style="padding-bottom:1em;"></div>.
+在我的生命中，我只见证过两个奇迹，核聚变和复利。——爱因斯坦<div style="padding-bottom:1em;"></div>.
+随着计算机技术日益成熟，存在和被感知之间的差距将逐渐扩大。<div style="padding-bottom:1em;"></div>.
+时刻谨记，所有程序都是过滤器。<div style="padding-bottom:1em;"></div>.
+请谨慎使用纸张，它就像是为数据开具的一份死亡证明书。<div style="padding-bottom:1em;"></div>.
+书中主要philosophy：<div style="padding-bottom:1em;"></div>SMALL             小既是美<div style="padding-bottom:1em;"></div>1THING            1次只做一件事情，把它做好<div style="padding-bottom:1em;"></div>PROTO            尽快做出原型<div style="padding-bottom:1em;"></div>FLAT                用出文本保存数据<div style="padding-bottom:1em;"></div>REUSE             使用别人的工作<div style="padding-bottom:1em;"></div>SCRIPT            使用脚本，快速开发，增加可移植性<div style="padding-bottom:1em;"></div>NOCUI              不要强制用户界面（庞大，可移植性和组合性差）<div style="padding-bottom:1em;"></div>FILTER             程序都是过滤器<div style="padding-bottom:1em;"></div>.
+custom              允许用户定制自己的环境<div style="padding-bottom:1em;"></div>kernel               保持内核小而轻<div style="padding-bottom:1em;"></div>lcase                 使用小些字母，尽可能简短<div style="padding-bottom:1em;"></div>trees                 少用纸张<div style="padding-bottom:1em;"></div>silence              不输出不必要的信息（简洁，在程序组合中尤其不可替代）<div style="padding-bottom:1em;"></div>parallel              并行<div style="padding-bottom:1em;"></div>sum                   部分之和大于整体（易维护，易定制，灵活）<div style="padding-bottom:1em;"></div>90%                  追求90%，不要追求完美<div style="padding-bottom:1em;"></div>worse                坏就是好<div style="padding-bottom:1em;"></div>hier                   层次化思想<div style="padding-bottom:1em;"></div>.
+你需要记住，将程序的形式表现为一个只有单一输入和单一输出的过滤器之前，你可能还没有完全理解程序的逻辑过程。<div style="padding-bottom:1em;"></div>.
+Apache Jakarta：一个优秀的社区开发的例子<div style="padding-bottom:1em;"></div>.
+我们已经从工业时代的大规模生产格局进化到大规模定制的信息时代。P162<div style="padding-bottom:1em;"></div>.
+在推广人类提供的最好的资料的同时，它也暴露出了人类腐化堕落的一面。每次在你以为已看穿了这一切时，网络总是会报复性地给你重重的一击，让你觉得自己是在螳臂当车。<div style="padding-bottom:1em;"></div>.
+请记住，大多数软件只是多方妥协后的成果，从来没有完成的时候，它们只是被发布出来。<div style="padding-bottom:1em;"></div>.
+如果Linux真的成为一款在各方面表现俱佳的系统，那它就面临灭绝的危险。<div style="padding-bottom:1em;"></div>.
+“三个系统”思想：人类只能制造出三个系统——第一个系统是个体或少数人创造性的结果，可用、高效，但是很不完整；第二个系统是一个委员会或社区的大规模开发产物，复杂、完整、庞大，被不重要的功能严重拖了后腿；第三个系统是前两者的优美折中，在前二者死掉之后成为经典。<div style="padding-bottom:1em;"></div>作者认为，Linux系统现在就是第二系统。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/24204281/#comments">回应</a>&nbsp;&nbsp;
+                  2013-01-27 14:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30952519">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foo_hack/"><img src="https://img3.doubanio.com/icon/u48156543-16.jpg" alt="MathxH" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30952519/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30952519/" class="">第150页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foo_hack/" class=" " title="MathxH">MathxH</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30952519">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/30952519/"><img src="https://img3.doubanio.com/view/page_note/small/public/p30952519-1.jpg"></a>
+                  </div>
+                  <span class="">
+</span>
+                <p class="pl">
+                  <span class="">2014-03-20 17:40</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952519-1.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952519-2.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952519-3.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952519-4.jpg" alt=""><br><span class="pic-title"></span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30952519/#comments">回应</a>&nbsp;&nbsp;
+                  2014-03-20 17:40
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="18057812">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ben_duyujie/"><img src="https://img3.doubanio.com/icon/u32063510-11.jpg" alt="ben" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18057812/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18057812/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ben_duyujie/" class=" " title="ben">ben</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="18057812">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/18057812/"><img src="https://img3.doubanio.com/view/page_note/small/public/p18057812-1.jpg"></a>
+                  </div>
+                  <span class=""> </span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/18057812/">(<span class="">6回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-04-30 17:33</span>
+                  
+                    &nbsp;&nbsp;<span class="">7人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p18057812-1.jpg" alt="《Linux/Unix设计思想》 "><br><span class="pic-title">《Linux/Unix设计思想》 </span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18057812/#comments">6回应</a>&nbsp;&nbsp;
+                  2012-04-30 17:33
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="18877478">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/oneywang/"><img src="https://img3.doubanio.com/icon/u29018866-2.jpg" alt="王银华" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/18877478/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/18877478/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/oneywang/" class=" " title="王银华">王银华</a>
+              
+            </p>
+            <div class="reading-note" data-cid="18877478">
+              <div class="short">
+                
+                  <span class="">a</span>
+                <p class="pl">
+                  <span class="">2012-06-10 23:22</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                a
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/18877478/#comments">回应</a>&nbsp;&nbsp;
+                  2012-06-10 23:22
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="20038947">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/nourl/"><img src="https://img3.doubanio.com/icon/u40845343-26.jpg" alt="蚂蚁" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/20038947/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/20038947/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/nourl/" class=" " title="蚂蚁">蚂蚁</a>
+                (为三十而立而奋斗)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="20038947">
+              <div class="short">
+                
+                  <span class="">+    小即是美
++    让每个程序只做好一件事
++    尽快建立原型
++    舍高效率，取可移植性
++    使用纯文本文件来存储数据[数据的可移植性]
++    充分利用软件的杠杆原理[代码重用的重要性]
++    使用shell脚本来提高杠杆效应和可移植性
++    避免强制的用户界面
++    让每一个程序都成为过滤器[只修改而不创造数据]
++    允许用户定制环境
++    尽量使操作系统内核小而轻巧
++    使用小写字母，并尽量保持简短
++    ...</span>
+                <p class="pl">
+                  <span class="">2012-07-31 13:43</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                +    小即是美<div style="padding-bottom:1em;"></div>+    让每个程序只做好一件事<div style="padding-bottom:1em;"></div>+    尽快建立原型<div style="padding-bottom:1em;"></div>+    舍高效率，取可移植性<div style="padding-bottom:1em;"></div>+    使用纯文本文件来存储数据[数据的可移植性]<div style="padding-bottom:1em;"></div>+    充分利用软件的杠杆原理[代码重用的重要性]<div style="padding-bottom:1em;"></div>+    使用shell脚本来提高杠杆效应和可移植性<div style="padding-bottom:1em;"></div>+    避免强制的用户界面<div style="padding-bottom:1em;"></div>+    让每一个程序都成为过滤器[只修改而不创造数据]<div style="padding-bottom:1em;"></div>+    允许用户定制环境<div style="padding-bottom:1em;"></div>+    尽量使操作系统内核小而轻巧<div style="padding-bottom:1em;"></div>+    使用小写字母，并尽量保持简短<div style="padding-bottom:1em;"></div>+    Online document<div style="padding-bottom:1em;"></div>+    沉默是金[是说Error info吧~]<div style="padding-bottom:1em;"></div>+    并行思考<div style="padding-bottom:1em;"></div>+    各部分之和大于整体[小程序的重要性]<div style="padding-bottom:1em;"></div>+    寻找90%的解决方案[满足90%的用户的需求]<div style="padding-bottom:1em;"></div>+    更坏就是更好[便宜有效的系统更容易的到普及]<div style="padding-bottom:1em;"></div>+    层次化思考
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/20038947/#comments">回应</a>&nbsp;&nbsp;
+                  2012-07-31 13:43
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="24204281">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/cp4/"><img src="https://img3.doubanio.com/icon/u1060691-6.jpg" alt="cp4" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/24204281/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/24204281/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/cp4/" class=" " title="cp4">cp4</a>
+                (使世界更复杂一点点)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="24204281">
+              <div class="short">
+                
+                  <span class="">在Unix环境中，可移植性的含义通常意味着人们要转而采用shell脚本来编写软件。
+.
+微优化（micro-optimization）：Unix提供了prof和其他一些工具来定位使用最频繁的程序。优化它们就够了。
+.
+提高性能的另一种方法是研究如何处理数据。
+.
+Unix常用工具及其说明：
+awk     对字段组织的文本进行操作
+cut      从文本中提取特殊的文本列
+diff
+expand  将制表符转换成空格
+expr    从一个字串中提取部分字符
+fmt      简单...</span>
+                <p class="pl">
+                  <span class="">2013-01-27 14:42</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                在Unix环境中，可移植性的含义通常意味着人们要转而采用shell脚本来编写软件。<div style="padding-bottom:1em;"></div>.
+微优化（micro-optimization）：Unix提供了prof和其他一些工具来定位使用最频繁的程序。优化它们就够了。<div style="padding-bottom:1em;"></div>.
+提高性能的另一种方法是研究如何处理数据。<div style="padding-bottom:1em;"></div>.
+Unix常用工具及其说明：<div style="padding-bottom:1em;"></div>awk     对字段组织的文本进行操作<div style="padding-bottom:1em;"></div>cut      从文本中提取特殊的文本列<div style="padding-bottom:1em;"></div>diff<div style="padding-bottom:1em;"></div>expand  将制表符转换成空格<div style="padding-bottom:1em;"></div>expr    从一个字串中提取部分字符<div style="padding-bottom:1em;"></div>fmt      简单的段落格式化工具<div style="padding-bottom:1em;"></div>grep<div style="padding-bottom:1em;"></div>head   显示文件前n行<div style="padding-bottom:1em;"></div>lex       对文件流进行词法分析<div style="padding-bottom:1em;"></div>more<div style="padding-bottom:1em;"></div>paste  将单列文本拆分成多列<div style="padding-bottom:1em;"></div>roff      综合性文本格式化和排版设置工具<div style="padding-bottom:1em;"></div>sed     非互动形式文本编辑器<div style="padding-bottom:1em;"></div>sort     对文本排序<div style="padding-bottom:1em;"></div>tail      显示后n行<div style="padding-bottom:1em;"></div>test     比较两个字符串<div style="padding-bottom:1em;"></div>tr        替换文本中选定字符<div style="padding-bottom:1em;"></div>wc      计算文件行数、字数和字符数<div style="padding-bottom:1em;"></div>.
+如果像取得非凡的成就，你就必须放大自己对这个世界的影响力。<div style="padding-bottom:1em;"></div>“杠杆效应”<div style="padding-bottom:1em;"></div>.
+要么坐看自己的利润空间被压缩为零，要么通过增值标准化应用程序来维持利润空间。<div style="padding-bottom:1em;"></div>.
+软件绝对没有什么神奇公式。任何一个有着合理逻辑思维的人都可以编写出像样的代码。<div style="padding-bottom:1em;"></div>.
+在节省了编写操作系统和应用程序集的成本之后，他们可以集中精力改善自己的应用程序，提供优质、增值的定制解决方案。……经常采取这种运作方式的公司可以出售自己的专业知识，而不是软件本身。软件公司就变成了提供咨询和定制服务的机构，而不是软件的开发商。<div style="padding-bottom:1em;"></div>.
+在我的生命中，我只见证过两个奇迹，核聚变和复利。——爱因斯坦<div style="padding-bottom:1em;"></div>.
+随着计算机技术日益成熟，存在和被感知之间的差距将逐渐扩大。<div style="padding-bottom:1em;"></div>.
+时刻谨记，所有程序都是过滤器。<div style="padding-bottom:1em;"></div>.
+请谨慎使用纸张，它就像是为数据开具的一份死亡证明书。<div style="padding-bottom:1em;"></div>.
+书中主要philosophy：<div style="padding-bottom:1em;"></div>SMALL             小既是美<div style="padding-bottom:1em;"></div>1THING            1次只做一件事情，把它做好<div style="padding-bottom:1em;"></div>PROTO            尽快做出原型<div style="padding-bottom:1em;"></div>FLAT                用出文本保存数据<div style="padding-bottom:1em;"></div>REUSE             使用别人的工作<div style="padding-bottom:1em;"></div>SCRIPT            使用脚本，快速开发，增加可移植性<div style="padding-bottom:1em;"></div>NOCUI              不要强制用户界面（庞大，可移植性和组合性差）<div style="padding-bottom:1em;"></div>FILTER             程序都是过滤器<div style="padding-bottom:1em;"></div>.
+custom              允许用户定制自己的环境<div style="padding-bottom:1em;"></div>kernel               保持内核小而轻<div style="padding-bottom:1em;"></div>lcase                 使用小些字母，尽可能简短<div style="padding-bottom:1em;"></div>trees                 少用纸张<div style="padding-bottom:1em;"></div>silence              不输出不必要的信息（简洁，在程序组合中尤其不可替代）<div style="padding-bottom:1em;"></div>parallel              并行<div style="padding-bottom:1em;"></div>sum                   部分之和大于整体（易维护，易定制，灵活）<div style="padding-bottom:1em;"></div>90%                  追求90%，不要追求完美<div style="padding-bottom:1em;"></div>worse                坏就是好<div style="padding-bottom:1em;"></div>hier                   层次化思想<div style="padding-bottom:1em;"></div>.
+你需要记住，将程序的形式表现为一个只有单一输入和单一输出的过滤器之前，你可能还没有完全理解程序的逻辑过程。<div style="padding-bottom:1em;"></div>.
+Apache Jakarta：一个优秀的社区开发的例子<div style="padding-bottom:1em;"></div>.
+我们已经从工业时代的大规模生产格局进化到大规模定制的信息时代。P162<div style="padding-bottom:1em;"></div>.
+在推广人类提供的最好的资料的同时，它也暴露出了人类腐化堕落的一面。每次在你以为已看穿了这一切时，网络总是会报复性地给你重重的一击，让你觉得自己是在螳臂当车。<div style="padding-bottom:1em;"></div>.
+请记住，大多数软件只是多方妥协后的成果，从来没有完成的时候，它们只是被发布出来。<div style="padding-bottom:1em;"></div>.
+如果Linux真的成为一款在各方面表现俱佳的系统，那它就面临灭绝的危险。<div style="padding-bottom:1em;"></div>.
+“三个系统”思想：人类只能制造出三个系统——第一个系统是个体或少数人创造性的结果，可用、高效，但是很不完整；第二个系统是一个委员会或社区的大规模开发产物，复杂、完整、庞大，被不重要的功能严重拖了后腿；第三个系统是前两者的优美折中，在前二者死掉之后成为经典。<div style="padding-bottom:1em;"></div>作者认为，Linux系统现在就是第二系统。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/24204281/#comments">回应</a>&nbsp;&nbsp;
+                  2013-01-27 14:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="30952519">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foo_hack/"><img src="https://img3.doubanio.com/icon/u48156543-16.jpg" alt="MathxH" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30952519/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30952519/" class="">第150页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foo_hack/" class=" " title="MathxH">MathxH</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30952519">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/30952519/"><img src="https://img3.doubanio.com/view/page_note/small/public/p30952519-1.jpg"></a>
+                  </div>
+                  <span class="">
+</span>
+                <p class="pl">
+                  <span class="">2014-03-20 17:40</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952519-1.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952519-2.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952519-3.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952519-4.jpg" alt=""><br><span class="pic-title"></span></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30952519/#comments">回应</a>&nbsp;&nbsp;
+                  2014-03-20 17:40
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30952081">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foo_hack/"><img src="https://img3.doubanio.com/icon/u48156543-16.jpg" alt="MathxH" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30952081/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30952081/" class="">第113页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foo_hack/" class=" " title="MathxH">MathxH</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30952081">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/30952081/"><img src="https://img3.doubanio.com/view/page_note/small/public/p30952081-1.jpg"></a>
+                  </div>
+                  <span class=""> 
+
+避免“强制性的用户界面”（CUI）（其实就是要让你使用目前的控制台命令行终端）
+
+
+
+
+
+
+
+CUI的命令解析器庞大得让人难以编写
+
+CUI偏好“大即是美”的做法
+
+拥有CUI的程序难以与其他项目结合
+
+CUI没有良好的扩展性
+
+CUI无法利用软件的杠杆效应
+
+CUI与GUI的关系
+
+
+
+
+
+（IDE在很多命令行工具，例如cl，lib，link等工具上做了一个抽象，抽象实体是IDE的GUI进程，通过这个GUI进程CreateProcess向命令行工..</span>
+                <p class="pl">
+                  <span class="">2014-03-20 17:19</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952081-1.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>避免“强制性的用户界面”（CUI）（其实就是要让你使用目前的控制台命令行终端）<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952081-2.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952081-3.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952081-4.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>CUI的命令解析器庞大得让人难以编写<div style="padding-bottom:1em;"></div>CUI偏好“大即是美”的做法<div style="padding-bottom:1em;"></div>拥有CUI的程序难以与其他项目结合<div style="padding-bottom:1em;"></div>CUI没有良好的扩展性<div style="padding-bottom:1em;"></div>CUI无法利用软件的杠杆效应<div style="padding-bottom:1em;"></div>CUI与GUI的关系<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952081-5.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30952081-6.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>（IDE在很多命令行工具，例如cl，lib，link等工具上做了一个抽象，抽象实体是IDE的GUI进程，通过这个GUI进程CreateProcess向命令行工具传递参数，使其工作，从而使用户“看不见”底层原理，隐藏了复杂性。始终有一天问题会暴露的。）<div style="padding-bottom:1em;"></div>让每个程序都成为一个过滤器<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img1.doubanio.com/view/page_note/large/public/p30952081-7.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>程序不会创建数据，只有人类才会创建数据<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img1.doubanio.com/view/page_note/large/public/p30952081-8.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img1.doubanio.com/view/page_note/large/public/p30952081-9.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>计算机将数据从一种形式转换成了另一种<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30952081/#comments">回应</a>&nbsp;&nbsp;
+                  2014-03-20 17:19
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30951729">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foo_hack/"><img src="https://img3.doubanio.com/icon/u48156543-16.jpg" alt="MathxH" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30951729/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30951729/" class="">第97页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foo_hack/" class=" " title="MathxH">MathxH</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30951729">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/30951729/"><img src="https://img3.doubanio.com/view/page_note/small/public/p30951729-1.jpg"></a>
+                  </div>
+                  <span class="">良好的程序员编写优秀的代码，优秀的程序员借用优秀的代码
+
+
+
+以下这段话太可怕了，开玩笑吗？：
+
+
+
+
+允许他人使用你的代码来发挥杠杆效应
+
+（其实不就是在推销软件共产主义吗？宣扬开源精神了，意识形态上的灌输啊~~~）
+
+使用Shell脚本来提高杠杆效应和可移植性 &amp; Shell脚本可以发挥无以伦比的杠杆效应
+
+
+
+Shell脚本可以发挥时间的杠杆效应
+
+
+
+Shell脚本的可移植性比C语言高
+
+抵制采用C语言来重写shel...</span>
+                <p class="pl">
+                  <span class="">2014-03-20 17:05</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                良好的程序员编写优秀的代码，优秀的程序员借用优秀的代码<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951729-1.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>以下这段话太可怕了，开玩笑吗？：<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951729-2.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>允许他人使用你的代码来发挥杠杆效应<div style="padding-bottom:1em;"></div>（其实不就是在推销软件共产主义吗？宣扬开源精神了，意识形态上的灌输啊~~~）<div style="padding-bottom:1em;"></div>使用Shell脚本来提高杠杆效应和可移植性 &amp; Shell脚本可以发挥无以伦比的杠杆效应<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951729-3.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>Shell脚本可以发挥时间的杠杆效应<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951729-4.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>Shell脚本的可移植性比C语言高<div style="padding-bottom:1em;"></div>抵制采用C语言来重写shell脚本的愿望<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30951729/#comments">回应</a>&nbsp;&nbsp;
+                  2014-03-20 17:05
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="30951224">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/foo_hack/"><img src="https://img3.doubanio.com/icon/u48156543-16.jpg" alt="MathxH" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/30951224/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/30951224/" class="">第80页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/foo_hack/" class=" " title="MathxH">MathxH</a>
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="30951224">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/30951224/"><img src="https://img3.doubanio.com/view/page_note/small/public/p30951224-1.jpg"></a>
+                  </div>
+                  <span class="">舍高效率而取移植性
+
+
+
+不要花太多时间去优化程序
+
+
+
+最高效的方法通常不可移植
+
+
+
+
+
+可移植的软件还减少了用户培训的需求
+
+好的程序永远不会消失，而会被移植到新的平台
+
+采用纯文本文件来存储数据
+
+
+
+文本是通用的可转换格式
+
+
+几乎所有目标平台都能处理文本编码的数据。使用文本可以消除很多麻烦，你不需要将自己的数据从一种二进制格式转换成另一种二进制格式
+
+
+文本文件易于阅读和编辑
+
+
+文本...</span>
+                <p class="pl">
+                  <span class="">2014-03-20 16:42</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                舍高效率而取移植性<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951224-1.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>不要花太多时间去优化程序<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951224-2.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>最高效的方法通常不可移植<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951224-3.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951224-4.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>可移植的软件还减少了用户培训的需求<div style="padding-bottom:1em;"></div>好的程序永远不会消失，而会被移植到新的平台<div style="padding-bottom:1em;"></div>采用纯文本文件来存储数据<div style="padding-bottom:1em;"></div><div class="middle"><img src="https://img3.doubanio.com/view/page_note/large/public/p30951224-5.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>文本是通用的可转换格式<div style="padding-bottom:1em;"></div><blockquote><q>
+几乎所有目标平台都能处理文本编码的数据。使用文本可以消除很多麻烦，你不需要将自己的数据从一种二进制格式转换成另一种二进制格式
+</q></blockquote><div style="padding-bottom:1em;"></div>文本文件易于阅读和编辑<div style="padding-bottom:1em;"></div><blockquote><q>
+文本简化了用户与系统之间的接口，很多Unix下的管理信息都保存在文本文件里，以便用户查阅。
+</q></blockquote><div style="padding-bottom:1em;"></div>文本数据简化了Unix文本工具的使用<div style="padding-bottom:1em;"></div>可移植性的提高克服了速度的不足 &amp; 速度的欠佳会被明年的机器克服<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/30951224/#comments">回应</a>&nbsp;&nbsp;
+                  2014-03-20 16:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/7564417/annotation">更多读书笔记（共45篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/7564417/discussion/45369517/" title="最后一章的页眉印刷错误。" class="">最后一章的页眉印刷错误。</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/iLRainyday/">iLRainyday</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2012-06-27</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/7564417/discussion/45293866/" title="上海爱看书的朋友来看看" class="">上海爱看书的朋友来看看</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/60195680/">nearwzj</a></td>
+            <td class="pl"><span class=""></span></td>
+            <td class="pl"><span class="">2012-04-08</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/7564417/discussion/45023797/" title="一本经典之作" class="">一本经典之作</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/hfut1945/">Michael</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2012-04-08</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D978-7-115-26692-7&amp;subject=7115266921&amp;type=borrow&amp;library=10007&amp;link2key=7b33ae77af" target="_blank">北京市公共图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D9787115266927&amp;subject=7115266921&amp;type=borrow&amp;library=10012&amp;link2key=7b33ae77af" target="_blank">上海市中心图书馆(3)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fopac.gzlib.gov.cn%2Fopac%2Fsearch%3Frows%3D10%26curlibcode%3DGT%26hasholding%3D1%26searchWay0%3Dmarc%26q0%3D%26logical0%3DAND%26q%3D9787115266927%26searchWay%3Disbn%26scWay%3Ddim%26searchSource%3Dreader&amp;subject=7115266921&amp;type=borrow&amp;library=10022&amp;link2key=7b33ae77af" target="_blank">广州图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F58.154.49.3%3A8080%2Fopac%2Fopenlink.php%3FhistoryCount%3D1%26strText%3D978-7-115-26692-7%26doctype%3DALL%26strSearchType%3Disbn%26match_flag%3Dforward%26displaypg%3D20%26sort%3DCATA_DATE%26orderby%3Ddesc%26showmode%3Dlist%26location%3DALL&amp;subject=7115266921&amp;type=borrow&amp;library=10010&amp;link2key=7b33ae77af" target="_blank">沈阳师范大学图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1029991">全部2</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/1989976/">Digital Press版</a>
+          2002-10-18 / 25人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/7564417/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/387968/" target="_blank">改变自己▶编程</a>
+                <span class="pl">(Chain)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/1502951/" target="_blank">2012荐书清单</a>
+                <span class="pl">(Fenng)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/336424/" target="_blank">编程C语言,Python等类书籍+知乎话题</a>
+                <span class="pl">(IVAN)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/2068817/" target="_blank">3.linux内核</a>
+                <span class="pl">(再出发)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/2775040/" target="_blank">Full Stack Web Developer</a>
+                <span class="pl">(小镇)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/JimHolms/"><img src="https://img3.doubanio.com/icon/u90677062-5.jpg" class="pil" alt="Holmes" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/JimHolms/">Holmes</a><br/>
+      <div class="pl ll">          6月25日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/selT/"><img src="https://img3.doubanio.com/icon/u46729112-6.jpg" class="pil" alt="橘子一方" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/selT/">橘子一方</a><br/>
+      <div class="pl ll">          6月17日          读过      </div>
+
+        <span class="allstar30" title="还行"></span>
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/116036563/"><img src="https://img3.doubanio.com/icon/u116036563-11.jpg" class="pil" alt="uncat" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/116036563/">uncat</a><br/>
+      <div class="pl ll">          6月2日          读过      </div>
+
+        <span class="allstar40" title="推荐"></span>
+      <br/>
+
+      <span class="pl">tags:Unix</span><br />
+
+          <span class="">解答了我心中的几个疑惑，不错。</span> <br/>
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/riverscn/"><img src="https://img3.doubanio.com/icon/u1249023-13.jpg" class="pil" alt="川叶" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/riverscn/">川叶</a><br/>
+      <div class="pl ll">          5月17日          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/7564417/doings">149人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/7564417/collections">637人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/7564417/wishes">2186人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/7564417/offers">8本二手书欲转让</a>
+          <span class="">
+            (1.00
+                至 30.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有2186人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于Linux/Unix设计思想的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/7564417/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'O-kSngQqIAo',
+            criteria = '7:Linux|7:Unix|7:计算机|7:设计|7:编程|7:计算机科学|7:操作系统|7:UNIX|7:Programming|7:linux|3:/subject/7564417/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- sindar23d-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

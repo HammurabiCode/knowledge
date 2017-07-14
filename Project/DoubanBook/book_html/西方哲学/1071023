@@ -1,0 +1,3283 @@
+
+
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans" class="ua-windows ua-ff53 book-new-nav">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>谈谈方法 (豆瓣)</title>
+  
+<script>!function(e){var o=function(o,n,t){var c,i,r=new Date;n=n||30,t=t||"/",r.setTime(r.getTime()+24*n*60*60*1e3),c="; expires="+r.toGMTString();for(i in o)e.cookie=i+"="+o[i]+c+"; path="+t},n=function(o){var n,t,c,i=o+"=",r=e.cookie.split(";");for(t=0,c=r.length;t<c;t++)if(n=r[t].replace(/^\s+|\s+$/g,""),0==n.indexOf(i))return n.substring(i.length,n.length).replace(/\"/g,"");return null},t=e.write,c={"douban.com":1,"douban.fm":1,"google.com":1,"google.cn":1,"googleapis.com":1,"gmaptiles.co.kr":1,"gstatic.com":1,"gstatic.cn":1,"google-analytics.com":1,"googleadservices.com":1},i=function(e,o){var n=new Image;n.onload=function(){},n.src="https://www.douban.com/j/except_report?kind=ra022&reason="+encodeURIComponent(e)+"&environment="+encodeURIComponent(o)},r=function(o){try{t.call(e,o)}catch(e){t(o)}},a=/<script.*?src\=["']?([^"'\s>]+)/gi,g=/http:\/\/(.+?)\.([^\/]+).+/i;e.writeln=e.write=function(e){var t,l=a.exec(e);return l&&(t=g.exec(l[1]))?c[t[2]]?void r(e):void("tqs"!==n("hj")&&(i(l[1],location.href),o({hj:"tqs"},1),setTimeout(function(){location.replace(location.href)},50))):void r(e)}}(document);
+</script>
+
+  
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+<meta http-equiv="mobile-agent" content="format=html5; url=https://m.douban.com/book/subject/1071023/">
+<meta name="keywords" content="谈谈方法,[法] 笛卡尔,商务印书馆,2000-11,简介,作者,书评,论坛,推荐,二手">
+<meta name="description" content="图书谈谈方法 介绍、书评、论坛及推荐 ">
+
+  <script>var _head_start = new Date();</script>
+  
+  <link href="https://img3.doubanio.com/f/book/0189db91698906cb9337fc8ec5be6f547a7779a0/css/book/master.css" rel="stylesheet" type="text/css">
+
+  <style type="text/css"></style>
+  <script src="https://img3.doubanio.com/f/book/0495cb173e298c28593766009c7b0a953246c5b5/js/book/lib/jquery/jquery.js"></script>
+  <script src="https://img3.doubanio.com/f/book/a6b474eb1725d602421859d928f439c018741a99/js/book/master.js"></script>
+  
+
+  
+  <link rel="stylesheet" href="https://img3.doubanio.com/f/book/15aa82bcdf414e007dee7483304105800fc59e54/css/book/subject.css">
+  <link href="https://img3.doubanio.com/f/book/5d301503fbbd8e09f3114583859789884e942f47/css/book/annotation/like.css" rel="stylesheet">
+  <script src="https://img3.doubanio.com/f/shire/3c6f2946669cfb2fc9ee4a4d1dcc41fc181cad92/js/lib/jquery.snippet.js"></script>
+  <script src="https://img3.doubanio.com/f/shire/77323ae72a612bba8b65f845491513ff3329b1bb/js/do.js" data-cfg-autoload="false"></script>
+  <script src="https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js"></script>
+    <link rel="alternate" href="https://book.douban.com/feed/subject/1071023/reviews" type="application/rss+xml" title="RSS">
+  <style type="text/css"> h2 {color: #007722;} </style>
+  <script type='text/javascript'>
+    var _vds = _vds || [];
+    (function(){ _vds.push(['setAccountId', '22c937bbd8ebd703f2d8e9445f7dfd03']);
+        _vds.push(['setCS1','user_id','0']);
+            (function() {var vds = document.createElement('script');
+                vds.type='text/javascript';
+                vds.async = true;
+                vds.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'dn-growing.qbox.me/vds.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(vds, s);
+            })();
+    })();
+</script>
+
+  
+  <script type='text/javascript'>
+    var _vwo_code=(function(){
+      var account_id=249272,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+  </script>
+
+
+  <script>  </script>
+  <link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/576925ba45219675.css">
+
+  <link rel="shortcut icon" href="https://img3.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+    <script>var _body_start = new Date();</script>
+    
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://www.douban.com/accounts/login?source=book" class="nav-login" rel="nofollow">登录</a>
+  <a href="https://www.douban.com/accounts/register?source=book" class="nav-register" rel="nofollow">注册</a>
+</div>
+
+
+    
+<div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="slogan">我们的精神角落</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+    <div id="doubanapp-tip">
+      <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 4.0 全新发布</a>
+      <a href="javascript: void 0;" class="tip-close">×</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="on">
+      <a href="https://book.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://douban.fm&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://dongxi.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-commodity&quot;,&quot;uid&quot;:&quot;0&quot;}">东西</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">市集</a>
+    </li>
+    <li>
+      <a href="#more" class="bn-more"><span>更多</span></a>
+      <div class="more-items">
+        <table cellpadding="0" cellspacing="0">
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://moment.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-moment&quot;,&quot;uid&quot;:&quot;0&quot;}">一刻</a>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <a href="https://ypy.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-ypy&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣摄影</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/6034966/shire/bundle.js" defer="defer"></script>
+
+
+
+
+  
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-book" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;book.douban.com">豆瓣读书</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;book.douban.com/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="书名、作者、ISBN" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1001" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://book.douban.com/cart/"
+     >购书单</a>
+    </li>
+    <li    ><a href="https://read.douban.com/ebooks/?dcs=book-nav&dcm=douban"
+            target="_blank"
+     >电子图书</a>
+    </li>
+    <li    ><a href="https://market.douban.com/book?utm_campaign=book_nav_freyr&utm_source=douban&utm_medium=pc_web"
+     >纸书</a>
+    </li>
+    <li    ><a href="https://book.douban.com/annual2016/?source=navigation"
+            target="_blank"
+     >2016年度榜单</a>
+    </li>
+    <li    ><a href="https://book.douban.com/standbyme/2016?source=navigation"
+            target="_blank"
+     >2016读书报告</a>
+    </li>
+    <li          class=" book-cart"
+    ><a href="https://market.douban.com/cart/?utm_campaign=book_nav_cart&utm_source=douban&utm_medium=pc_web"
+            target="_blank"
+     >购物车</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'book_search_sugg'})">
+            <img src="{{= pic}}" width="40" />
+            <div>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                <p>
+                {{if type == "b"}}
+                    {{= author_name}}
+                {{else type == "a" }}
+                    {{if en_name}}
+                        {{= en_name}}
+                    {{/if}}
+                {{/if}}
+                 </p>
+            </div>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/1f8cb0a/book/bundle.js" defer="defer"></script>
+
+
+
+
+
+    <div id="wrapper">
+        
+    <div id="dale_book_subject_top_icon"></div>
+<h1>
+    <span property="v:itemreviewed">谈谈方法</span>
+    <div class="clear"></div>
+</h1>
+
+        
+  <div id="content">
+    
+    <div class="grid-16-8 clearfix">
+      
+      <div class="article">
+
+
+
+<div class="indent">
+  <div class="subjectwrap clearfix">
+    
+
+
+
+<div class="subject clearfix">
+<div id="mainpic" class="">
+
+  
+
+  <a class="nbg"
+      href="https://img3.doubanio.com/lpic/s29000761.jpg" title="谈谈方法">
+    <img src="https://img3.doubanio.com/lpic/s29000761.jpg" title="点击看大图" alt="谈谈方法"
+         rel="v:photo" style="width: 107px">
+  </a>
+
+
+
+</div>
+
+
+
+
+
+<div id="info" class="">
+
+
+    
+    
+  
+    <span>
+      <span class="pl"> 作者</span>:
+        
+        
+        <a class="" href="/search/%E7%AC%9B%E5%8D%A1%E5%B0%94">[法] 笛卡尔</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版社:</span> 商务印书馆<br/>
+
+    
+    
+  
+
+    
+    
+  
+    <span class="pl">原作名:</span> Discours de la Méthode<br/>
+
+    
+    
+  
+    <span>
+      <span class="pl"> 译者</span>:
+        
+        
+        <a class="" href="/search/%E7%8E%8B%E5%A4%AA%E5%BA%86">王太庆</a>
+    </span><br/>
+
+    
+    
+  
+    <span class="pl">出版年:</span> 2000-11<br/>
+
+    
+    
+  
+    <span class="pl">页数:</span> 95<br/>
+
+    
+    
+  
+    <span class="pl">定价:</span> 13.00元<br/>
+
+    
+    
+  
+    <span class="pl">装帧:</span> 平装<br/>
+
+    
+    
+  
+    <span class="pl">丛书:</span>&nbsp;<a href="https://book.douban.com/series/24">汉译世界学术名著丛书·哲学</a><br>
+
+    
+    
+  
+    
+      
+      <span class="pl">ISBN:</span> 9787100030908<br/>
+
+
+</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+<div id="interest_sectl" class="">
+  <div class="rating_wrap clearbox" rel="v:rating">
+    <div class="rating_logo">豆瓣评分</div>
+    <div class="rating_self clearfix" typeof="v:Rating">
+      <strong class="ll rating_num " property="v:average"> 8.6 </strong>
+      <span property="v:best" content="10.0"></span>
+      <div class="rating_right ">
+          <div class="ll bigstar45"></div>
+            <div class="rating_sum">
+                <span class="">
+                    <a href="collections" class="rating_people"><span property="v:votes">2512</span>人评价</a>
+                </span>
+            </div>
+
+
+      </div>
+    </div>
+          
+            
+            
+<span class="stars5 starstop" title="力荐">
+    5星
+</span>
+
+            
+<div class="power" style="width:64px"></div>
+
+            <span class="rating_per">45.9%</span>
+            <br>
+            
+            
+<span class="stars4 starstop" title="推荐">
+    4星
+</span>
+
+            
+<div class="power" style="width:57px"></div>
+
+            <span class="rating_per">41.0%</span>
+            <br>
+            
+            
+<span class="stars3 starstop" title="还行">
+    3星
+</span>
+
+            
+<div class="power" style="width:17px"></div>
+
+            <span class="rating_per">12.3%</span>
+            <br>
+            
+            
+<span class="stars2 starstop" title="较差">
+    2星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.5%</span>
+            <br>
+            
+            
+<span class="stars1 starstop" title="很差">
+    1星
+</span>
+
+            
+<div class="power" style="width:0px"></div>
+
+            <span class="rating_per">0.4%</span>
+            <br>
+    </div>
+</div>
+
+  </div>
+  
+
+
+
+
+
+  
+    
+    <div id="interest_sect_level" class="clearfix">
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1071023-wish">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectwish" class="miniform">
+    <input type="submit" class="minisubmit j " value="想读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1071023-do">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectdo" class="miniform">
+    <input type="submit" class="minisubmit j " value="在读" title="" />
+</form>
+
+          </span>
+        </a>
+        <a href="#" rel="nofollow" class="j a_show_login colbutt ll" name="pbtn-1071023-collect">
+          <span>
+            
+<form method="POST" action="https://www.douban.com/register?reason=collectcollect" class="miniform">
+    <input type="submit" class="minisubmit j " value="读过" title="" />
+</form>
+
+          </span>
+        </a>
+      <div class="ll j a_stars">
+        
+    
+    评价:
+    <span id="rating"> <span id="stars" data-solid="https://img3.doubanio.com/f/shire/5a2327c04c0c231bced131ddf3f4467eb80c1c86/pics/rating_icons/star_onmouseover.png" data-hollow="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" data-solid-2x="https://img3.doubanio.com/f/shire/7258904022439076d57303c3b06ad195bf1dc41a/pics/rating_icons/star_onmouseover@2x.png" data-hollow-2x="https://img3.doubanio.com/f/shire/95cc2fa733221bb8edd28ad56a7145a5ad33383e/pics/rating_icons/star_hollow_hover@2x.png">
+
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1071023-1">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star1" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1071023-2">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star2" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1071023-3">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star3" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1071023-4">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star4" width="16" height="16"/></a>
+            <a href="https://www.douban.com/register?reason=rate" class="j a_show_login" name="pbtn-1071023-5">
+        <img src="https://img3.doubanio.com/f/shire/2520c01967207a1735171056ec588c8c1257e5f8/pics/rating_icons/star_hollow_hover.png" id="star5" width="16" height="16"/></a>
+    </span><span id="rateword" class="pl"></span>
+    <input id="n_rating" type="hidden" value=""  />
+    </span>
+
+      </div>
+      
+
+    </div>
+
+
+
+  
+  <div class="gtleft">
+    <ul class="ul_subject_menu bicelink color_gray pt6 clearfix">
+        <li>
+          <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a href="https://www.douban.com/register?reason=annotate" class="j a_show_login" rel="nofollow">写笔记</a>
+        </li>
+
+          <li>
+            <img src="https://img3.doubanio.com/f/shire/5bbf02b7b5ec12b23e214a580b6f9e481108488c/pics/add-review.gif" />&nbsp;<a class="j a_show_login" href="https://www.douban.com/register?reason=review" rel="nofollow">写书评</a>
+          </li>
+
+      <li>
+
+  <span class="rr">
+  
+
+    <img src="https://img3.doubanio.com/pics/add-cart.gif"/>
+      <a class="j a_show_login" href="http://http://www.douban.com/register?reason=addbook2cart" rel="nofollow">加入购书单</a>
+  <span class="hidden">已在<a href="https://book.douban.com/cart">购书单</a></span>
+</span><br class="clearfix" />
+</li>
+
+
+        
+        
+    
+    <li class="rec" id="C-1071023">
+        <a href="#" data-url="https://book.douban.com/subject/1071023/" data-desc="" data-title="书籍《谈谈方法》 (来自豆瓣) " data-pic="https://img3.doubanio.com/lpic/s29000761.jpg" class="bn-sharing ">分享到</a> &nbsp;&nbsp;
+    </li>
+    <script>
+    var __cache_url = __cache_url || {};
+    (function(u){
+        if(__cache_url[u]) return;
+        __cache_url[u] = true;
+        window.DoubanShareIcons = 'https://img3.doubanio.com/f/shire/d15ffd71f3f10a7210448fec5a68eaec66e7f7d0/pics/ic_shares.png';
+        var initShareButton = function() {
+          $.ajax({url:u,dataType:'script',cache:true});
+        };
+        if (typeof Do == 'function' && 'ready' in Do) {
+          Do('https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js',
+            initShareButton);
+        } else if(typeof Douban == 'object' && 'loader' in Douban) {
+          Douban.loader.batch(
+            'https://img3.doubanio.com/f/shire/8377b9498330a2e6f056d863987cc7a37eb4d486/css/ui/dialog.css',
+            'https://img3.doubanio.com/f/shire/3d185ca912c999ee7f464749201139ebf8eb6972/js/ui/dialog.js'
+          ).done(initShareButton);
+        }
+    })('https://img3.doubanio.com/f/shire/6e6a5f21daeec19bbb41bf48c07fccaa4dad4d98/js/lib/sharebutton.js');
+    </script>
+
+    </ul>
+  </div>
+
+
+    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+
+<script>
+  //bind events for collection button.
+  $('.collect_btn', '#interest_sect_level').each(function(){
+      Douban.init_collect_btn(this);
+  });
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<br clear="all">
+<div id="collect_form_1071023"></div>
+<div class="related_info">
+  
+
+
+
+
+
+
+  
+
+  <h2>
+    <span class="">内容简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="link-report">
+    
+      <div class="">
+        <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>本书是笛卡尔的一部代表作，也是他的处女作。全书分六部分：一、对各门学问的看法；二、作者寻求该方法的几条原则；三、从该方法中引导出的几项行为准则；四、作者用来证明神的存在，人的灵魂存在的理由；五、作者研究过的一系列物理问题；六、作者认为一定要做哪些事情才能使自然研究更进一步，以及促使其撰写此书的理由。本书被公认为近代哲学的宣言书，树起了理性主义认识论的大旗。</p></div>
+
+      </div>
+    
+<style>
+    #link-report .report { text-align: right; font-size: 12px; visibility: hidden; }
+    #link-report .report a { color: #BBB; }
+    #link-report .report a:hover { color: #FFF; background-color: #BBB; }
+</style>
+<script>
+    Do = (typeof Do === 'undefined')? $ : Do;
+    Do(function(){
+    $("body").delegate("#link-report", 'mouseenter mouseleave', function(e){
+      switch (e.type) {
+        case "mouseenter":
+          $(this).find(".report").css('visibility', 'visible');
+          break;
+        case "mouseleave":
+          $(this).find(".report").css('visibility', 'hidden');
+          break;
+      }
+    });
+    $("#link-report").delegate(".report a", 'click', function(e){
+        e.preventDefault();
+        var auditUrl = "https://www.douban.com/misc/audit_report?url=",
+        opt = "";
+        var obj = $(e.target).closest('#link-report');
+        var id = obj.length != 0 ? obj.data("id") : undefined;
+        var params = (opt&&id) ? '?'.concat(opt, '=', id) : '';
+        var url = auditUrl.concat("https://book.douban.com/subject/1071023/", params);
+        window.location.href = url;
+    });
+
+    $("#link-report").append('<div class="report"><a rel="nofollow" href="#">举报</a></div>');
+  });
+</script>
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+  <h2>
+    <span class="">作者简介</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+      <div class="indent ">
+          
+            <div class="">
+            <style type="text/css" media="screen">
+.intro p{text-indent:2em;word-break:normal;}
+</style>
+<div class="intro">
+    <p>笛卡尔（1569-1650），生于法国西部，8岁时被送到欧洲当时最有名的学校之一的拉夫赖公学学习。1616年获得法学硕士学位。1639年，他用拉丁文写了他最著名的著作《第一哲学沉思录》。1644年出版了《哲学原理》，1649年出版了《论灵魂的激情》。</p></div>
+
+            </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+    
+
+
+
+
+  
+
+  <h2>
+    <span class="">目录</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+<div class="indent" id="dir_1071023_short">
+        说明<br/>
+        第一部分<br/>
+        第二部分<br/>
+        第三部分<br/>
+        第四部分<br/>
+        第五部分<br/>
+    · · · · · ·
+    (<a href="javascript:$('#dir_1071023_short').hide();$('#dir_1071023_full').show();$.get('/j/subject/j_dir_count',{id:1071023});void(0);">更多</a>)
+</div>
+
+<div class="indent" id="dir_1071023_full" style="display:none">
+        说明<br/>
+        第一部分<br/>
+        第二部分<br/>
+        第三部分<br/>
+        第四部分<br/>
+        第五部分<br/>
+        第六部分<br/>
+        附录一<br/>
+        附录二<br/>
+        附录三<br/>
+        附录四<br/>
+     · · · · · ·     (<a href="javascript:$('#dir_1071023_full').hide();$('#dir_1071023_short').show();void(0);">收起</a>)
+</div>
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<div id="db-tags-section" class="blank20">
+  
+  
+
+  <h2>
+    <span class="">豆瓣成员常用的标签(共556个)</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="indent">    <span class="">
+        <a class="  tag" href="/tag/哲学">哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/笛卡尔">笛卡尔</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/方法论">方法论</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/西方哲学">西方哲学</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/理性主义">理性主义</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/法国">法国</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/方法">方法</a> &nbsp;    </span>
+    <span class="">
+        <a class="  tag" href="/tag/思维">思维</a> &nbsp;    </span>
+  </div>
+</div>
+
+
+  
+
+
+<div class="subject_show block5">
+<h2>丛书信息</h2>
+<div>
+　　<a href="https://book.douban.com/series/24">汉译世界学术名著丛书·哲学 (共231册)</a>,
+这套丛书还有
+《心的概念》,《逻辑哲学论》,《美学（第二卷）》,《我的哲学的发展》,《人类的知识》    等。</div>
+</div>
+<script>
+$(function(){$(".knnlike a").click(function(){return moreurl(this,{'from':'knnlike'})})})
+</script>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="rec-ebook-section" class="block5 subject_show">
+  
+
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;谈谈方法&#34;的人也喜欢的电子书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="tips-mod">
+    支持 Web、iPhone、iPad、Android 阅读器
+  </div>
+  <div class="content clearfix">
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/20076937/?dcs=subject-rec&amp;dcm=douban&amp;dct=1071023" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img1.doubanio.com/view/ark_article_cover/retina/public/20076937.jpg?v=1459845494.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/20076937/" target="_blank">知性改进论</a>
+          </div>
+          <div class="price">
+              4.12元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/20076540/?dcs=subject-rec&amp;dcm=douban&amp;dct=1071023" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/20076540.jpg?v=1459907092.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/20076540/" target="_blank">路标</a>
+          </div>
+          <div class="price">
+              22.75元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/6003/?dcs=subject-rec&amp;dcm=douban&amp;dct=1071023" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/6003.jpg?v=1395396099.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/6003/" target="_blank">怪鸟</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/443460/?dcs=subject-rec&amp;dcm=douban&amp;dct=1071023" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/443460.jpg?v=1395395793.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/443460/" target="_blank">基督教与罗马帝国的衰亡</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+      
+      <dl>
+        <dt>
+          <a href="https://read.douban.com/ebook/126663/?dcs=subject-rec&amp;dcm=douban&amp;dct=1071023" target="_blank">
+            <span class="cover-outer">
+              <img width="67px" height="100px" src="https://img3.doubanio.com/view/ark_article_cover/retina/public/126663.jpg?v=1395396051.0">
+            </span>
+          </a>
+        </dt>
+        <dd>
+          <div class="title">
+              <a href="https://read.douban.com/ebook/126663/" target="_blank">织锦、螃蟹奶奶和跪安</a>
+          </div>
+          <div class="price">
+              0.99元
+          </div>
+        </dd>
+      </dl>
+  </div>
+</div>
+
+<div id="db-rec-section" class="block5 subject_show knnlike">
+  
+  
+  
+
+  <h2>
+    <span class="">喜欢读&#34;谈谈方法&#34;的人也喜欢</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <div class="content clearfix">
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1076280/" onclick="moreurl(this, {'total': 10, 'clicked': '1076280', 'pos': 0, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s26278822.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1076280/" onclick="moreurl(this, {'total': 10, 'clicked': '1076280', 'pos': 0, 'identifier': 'book-rec-books'})" class="">
+            第一哲学沉思集
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1703433/" onclick="moreurl(this, {'total': 10, 'clicked': '1703433', 'pos': 1, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s2211289.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1703433/" onclick="moreurl(this, {'total': 10, 'clicked': '1703433', 'pos': 1, 'identifier': 'book-rec-books'})" class="">
+            探求真理的指导原则
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1073103/" onclick="moreurl(this, {'total': 10, 'clicked': '1073103', 'pos': 2, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s6301358.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1073103/" onclick="moreurl(this, {'total': 10, 'clicked': '1073103', 'pos': 2, 'identifier': 'book-rec-books'})" class="">
+            笛卡尔哲学原理
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1051943/" onclick="moreurl(this, {'total': 10, 'clicked': '1051943', 'pos': 3, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1730749.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1051943/" onclick="moreurl(this, {'total': 10, 'clicked': '1051943', 'pos': 3, 'identifier': 'book-rec-books'})" class="">
+            尼各马可伦理学
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1116325/" onclick="moreurl(this, {'total': 10, 'clicked': '1116325', 'pos': 4, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2306652.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1116325/" onclick="moreurl(this, {'total': 10, 'clicked': '1116325', 'pos': 4, 'identifier': 'book-rec-books'})" class="">
+            人类理解论（上下）
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1274953/" onclick="moreurl(this, {'total': 10, 'clicked': '1274953', 'pos': 5, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s1524917.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1274953/" onclick="moreurl(this, {'total': 10, 'clicked': '1274953', 'pos': 5, 'identifier': 'book-rec-books'})" class="">
+            伦理学
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1178535/" onclick="moreurl(this, {'total': 10, 'clicked': '1178535', 'pos': 6, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img1.doubanio.com/spic/s2190557.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1178535/" onclick="moreurl(this, {'total': 10, 'clicked': '1178535', 'pos': 6, 'identifier': 'book-rec-books'})" class="">
+            人性论（上下）
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1077833/" onclick="moreurl(this, {'total': 10, 'clicked': '1077833', 'pos': 7, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s6503751.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1077833/" onclick="moreurl(this, {'total': 10, 'clicked': '1077833', 'pos': 7, 'identifier': 'book-rec-books'})" class="">
+            形而上学
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1005354/" onclick="moreurl(this, {'total': 10, 'clicked': '1005354', 'pos': 8, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s2704503.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1005354/" onclick="moreurl(this, {'total': 10, 'clicked': '1005354', 'pos': 8, 'identifier': 'book-rec-books'})" class="">
+            逻辑哲学论
+          </a>
+        </dd>
+      </dl>
+      
+      <dl class="">
+        <dt>
+            <a href="https://book.douban.com/subject/1443526/" onclick="moreurl(this, {'total': 10, 'clicked': '1443526', 'pos': 9, 'identifier': 'book-rec-books'})"><img class="m_sub_img" src="https://img3.doubanio.com/spic/s24933216.jpg"/></a>
+        </dt>
+        <dd>
+          <a href="https://book.douban.com/subject/1443526/" onclick="moreurl(this, {'total': 10, 'clicked': '1443526', 'pos': 9, 'identifier': 'book-rec-books'})" class="">
+            新工具
+          </a>
+        </dd>
+      </dl>
+        <dl class="clear"></dl>
+  </div>
+</div>
+
+  
+
+
+
+
+
+
+    <link rel="stylesheet" href="https://img3.doubanio.com/f/book/c682f7ff285707caf1f889b77b9a18b20beb6681/css/book/subject/comment.css"/>
+    <div class="mod-hd">
+        
+
+        <a class="redbutt j a_show_login rr" href="https://www.douban.com/register?reason=review" rel="nofollow">
+            <span> 我来说两句 </span>
+        </a>
+
+            
+  
+
+  <h2>
+    <span class="">短评</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1071023/comments/">全部 829 条</a>
+        ) </span>
+
+  </h2>
+
+
+    </div>
+    <div class="nav-tab">
+        
+    <div class="tabs-wrapper  line">
+        <a class="short-comment-tabs on-tab" href="hot" data-tab="hot">热门</a>
+        <span>/</span>
+        <a class="short-comment-tabs " href="new" data-tab="new">最新</a>
+        <span>/</span>
+        <a class="j a_show_login " href="follows" data-tab="follows">好友</a>
+    </div>
+
+    </div>
+    <div id="comment-list-wrapper" class="indent">
+        
+
+<div id="comments" class="comment-list hot show">
+        <ul>
+                
+    <li class="comment-item" data-cid="889868289">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-889868289" class="vote-count">1</span>
+                        <a href="javascript:;" id="btn-889868289" class="j a_show_login" data-cid="889868289">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/elact/">Elact</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2015-02-03</span>
+                </span>
+            </h3>
+            <p class="comment-content">看不懂啊，等看别人消化精髓后的书评。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="363641391">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-363641391" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-363641391" class="j a_show_login" data-cid="363641391">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/nwwfewx/">伊卡洛斯</a>
+                        <span class="user-stars allstar30 rating" title="还行"></span>
+                    <span>2012-10-08</span>
+                </span>
+            </h3>
+            <p class="comment-content">有了正确的判断，就可以有正确的行动，判断得尽可能正确，行动也就尽可能正确</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="693729757">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-693729757" class="vote-count">12</span>
+                        <a href="javascript:;" id="btn-693729757" class="j a_show_login" data-cid="693729757">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/47631056/">陸釣雪</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2016-03-16</span>
+                </span>
+            </h3>
+            <p class="comment-content">在这本书里我想谈正确运用自己的理性在各门学问里寻求真理的方法，我用的是粗鄙的法语discours而非那些让我不满的哲学家和作家们所用的traité或拉丁文Dissertatio，所以王太庆给我翻译成“谈谈”而非“论”那是很合我实事求是的作风的，当然，我不是在谦虚，培根也比不上我，培根在我看来也不过是蜘蛛与蚂蚁，而远非蜜蜂，因为他不懂我的直观，不懂康德区分经验与经验的。而我在算术、几何、代数之后建立的的真正揭示秩序和量度的普遍数学目的在于使我们成为自然的主人和拥有者！读者朋友们若嫌谈话太长可以分六部分来读。第一部分是对各门学问的看法。第二部分是我所寻求的那种方法的几条主要规则。第三部分是从方法里引出的行为守则。第四部分啊哈便是我举世闻名的我思故我在！第五部分是我研究的物理学。第六部分寄望后人！</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="663340857">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-663340857" class="vote-count">2</span>
+                        <a href="javascript:;" id="btn-663340857" class="j a_show_login" data-cid="663340857">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/prinslab/">Suboxone</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2013-06-30</span>
+                </span>
+            </h3>
+            <p class="comment-content">如题本文主要内容为：谈谈正确运用自己的理性在各门学问里寻求真理的方法。实际上作者仅仅在第四章和第五章描述了自己如何从一个本原出发（我想，所以我是），通过上帝是完满的这一前提，如何一步步的推演，求知，进而了解关于形而上学，物理学等知识的细节。前三部分则是笛卡尔对过去经历的反思，生活与求知的准则和如何做出这样思考的背景。我无比惊奇于笛卡尔自我认知的经历，能够推倒一切重新用理性这个强大的且人人兼具的天然灵明小心翼翼的把哲学大厦重新建立，又取得了丰富而伟大的结果。本书的每一句话都是那么平实而可靠，可以亲眼所见他是如何一步步的进行科学研究的。文中也多处体现出了笛卡尔“君子慎独”的生活态度，他也是很明白生活的道理的。王太庆翻译的极棒纠正不少拉丁错误，遗憾的是附录没有翻译。另第六部分每个人做学问的人都该看</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="480802745">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-480802745" class="vote-count">7</span>
+                        <a href="javascript:;" id="btn-480802745" class="j a_show_login" data-cid="480802745">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/jinkai719/">阅微草堂</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2012-01-11</span>
+                </span>
+            </h3>
+            <p class="comment-content">开心！因为我已经知道我在读什么了！！！我可以理解-----形上学是什么意思了~第一允许思想的自由的分析，就是怀疑，怀疑是一切学习的开始；
+第一本我自己读明白的外国哲学的书籍 
+第二，就是分析，庖丁解牛；
+第三，就是找到最基本的东西。然后利用逻辑来构造我们的不知道的东西；
+第四，就是更广范的检查自己的得出的结论！
+允许自己的随便思考，自由的思考。。。
+</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+        
+
+<div id="comments" class="comment-list new noshow">
+        <ul>
+                
+    <li class="comment-item" data-cid="1207563045">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1207563045" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1207563045" class="j a_show_login" data-cid="1207563045">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/69024575/">hi白浅</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-26</span>
+                </span>
+            </h3>
+            <p class="comment-content">笛卡尔真幸福呐，可惜最后被瑞典女王“坑了”d(ŐдŐ๑)</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1204716406">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1204716406" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1204716406" class="j a_show_login" data-cid="1204716406">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/123405945/">伊路米</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-19</span>
+                </span>
+            </h3>
+            <p class="comment-content">- - 没看之前很容易误解『我思故我在』成字面意啊</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1203582628">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1203582628" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1203582628" class="j a_show_login" data-cid="1203582628">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/149169297/">罔鸢</a>
+                        <span class="user-stars allstar40 rating" title="推荐"></span>
+                    <span>2017-06-27</span>
+                </span>
+            </h3>
+            <p class="comment-content">改变自己的思想远比改变他人容易</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1202963040">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1202963040" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1202963040" class="j a_show_login" data-cid="1202963040">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/81406577/">非职业人</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-15</span>
+                </span>
+            </h3>
+            <p class="comment-content">很多作者个人观点，方法很少。</p>
+        </div>
+    </li>
+
+                
+    <li class="comment-item" data-cid="1200555198">
+        <div class="comment">
+            <h3>
+                <span class="comment-vote">
+                    <span id="c-1200555198" class="vote-count">0</span>
+                        <a href="javascript:;" id="btn-1200555198" class="j a_show_login" data-cid="1200555198">有用</a>
+                </span>
+                <span class="comment-info">
+                    <a href="https://www.douban.com/people/145002482/">gyx</a>
+                        <span class="user-stars allstar50 rating" title="力荐"></span>
+                    <span>2017-06-09</span>
+                </span>
+            </h3>
+            <p class="comment-content">一直认为笛卡尔引发了全人类的一次认知革命。我们被义务教育灌输了“我思故我在”（之前我从来没理解到底是什么意思）。此书，或者说，这本小册子，以本人的口吻使我获得了一次厘清，这句话，更确切地表达：我怀疑，因此我“是”。主要还是归结于语言差异（系动词）。有人说，所谓“哲学”，是思想思想的思想，那笛卡尔是真正通过思想思想立下一条退无可退的信条，并以此为基础，抛开经院哲学与先入为主，结合自己对于科学的探索，重新构建起知识与认知体系，伟大。通过这本小册子，窥得他的一些想法，在伟大之上，是他的至真至诚的上下求索，而人类最自信的时代也相伴而来...但现在，一切又不太一样了。</p>
+        </div>
+    </li>
+
+        </ul>
+</div>
+
+    </div>
+        <p>&gt; <a href="https://book.douban.com/subject/1071023/comments/">更多短评 829 条</a></p>
+    <script src="https://img3.doubanio.com/f/book/1d9c8cf5e04fc6d9cae8f10e358c6a6cd458f9b8/js/book/subject/short_comment_vote.js"></script>
+    <script src="https://img3.doubanio.com/f/book/39eace58cab8aaeec45a44e878bf0ed06f2ed0a4/js/book/subject/short_comment_nav.js"></script>
+    <script>
+        (function(){
+            $('.comment-list').delegate('.vote-comment', 'click', function(e) {
+                vote_comment(e);
+            }).delegate('.delete-comment', 'click', function(e) {
+                if (confirm('确定删除吗？')) {
+                    delete_comment(e);
+                }
+            });
+        })();
+    </script>
+
+  
+
+<link rel="stylesheet" href="https://img3.doubanio.com/misc/mixed_static/f08fbf1277833a8.css">
+
+<section class="reviews mod book-content">
+    <header>
+        <a href="new_review" rel="nofollow" class="create-review redbutt rr" 
+            data-isverify="False"
+            data-verify-url="https://www.douban.com/accounts/phone/verify?redir=https://book.douban.com/subject/1071023/new_review">
+            <span>我要写书评</span>
+        </a>
+        <h2>
+            谈谈方法的书评 · · · · · ·
+            <span class="pl">(<a href="reviews">全部 75 条</a>)</span>
+        </h2>
+    </header>
+
+
+        
+
+
+<div class="review-list">
+  
+  
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="3457751">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/3457751/" class="title-link">笛卡尔如是说</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-3457751"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/qiuyemantan/"><img width="48" height="48" src="https://img1.doubanio.com/icon/u1621721-7.jpg"></a>
+    <a href="https://www.douban.com/people/qiuyemantan/" class="author">
+      <span property="v:reviewer">秋叶</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2010-07-20"
+      class="main-meta">2010-07-20 18:47:51</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_3457751_short" class="review-short">
+            <div class="short-content">
+                  我最早知道笛卡尔是数学课，然后物理课又知道他，过去的牛人是真的牛，一通百通，你说搞数学的，23岁就看苍蝇飞，发明了解析几何，然后搞物理，玩哲学，玩得还挺好，完成物理家，哲学家，而且人家真的是玩，不是为了赚钱才去学哲学的，不像现在我们研究哲学，一开头就是马列，...
+
+                    <a class="pl" href="https://book.douban.com/review/3457751/#comments">(32回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">97有用 / 24没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_3457751_full" class="hidden">
+            <div id="review_3457751_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5328283">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5328283/" class="title-link">Descartes &lt;谈谈方法&gt; 摘要</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5328283"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/jiangxulin/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u47643947-54.jpg"></a>
+    <a href="https://www.douban.com/people/jiangxulin/" class="author">
+      <span property="v:reviewer">江绪林</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2012-03-02"
+      class="main-meta">2012-03-02 21:51:25</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5328283_short" class="review-short">
+            <div class="short-content">
+                         《谈谈方法》这个小册子是Descartes发表的第一部著作（1639），原题为&lt;谈谈正确运用自己的理性在各门学问里寻求真理的方法&gt;，部分地是笛卡尔的思想自传。至少就中译而言，大多数地方语言生动易懂。冒昧喜欢哲学的人如果一开始就不幸挑上了黑格尔或舍勒或海德格尔的书，...
+
+                    <a class="pl" href="https://book.douban.com/review/5328283/#comments">(10回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">47有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5328283_full" class="hidden">
+            <div id="review_5328283_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="5473252">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/5473252/" class="title-link">方法的重要性</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-5473252"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/49550847/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u49550847-5.jpg"></a>
+    <a href="https://www.douban.com/people/49550847/" class="author">
+      <span property="v:reviewer">arcticcircle</span>
+    </a>    <span property="v:rating" class="allstar40 main-title-rating" title="推荐"></span>
+  <span property="v:dtreviewed" content="2012-06-20"
+      class="main-meta">2012-06-20 16:29:28</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_5473252_short" class="review-short">
+            <div class="short-content">
+                         从考研失败以来，一直再思考方法性的东西。回想我以前的学习，我很少是在主动思考，更很少做连贯性的思考，或者是去写作。作为一个理工科的学生，我们一直在学习着理性的东西，总是在做各种推理，我们推理的过程就是我们思考的过程，但是，由于我们题目的要求所限，我们...
+
+                    <a class="pl" href="https://book.douban.com/review/5473252/#comments">(11回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">43有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_5473252_full" class="hidden">
+            <div id="review_5473252_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1080074">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1080074/" class="title-link">破旧立新</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1080074"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/staphanie/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1276507-2.jpg"></a>
+    <a href="https://www.douban.com/people/staphanie/" class="author">
+      <span property="v:reviewer">手可摘星辰</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2006-10-08"
+      class="main-meta">2006-10-08 20:02:38</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1080074_short" class="review-short">
+            <div class="short-content">
+                      笛卡尔主张破旧立新，他在《谈谈方法》中说：   　　“由于我们在长大成人之前当过儿童，对呈现在我们感官面前的事物做过各种各样的判断，而那时我们还没有充分运用我们的理性，所以有很多先入的偏见阻碍我们认识真理，因此我们要摆脱这些偏见的束缚，就必须在一生中有一次...
+
+                    <a class="pl" href="https://book.douban.com/review/1080074/#comments">(9回应)</a>
+                  <div class="more-info pl clearfix">
+                    <span class="left">28有用 / 3没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1080074_full" class="hidden">
+            <div id="review_1080074_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+      
+  
+
+
+
+  <div xmlns:v="http://rdf.data-vocabulary.org/#" typeof="v:Review">
+    <div class="main review-item" id="1413976">
+        
+
+  <header class="main-hd">
+    <h3 class="title">
+      <a href="https://book.douban.com/review/1413976/" class="title-link">可爱的理性</a>
+      <div class="toggle_review right">        <a href="javascript:;" id="toggle-1413976"class="indicator unfold j" title="展开全文">        </a>
+      </div>
+    </h3>
+    
+
+<div class="header-more">
+    <a class="author-avatar" href="https://www.douban.com/people/gideon/"><img width="48" height="48" src="https://img3.doubanio.com/icon/u1061019-6.jpg"></a>
+    <a href="https://www.douban.com/people/gideon/" class="author">
+      <span property="v:reviewer">High</span>
+    </a>    <span property="v:rating" class="allstar50 main-title-rating" title="力荐"></span>
+  <span property="v:dtreviewed" content="2008-06-19"
+      class="main-meta">2008-06-19 17:00:33</span>
+</div>
+
+  </header>
+
+        <div class="main-bd">
+          <div id="review_1413976_short" class="review-short">
+            <div class="short-content">
+                   在人们印象中枯燥的理论和好似不食人间烟火的科学家，一切都只是我们的印象，笛卡尔我们十分熟知的名字，在翻完这本书后会发现这个人是如此的真实和可爱。  笛卡尔是聪明的有两点 1 他和时代相比是有超越的，这点他自知，很多人聪明仅是能学的更多，而笛卡尔本人是做了很多创...
+
+                  <div class="more-info pl clearfix">
+                    <span class="left">7有用 / 0没用</span>
+                  </div>
+            </div>
+          </div>
+          <div id="review_1413976_full" class="hidden">
+            <div id="review_1413976_full_content" class="full-content"></div>
+          </div>
+        </div>
+    </div>
+  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+            <p class="pl" align="right">
+                &gt;
+                <a href="reviews">
+                    更多书评75篇
+                </a>
+            </p>
+</section>
+    
+<script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/1e25d5191146f38f.js"></script>
+
+  
+
+
+
+
+
+
+
+
+
+<div class="ugc-mod reading-notes">
+  <div class="hd">
+    <h2>
+      读书笔记&nbsp;&nbsp;· · · · · ·&nbsp;
+          <span class="pl">(<a href="https://book.douban.com/subject/1071023/annotation">共<span property="v:count">115</span>篇</a>)</span>
+
+    </h2>
+
+      <a class="redbutt rr j a_show_login" href="https://www.douban.com/register?reason=annotate" rel="nofollow"><span>我来写笔记</span></a>
+  </div>
+  
+
+    <div class="bd">
+      <ul class="inline-tabs">
+        <li class="on"><a href="#rank" id="by_rank" >按有用程度</a></li>
+        <li><a href="#page" id="by_page" >按页码先后</a></li>
+        <li><a href="#time" id="by_time" >最新笔记</a></li>
+      </ul>
+      
+  <ul class="comments by_rank" >
+      
+      <li class="ctsh clearfix" data-cid="17167008">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/ruomuyu/"><img src="https://img1.doubanio.com/icon/u3078488-8.jpg" alt="若木1.5。" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/17167008/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/17167008/" class="">第二部分</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/ruomuyu/" class=" " title="若木1.5。">若木1.5。</a>
+                (泰戈尔巴乔夫斯基)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="17167008">
+              <div class="short">
+                
+                  <span class="">
+        笛卡尔认为，“拼凑而成、出于众手的作品，往往没有一手制成的那么完美。”但是我们的现代教育体制注定了我们的思想如同现在的诸多论文一样，是“由大多数人的意见逐渐拼凑堆砌而成”，而“这些意见大多是相互抵触的”，因此，现代人头脑里拥有的知识大多都是混乱、零碎的。如何形成我们自己的完整的思想体系无疑是人所要面对的一个巨大问题。想要重新构建自身的思想体系，就如同“旧城改造”工程一样，是将旧城中的房屋...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/17167008/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2012-03-09 08:28</span>
+                  
+                    &nbsp;&nbsp;<span class="">10人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                
+        笛卡尔认为，“拼凑而成、出于众手的作品，往往没有一手制成的那么完美。”但是我们的现代教育体制注定了我们的思想如同现在的诸多论文一样，是“由大多数人的意见逐渐拼凑堆砌而成”，而“这些意见大多是相互抵触的”，因此，现代人头脑里拥有的知识大多都是混乱、零碎的。如何形成我们自己的完整的思想体系无疑是人所要面对的一个巨大问题。想要重新构建自身的思想体系，就如同“旧城改造”工程一样，是将旧城中的房屋全部拆掉再按照一个建筑师的想法重新建造还是只对城里的建筑修修补补，改变建筑样式。唯一可以使我们舒一口气的是，由于建立自己的思想体系只是属于个人的私事，不像某些涉及公众的事物一般困难无比。所以对于我们一向相信的那些意见，我们或者将其一扫而空，重新把完整的、成体系的知识再次填充进去，或者将原有的知识“用理性校正之后再收回来”。“用这种方法做人，得到的成就一定可观，大大超过死守就有基础、一味依赖年轻时并未查明是否真是就贸然听信的那些原则”。通过这种方法改造自己的思想，在完全属于自己的基础上从事建筑并不是人人都能下定决心去做的一件事。作者认为世界上有两种人不宜学习这种方法。一是经常自以为是，其实不过尔尔的人，因为他们既不能防止自己对问题没有深入思考就仓促的进行判断，也没有耐性对每一件事全都有条有理的思考。这样的人一旦开始自由地怀疑自己过去接受的原则，脱离大众所走的道路，就永远不能找到他所要走的捷径，一辈子迷惑到底。另一类人是相当讲理，或者说是相当谦虚的人。他们如若因而认定自己分辨真假的能力不如某些人，可以向那些人学习，他们就会满足于听从那些人的意见，不再自己去找更好的了。<div style="padding-bottom:1em;"></div>    从生活的经验我们也可以发现，“我们所听信的大多是成规惯例，并不是什么确切的知识；大多数人赞成并不能证明就是什么深奥的真理，因为那种真理多半是一个人发现的，不是众人发现的”。对于自我思想的改造，笛卡尔更偏向于第二种方法，而不是从一开始就大刀阔斧的将自己原有的知识和思想全部摒弃。在找到一个完全可靠的方法前，作者对自己的学习和思考提出了四点规则：<div style="padding-bottom:1em;"></div>    1.凡是我没有明确地认识到的东西，决不把它当成真的接受。即要小心避免轻率和先入为主的观点，除了清楚分明地呈现在我的心里、使我根本无法怀疑的东西之外，不要多放一点别的东西在我的判断里。<div style="padding-bottom:1em;"></div>    2.把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。<div style="padding-bottom:1em;"></div>    3.按次序进行我的思考，从最简单、最容易认识的对象开始，一点一点逐步上升，知道认识最复杂的对象，就连那那些本来没有先后关系的东西，也给它们设定一个次序。<div style="padding-bottom:1em;"></div>    4.在任何情况下，都要全面地考察，尽量普遍地复查，做到确信毫无遗漏。<div style="padding-bottom:1em;"></div>    如同数学中的推理证明一样，人们对于事物的认识遵循着一个由此推彼的必然次序，只要我们运用理性分析事物，并遵守其中的规则，就不会有什么事物使我们无法认识的。<div style="padding-bottom:1em;"></div>    对于自己提出的改造思想、认识事物的方法，笛卡尔认为：“我按照这种方法在各方面应用我的理性，虽不敢说是尽善尽美，至少可以说是把我的能力发挥到了最大限度。此外，由于运用这种方法，我的心灵逐渐养成了过细的习惯，把对象了解的更为清楚、更分明。” 笛卡尔认为一切的学问的本原都是从哲学中取得的，而其认为自己尚未在哲学中发现确实可靠的本原。在运用这种方法解决所有的学科难题之前，他认为应当首先在哲学上将这种本原建立起来。但这个工作并不是一蹴而就就可以的，而且又最怕轻率的判断和先入为主的观点。笛卡尔在写本书时只有二十三岁，其自己亦认为自己还“不够成熟，一定要多等几年，事先多花些时间准备，一面把过去接受的错误意见统统从心里连根拔去，一面搜集若干经验作为以后推论的材料，并且不断练习我所规划的那中方法，以便逐渐熟练巩固。”
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/17167008/#comments">1回应</a>&nbsp;&nbsp;
+                  2012-03-09 08:28
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="10928966">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/feseed/"><img src="https://img3.doubanio.com/icon/u10204069-36.jpg" alt="凡斯" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/10928966/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/10928966/" class="">第95页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/feseed/" class=" " title="凡斯">凡斯</a>
+                (雾中花·塔喆轮·快慢环·自明灯)
+              
+                <span class="allstar40" title="推荐"></span>
+            </p>
+            <div class="reading-note" data-cid="10928966">
+              <div class="short">
+                
+                  <span class="">杰出的人才固然能够做出最大的好事，也同样可以做出最大的坏事；行动十分缓慢的人只要始终循着正道前进，就可以比离开正道飞奔的人走在前面很多。
+
+　　　　第一条：凡是我没有明确地认识到的东西，我决不把它当成真的接受，也就是说，要小心避免轻率的判断和先入之见。 
+
+　　　　第二条：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。 
+
+　　　　第三条：按次序进行我的思考，从最简单、最...</span>
+                <p class="pl">
+                  <span class="">2011-01-27 05:32</span>
+                  
+                    &nbsp;&nbsp;<span class="">11人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                杰出的人才固然能够做出最大的好事，也同样可以做出最大的坏事；行动十分缓慢的人只要始终循着正道前进，就可以比离开正道飞奔的人走在前面很多。<div style="padding-bottom:1em;"></div>　　　　第一条：凡是我没有明确地认识到的东西，我决不把它当成真的接受，也就是说，要小心避免轻率的判断和先入之见。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　第二条：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　第三条：按次序进行我的思考，从最简单、最容易认识的对象开始，一点一点逐步上升，直到认识最复杂的对象；就连那些本来没有先后关系的东西，也给它们设定一个次序。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　最后一条：在任何情况下，都要尽量全面地考察、尽量普遍地考察，做到确信毫无遗漏。<div style="padding-bottom:1em;"></div>　　　　第一条：服从我国的法律和习俗，笃守我靠神保佑从小就接受的宗教，在其它一切事情上以周围最明智的人为榜样，尊奉他们在实践上一致接受的那些最合乎中道、最不走极端的意见，来约束自己。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　第二条：在行动上尽可能坚定果断，一旦选定某种看法，哪怕它十分可疑，也毫不动摇地坚决遵循，就像它十分可靠一样。这样做是效法森林里迷路的旅客，他们决不能胡乱地东走走西撞撞，也不能停在一个地方不动，必须始终朝着一个方向尽可能笔直地前进，尽管这个方向在开始的时候只是偶然选定的，也不要由于细小的理由改变方向，因为这样即便不能恰好走到目的地，至少最后可以走到一个地方，总比困在树林里面强。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　第三条：永远只求克服自己，不求克服命运，只求改变自己的愿望，不求改变世间的秩序。总之，要始终相信，除了我们自己的思想外，没有一样事情可以完全由我们自己做主，所以，我们对自身以外的事情尽了全力之后，凡是没有办到的，对于我们来说，就是绝对办不到的事情。我觉得明白了这一点就可以消除痴心妄想，凡是得不到的东西就不要盼望将来把它弄到手；这样就能安分守己，心满意足了．
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/10928966/#comments">回应</a>&nbsp;&nbsp;
+                  2011-01-27 05:32
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="22584158">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/xianli/"><img src="https://img3.doubanio.com/icon/u20889743-154.jpg" alt="香理" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/22584158/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/22584158/" class="">第200页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/xianli/" class=" " title="香理">香理</a>
+                (爱心天使)
+              
+            </p>
+            <div class="reading-note" data-cid="22584158">
+              <div class="short">
+                
+                  <span class="">《谈谈方法》笛卡尔　读书笔记：
+
+新兴的资产阶级要统治，百姓越愚蠢对他们越有利，迷信宗教神学经院哲学就是他们的工具。
+笛卡尔和培根是西方近代哲学的开山祖。他们认为经院哲学的错误在于方法的不对。他们的方法是依照固定的逻辑公式推出维护宗教的结论，不管根据是否可靠。
+经院哲学三个特点：信仰、先验、形式主义。
+
+培根提出经验主义，笛卡尔提出理性主义。共同点是科学研究推反形式主义。
+
+笛卡尔认为真理的获得不...</span>
+                <p class="pl">
+                  <span class="">2012-11-19 21:03</span>
+                  
+                    &nbsp;&nbsp;<span class="">3人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                《谈谈方法》笛卡尔　读书笔记：<div style="padding-bottom:1em;"></div>新兴的资产阶级要统治，百姓越愚蠢对他们越有利，迷信宗教神学经院哲学就是他们的工具。<div style="padding-bottom:1em;"></div>笛卡尔和培根是西方近代哲学的开山祖。他们认为经院哲学的错误在于方法的不对。他们的方法是依照固定的逻辑公式推出维护宗教的结论，不管根据是否可靠。<div style="padding-bottom:1em;"></div>经院哲学三个特点：信仰、先验、形式主义。<div style="padding-bottom:1em;"></div>培根提出经验主义，笛卡尔提出理性主义。共同点是科学研究推反形式主义。<div style="padding-bottom:1em;"></div>笛卡尔认为真理的获得不是上帝而是人的才智。与盲目信仰对立不与感觉对立。这是广义的理性。<div style="padding-bottom:1em;"></div>笛卡尔认识论核心：凡理性清晰认识到的都是真的。虽欠实践，但达到了他那个时代超出经院哲学的水平。<div style="padding-bottom:1em;"></div>作者从几何学和代数学的优缺点总结出四条原则：（一）不要把任何事物看成是真的，除非对它已经认识清楚了。（二）要用逐步分析的方法系统地解决问题。（三）思考时，由简到繁。（四）要彻底复查一切，做到确实无遗漏。<div style="padding-bottom:1em;"></div>我们彼此之所以有不同的意见，并不是因为我们当中某些人比其他的人赋有更多的理性，乃是纯粹因为我们把思想引领到不同的路线，以及各人所注意的对象并不相同。<div style="padding-bottom:1em;"></div>理性或常识即是造成人之所以为人，和人之所以异于禽兽的唯一事物，<div style="padding-bottom:1em;"></div>哲学问题笔记：<div style="padding-bottom:1em;"></div>描述的知识的根本重要性是，它能够使我们超越个人经验的局限。我们只知道完全<div style="padding-bottom:1em;"></div>根据我们在认识中所经验的词语而组成的真理，尽管事实如此，我们还是可以凭着描述<div style="padding-bottom:1em;"></div>对于所从未经验过的事物具有知识。<div style="padding-bottom:1em;"></div>“思维律”。<div style="padding-bottom:1em;"></div>这三条原则如下：<div style="padding-bottom:1em;"></div>（1）同一律：“是就是是。”<div style="padding-bottom:1em;"></div>（2）矛盾律：“任何东西不能既是又不是。”<div style="padding-bottom:1em;"></div>（3）排中律：“任何东西必须或者是或者不是。”<div style="padding-bottom:1em;"></div>凭亲身认识而来的，只凭描述而来的，既不凭认识也不凭描述而来<div style="padding-bottom:1em;"></div>的。	<div style="padding-bottom:1em;"></div>如果研究哲学对别人也有价值的话，那也必然只是通过对于学习哲学的人的生活所起的影响而间接地在发生作用。<div style="padding-bottom:1em;"></div>“现实”的人，照这个词的通常用法，是指只承认物质需要的人，只晓得人体需要食粮，却忽略了为心灵提供食粮的必要性。<div style="padding-bottom:1em;"></div>即使是在目前的社会之中，心灵所需要的东西至少也是和肉体所需要的东西同样重要。只有在心灵的食粮中才能够找到哲学的价值；也只有不漠视心灵食粮的人，才相信研究哲学并不是白白浪费时间。<div style="padding-bottom:1em;"></div>哲学所追求的是可以提供一套科学统一体系的知识，和由于批判我们的成见、偏见和信仰的基础而得来的知识。<div style="padding-bottom:1em;"></div>任何一门科学，只要关于它的知识一旦可能确定，这门科学便不再称为哲学，而变成为一门独立的科学了。<div style="padding-bottom:1em;"></div>没有哲学色彩的人一生总免不了受束缚于种种偏见，由常识、由他那个时代或民族的习见、由末经深思熟虑而滋长的自信等等所形成的偏见。对于这样的人，世界是固定的、有穷的、一目了然的；普通的客体引不起他的疑问，可能发生的未知事物他会傲慢地否定。<div style="padding-bottom:1em;"></div>只要我们一开始采取哲学的态度，我们就会发觉，连最平常的事情也有问题，而我们能提供的答案又只能是极不完善的。<div style="padding-bottom:1em;"></div>哲学的用处在于能够指点出人所不疑的各种可能性。此外，哲学的价值（也许是它的主要价值）就在于哲学所考虑的对象是重大的，而这种思考又能使人摆脱个人那些狭<div style="padding-bottom:1em;"></div>隘的打算。<div style="padding-bottom:1em;"></div>一个听凭本能支配的人，他的生活总是禁闭在他个人利害的圈子里：这个圈子可能也包括他的家庭和朋友，但是外部世界是绝不受到重视的，除非外部世界有利或者有碍于发生在他本能欲望圈子内的事物。这样的生活和哲学式的恬淡的、逍遥的生活比较起来，就是一种类似狂热的和被囚禁的生活了。<div style="padding-bottom:1em;"></div>追求本能兴趣的个人世界是狭小的，它局促在一个庞大有力的世界之内，迟早我们的个人世界会被颠覆。除非我们能够扩大我们的趣味，把整个外部世界包罗在内；<div style="padding-bottom:1em;"></div>在这样的生活里，没有安宁可言，只有坚持抵抗的欲望和无能为力的意志经常在不断斗争。倘使要我们的生活伟大而自由，我们就必须用种种方法躲避这种囚禁和斗争。<div style="padding-bottom:1em;"></div>哲学的冥想就是一条出路。<div style="padding-bottom:1em;"></div>人是一切事物的尺度，真理是人造的，空间、时间和共相世界都是心灵的性质，如果有什么东西不是心灵创造的，那便是不可知的，对于我们也便不关重要了。<div style="padding-bottom:1em;"></div>因为它让冥想受到自我束缚，终于是把哲学冥想中有价值的一切东西都给剥夺掉了。它所称为知识的，并不是和非我的结合，而是一套偏见、习惯和欲望，并在外界和我们之间拉上了一层穿不透的帷幕。在这样一种知识论中找到乐趣的人，就正像惟恐自己的话不能成为法律的人，永远也离不开家庭的圈子。<div style="padding-bottom:1em;"></div>真正的哲学冥想便完全相反，它在自我的种种扩张之中，在可以扩大冥想的客体的<div style="padding-bottom:1em;"></div>种种事物之中，因而也在扩大冥想着的主体之中，能找到满足。在冥想中，样样属于个<div style="padding-bottom:1em;"></div>人的或者自己的事物，样样依靠习惯、个人兴趣或者欲望的事物，都歪曲了客体，因而<div style="padding-bottom:1em;"></div>便破坏了心智所追求的那种结合。像这种个人的和私人的事物，就这样在主体和客体之<div style="padding-bottom:1em;"></div>间造成了一道屏障，结果成为了心智的囹圄。<div style="padding-bottom:1em;"></div>一个自由的心智是像上帝那样在观看的，不是从一个此地和此刻在观看的，它不期望，不恐惧，也不受习惯的信仰和传统的偏见所束缚，而是恬淡地、冷静地、以纯粹追求知识的态度去看，把知识看成是不含个人成分的、纯粹可以冥想的，是人类可以达到的。<div style="padding-bottom:1em;"></div>冥想不但扩大我们思考中的客体，而且也扩大我们行为中的和感情中的客体；它使我们不只是属于一座和其余一切相对立的围城中的公民，而是使我们成为宇宙的公民。在宇宙公民的身份之中，就包括人的真正自由和从狭隘的希望与恐怖的奴役中获得的解放。<div style="padding-bottom:1em;"></div>哲学之应当学习并不在于它能对于所提出的问题提供任何确定的答案，因为通常不可能知道有什么确定的答案是真确的，而是在于这些问题本身；原因是，这些问题可以扩充我们对于一切可能事物的概念，丰富我们心灵方面的想象力，并且减低教条式的自信，这些都可能禁锢心灵的思考作用。此外，尤其在于通过哲学冥想中的宇宙之大，心灵便会变得伟大起来，因而就能够和那成其为至善的宇宙结合在一起。<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/22584158/#comments">回应</a>&nbsp;&nbsp;
+                  2012-11-19 21:03
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="21579663">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/MrVeritas/"><img src="https://img3.doubanio.com/icon/u50050249-26.jpg" alt="MrVeritas" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/21579663/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/21579663/" class="">第70页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/MrVeritas/" class=" " title="MrVeritas">MrVeritas</a>
+                (到不朽的事业中寻求庇护。)
+              
+            </p>
+            <div class="reading-note" data-cid="21579663">
+              <div class="short">
+                
+                  <span class="">因此哲学好像一棵树，树根是形而上学，树干是物理学，从树干生出的树枝是其他一切学问，归结起来主要有三种，即医学、机械学和道德学，道德学我认为是最高的、最完全的学问，它以其他学问的全部知识为前提，是最高等的智慧。</span>
+                <p class="pl">
+                  <span class="">2012-10-07 22:38</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                因此哲学好像一棵树，树根是形而上学，树干是物理学，从树干生出的树枝是其他一切学问，归结起来主要有三种，即医学、机械学和道德学，道德学我认为是最高的、最完全的学问，它以其他学问的全部知识为前提，是最高等的智慧。
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/21579663/#comments">回应</a>&nbsp;&nbsp;
+                  2012-10-07 22:38
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_page"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="11348692">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/2599460/"><img src="https://img1.doubanio.com/icon/u2599460-7.jpg" alt="H" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/11348692/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/11348692/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/2599460/" class=" " title="H">H</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="11348692">
+              <div class="short">
+                
+                  <div class="ll">
+                    <a href="https://book.douban.com/annotation/11348692/"><img src="https://img3.doubanio.com/view/page_note/small/public/p11348692-1.jpg"></a>
+                  </div>
+                  <span class="">               
+
+
+
+
+
+
+
+
+
+
+
+                灵魂不死，思所以是
+
+
+
+
+
+
+</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/11348692/">(<span class="">1回应</span>)</a>
+                <p class="pl">
+                  <span class="">2011-02-15 14:42</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                               <div style="padding-bottom:1em;"></div><div class="left"><img src="https://img3.doubanio.com/view/page_note/large/public/p11348692-1.jpg" alt=""><br><span class="pic-title"></span></div><div style="padding-bottom:1em;"></div>                灵魂不死，思所以是<div style="padding-bottom:1em;"></div>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/11348692/#comments">1回应</a>&nbsp;&nbsp;
+                  2011-02-15 14:42
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="16884850">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/Wqingzhao/"><img src="https://img1.doubanio.com/icon/u35361099-7.jpg" alt="曲幽流深" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/16884850/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/16884850/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/Wqingzhao/" class=" " title="曲幽流深">曲幽流深</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="16884850">
+              <div class="short">
+                
+                  <span class="">良知，是人间分配得最均匀的东西。 
+因为人人都认为自己具有非常充分的良知，就连那些在其他一切方面全都极难满足的人，也从来不会觉得自己的良知不够，要想再多得一点。 
+这一方面，大概不是人人都弄错了，倒正好证明，那种正确判断、辨别真假的能力，也就是我们称为良知或理性的那种东西，本来就是人人均等的；我们的意见之所以分歧，并不是由于有些人的理性多些，有些人的理性少些，而只是由于我们运用思想的途径不同，所考察...</span>
+                <p class="pl">
+                  <span class="">2012-02-22 21:32</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                良知，是人间分配得最均匀的东西。 <div style="padding-bottom:1em;"></div>因为人人都认为自己具有非常充分的良知，就连那些在其他一切方面全都极难满足的人，也从来不会觉得自己的良知不够，要想再多得一点。 <div style="padding-bottom:1em;"></div>这一方面，大概不是人人都弄错了，倒正好证明，那种正确判断、辨别真假的能力，也就是我们称为良知或理性的那种东西，本来就是人人均等的；我们的意见之所以分歧，并不是由于有些人的理性多些，有些人的理性少些，而只是由于我们运用思想的途径不同，所考察的对象不是一回事。 <div style="padding-bottom:1em;"></div>因为单有聪明才智是不够的，主要在于正确地运用才智。杰出的人才固然能够做出最大的坏事，也同样可以做出最大的坏事；行动十分缓慢的人只要始终循着正道前进，就可以比离开正道飞奔的人走在前面很多。<div style="padding-bottom:1em;"></div>第一条：凡是我没有明确地认识到的东西，我决不把它当成真的接受，也就是说，要小心避免轻率的判断和先入之见。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　第二条：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　第三条：按次序进行我的思考，从最简单、最容易认识的对象开始，一点一点逐步上升，直到认识最复杂的对象；就连那些本来没有先后关系的东西，也给它们设定一个次序。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　最后一条：在任何情况下，都要尽量全面地考察、尽量普遍地考察，做到确信毫无遗漏。<div style="padding-bottom:1em;"></div>　　　　第一条：服从我国的法律和习俗，笃守我靠神保佑从小就接受的宗教，在其它一切事情上以周围最明智的人为榜样，尊奉他们在实践上一致接受的那些最合乎中道、最不走极端的意见，来约束自己。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　第二条：在行动上尽可能坚定果断，一旦选定某种看法，哪怕它十分可疑，也毫不动摇地坚决遵循，就像它十分可靠一样。这样做是效法森林里迷路的旅客，他们决不能胡乱地东走走西撞撞，也不能停在一个地方不动，必须始终朝着一个方向尽可能笔直地前进，尽管这个方向在开始的时候只是偶然选定的，也不要由于细小的理由改变方向，因为这样即便不能恰好走到目的地，至少最后可以走到一个地方，总比困在树林里面强。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　　　第三条：永远只求克服自己，不求克服命运，只求改变自己的愿望，不求改变世间的秩序。总之，要始终相信，除了我们自己的思想外，没有一样事情可以完全由我们自己做主，所以，我们对自身以外的事情尽了全力之后，凡是没有办到的，对于我们来说，就是绝对办不到的事情。我觉得明白了这一点就可以消除痴心妄想，凡是得不到的东西就不要盼望将来把它弄到手；这样就能安分守己，心满意足了．
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/16884850/#comments">回应</a>&nbsp;&nbsp;
+                  2012-02-22 21:32
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="19786939">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/1885662/"><img src="https://img3.doubanio.com/icon/u1885662-1.jpg" alt="brucewu" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/19786939/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/19786939/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/1885662/" class=" " title="brucewu">brucewu</a>
+                (各自的朝圣路)
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="19786939">
+              <div class="short">
+                
+                  <span class="">我最早知道笛卡尔是数学课，然后物理课又知道他，过去的牛人是真的牛，一通百通，你说搞数学的，23岁就看苍蝇飞，发明了解析几何，然后搞物理，玩哲学，玩得还挺好，完成物理家，哲学家，而且人家真的是玩，不是为了赚钱才去学哲学的，不像现在我们研究哲学，一开头就是马列，一结尾就是和谐，嘴里淡出鸟来了。 
+
+　　你看人家笛卡尔，知道哲学不好懂，说我写个谈话吧，顺便把半自传也写了，人家说，这是哲学啊！ 
+
+　　对了，...</span>
+                <p class="pl">
+                  <span class="">2012-07-20 11:03</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                我最早知道笛卡尔是数学课，然后物理课又知道他，过去的牛人是真的牛，一通百通，你说搞数学的，23岁就看苍蝇飞，发明了解析几何，然后搞物理，玩哲学，玩得还挺好，完成物理家，哲学家，而且人家真的是玩，不是为了赚钱才去学哲学的，不像现在我们研究哲学，一开头就是马列，一结尾就是和谐，嘴里淡出鸟来了。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　你看人家笛卡尔，知道哲学不好懂，说我写个谈话吧，顺便把半自传也写了，人家说，这是哲学啊！ <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　对了，我看的这部不是《科学哲学》，是《谈谈方法》（全称是《谈谈正确运用自己的理性在各门学问里寻求真理的方法》[法]笛卡尔 著），这两本的区别是，前者我看不懂，后者你也觉得可以看懂。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔一开场就气势不凡：良知，是人间分配得最均匀的东西。因为人人都认为自己具有非常充分的良知，就连那些在其他一切方面全都极难满足的人，也从来不会觉得自己的良知不够。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　这话逻辑我不太同意，不够有气势，一上来就是谈人类，眼界够大。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　第一段我真正欣赏的句子是：杰出的人才固然能够做出最大的好事，也同样可以做出最大的坏事。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　这句话其实反而可以解释为什么唐骏撒谎大家很生气，因为他是杰出人士，当他品行不端就有可能做出最大的坏事，这才是真正的风险。道德机制其实是防止君子犯错，而法律机制是防止小人走险，很多人不明白这其中的区别，整天瞎嚷嚷，还不如笛卡尔明白，看着心烦。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：我知道，在牵涉到自己本人的事情上，我们是非常容易弄错的；朋友的评判对我有利的时候，也是非常值得我们怀疑的。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　这句我又非常欣赏，太有自知之明了。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：从事向别人颁布训条的人一定认为自己比别人高明，如果稍有差错就该受到责备。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　怪不得我们喜欢强调以德治国，原来如此，原来如此。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：我很看重雄辩，并且热爱诗词。可是我认为雄辩和诗词都是才华的产物，而不是研究的成果。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　没错，教育不是万能的，天分你必须得承认。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：我考虑到对同一个问题可以有许多不同的看法，都有博学的人支持，而正确的看法却只能一种，所以我把仅仅貌似真实的看法一律看成大概是虚假的。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：我下定决心，除了那种可以在自己心里或者在世界这本大书里找到的学问以外，不再研究别的学问。于是趁年纪还轻的时候就去游历，访问各国的宫廷和军队，与气质不同、身份不同的人交往，搜集各种经验，在碰到的各种局面里考验自己，随时随地用心思考面前的事物，以便从中取得教益。因为在我看来，普通人的推理所包含的真理要比读书人的推理所包含的多得多；普通人是对切身的事情进行推理，如果判断错了，它的结果马上就会来惩罚他；读书人是关在书房里对思辨的道理进行推理，思辨是不产生任何实效的，仅仅在他身上造成一种后果，就是思辨离常识越远，他由此而产生的虚荣心大概就越大，因为一定要花费比较多的心思，想出比较多的门道，才能设法把那些道理弄得好像是真理。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：可是，我在学生时期就已经知道，我们能够想象得出来的任何一种意见，不管多么离奇古怪，多么难以置信，全都有某个哲学家说过。我在游历就已经认识到，与我们的意见针锋相对的人并不因此就是蛮子和野人，正好相反，有许多人运用理性的程度与我们相等，甚至更高。我还考虑到，同一个人，具有同样的心灵，自幼长在法兰西人祸日耳曼人当中，就变得大不相同；连衣服的样式也是这样，一种款式十年前时兴过，也许十年后还会时兴，我们现在看起来就觉得古里古怪，非常可笑。由此可见，我们听信的大多是成规惯例，并不是什么确切的知识；有多数人赞成并不能证明就是什么深奥的真理，因为那种真理多半是一个人发现的，不是众人发现的。所以我挑不出一个我认为他的意见比别人更可取，我感到莫奈何，只好自己来指导自己。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：我知道，法令多如牛毛，每每执行不力；一个国家立法不多而雷厉风行，倒是路不拾遗。所以我相信，用不着制定大量规条构成一部逻辑，单是下列四条，只要我有坚定持久的信心，无论何时何地决不违规，也就够了。 <div style="padding-bottom:1em;"></div>　　 第一条是：凡是我没有明确地认识到的东西，我决不把它当成真的接受。也就是说，要小心避免轻率地判断和先入之见，除了清楚分明的呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。 <div style="padding-bottom:1em;"></div>　　 第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。 <div style="padding-bottom:1em;"></div>　　 第三条是：按次序进行我的思考，从最简单、最容易认识的对象开始，一点一点逐步上升，直到认识最复杂的对象；就连那些本来没有先后关系的东西，也给它们设定一个次序。 <div style="padding-bottom:1em;"></div>　　 最后一条是：在任何情况下，都要尽量全面的考察，尽量普遍的复查，做到确信毫无遗漏。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　非常好的方法论，到现在都有指导意义。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：永远只求克服自己，不求克服命运，只求改变自己的愿望，不求改变世间的秩序。总之，要始终相信：除了我们自己的思想以外，没有一样事情可以完全由我们做主。所以，我们对自身以外的事情尽了全力之后，凡是没有办到的，对于我们来说，就是绝对办不到的事情。我觉得明白了这一点就可以消除痴心妄想，凡是得不到的东西就不要盼望将来把它弄到手；这样也就安分守己、心满意足了。因为我们的意志所要求的，本来只是我的理智认为大致可以办到的事情，如果我们把身外之物一律看成由不得我们自己作主的东西，那么，在平白无故地被消除封邑的时候，就决不会因为丧失那份采地而懊恼……不过我也承认，一定要经过长期训练，反复思考，才能熟练地从这个角度去看万事万物。我相信，那些古代哲学家之所以能够摆脱命运的干扰，漠视痛苦和贫困，安乐赛过神仙，其秘密主要就在于此。因为他们不断地考察自然给他们划定的界限，终于大彻大悟，确信除了自己的思想以外，没有一件东西可以由他们作主，确信只要认清这一点就可以心无挂碍，不为外物所动；他们对自己的思想作出了绝对的支配，因而就有理由认为自己又富又强，逍遥安乐，胜过所有的人，别人不懂这种哲学，不管得到自然和命运多大优待，还是不能支配一切、事事如愿以偿的。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　这道理我能理解，也能接受，就是要每时每刻都这么想，的确需要长期训练。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：我发现，“我想，所以我是”这条真理是十分确实的。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　我发现过去我对“我思故我在”理解是错误的，不是我思考所以我存在的意思，是我想，所以我起作用了，因为我在，因为我思想，对思考的对象起了作用，所以我才是一个本体，否则即使对象都存在，你没有思考过，如何证明你起了作用？简直是量子理论嘛。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：理性指示我们：我们的一切观念或看法都应该有点真实的基础... ...理性又指示我们... ...真实的思想一定要到醒时的思想里去找，不能到梦里去找。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：这并不是说我聪明，比我聪明万倍的人多得很，可是要想透彻理解、全面精通一样东西，跟别人学还不如自己发明。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：藤萝是决不会比自己依附的树爬得更高的。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　笛卡尔说：要知道,别人花二十年工夫想出来的东西只要告诉他们两三个字，他们就立刻以为自己在一天之内全都知道了；这种人越聪明，越机灵，就越容易犯错误，越不能发现真理。 <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　其实这本书真正难懂是附录四，你能看到神为什么存在的证明吗？<div style="padding-bottom:1em;"></div>---------------------------------------<div style="padding-bottom:1em;"></div>摘中文维基 <div style="padding-bottom:1em;"></div>　　============================================== <div style="padding-bottom:1em;"></div>　　笛卡儿在《谈谈方法》中指出，研究问题的方法分四个步骤： <div style="padding-bottom:1em;"></div>　　 <div style="padding-bottom:1em;"></div>　　1.永远不接受任何我自己不清楚的真理，就是说要尽量避免鲁莽和偏见，只能是根据自己的判断非常清楚和确定，没有任何值得怀疑的地方的真理。就是说只要没有经过自己切身体会的问题，不管有什么权威的结论，都可以怀疑。这就是著名的“怀疑一切”理论。例如亚里士多德曾下结论说，女人比男人少两颗牙齿。但事实并非如此。 <div style="padding-bottom:1em;"></div>　　2.可以将要研究的复杂问题，尽量分解为多个比较简单的小问题，一个一个地分开解决。 <div style="padding-bottom:1em;"></div>　　3.将这些小问题从简单到复杂排列，先从容易解决的问题着手。 <div style="padding-bottom:1em;"></div>　　4.将所有问题解决后，再综合起来检验，看是否完全，是否将问题彻底解决了<div style="padding-bottom:1em;"></div>------------------------------------<div style="padding-bottom:1em;"></div>个人阅读感受。<div style="padding-bottom:1em;"></div>笛卡尔所推崇的，是一切事物应从自己的理性推断出发，寻找出来的本源才是真实的，可靠的。道听途说有其必然的虚假性。<div style="padding-bottom:1em;"></div>他所推崇的方法论，从现代角度看也是有参考的价值，简单的说：<div style="padding-bottom:1em;"></div>1，怀疑一切<div style="padding-bottom:1em;"></div>2，把复杂问题分解成若干简单问题<div style="padding-bottom:1em;"></div>3，从简到繁，依次解决<div style="padding-bottom:1em;"></div>4，全都解决后，从全局在验证一遍。<div style="padding-bottom:1em;"></div>最后得出结论。<div style="padding-bottom:1em;"></div>他的哲学核心是，用自己的内心寻找世界的答案，从而才能证明自己的存在“我思，故我在”
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/19786939/#comments">回应</a>&nbsp;&nbsp;
+                  2012-07-20 11:03
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="20228187">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/bakuon/"><img src="https://img3.doubanio.com/icon/u40633883-320.jpg" alt="燃える海" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/20228187/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/20228187/" class="">第1页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/bakuon/" class=" " title="燃える海">燃える海</a>
+                (惊叹于世界的神奇和荒诞。)
+              
+            </p>
+            <div class="reading-note" data-cid="20228187">
+              <div class="short">
+                
+                  <span class="">笛卡尔的方法论
+        新兴的欧洲资产阶级是以新的科学知识起家的，也只有大力发展科学，它才能壮大发达。它要赚钱，也要伸手拿权。要赚钱就要先有科学知识，没有权就不能赚大钱。没落的贵族统治者当然也要钱，但是他们手里有的是权，用权来抢钱就行了，用不着科学，而且科学会使老百姓脑子灵活起来，不利于他们的统治。他们只要统治，老百姓越愚昧对他们越有利。迷信、宗教、神学、经院哲学是他们的法宝。
+        新兴的资产...</span>
+                <p class="pl">
+                  <span class="">2012-08-08 21:23</span>
+                  
+                    &nbsp;&nbsp;<span class="">2人喜欢</span>
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                笛卡尔的方法论<div style="padding-bottom:1em;"></div>        新兴的欧洲资产阶级是以新的科学知识起家的，也只有大力发展科学，它才能壮大发达。它要赚钱，也要伸手拿权。要赚钱就要先有科学知识，没有权就不能赚大钱。没落的贵族统治者当然也要钱，但是他们手里有的是权，用权来抢钱就行了，用不着科学，而且科学会使老百姓脑子灵活起来，不利于他们的统治。他们只要统治，老百姓越愚昧对他们越有利。迷信、宗教、神学、经院哲学是他们的法宝。<div style="padding-bottom:1em;"></div>        新兴的资产阶级首先要解决无知的问题，接着才要求解决无权的问题。在十七世纪，最突出的迫切问题还是前者。英国的培根在十七世纪初首先喊出了“知识就是力量”的口号，这个口号鲜明地表达了时代的精神。他向经院哲学轰击了第一炮。在这个最重要的一点上，笛卡尔是培根的学生和同志。他们是科学家，又不止是一般的实用科学家。他们要求找出科学的总原则，用来推动全部科学的不断发展。他们是思想家、哲学家、新时代的哲学家。他们反对经院哲学，但并不只是指摘它在这一点那一点上错了，也不是笼统地说它一概都错了，而要找出错误的关键所在。因此他们要深人研究认识本身的问题，即认识论问题。这并不是说他们不研究其他方面的哲学问题，而是说他们把认识问题放在主导的地位。这是近代哲学不同于古代哲学的特色。正是从这一点看，我们才说培根和笛卡尔是西方近代哲学的真正开山祖。<div style="padding-bottom:1em;"></div>        关键在哪里呢？他们两个人都认为经院哲学的错误关键在于认识方法的不对。<div style="padding-bottom:1em;"></div>        经院哲学的方法是：以某些宗教信条为根据，依照一系列固定的逻辑公式，如三段式，推出维护宗教的结论，它所根据的前提是不是可靠，它是从来不管的。即使前提可靠，推出来的东西也只能限于前提里所包含的，一点也不能给人新的知识。而且，固定的逻辑公式只涉及事物的形式方面，与内容完全无关，得出的结论好像玄之又玄，其实空而又空，完全是废话。废话是脱离实际的，它就完全可以按照各人自己的需要任意胡诌，彼此冲突矛盾，永远争论不休。这就像一些包揽词讼的讼棍一样，可以依据同一部法典，把诉讼的双方都说成有理，或者都说成有罪。<div style="padding-bottom:1em;"></div>        总起来说，经院哲学有三个特点：一个是信仰主义，一个是先验主义，一个是形式主义。这三个特点是互为表里的。<div style="padding-bottom:1em;"></div>        培根提出了经验主义，来对付经院哲学的先验主义。笛卡尔则提出理性主义，来对付经院哲学的信仰主义。这两个人都大力提倡具体的科学研究，来对付经院哲学的形式主义。由于偏重的方面不同，发生的影响不同，后来人们把培根的哲学称为经验主义，把笛卡尔的哲学称为理性主义。这两个名称很好地说明了他们的特点，只是很容易使人们忽略他们的共同特点，把一条战壕里并肩战斗的战友误解为互相对立的敌人。这好像有两个人一同去打蛇，一个专打蛇头，一个专打七寸，我们可不能把一个看成蛇头派，一个看成七寸派，忘了他们打的是同一条蛇，把他们的共同斗争说成势不两立的内讧。<div style="padding-bottom:1em;"></div>        笛卡尔反对把真理的获得说成出于上帝的恩典，认为那是人的聪明才智造成的，但他也不认为单用聪明才智就能获得真理，而强调这主要在于正确地运用才智。他说，“行动十分迂缓的人，只要始终循着正道前进，就可以比离开正道飞奔的人走在前面很多。” ① 他所谓聪明才智，指的就是判别真假是非的理性，又名良知(le bon sens ）或自然光明（la lumiere naturelle) ，与盲目信仰对立，并不与感觉对立。这是广义的理性。理性主义所主张的首先是广义的理性，完全排除宗教迷信。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>     ① Discours de la methode, lere partie。<div style="padding-bottom:1em;"></div>        他以人人具有的理性为标准，对以往的各种知识作了一个总的检查。因为要立新必须先破旧。他说，“由于我们在长大成人之前当过儿童，对呈现在我们感官面前的事物作过各种各样的判断，而那时我们还没有充分运用自己的理性，所以有很多先入的偏见阻碍我们认识真理，因此我们要摆脱这些偏见的束缚，就必须在一生中有一次对一切稍有可疑之处的事情统统加以怀疑。” ① “这并不是模仿怀疑派，学他们为怀疑而怀疑……只是为了使自己得到确信的根据，把浮土和沙子挖掉，以便找出磐石和硬土。”② 这就是所谓笛卡尔的方法论上的怀疑。他为了建立可靠的新科学，先把一切不可靠的东西推倒，腾出地基。这是一个十分大胆的革命行动，在那个封建迷信十分顽固的时代，确实有此必要，非如此不能耳目一新。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>     ① Principia philosophiae，pars I,1.<div style="padding-bottom:1em;"></div>    ② Discours de la methode, 3eme partie.<div style="padding-bottom:1em;"></div>        他这一炮也确实瞄得很准，放得很猛，连他自己也意识到可能引起大哗，因而作下种种保护性的解释，说他这个主张仅仅是为了改造他自己的思想，而且范围仅限于科学，与神学无干，也与政治、社会无干，甚至再三声明自己是个最虔诚的天主教信徒，完全服从教会等等。这些话在当时可能起了点保护作用，今天大概没有人还会单纯到信以为真吧。笛卡尔是个聪明人，他自己心里明白：他要爆破的是一个关键性的枢纽，怎么会不影响他人，不影响社会呢？如果不影响，他又何必写在书上印出来给大家看呢？<div style="padding-bottom:1em;"></div>        他这普遍怀疑是去伪存真的批判，并不是一概打倒的虚无主义。批判不等于打倒，而是打倒假的，肯定真的。把不可靠的统统看成假的，剩下来的也就是真的了。他首先否定了迷信，同时也否定了幻觉，但是并没有否定实在。他要研究如何获得符合实际的认识，这就是肯定了客观方面的实际和主观方面的认识，肯定了二者不同，但是可以符合。迷信和幻觉不符合实际，科学知识符合实际。怎样鉴别符合不符合呢？这衡量的标准笛卡尔认为必须是我们自己的理性，不是权威，也不是道听途说，或者鲁莽武断、胡思乱想。这广义的理性首先否定了迷信，但是我们的错误还不止是迷信，此外更有幻觉。要识破幻觉，更需要用精确意义的理性。我们的感觉常常欺骗我们：一座方塔，远看却是圆的；一根手杖插在水里，看来却像是折断的；而且我们还会做梦，梦中的现实都不真实，如果单用感官，实在无法觉察这类骗局。笛卡尔认为一定要用更高级认识能力―理性―才行。感官只能得到个别的、片面的知觉，只有理性才能获得普遍的、必然的认识。因此我们必须时刻谨防感官的欺骗，有意识地对一切进行仔细分析，把它分成尽可能小的部分，小到一下就能清楚明白地洞察其本质。把每一个部分都认识透彻之后，对全体也就得到了可靠的认识。笛卡尔认识论的核心就是：凡属理性清楚明白地认识到的，都是真的。<div style="padding-bottom:1em;"></div>        这种认识论是理性主义的，还不能见到实践是认识的基础，也是鉴别真理的唯一标准。但笛卡尔比马克思要早二百多年，那个时代谁也没有达到马克思的水平。笛卡尔不但没有达到马克思的水平，连康德的水平都没有达到，但是他达到了他那个时代哲学所能达到的高级水平，比经院哲学高明多了。<div style="padding-bottom:1em;"></div>        有些学者认为理性主义与经验主义完全对立，经验主义只要经验，理性主义完全不要经验，只要理性，所以只能是唯心论。这是出干误解。因为他们采纳了一个旧译名“唯理论”来翻译rationalisme 这个字，而中国的“唯”字当“只”讲，于是以为笛卡尔主张只有理性在那里孤孤单单地认识真理，感觉只会骗人，必须排除干净。这当然不合事实。笛卡尔从来没有要求完全否定感觉，正好相反，他是科学家，一辈子从事科学试验，在许多科学部门中都有重大贡献，并不是空想家，天天躺在床上猜测。他只是认为感觉经验有片面性，单凭感觉得不到普遍的科学真理。必须更上一层楼，在全面的理性指导下批判地总结才行。笛卡尔强调理性这位将军对胜利所起的作用，并不是把它看成无兵元帅、光杆司令。<div style="padding-bottom:1em;"></div>        笛卡尔以理性的清楚明白认识作为真理标准，是反对神秘主义的。这是他从文艺复兴以来的新科学中学来的，那些科学反对模糊笼统的臆断，要求把一切分割成尽可能小的部分，仔细地一一详加考察，直到一目了然，不留一点漏洞。这就是力学方法或机械方法，在当时的条件下毫无疑问是最先进的。但是全体不止是各个部分的简单机械总和，机械论不懂得辩证的发展，很快就暴露出它的局限性来了。这种局限性在经验主义哲学家身上表现得更为突出，相比之下，笛卡尔哲学包含的辩证法因素还要多一些，马克思和恩格斯甚至称他为辩证法家。<div style="padding-bottom:1em;"></div>        笛卡尔认为真理并不是彼此孤立的、平列的，而是一些有主有从的原理，构成一个有机的体系。他要找出这个大体系，所以不肯只是一笔一笔地记流水账，一定要算清总账。他说，“整个哲学好像一棵大树，树根是形而上学，树干是物理学，从这树干上发出的枝条是各种其他科学，主要分为三门，就是医学、力学和道德学。” ① 他所谓树根，是指最根本的哲学原理，首先是关于人类认识的原理。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    ① Principia philosophiae, Lettre de L'auteur a celui qui a traduit le livre <div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    为了安全地进行科学研究工作，他避免遭到正面冲突可能惹来的无谓牺牲。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    中世纪的经院哲学用质来解释一切，遇到无法说明的时候，就信口胡诌一个“隐秘的质”来搪塞，以掩盖自己的无知。我们肯定他的理论，只是肯定它走出了万里长征的第一步。第一步很重要，但是有待于不断的新发展。如果把它绝对化，神圣化，遇到不能解释的新课题时不去进一步深入研究，就急忙地加以否定，斥为“不科学”，甚至要求通令禁止，那就不是维护科学，而是阻碍科学的发展了。因为那样做既违反唯物论，又违反辩证法，倒是符合经院哲学的精神的。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    笛卡尔在经院哲学唯心论走到绝路的时候，提出了他的二元论，这是一条新路。当他的二元论再走上绝路的时候，他又提出了身心交感说，这又是一条新路。新路是在山重水复疑无路的时候提出来的，给人们提供一个可以走的新方向，走下去可以柳暗花明又一村。但是走过了柳暗花明又会遇到新的山重水复，还要找路。路是人走出来的，不走就没有路。 <div style="padding-bottom:1em;"></div>    任何道路，包括新开辟的在内，都是曲折的，也都可以有不同的走法。在科学的道路上艰难险阻是正常的。谁都可以摔跤。摔跤并不可怕，爬起来再走。怕只怕躺下不走，或者转过身往回跑。笛卡尔不是那种人，而是不断创新，永不停息的。他以后的人在他开辟的新路上往前走，又各有各的走法。他们有的先进一些，有的保守一些，这也没有什么奇怪。哲学思想的发展是一个社会性的集体活动，总的看来是一步一步前进的，局部的差池只是暂时的，也不失为总的进程中的一个环节，我们正好从其中捕捉历史辩证法的脉搏。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        也许只捞到点黄铜、玻璃，我却把它当成了金子、钻石。我知道，在牵涉到自己本人的事情上，我们是非常容易弄错的；朋友的评判对我有利的时候，也是非常值得我们怀疑的。不过，我很愿意在这篇谈话里向大家说清楚我走过哪些道路，把我的经历如实地一一描绘出来，使大家都能作出评判，好从群众的议论里听取大家对我的意见。这可以说是我在惯常采用的那些自我教育办法之外添上的一种新办法。 <div style="padding-bottom:1em;"></div>    因此，我并不打算在这里教给大家一种方法，以为人人都必须遵循它才能正确运用自己的理性；我只打算告诉大家我自己是怎样运用我的理性的。从事向别人颁布训条的人一定认为自己比别人高明，如果稍有差错就该受到责备。可是这本书里提供的只是一种传记性的东西，也可以说只是一种故事性的东西，其中除了某些可以仿效的例子以外，也许还可以找到许多别的例子大家有理由不必遵循，所以我希望它会对某些人有益而对任何人无害，也希望我的坦率能得到大家的赞许。 <div style="padding-bottom:1em;"></div>    我自幼受书本教育。由于听信人家的话，认为读书可以得到明白可靠的知识，懂得一切有益人生的道理，所以我如饥似渴地学习。可是等到学完全部课程，按例毕业，取得学者资格的时候，我的看法就完全改变了。因为我发现自己陷干疑惑和谬误的重重包围，觉得努力求学并没有得到别的好处，只不过越来越发现自己无知。可是我进的是欧洲最著名的学校 ① ，如果天下有饱学之士的话，我想那里就该有。我把这所学校里别人所学的功课全部学完，甚至不以学校讲授的学问为满足，凡是大家认为十分希奇、十分古怪的学问② ，只要捞得到讲它的书，我统统读了。此外，我也知道别人对我的评判，我没有见到任何人认为我不如我的同学，虽然他们当中己经有几位被选定为老师的接班人了。最后，我觉得我们这个时代人才辈出，俊杰如云，不亚于以往任何时代，这就使我可以自由地对所有的人作出我自己的判断，认为世界上根本没有一种学说真正可靠，像从前人们让我希望的那样。 <div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>     ① 法国西部安茹省拉弗莱什城的亨利四世公学，一所由国王设立、交耶稣会士办理的贵族学校。笛卡尔于1604 年人学，1616 年得硕士学位。 <div style="padding-bottom:1em;"></div>    ② 指炼金术、占星术、手相术、土占术、通灵术、巫术之类。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    学校里教的语言文字② ，是通晓古书的必要条件；寓言里的机智，可以发聋振馈；史传上的丰功伟业，可以激励人心；精研史册，可以有助于英明善断；遍读好书，有如走访著书的前代高贤，同他们促膝谈心，而且是一种精湛的交谈，古人向我们谈出的只是他们最精粹的思想。我也明白：雄辩优美豪放无与伦比；诗词婉转缠绵动人心弦；数学有十分奥妙的发明，用处很大，既能满足好奇心，又能帮助各种技艺，减轻人们的劳动；宣扬风化的文章包含许多教训、许多裁言，劝人淑世为善；神学指引升天大道；哲学③ 教人煞有介事地无所不谈，博得浅人敬佩；法学、医学等类学问给治学者带来盛名厚利。而且我还明白：博学旁通，连最迷信、最虚妄的东西也不放过，是有好处的，可以知道老底，不上它们的当。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        知道一点殊方异俗是有好处的，可以帮助我们比较恰当地评价本乡的风俗，不至于像没有见过世面的人一样，总是以为违反本乡习惯的事情统统是可笑的、不合理的。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        我很看重雄辩，并且热爱诗词。可是我认为雄辩和诗词都是才华的产物，而不是研究的成果。一个人只要推理能力极强，极会把自己的思想安排得明白易懂，总是最有办法使别人信服自己的论点的，哪怕他嘴里说的只是粗俗的布列塔尼② 土话，也从来没有学过修辞学。一个人只要有绝妙的构思，又善于用最佳的辞藻把它表达出来，是无法不成为最伟大的诗人的，哪怕他根本不知道什么诗法。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    古代异教学者们写的那些讲风化的文章好比宏伟的宫殿，富丽堂皇，却只是建筑在泥沙上面。他们把美德捧得极高，说得比世上任何东西都可贵；可是他们并不教人认识清楚美德是什么，被他们加上这个美名的往往只是一种残忍，一种傲慢，一种灰心，一种弑上。 <div style="padding-bottom:1em;"></div>    我尊敬我们的神学，并且同别人一样要求升天。可是人家十分肯定地说：最无知的人也同最博学的人一样可以进天堂，指引人们升天的天启真理不是我们的智力所能理解的。我听了这些话，就不敢用我的软弱推理去窥测那些真理了。我想一定要有天赐的特殊帮助，而且是个超人，才能从事研究那些真理，得到成就。 <div style="padding-bottom:1em;"></div>    关于哲学我只能说一句话：我看到它经过千百年来最杰出的能人钻研，却没有一点不在争论中，因而没有一点不是可疑的，所以我不敢希望自己在哲学上的遭遇比别人好；我考虑到对同一个问题可以有许多不同的看法，都有博学的人支持，而正确的看法却只能有一种，所以我把仅仅貌似真实的看法一律看成大概是虚假的。 <div style="padding-bottom:1em;"></div>    至于其他的学问，既然它们的本原 ① 是从哲学② 里借来的，我可以肯定，在这样不牢固的基础上决不可能建筑起什么结实的东西来。这类学问所能提供的名利，是不足以促使我去学习它们的，因为谢天谢地，我并不感到境遇窘迫，要拿学问去牟利，以求改善生活；我虽不像犬儒派③那样自称藐视荣誉，对于那种只能依靠虚假的招牌取得的名声我是很不在意的。最后说到那些骗人的学说，我认为已经摸清了它们的老底，再也不会上当受骗，不管它是炼金术士的包票，还是占星术士的预言，是巫师的鬼把戏，还是那些强不知以为知的家伙的装腔做势、空心牛皮。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    普通人的推理所包含的真理要比读书人的推理所包含的多得多：普通人是对切身的事情进行推理，如果判断错了，它的结果马上就会来惩罚他；读书人是关在书房里对思辨的道理进行推理，思辨是不产生任何实效的，仅仅在他身上造成一种后果，就是思辨离常识越远，他由此产生的虚荣心大概就越大，因为一定要花费比较多的心思，想出比较多的门道，才能设法把那些道理弄得好像是真理。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        单靠加工别人的作品是很难做出十分完美的东西的。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        个人打算用彻底改变、推翻重建的办法改造国家，确实是妄想；改造各门学问的主体，或者改造学校里讲授各门学问的成规，也是同样办不到的；可是说到我自己一向相信的那些意见，我却没有别的好办法，只有把它们一扫而空，然后才能换上好的，或者把原有的用理性校正后再收回来。我深信，用这种办法做人，得到的成就一定可观，大大超过死守旧有的基础、一味依赖年轻时并未查明是否真实就贸然听信的那些原则。因为我虽然看到这样做有种种困难，那些困难却不是无法克服的，并不像涉及公众的事情那样，哪怕鸡毛蒜皮，改革起来都困难无比。那些大体制推倒了就极难扶起，甚至动摇了就极难摆稳，而且垮下来是十分可怕的。至于它们的毛病，那是有的，单凭它们的分歧就足以肯定它们有毛病，可是习惯确实已经使毛病大大减轻，甚至在不知不觉中使大量毛病得以免除，或者得到改正，我们凭思虑是做不到那么好的。而且，沿用旧体制几乎总是比改换成新体制还要好受一些；旧体制好比盘旋山间的老路，走来走去就渐渐平坦好走了，还是照着它走好，不必翻大山过深沟抄直走。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        我的打算只不过是力求改造我自己的思想，在完全属于我自己的基地上从事建筑。尽管我对自己的工作相当满意，在这里向大家提出一个样品，这并不表明我有意劝别人学我。那些得天独厚的人也许会有比我高明的打算，可是对于很多人来说，我很担心我这个打算已经太大胆了。单拿下决心把自己过去听信的意见统统抛弃这一点说，就不是人人都应当效法的榜样。世界上的人大致说来只分为两类，都不宜学这个榜样。一类人自以为高明，其实并不那么高明，既不能防止自己下仓促的判断，又没有足够的耐性对每一件事全都有条有理地思想，因此，一旦可以自由地怀疑自己过去接受的原则，脱离大家所走的道路，就永远不能找到他所要走的捷径，一辈子迷惑到底。另一类人则相当讲理，也就是说相当谦虚，因而认定自己分辨真假的能力不如某些别人，可以向那些人学习，既然如此，那就应该满足于听从那些人的意见，不必自己去找更好的了。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    我们能够想像得出来的任何一种意见，不管多么离奇古怪，多么难以置信，全都有某个哲学家说过。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        至于我自己，如果我一直只有一位老师，或者根本不知道自古以来学者们的意见就是分歧的，那我就毫无疑问属于后一类。可是，我在学生时期就已经知道，我们能够想像得出来的任何一种意见，不管多么离奇古怪，多么难以置信，全都有某个哲学家说过。我在游历期间就已经认识到，与我们的意见针锋相对的人并不因此就全都是蛮子和野人，正好相反，有许多人运用理性的程度与我们相等，或者更高。我还考虑到，同一个人，具有着同样的心灵，自幼生长在法兰西人或日耳曼人当中，就变得大不相同；连衣服的样式也是这样，一种款式十年前时兴过，也许十年后还会时兴，我们现在看起来就觉得古里古怪，非常可笑。由此可见，我们所听信的大都是成规惯例，并不是什么确切的知识；有多数人赞成并不能证明就是什么深奥的真理，因为那种真理多半是一个人发现的，不是众人发现的。所以我挑不出那么一个人我认为他的意见比别人更可取，我感到莫奈何，只好自己来指导自己。    <div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    我并不希望由此得到什么别的好处，只希望我的心灵得到熏陶，养成热爱真理、厌恶虚妄的习惯。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>    永远只求克服自己，不求克服命运，只求改变自己的愿望，不求改变世间的秩序。总之，要始终相信：除了我们自己的思想以外，没有一样事情可以完全由我们作主。所以，我们对自身以外的事情尽了全力之后，凡是没有办到的，对于我们来说，就是绝对办不到的事情。我觉得明白了这一点就可以消除痴心妄想，凡是得不到的东西就不要盼望将来把它弄到手；这样也就安分守己、心满意足了。因为我的意志所能要求的，本来只是我的理智认为大致可以办到的事情，如果我们把身外之物一律看成由不得我们自己作主的东西，那么，在平白无故地被削除封邑的时候，就决不会因为丧失那份应当分封给我这位贵族的采地而懊恼，就像不会因为没有当上中国皇帝或墨西哥国王而懊恼一样；推而广之，生了病也就不会妄想健康，坐了牢也就不会妄想自由，就像不会妄想生成金刚不坏之身、长出高飞远翁的翅膀一样。不过我也承认，一定要经过长期训练，反复思考，才能熟练地从这个角度去看万事万物。我相信，那些古代哲学家① 之所以能够摆脱命运的干扰，漠视痛苦和贫困，安乐赛过神仙，其秘密主要就在于此。因为他们不断地考察自然给他们划定的界限，终于大彻大悟，确信除了自己的思想之外，没有一样东西可以由他们作主，确信只要认清这一点就可以心无挂碍，不为外物所动；他们对自己的思想作出了绝对的支配，因此也就有理由认为自己又富又强，逍遥安乐，胜过所有的别人，别人不懂这种哲学，不管得到自然和命运多大优待，还是不能支配一切、事事如愿以偿的。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        对于别人的行业我不打算说什么话，我认为我最好还是继续自己所从事的那一行，也就是把我的一生用来培养我的理性，按照我所规定的那种方法尽全力增进我对真理的认识。自从使用这种方法以来，我尝到了极大的快乐，觉得人生在世所能得到的快乐没有比这更美妙、更纯洁的了。我凭着这种方法每天发现若干真理，觉得都相当重要，都是别人所不知道的，因此满心欢喜，别的事情全都不放在心上。<div style="padding-bottom:1em;"></div>    __________________________<div style="padding-bottom:1em;"></div>        我的生活方式表面上跟某些人没有什么两样：不做什么事情，只是愉快地、正派地过着日子，用心把欢乐和邪恶分开；为了不至于闲得无聊，从事着各种正当的娱乐。可是尽管如此，我仍然在执行我的计划，增进我对真理的认识，成绩也许比埋头读书、只跟读书人往来还要大些。<div style="padding-bottom:1em;"></div>______________________<div style="padding-bottom:1em;"></div>　　时间已经过了九年，我还没有对学者们争论不休的难题作出任何评判，还没有开始寻求任何比流行学说可靠的哲学原理。过去有许多高明的人曾经打算这样做，我觉得他们并没有成功。这种失败的先例使我想到这件工作困难很多，要不是听到人们传说纷纷，说我已经完成了这件工作，我大概还不敢这样早就去做它。我说不出那种传说的根据是什么，如果与我的言论有几分联系的话，那一定是由于我比一般有点学问的人老实些，有啥说啥，不知道的就说不知道；也可能是由于我举出种种理由说明我为什么对很多别人认为可靠的看法发生怀疑，而并不是由于我吹嘘某种学说。可是我还有点志气，不愿意有名无实，所以我认为自己无论如何一定要争口气，不负大家对我的器重。<div style="padding-bottom:1em;"></div>______________________<div style="padding-bottom:1em;"></div>　　Je pense，donc je suis （拉丁译文作Ego cogito, ergo sum。一般简称为笛卡尔的cogito) ，我国旧译为：“我思故我在”。这样译，是把法文的je suis 理解为“我存在”，再把现代汉语的“我存在”换成古代汉语的“我在”。但是这个“在”字读者一般了解为“在场”或“未死什的意思，而作者却将suis (sum）说成“是个东西”、“是个本体”。因此译文所表达的意思不完全符合作者的原意。 <div style="padding-bottom:1em;"></div>这种不符合是中西语言不同、因而思想不同造成的。西方语言〔 包括法语以至拉丁语、希腊语）的动词“是”字一般用作系词，但本来是实质动词，原意为“起作用”，再加上表语说明起什么作用，于是成了系词。中国的上古汉语本来不用系词，以后发展出系词“是”，用法与西方的系词相当，但没有实质动词的意义。笛卡尔所说的“我是”，如果把“是”理解为系词，缺少表语，当然没有意义，但他指的是“起作用”，即实质动词的意义。 <div style="padding-bottom:1em;"></div>“是”的这个意义在西方哲学上很重要，从巴门尼德起，经过亚里士多德，都讲τδσυ这个范畴，笛卡尔讲“我是”正是这个传统的发展。但是在中世纪讨论“神是”问题时，为了生动，将这个根本范畴加以具体化，描述成在时间空间中的“是”，即所谓“存在”（existentia ）。笛卡尔也继承了这个传统，所以他也说“是或存在”。“存在”是“是”的一种，“是”是“存在”的根本，所以二者相通，但不相等；直到现代，主要的哲学范畴还是“是”，如黑格尔就是这样，今天的存在主义者海德格尔和萨特还是这样。因此笛卡尔的“是”不能改为“存在”。 <div style="padding-bottom:1em;"></div>但是现代汉语的“是”字没有“起作用”的意思，需要加以规定，给它加上这个意义。请读者将“我是”的“是”字读重音，示别于可以读轻音的系词“是”。 <div style="padding-bottom:1em;"></div>______________________<div style="padding-bottom:1em;"></div>　　神这个极完满的是者是或者存在，这个命题至少同几何学上任何一项证明同样可靠。 <div style="padding-bottom:1em;"></div>可是有不少人认为自己很难认识这条真理，甚至很难认识自己的灵魂是什么。这是因为他们鼠目寸光，只看到可以感觉到的东西，养成一种习惯，完全用想像力考虑问题，而想像是一种用于物质性的东西的特殊思想方式，所以凡是不能想像的事情他们就觉得无法理解。这种倾向，在经院哲学家信奉的一条格言里表现得相当明显，他们说：理智① 中的东西没有一样不曾在感官中。实际上，神的观念和灵魂观念在感官中是根本没有的。我觉得，那些人要想用想像来理解这两个观念，实在无异于要用眼睛来听声音、闻气味；只是还有这样一点区别：视觉同嗅觉或听觉一样使我们相信它的对象是真的，然而我们的想像、我们的感官如果没有理智参与其事，并不能使我们相信任何东西。|在为人处世方面人人都有非常强烈的主见，如果容许每一个人都像奉天承运、治理万民的君主那样，都像得天独厚、满腔热忱的先知那样，从事移风易俗的工作，那就会人人动手，个个争先，都成为社会改革家了；我的想法固然令我自己十分满意，我相信别人也有想法，他们的想法大概更能使他们满意。|健康当然是人生最重要的一种幸福，也是其他一切幸福的基础，因为人的精神在很大程度上是取决于身体器官的气质和状况的。|我自己已经打定主意要把毕生精力用来寻求一门非常必要的学问，并且已经摸到了一条途径，觉得非常可靠，只要照着走，必定可以万无一失地把它找到；只是受到两方面的阻碍，一是生命短促，二是经验不足。所以我认为，要排除这两重障碍，最好的办法就是把自己所发现的一点东西毫无保留地、原原本本地告诉大家，请求有志之士继续努力，更进一步，按照各人的倾向和努力从事必要的实验，把自己获得的经验再告诉大家，代代相传，使后人能够接过前人的火炬前进，把多数人的生命和成绩汇合在一起，这样，我们群策群力，就可以大有作为，远非个人单干所能比。 <div style="padding-bottom:1em;"></div>______________________<div style="padding-bottom:1em;"></div>　　如果我写的东西还有点价值的话，等我死后，得到它的人利用起来就比较方便了。可是我决不能同意在我活着的时候出版，免得引起种种反驳、种种争辩，招来无可奈何的毁誉，惹是生非，浪费我准备用于自学的宝贵时间。因为固然人人都应当尽力为他人谋福利，独善其身是毫无价值的；可是我们也不能目光短浅、只顾眼前，如果高瞻远瞩，放弃一些可能有益于今人的事情，去从事一些给子孙万代带来更大利益的工作，那也是很好的。|争辩的时候人人都想取胜，尽量利用貌似真实的理由吹嘘，很少权衡双方的道理，那些长期充当律师的人并不因此后来就是更好的法官。|传播我的思想也不会给别人带来很大的好处，因为我还没有把这些思想贯彻到底，还需要添加很多东西，然后才能用于实际。我觉得可以老老实实地说，如果有人能够把它贯彻到底的话，那就应该是我自己，而不是别人；这并不是说世界上只有我聪明，比我聪明万倍的人多得很，可是要想透彻理解、全面精通一样东西，跟别人学还不如自己发明。 <div style="padding-bottom:1em;"></div>______________________<div style="padding-bottom:1em;"></div>　　有许多荒诞不经的说法被加到没有著作传下来的古代哲学家头上，我觉得是毫不足怪的。我并不因此就认为他们的思想很不合理，因为他们是当时最智慧的人，只不过被传统弄走了样而已。大家都知道，他们的门徒就几乎没有一个超过他们的；我敢说，现在的那批热烈追随亚里士多德的人① 如果得到跟亚里士多德一样多的自然知识，就会觉得自己很幸运了，反正他们是决不会得到更多的知识的。这种人好比藤萝一样，藤萝是决不能爬得比自己依附的树更高的，而且常常在爬到树顶之后又往下爬，因为我觉得他们也是在走下坡路，就是说，他们如果不再钻研，学问也就江河日下，不如另外一批人，读完经典里明白说出的东西还不满足，又想出许多难题，要在字里行间搜索，找出祖师爷没有说的、甚至根本没有想到的解答。他们那种研究哲学的方式是非常适合才智十分平庸的人的，因为他们使用的范畴和原理含含糊糊，使他们能够放言高论，无所不谈，就像真的知道似的，并且能够为他们的全部说法辩护，对抗各种最巧妙、最灵活的说法，弄得人家无可奈何。他们这样做，我觉得好像一个瞎子，为了跟看得见的人打架不吃亏，就把人家拉到很黑很黑的地窖底下去。 <div style="padding-bottom:1em;"></div>______________________<div style="padding-bottom:1em;"></div>　　至于那些纯粹属于我的看法，我承认它们是新的，并不辩解，因为我相信大家看清了我的推理就会发现这些看法非常简单、非常合乎常识，同大家对这类问题所能采取的其他见解相比，并没有什么特别、什么奇怪；我也不吹嘘这是我的创见，不过我很自豪，我采取这些看法并不是由于别人这样说过，也不是由于别人没有这样说过，而只是由于理性这样说服了我。我觉得那些单凭自己干干净净的天然理性来判断的人一定善于评判我的看法，胜过只信古书的人；至于那些把良知与学习结合起来的人，是我一心向往的公正评判者，我相信他们决不会如此偏爱拉丁文，由于我用俗语说理就掩耳不听。|我深知我这个人是没有办法在人世间飞黄腾达的，我对此也毫无兴趣，我永远感谢那些宽宏大量、让我自由自在地过闲散日子的人，并不希望有人给我尘世上的高官显位。|我应该做的工作是给人们提供整整一套哲学；我并不感到自己太老，并不认为自己的力量不够，并没有发现自己无法认识其余的东西，以至于不敢去完成这个计划，我是有条件进行全部实验来确立和证实我那些推理的。可是我看出这件工作需要的费用很大，我这样的个人没有公众帮助是出不起的，我也看不出自己应该等待这种帮助，所以我认为从现在起应该满足于为教育自己而学习，如果未能为后人工作，是会得到谅解的。|真理虽然常常不像错误和虚构那样打动我们的想像力，由于它显得不大奇妙而比较简单，它给人们带来的满足总是比较持久、比较牢靠的。|人们研究了这些本原会一点一点养成习惯，学会正确地判断所遇到的一切事物，因而比较智慧：在这一点上，他们收到的效果与学习通常的哲学① 正好相反；因为很容易在那些号称学究的人身上看到，那种哲学使他们更加不能运用理性，还不如没有学过好。|这类说法并不能在那些可以理解我的论证的人心中造成任何印象，而且多数人的评判是非常浅薄，非常不合道理的，他们总是宁愿相信自己对一件事的先入之见，哪怕它是错误的、离开正理很远的，而不肯接受可靠的、真正的、以后得到理解的对那些意见的驳斥，所以我不想在这里答复它们，以免先得将它们复述一番。|思想者的意志是自愿地而且自由地活动的（因为这属于它的本质），却又不可避免地奔向他清楚地认识到的好事。因为这个缘故，他如果发觉有些完满是自己所缺乏的，就立刻向它们扑上去，只要他能办得到。［因为他会认识到，有这些完满是一件比没有它们更大的好事。<div style="padding-bottom:1em;"></div>______________________<div style="padding-bottom:1em;"></div>　　我接着就请大家考虑这个哲学的用处，指出它既然遍及人心所能知道的一切，我们就该相信，只是它使我们有别于那些生番和蛮子，每一个民族的文明与开化，就是靠那里的人哲学研究得好，因此一个国家最大的好事就是拥有真正的哲学家。此外，对于每一个单个的人来说，不仅跟进行这种研究的人生活在一起是有益的，自己亲身从事研究更是好到不知多少倍；毫无疑问，用自己的眼睛指导自己的行动，以及用这种办法去享受颜色的美，享受光明，要比闭着两眼听别人指点好得多；不过听从别人指引比起闭上两眼只听任自己行动还要好些。真正说来，活着不研究哲学，就如同闭上两眼不肯睁开；观看我们视觉发现的一切而得到的那种愉快，根本比不上人们凭哲学发现事物的知识而获得的那种满足；总之，我们必须研究哲学来砒砺德行、指导人生，胜过使用眼睛来引导我们走路。野生的禽兽只有身体需要保护，就经常不断地从事寻求养身的食品；然而人的主要部分是心灵，就应该把主要精力放在寻求智慧上，智慧才是他真正的养料；而且我也敢断言，有很多人在这方面是不会失败的，只要他们抱着取得胜利的希望、并且知道自己能做多少就行。没有一个人的灵魂如此卑下，牢牢地固守在各种感官对象上面，不会有那么一回抛开感官对象，转过来希望取得另外一个更伟大的好东西，尽管他每每不知道这个好东西在哪里。 <div style="padding-bottom:1em;"></div>我们发现，在大多数争论中间，并不是真理位于人们主张的两种意见的中间所在，不偏不倚，而是哪种意见越说得偏激就离真理越远。 <div style="padding-bottom:1em;"></div>______________________<div style="padding-bottom:1em;"></div>　　
+
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/20228187/#comments">回应</a>&nbsp;&nbsp;
+                  2012-08-08 21:23
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+      
+  <ul class="comments by_time"  style="display: none">
+      
+      <li class="ctsh clearfix" data-cid="43325428">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/hsoyo/"><img src="https://img3.doubanio.com/icon/u147075699-6.jpg" alt="徐耀" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43325428/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43325428/" class="">我思故我在</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/hsoyo/" class=" " title="徐耀">徐耀</a>
+              
+            </p>
+            <div class="reading-note" data-cid="43325428">
+              <div class="short">
+                
+                  <span class="">任何一种看法，只要我能够想象到有一点可疑之处，就应该把它当成绝对虚假的抛掉，看看这样清洗之后我心里是不是还剩下一点东西完全无可怀疑。因此，既然感官有时欺骗我们，我就宁愿认定任何东西都不是感官让我们想象的那个样子。既然有些人推理的时候出错，连最简单的几何学问题都要弄乱，作出似是而非的推论，而我自己也跟别人一样难免弄错，那我就把自己曾经用于证明的那些理由统统抛弃，认为都是假的。最后我还考虑到，我们...</span>
+                <p class="pl">
+                  <span class="">2017-04-23 14:40</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>任何一种看法，只要我能够想象到有一点可疑之处，就应该把它当成绝对虚假的抛掉，看看这样清洗之后我心里是不是还剩下一点东西完全无可怀疑。因此，既然感官有时欺骗我们，我就宁愿认定任何东西都不是感官让我们想象的那个样子。既然有些人推理的时候出错，连最简单的几何学问题都要弄乱，作出似是而非的推论，而我自己也跟别人一样难免弄错，那我就把自己曾经用于证明的那些理由统统抛弃，认为都是假的。最后我还考虑到，我们醒时心里的各种思想在睡着时也照样可以跑到心里来，而那时却没有一样是真的。既然如此，我也就下决心认定：那些曾经跑到我们心里来的东西也统统跟梦里的幻影一样不是真的。可是我马上就注意到：既然我因此宁愿认为一切都是假的，那么，我那样想的时候，那个在想的我就必然应当是个东西。我发现，“我想，所以我是”（1）这条真理是十分确实、十分可靠的，怀疑派的任何一条最狂妄的假定都不能使它发生动摇，所以我毫不犹豫地予以采纳，作为我所寻求的那种哲学的第一条原理。</blockquote><blockquote>（1）Je pense, donc je suis （拉丁译文作Ego cogito, ergo sum。一般简称为笛卡尔的cogito），我国旧译为：“我思故我在”。这样译，是把法文的je suis理解为“我存在”，再把现代汉语的“我存在”换成古代汉语的“我在”。但是这个“在”字读者一般了解为“在场”或“未死”的意思，而作者却将suis（sum）说成“是个东西”、“是个本体”。因此译文所表达的意思不完全符合作者的原意。</blockquote><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43325428/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-23 14:40
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="43325367">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/hsoyo/"><img src="https://img3.doubanio.com/icon/u147075699-6.jpg" alt="徐耀" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43325367/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43325367/" class="">4规则</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/hsoyo/" class=" " title="徐耀">徐耀</a>
+              
+            </p>
+            <div class="reading-note" data-cid="43325367">
+              <div class="short">
+                
+                  <span class="">第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。 第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。 第三条是：按次序进行我的思考，从最简单、最容易认识的对象开始，一点一点逐步上升，直到认识最复杂的对象；就连那些本来...</span>
+                <p class="pl">
+                  <span class="">2017-04-23 14:39</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <blockquote>第一条是：凡是我没有明确地认识到的东西，我绝不把它当成真的接受。也就是说，要小心避免轻率的判断和先入之见，除了清楚分明地呈现在我心里、使我根本无法怀疑的东西以外，不要多放一点别的东西到我的判断里。</blockquote><blockquote>第二条是：把我所审查的每一个难题按照可能和必要的程度分成若干部分，以便一一妥为解决。</blockquote><blockquote>第三条是：按次序进行我的思考，从最简单、最容易认识的对象开始，一点一点逐步上升，直到认识最复杂的对象；就连那些本来没有先后关系的东西，也给它们设定一个次序。</blockquote><blockquote>最后一条是：在任何情况之下，都要尽量全面地考察，尽量普遍地复查，做到确信毫无遗漏。</blockquote>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43325367/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-23 14:39
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="43020561">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/dumbodumbo/"><img src="https://img3.doubanio.com/icon/u57793430-3.jpg" alt="dumbo" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/43020561/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/43020561/" class="">前言</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/dumbodumbo/" class=" " title="dumbo">dumbo</a>
+              
+            </p>
+            <div class="reading-note" data-cid="43020561">
+              <div class="short">
+                
+                  <span class="">知识就是力量vii 一座方塔 远看确是圆的 手丈在水里看上去是折断的 感官只能获得个别 片面的认识 只有理性能获得普遍 必然的知识 凡是理性清楚明白认识到的 都是真的 思维 存在的关系 灵魂比形体更容易被我们认识 浓厚的古代味道 亚里士多德的影子 我们心中的观念 代表了心外的客体 1 通过感官获得的 如日月星辰 山河大地等观念 2通过理性清楚明白见到的 例如量加量等于其和相等 这些一定是真的 因为其反面不可设想 3我们幻想出...</span>
+                <p class="pl">
+                  <span class="">2017-04-11 12:54</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>知识就是力量vii</p><p>一座方塔 远看确是圆的 手丈在水里看上去是折断的</p><p>感官只能获得个别 片面的认识 只有理性能获得普遍 必然的知识</p><p>凡是理性清楚明白认识到的 都是真的</p><p>思维 存在的关系</p><p>灵魂比形体更容易被我们认识 浓厚的古代味道 亚里士多德的影子</p><p>我们心中的观念 代表了心外的客体 1 通过感官获得的 如日月星辰 山河大地等观念 2通过理性清楚明白见到的 例如量加量等于其和相等 这些一定是真的 因为其反面不可设想 3我们幻想出来的 </p><p>先验论 唯心论</p><p>培根强调只是只能来自感性经验 普遍的知识就在个体的知觉当中 通过归纳和排比 把普通的东西从特殊的东西里找出来 而笛卡尔认为 特殊加特殊还是特殊 不能成为普遍 </p><p>培根用的是描述科学 笛卡尔是理论科学</p><p>xix lOCKE </p><p>机械唯物论</p><p>二元论者笛卡尔把灵魂和形体完全分开 </p><p>当时的科学还不知道内分泌 神经中枢</p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/43020561/#comments">回应</a>&nbsp;&nbsp;
+                  2017-04-11 12:54
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+      
+      <li class="ctsh clearfix" data-cid="41771485">
+        <div class="ilst">
+          <a href="https://www.douban.com/people/152193850/"><img src="https://img3.doubanio.com/icon/u152193850-3.jpg" alt="微亮" class="" /></a>
+        </div>
+        <div class="con">
+          <div class="nlst">
+            <h3>
+              <div class="note-toggle rr">
+                <a href="https://book.douban.com/annotation/41771485/" class="note-unfolder">展开</a>
+                <a href="javascript:void(0);" class="note-folder">收起</a>
+              </div>
+              <a href="https://book.douban.com/annotation/41771485/" class="">第2页</a></h3>
+          </div>
+          <div class="clst">
+            <p class="user"><a href="https://www.douban.com/people/152193850/" class=" " title="微亮">微亮</a>
+              
+                <span class="allstar50" title="力荐"></span>
+            </p>
+            <div class="reading-note" data-cid="41771485">
+              <div class="short">
+                
+                  <span class="">同属的各个个体只是所具有的偶性可以或多或少，它们的形式或本性并不能多点少点。 关于哲学我只能说一句话：我看到它经过千百年来最杰出的能人钻研，却没有一点不在争论中，因而没有一点不是可疑的。 而且，要想知道他们真正的看法，一定要看他们的实际行动，不能光听他们说的话，这不仅是由于世风日下，有不少人不肯全说真心话，也是由于有不少人并不知道自己的真心是什么；因为相信一件事并不等于知道自己相信这件事，这是两...</span>
+                  &nbsp;&nbsp;<a href="https://book.douban.com/annotation/41771485/">(<span class="">2回应</span>)</a>
+                <p class="pl">
+                  <span class="">2017-02-19 21:13</span>
+                  
+                </p>
+              </div>
+              <div class="all hidden" style="display:none" >
+                <p>同属的各个个体只是所具有的偶性可以或多或少，它们的形式或本性并不能多点少点。</p><p>关于哲学我只能说一句话：我看到它经过千百年来最杰出的能人钻研，却没有一点不在争论中，因而没有一点不是可疑的。</p><p>而且，要想知道他们真正的看法，一定要看他们的实际行动，不能光听他们说的话，这不仅是由于世风日下，有不少人不肯全说真心话，也是由于有不少人并不知道自己的真心是什么；因为相信一件事并不等于知道自己相信这件事，这是两种思想活动，常常分道扬镳。</p><p>永远只求克服自己，不求克服命运，只求改变自己的愿望，不求改变世间的秩序。</p><p>因为神既然已经赐给我们每人一份分辨真假的天然灵明，我觉得自己绝不应该有片刻功夫满足于别人的看法，只有打定主意在条件成熟的时候用自己的判断去审查别人的看法；</p><p>以后整整九年，我只是在世界上转来转去，遇到热闹戏就看一看，只当观众，不当演员。</p><p>居民人口众多，勤劳肯干，对自己的事情非常关心，对别人的事情并不注意。</p><p>认识与怀疑相比是一种更大的完满。</p><p>我自己已经打定主意要把毕生的精力用来寻求一门非常必要的学问·····只是受到两方面的阻碍，一是生命短促，二是经验不足。</p><p></p><p></p><p></p><p></p><p></p>
+                  <div class="col-rec-con clearfix">
+                    
+
+
+
+
+
+
+
+<div class="rec-sec">
+
+    <span class="rec">
+
+<a href="https://www.douban.com/accounts/register?reason=collect" class="j a_show_login lnk-sharing lnk-douban-sharing">推荐</a>
+</span>
+</div>
+
+                  </div>
+                <div class="pl col-time">
+                  <a href="https://book.douban.com/annotation/41771485/#comments">2回应</a>&nbsp;&nbsp;
+                  2017-02-19 21:13
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </li>
+  </ul>
+  
+
+    </div>
+      <div class="ft">
+        <p class="trr">&gt; <a href="https://book.douban.com/subject/1071023/annotation">更多读书笔记（共115篇）</a></p>
+      </div>
+
+</div>
+
+
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    var TEMPL_ADD_COL = '<a href="" id="n-{NOTE_ID}" class="colbutt ll add-col"><span>收藏</span></a>',
+      TEMPL_DEL_COL = '<span class="pl">已收藏 &gt;<a href="" id="n-{NOTE_ID}" class="del-col">取消收藏</a></span>';
+
+    $('body').delegate('.add-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_add = $(this);
+      $.post_withck("/j/book/annotation_collect",{nid:nnid},function(){
+        var a = $(TEMPL_DEL_COL.replace('{NOTE_ID}', nnid));
+        bn_add.before(a);
+        bn_add.remove();
+      })
+    });
+
+    $('body').delegate('.del-col', 'click', function(e){
+      e.preventDefault();
+      var nnid = $(this).attr('id').split('-')[1],
+        bn_del = $(this).parent();
+      $.post_withck("/j/book/annotation_uncollect", {nid: nnid}, function() {
+        var a = $(TEMPL_ADD_COL.replace('{NOTE_ID}', nnid));
+        bn_del.before(a);
+        bn_del.remove();
+      })
+    });
+
+    $("pre.source").each(function(){
+      var cn = $(this).attr('class').split(' ');
+      l = cn[1];
+      s = 'rand01';
+      n = cn[2];
+      $(this).snippet(n,{style: s, showNum: l});
+    });
+
+    var annotationMod = $('.reading-notes .bd')
+      , annotationTabs = annotationMod.find('.inline-tabs li')
+      , annotationTabLinks = annotationTabs.find('a')
+      , annotationTabContents = annotationMod.find('ul.comments');
+
+    annotationTabLinks.click(function(e){
+      e.preventDefault();
+      var el = $(this)
+        , kind = el.attr('id');
+
+      annotationTabs.removeClass('on');
+      el.parent().addClass('on');
+      annotationTabContents.hide();
+      annotationTabContents.filter('.' + kind).show();
+    });
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+	jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js","TeX/AMSmath.js","TeX/AMSsymbols.js","TeX/noUndefined.js"],
+    tex2jax: {
+		inlineMath: [ ["($", "$)"], ['\\(','\\)'] ],
+		displayMath: [ ["($$","$$)"], ['\\[','\\]']],
+		skipTags: ["script","noscript","style","textarea"],
+		processEscapes: true,
+		processEnvironments: true,
+		preview: "TeX"
+	},
+	showProcessingMessages: false
+  });
+</script>
+
+
+  
+
+
+
+
+
+
+<div id="db-discussion-section" class="indent ugc-mod">
+
+
+
+
+        
+  
+
+  <h2>
+    <span class="">论坛</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+        
+<table class="olt"><tr><td><td><td><td></tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1071023/discussion/1027610/" title="我见过的最好的启萌认识的书" class="">我见过的最好的启萌认识的书</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/toarms/">toarms</a></td>
+            <td class="pl"><span class="">5 回应</span></td>
+            <td class="pl"><span class="">2013-01-08</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1071023/discussion/53750433/" title="原著附录的3个实验：折光学、大气现象和几何学哪里有？" class="">原著附录的3个实验：折光学、大气现象和几何学哪里...</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/akari/">Akari</a></td>
+            <td class="pl"><span class="">2 回应</span></td>
+            <td class="pl"><span class="">2013-09-10</span></td>
+        </tr>
+        
+        <tr class="">
+            <td class="pl"><a href="https://book.douban.com/subject/1071023/discussion/22226022/" title="带着意识去认识世界" class="">带着意识去认识世界</a></td>
+            <td class="pl"><span class="">来自</span><a class="" href="https://www.douban.com/people/36018486/">天堂的泥瓦匠</a></td>
+            <td class="pl"><span class="">1 回应</span></td>
+            <td class="pl"><span class="">2010-07-05</span></td>
+        </tr>
+</table>
+
+
+
+
+</div>
+
+
+</div>
+<script type="text/javascript">
+$(function(){if($.browser.msie && $.browser.version == 6.0){
+    var maxWidth = parseInt($('#info').css('max-width'));
+    if($('#info').width() > maxWidth)
+        $('#info').width(maxWidth)
+}});
+</script>
+</div>
+      <div class="aside">
+        
+  
+  
+
+
+
+
+
+
+  <div id="dale_book_subject_top_right"></div>
+
+  
+
+
+
+
+
+
+<style type="text/css" media="screen">
+  .add2cartContainer{overflow:hidden;vertical-align:bottom;line-height:1}.add2cartContainer .add2cart{margin-right:0;display:inline-block}#buyinfo .bs{margin:0}#buyinfo li{padding:10px 0;position:relative;line-height:1;border-bottom:1px solid #eaeaea}#buyinfo li a:hover{background-image:none !important}#buyinfo li a:hover .buylink-price{background:#37a}#buyinfo li .publish,#buyinfo li .other-activity{margin-top:5px}#buyinfo li .publish a,#buyinfo li .other-activity a{color:#999}#buyinfo li .publish a:hover,#buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#buyinfo .more-info{color:#aaa;margin:6px 0 -2px 0}#buyinfo .more-ebooks{padding:10px 0;color:#37a;cursor:pointer}#buyinfo .price-page{border-bottom:0;padding:15px 0 0}#buyinfo .saved-price{display:none;margin-left:5px}#buyinfo .cart-tip{float:right;padding-right:5px}#buyinfo #buyinfo-ebook{margin-bottom:15px}#buyinfo #buyinfo-ebook .buylink-price{display:inline}#buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed{margin-bottom:15px}#buyinfo-printed.no-border{border-bottom:0}#buyinfo-printed .more-ebooks{line-height:1;padding:10px 0;color:#37a;cursor:pointer;padding:10px 0 0}#buyinfo-report{display:none}#buyinfo-report .lnk-close-report{float:right;margin-top:-30px;line-height:14px}#buyinfo-report .item{margin-bottom:10px}#buyinfo-report .item input{vertical-align:text-bottom;*vertical-align:middle}#buyinfo-report .item label{margin:0 5px 0 2px}#buyinfo-report .item-submit .bn-flat{margin-right:10px}#buyinfo-report .item-price input{width:220px;border:1px solid #ccc;padding:4px}#buyinfo-report form{margin:5px 0 10px}#bi-report-btn{float:right;margin:2px 0;line-height:14px;display:none}.bi-vendor-report{color:#aaa}.bi-vendor-report-form{display:none;color:#111;margin:0 5px;line-height:25px}.gray_ad{padding:30px 20px 25px 20px;background:#f6f6f1}.gray_ad h2{margin-bottom:6px;font-size:13px}.gray_ad .ebook-tag{margin-top:5px;color:#999;font-size:12px}.bs.more-after{margin-bottom:0px}@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi){#buyinfo li a:hover{background-image:url(https://img3.doubanio.com/f/book/fc4ff7f0a3a7f452f06d586540284b9738f2fe87/pics/book/cart/icon-brown@2x.png);background-size:16px 12px}}#intervenor-buyinfo .bs{margin:0}#intervenor-buyinfo li{position:relative;border-bottom:1px solid #eaeaea;padding:10px 0;line-height:1}#intervenor-buyinfo li .basic-info{color:#494949;font-size:14px;line-height:18px}#intervenor-buyinfo li a:hover .comment{color:#f67;opacity:0.75;filter:alpha(opacity=75)}#intervenor-buyinfo li a:hover .buy-btn{background:#fff;border:1px solid #e97e7e;border-radius:2px;color:#e97e7e}#intervenor-buyinfo li a:hover .buylink-price{background:#37a}#intervenor-buyinfo li .buylink-price{position:absolute;right:90px;text-align:right}#intervenor-buyinfo li .publish,#intervenor-buyinfo li .other-activity{margin-top:5px}#intervenor-buyinfo li .publish a,#intervenor-buyinfo li .other-activity a{color:#999}#intervenor-buyinfo li .publish a:hover,#intervenor-buyinfo li .other-activity a:hover{color:#37a;background:none;opacity:0.5;filter:alpha(opacity=50)}#intervenor-buyinfo .jd-buy-icon{float:left;margin-right:3px}#intervenor-buyinfo .buy-btn{float:right;position:absolute;right:10px;bottom:3px;color:#9c9c9c;padding:0 12px;border:1px solid transparent}#intervenor-buyinfo .comment{color:#e97e7e;margin:6px 0 -2px 0}#intervenor-buyinfo .price-page a{display:inline-block;line-height:16px !important}#intervenor-buyinfo .price-page{border-bottom:0;padding:15px 0 0}#intervenor-buyinfo .saved-price{display:none;margin-left:5px}#intervenor-buyinfo .cart-tip{float:right;padding-right:5px}#intervenor-buyinfo #buyinfo-ebook{margin-bottom:15px}#intervenor-buyinfo #buyinfo-ebook .buylink-price{display:inline}#intervenor-buyinfo #buyinfo-ebook li.no-border{border:0}#buyinfo-printed .presale-indicator{margin:0;color:#999;text-indent:0;background:none}
+
+</style>
+
+      <div class="gray_ad" id="buyinfo">
+      <div id="buyinfo-ebook">
+        
+  
+  
+
+  <h2>
+    <span class="">电子版有售</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+
+  <ul class="bs noline more-after ">
+    
+      
+      <li class="no-border  ">
+        <a target="_blank" href="https://read.douban.com/ebook/1207606/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1071023" class="">
+          <span class="">豆瓣阅读</span>
+        </a>
+        <a target="_blank" href="https://read.douban.com/ebook/1207606/?dcs=subject-buylink&amp;dcm=douban&amp;dct=1071023" class="">
+          <span class="buylink-price">
+            
+            <span class="">5.46 元</span>
+          </span>
+        </a>
+      </li>
+      
+      <li class="">
+        <a target="_blank" href="http://www.amazon.cn/mn/detailApp/ref=asc_df_B00A0HIUAA2746492/?asin=B00A0HIUAA&amp;tag=douban_kindle-23&amp;creative=2384&amp;creativeASIN=B00A0HIUAA&amp;linkCode=df0" class="">
+          <span class="">Kindle 电子书</span>
+          <span class="buylink-price">
+            <span class="">5.46 元</span>
+          </span>
+        </a>
+      </li>
+  </ul>
+
+      </div>
+      <div id="buyinfo-printed">
+        
+  
+
+  <h2>
+    <span class="">在哪儿买这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+        <ul class="bs noline more-after ">
+          
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=860&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=1090&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEwNRHl4RBCJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMWA1AeXxMdS0IJRmtHWBZsAlwocWFsUzUSI3NBRm48Th1DDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBpdFwoQB1ArXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsUBhYCUB9dCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=1071023&amp;type=bkbuy&amp;subject=1071023" class="">
+                      <span class="">京东商城</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=860&amp;pre=0&amp;vendor=jingdong&amp;srcpage=subject&amp;price=1090&amp;pos=1&amp;url=http%3A%2F%2Funion-click.jd.com%2Fjdc%3Fe%3D%26p%3DAyIOZR5aEQISA1AYUyUCEwNRHl4RBCJDCkMFSjJLQhBaUAscSkIBR0ROVw1VC0dFFQMWA1AeXxMdS0IJRmtHWBZsAlwocWFsUzUSI3NBRm48Th1DDh43Uh5cEwUbBFIrWxEDFgNlK1sUMkBpja3tzaejG4Gx1MCKhTdUK1sQCxsDUBpdFwoQB1ArXCXbkrCDucnMnJjS3YxrJTIi%26t%3DW1dCFBBFC1pXUwkEAEAdQFkJBVsUBhYCUB9dCltXWwg%253D&amp;cntvendor=3&amp;srcsubj=1071023&amp;type=bkbuy&amp;subject=1071023" class="buylink-price ">
+                      <span class="">
+                        10.90 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=860&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=860&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1071023%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D21042998&amp;cntvendor=3&amp;srcsubj=1071023&amp;type=bkbuy&amp;subject=1071023" class="">
+                      <span class="">当当网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=860&amp;pre=0&amp;vendor=dangdang&amp;srcpage=subject&amp;price=860&amp;pos=2&amp;url=http%3A%2F%2Funion.dangdang.com%2Ftransfer.php%3Ffrom%3DP-306226-0-s1071023%26backurl%3Dhttp%3A%2F%2Fproduct.dangdang.com%2Fproduct.aspx%3Fproduct_id%3D21042998&amp;cntvendor=3&amp;srcsubj=1071023&amp;type=bkbuy&amp;subject=1071023" class="buylink-price ">
+                      <span class="">
+                        8.60 元
+                      </span>
+                    </a>
+
+                      
+                        <div class="more-info">
+                            <span class="buyinfo-promotion">
+                              图书加价购
+                            </span>
+                        </div>
+                </li>
+                
+                <li class="">
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=860&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=1040&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4974115.htm&amp;cntvendor=3&amp;link2key=00264311ec&amp;srcsubj=1071023&amp;type=bkbuy&amp;subject=1071023" class="">
+                      <span class="">中国图书网</span>
+                    </a>
+                    <a target="_blank" href="https://book.douban.com/link2/?lowest=860&amp;pre=0&amp;vendor=bookschina&amp;srcpage=subject&amp;price=1040&amp;pos=3&amp;url=http%3A%2F%2Fwww.bookschina.com%2Funion%2Fubook.asp%3Fadservice%3D354872%26tourl%3Dhttp%3A%2F%2Fwww.bookschina.com%2F4974115.htm&amp;cntvendor=3&amp;link2key=00264311ec&amp;srcsubj=1071023&amp;type=bkbuy&amp;subject=1071023" class="buylink-price ">
+                      <span class="">
+                        10.40 元
+                      </span>
+                    </a>
+
+                      
+                </li>
+          <li class="price-page">
+            <a href="https://book.douban.com/subject/1071023/buylinks">
+              &gt; 查看3家网店价格
+                (8.60 元起)
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+  <div class="add2cartContainer ft no-border">
+    
+  <span class="add2cartWidget ll">
+      <a class="j  add2cart a_show_login" href="https://www.douban.com/register?reason=addbook2cart" rel="nofollow">
+        <span>+ 加入购书单</span></a>
+  </span>
+  
+
+  </div>
+
+  </div>
+  <script type="text/javascript">
+  $('.more-ebooks').on('click', function() {
+    var $this = $(this),
+      $li = $this.siblings('ul').find('li');
+    if ($this.hasClass('isShow')) {
+      $(this).text('展开更多').removeClass('isShow');
+      $li.not(':first').addClass('hide');
+    }else{
+      $(this).text('收起').addClass('isShow');
+      $li.removeClass('hide');
+    }
+    
+  })
+  </script>
+
+<style class="text/css">
+  .presale-indicator {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  width: 24px;
+  height: 15px;
+  line-height: 15px;
+  background: url(https://img3.doubanio.com/f/book/1679c65572eac1371f9872807199dea6e55a7f06/pics/book/cart/presale_text.gif) no-repeat;
+  text-indent: -9999px;
+  vertical-align: middle;
+  *vertical-align: 0px;
+  _vertical-align: 2px;
+  margin-left: 0.5em;
+}
+
+</style>
+
+
+
+  
+
+
+
+
+
+<div class="gray_ad" id="borrowinfo">
+  
+  
+
+  <h2>
+    <span class="">在哪儿借这本书</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+
+  </h2>
+
+
+  <ul class="bs more-after">
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fwww.bplisn.net.cn%2FBookSearch.aspx%3FISBN%3D7-100-03090-0&amp;subject=7100030900&amp;type=borrow&amp;library=10007&amp;link2key=00264311ec" target="_blank">北京市公共图书馆(1)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fipac.library.sh.cn%2Fipac20%2Fipac.jsp%3Faspect%3Dbasic_search%26profile%3Dsl%26index%3DISBN%26term%3D7100030900&amp;subject=7100030900&amp;type=borrow&amp;library=10012&amp;link2key=00264311ec" target="_blank">上海市中心图书馆(9)</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2Fourex.lib.sjtu.edu.cn%2Fprimo_library%2Flibweb%2Faction%2Fsearch.do%3Ffn%3Dsearch%26vl%28freeText0%29%3D7-100-03090-0&amp;subject=7100030900&amp;type=borrow&amp;library=10006&amp;link2key=00264311ec" target="_blank">上海交通大学图书馆</a>
+      </li>
+      
+      <li style="border: none">
+        <a href="https://www.douban.com/link2/?url=http%3A%2F%2F222.177.237.197%3A8080%2FInDigLib%2Ffront%2FComplexSearch.action%3FcurrentPage%3D1%26select1%3Disbn%26select2%3D%26select3%3D%26text1%3D7100030900%26text2%3D%26text3%3D%26pageSize%3D20%26condition%3D%26table%3Di_biblios%26type%3D%26videoType%3Dcomplex&amp;subject=7100030900&amp;type=borrow&amp;library=10021&amp;link2key=00264311ec" target="_blank">重庆图书馆</a>
+      </li>
+  </ul>
+  <div class="clearfix"></div>
+  <!--<div class="ft pl">-->
+    <!--<a class="rr"  href="https://book.douban.com/library_invitation">&gt; 图书馆合作</a>-->
+    <!--找不到你需要的图书馆？-->
+  <!--</div>-->
+</div>
+
+  <div id="dale_book_subject_top_middle"></div>
+  
+
+
+
+
+
+  
+
+  
+  
+
+  <h2>
+    <span class="">这本书的其他版本 </span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/works/1028727">全部9</a>
+        ) </span>
+
+  </h2>
+
+
+  <div class="indent">
+    <ul>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/3590817/">Focus Publishing / R. Pullins Co.版</a>
+          2007-4-17 / 18人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/2332499/">網路與書版</a>
+          1996-11 / 10人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/3642959/">Oxford University Press版</a>
+          2008-04-17 / 13人读过
+        </li>
+        <li class="mb8 pl">
+          <a href="https://book.douban.com/subject/6041392/">商务印书馆版</a>
+          2011-7 / 4人读过
+        </li>
+    </ul>
+  </div>
+
+
+  
+
+
+
+      
+  
+
+  <h2>
+    <span class="">以下豆列推荐</span>
+      &nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;&nbsp;&middot;
+      <span class="pl">&nbsp;(
+          <a href="https://book.douban.com/subject/1071023/doulists">全部</a>
+        ) </span>
+
+  </h2>
+
+
+    <div id="db-doulist-section" class="indent">
+      <ul class="bs">
+          <li class=""><a class="" href="https://www.douban.com/doulist/217511/" target="_blank">推荐给你的大学读书单：那些值得关注的观念</a>
+                <span class="pl">(jiaon)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/21472/" target="_blank">哪几本书影响了我的世界观?</a>
+                <span class="pl">(jiaon)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/34263/" target="_blank">我的书目-哲学部分（译著）</a>
+                <span class="pl">(忆未名)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/116362/" target="_blank">Kogorou推荐的数学科普读物</a>
+                <span class="pl">(Kogorou)</span>
+            </li>
+          <li class=""><a class="" href="https://www.douban.com/doulist/203936/" target="_blank">豆瓣评星很高很强大【哲学】</a>
+                <span class="pl">(爱玛·包法利)</span>
+            </li>
+      </ul>
+    </div>
+
+  <div id="dale_book_subject_middle_mini"></div>
+  
+
+
+
+
+
+
+  <h2>谁读这本书?</h2>
+  <div class="indent" id="collector">
+
+    
+
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/59310806/"><img src="https://img3.doubanio.com/icon/u59310806-11.jpg" class="pil" alt="醉走画狸猫" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/59310806/">醉走画狸猫</a><br/>
+      <div class="pl ll">          21分钟前          读过      </div>
+
+        <span class="allstar30" title="还行"></span>
+      <br/>
+
+      <span class="pl">tags:笛卡尔</span><br />
+
+          <span class="">PHI1401</span> <br/>
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/149169297/"><img src="https://img3.doubanio.com/icon/u149169297-3.jpg" class="pil" alt="罔鸢" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/149169297/">罔鸢</a><br/>
+      <div class="pl ll">          1小时前          读过      </div>
+
+        <span class="allstar40" title="推荐"></span>
+      <br/>
+
+      <span class="pl">tags:方法论 理性主义</span><br />
+
+          <span class="">改变自己的思想远比改变他人容易</span> <br/>
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/160248039/"><img src="https://img3.doubanio.com/icon/u160248039-1.jpg" class="pil" alt="月月大鸟" /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/160248039/">月月大鸟</a><br/>
+      <div class="pl ll">          1小时前          在读      </div>
+
+        <span class="allstar50" title="力荐"></span>
+      <br/>
+
+      <span class="pl">tags:方法论 笛卡尔 理性主义 学...</span><br />
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+<div class="">
+    
+    <div class="ll"><a href="https://www.douban.com/people/ccdsain/"><img src="https://img3.doubanio.com/icon/u33324443-16.jpg" class="pil" alt="❤.sain." /></a></div>
+    <div style="padding-left:60px"><a class="" href="https://www.douban.com/people/ccdsain/">❤.sain.</a><br/>
+      <div class="pl ll">          2小时前          想读      </div>
+
+      <br/>
+
+
+    </div>
+    <div class="clear"></div><br/>
+    <div class="ul" style="margin-bottom:12px;"></div>
+</div>
+
+
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1071023/doings">483人在读</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1071023/collections">3240人读过</a></p>
+        <p class="pl">&gt; <a href="https://book.douban.com/subject/1071023/wishes">5351人想读</a></p>
+
+  </div>
+
+
+
+
+
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_middle_right"></div>
+<script type="text/javascript">
+    (function (global) {
+        if(!document.getElementsByClassName) {
+            document.getElementsByClassName = function(className) {
+                return this.querySelectorAll("." + className);
+            };
+            Element.prototype.getElementsByClassName = document.getElementsByClassName;
+
+        }
+        var articles = global.document.getElementsByClassName('article'),
+            asides = global.document.getElementsByClassName('aside');
+
+        if (articles.length > 0 && asides.length > 0 && articles[0].offsetHeight >= asides[0].offsetHeight) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_middle_right');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+  
+
+
+
+
+
+  
+
+  <h2>二手市场</h2>
+  <div class="indent">
+    <ul class="bs">
+    <li class="">
+        <a class=" " href="https://book.douban.com/subject/1071023/offers">11本二手书欲转让</a>
+          <span class="">
+            (1.00
+                至 15.00元)
+          </span>
+      </li>
+      <li>
+          <a class="rr j a_show_login" href="https://www.douban.com/register?reason=secondhand-offer&amp;cat=book"><span>&gt; 点这儿转让</span></a>
+
+        有5351人想读,手里有一本闲着?
+      </li>
+    </ul>
+  </div>
+
+  
+<p class="pl">订阅关于谈谈方法的评论: <br/><span class="feed">
+    <a href="https://book.douban.com/feed/subject/1071023/reviews"> feed: rss 2.0</a></span></p>
+
+
+      </div>
+      <div class="extra">
+        
+  
+<!-- douban ad begin -->
+<div id="dale_book_subject_bottom_super_banner"></div>
+<script type="text/javascript">
+    (function (global) {
+        var body = global.document.body,
+            html = global.document.documentElement;
+
+        var height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+        if (height >= 2000) {
+            (global.DoubanAdSlots = global.DoubanAdSlots || []).push('dale_book_subject_bottom_super_banner');
+        }
+    })(this);
+</script>
+<!-- douban ad end -->
+
+
+      </div>
+    </div>
+  </div>
+
+        
+<div id="footer">
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2017 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about?policy=disclaimer">免责声明</a>
+    
+    · <a href="https://help.douban.com/?app=book" target="_blank">帮助中心</a>
+    · <a href="https://book.douban.com/library_invitation">图书馆合作</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+    · <a href="https://www.douban.com/partner/">豆瓣广告</a>
+</span>
+
+</div>
+
+    </div>
+    <script type="text/javascript" src="https://img3.doubanio.com/misc/mixed_static/b93d8ec8cf50308.js"></script>
+    <!-- mako -->
+    
+  
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'WrCpO6xmD7o',
+            criteria = '7:哲学|7:笛卡尔|7:方法论|7:西方哲学|7:理性主义|7:法国|7:方法|7:思维|7:商务印书馆|7:谈谈方法|3:/subject/1071023/',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_book_subject_top_icon', 'dale_book_subject_top_right', 'dale_book_subject_top_middle', 'dale_book_subject_middle_mini'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', 'https://img3.doubanio.com/f/shire/e76b9d56b596952be140433eb8c4c3db6d8496a3/js/ad.js');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+    g.type='text/javascript';
+    g.defer=true; 
+    g.async=true; 
+    g.src=p+'://s.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-16', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id])
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+    <!-- hador13-docker-->
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
