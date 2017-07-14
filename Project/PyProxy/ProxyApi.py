@@ -13,6 +13,7 @@
 __author__ = 'Hammurabi'
 
 import sys
+import psutil
 
 from flask import Flask, jsonify, request
 import ProxyManager
@@ -35,7 +36,6 @@ def index():
 @app.route('/get/')
 def get():
     proxy = ProxyManager.ProxyManager().get()
-    print(proxy)
     return proxy
 
 @app.route('/delete/', methods=['GET'])
@@ -68,4 +68,8 @@ def run():
     app.run(host='0.0.0.0', port=5000)
 
 if __name__ == '__main__':
+    # for pid in psutil.pids():
+    #     p = psutil.Process(pid)
+    #     if 'redis' in p.name():
+    #         print(p.name)
     run()

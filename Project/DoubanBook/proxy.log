@@ -3700,3 +3700,5 @@
 2017-06-16 16:09:44,030 DoubanBook.py[line:65] INFO check proxy(61.136.163.247:3128): ProxyError
 2017-06-16 16:09:57,303 DoubanBook.py[line:68] INFO check proxy(121.232.145.83:9000): Timeout
 2017-06-16 16:11:01,901 DoubanBook.py[line:73] INFO check proxy(218.77.83.89:3128): valid
+2017-06-21 09:28:28,647 DoubanBook.py[line:71] INFO check proxy(175.155.25.53:808): RequestException
+2017-06-21 09:28:59,221 DoubanBook.py[line:73] INFO check proxy(119.135.185.99:9999): valid

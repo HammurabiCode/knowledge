@@ -267,7 +267,7 @@ def run():
     if platform.system() == 'Windows':
         print('Windows')
         collect()
-    else:
+    elif platform.system() == 'Linux':
         p1 = Process(target=collect, name='collect')
         p1.start()
 

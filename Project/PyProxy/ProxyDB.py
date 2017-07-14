@@ -13,6 +13,7 @@
 __author__ = 'Hammurabi'
 
 import sys
+import os
 import random
 import redis
 
@@ -49,7 +50,7 @@ class ProxyDB(object):
 
     def unlock(self):
         self.redis_conn.set(__lock_for_write__, 0)
-        print(self.redis_conn.get(__lock_for_write__))
+        # print(self.redis_conn.get(__lock_for_write__))
 
 
     def lockForWrite(self):
@@ -67,11 +68,7 @@ def function():
     pass
 
 def run():
-    db = ProxyDB()
-    if db.lockForWrite():
-        db.add(123)
-        db.unlock()
-    pass
+    os.popen('redis-server')
 
 if __name__ == '__main__':
     run()
